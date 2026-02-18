@@ -13,7 +13,7 @@
     "smoke:live": "bash ./scripts/smoke-live.sh",
     "format": "prettier --write '**/*.{json,js,md,yml}'",
     "pretty-quick": "pretty-quick",
-    "prepublishOnly": "np --no-cleanup --no-publish"
+    "prepublishOnly": "npm test"
   },
   "repository": {
     "type": "git",
@@ -33,25 +33,16 @@
   },
   "homepage": "https://github.com/Mayandev/hacker-feeds-cli#readme",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.13.5",
     "chalk": "^4.1.0",
     "cheerio": "^1.0.0-rc.9",
     "commander": "^6.2.1",
-    "execa": "^5.0.0",
     "inquirer": "^8.1.0",
     "lodash": "^4.17.21",
     "ora": "^5.4.0"
   },
   "devDependencies": {
-    "eslint": "^7.17.0",
-    "husky": "^4.3.7",
     "prettier": "^2.2.1",
-    "pretty-quick": "^3.1.0",
-    "np": "^7.0.0"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "pretty-quick --staged"
-    }
+    "pretty-quick": "^3.1.0"
   }
 }
