@@ -32,6 +32,7 @@ A command line tool for [Hacker News](https://news.ycombinator.com/)、 [Product
 ```bash
 npm test
 npm run smoke
+npm run smoke:live
 ```
 
 ## JSON Output
