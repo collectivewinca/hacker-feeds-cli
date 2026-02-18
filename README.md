@@ -17,12 +17,30 @@ A command line tool for [Hacker News](https://news.ycombinator.com/)、 [Product
 > hfeeds help
 # hf for short
 > hf news
+# JSON output (for automation/chat paste)
+> hf --json github -s daily -l javascript
 # config cli
 > hf config
 # optional: set Product Hunt token
 > hf config --ph-token <token>
 # optional: use env var instead
 > export HF_PRODUCTHUNT_TOKEN=<token>
+```
+
+## JSON Output
+
+Use `--json` before any sub command:
+
+```bash
+hf --json github -s daily -l javascript
+hf --json news -t 5
+hf --json reddit -t popular -s top
+```
+
+To send in chat, paste output inside a fenced block:
+
+```json
+{ "source": "github", "items": [] }
 ```
 
 ![feeds-cli-6](https://mayandev.oss-cn-hangzhou.aliyuncs.com/uPic/feeds-cli-6.png)

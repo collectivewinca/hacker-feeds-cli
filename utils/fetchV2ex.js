@@ -1,16 +1,29 @@
-const axios = require('axios');
-const _ = require('lodash');
 const ora = require('ora');
 const t = require('./i18n');
 const { V2exBaseUrl } = require('../common/const');
 const chalk = require('chalk');
+const { requestWithRetry } = require('./request');
 
-async function fetchV2ex(topic = 'create') {
+async function fetchV2ex(topic = 'create', output = 'text') {
   const url = `${V2exBaseUrl}/api/topics/show.json?node_name=${topic}`;
   const spinner = ora(t('spinner.load')).start();
   try {
-    const { data } = await axios.get(url);
+    const { data = [] } = await requestWithRetry({ url, method: 'GET' });
     spinner.stop();
+    if (output === 'json') {
+      console.log(
+        JSON.stringify(
+          {
+            source: 'v2ex',
+            topic,
+            items: data,
+          },
+          null,
+          2,
+        ),
+      );
+      return data;
+    }
     console.log(
       chalk.cyan(`-----------------------------------------
               🤖️ ${t('v2ex.title')}          

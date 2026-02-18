@@ -64,6 +64,7 @@ const en = {
     configDesc: 'config cli',
     configLang: 'config cli languag, translate content',
     configPhToken: 'set Product Hunt API token',
+    jsonOutput: 'output machine-readable JSON',
     langConfig: 'Please select a language(Default EN): ',
     phTokenConfig: 'Product Hunt token (optional, press enter to skip): ',
     help: 'display help for command',

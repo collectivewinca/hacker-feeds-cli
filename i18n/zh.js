@@ -64,6 +64,7 @@ const zh = {
     configDesc: '配置此命令行',
     configLang: '配置此命令行语言，自动翻译内容',
     configPhToken: '设置 Product Hunt API Token',
+    jsonOutput: '输出机器可读的 JSON',
     langConfig: '请选择一种语言：',
     phTokenConfig: 'Product Hunt Token（可选，直接回车跳过）：',
     help: '显示帮助',

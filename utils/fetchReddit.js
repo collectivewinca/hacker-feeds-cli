@@ -1,17 +1,32 @@
-const axios = require('axios');
 const _ = require('lodash');
 const ora = require('ora');
 const t = require('./i18n');
 const { RedditBaseUrl } = require('../common/const');
 const chalk = require('chalk');
+const { requestWithRetry } = require('./request');
 
-async function fetchReddit(sort = 'hot', topic = 'popular') {
+async function fetchReddit(sort = 'hot', topic = 'popular', output = 'text') {
   const url = `${RedditBaseUrl}/r/${topic}/${sort}.json`;
   const spinner = ora(t('spinner.load')).start();
   try {
-    const { data } = await axios.get(url);
-    const items = _.get(data, 'data.children', []);
+    const { data } = await requestWithRetry({ url, method: 'GET' });
+    const items = _.get(data, 'data.children', []).map(({ data: item }) => item);
     spinner.stop();
+    if (output === 'json') {
+      console.log(
+        JSON.stringify(
+          {
+            source: 'reddit',
+            topic,
+            sort,
+            items,
+          },
+          null,
+          2,
+        ),
+      );
+      return items;
+    }
     console.log(
       chalk.cyan(`-----------------------------------------
               🧬 ${t('reddit.title')}          
@@ -19,9 +34,7 @@ async function fetchReddit(sort = 'hot', topic = 'popular') {
     `),
     );
     items.forEach((item) => {
-      const {
-        data: { title, ups, selftext, num_comments, subreddit, permalink },
-      } = item;
+      const { title, ups, selftext, num_comments, subreddit, permalink } = item;
       console.log(t('reddit.postName'), ': ', chalk.green(title));
       console.log(
         `${t('reddit.comment')}: `,

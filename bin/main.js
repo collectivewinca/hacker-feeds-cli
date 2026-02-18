@@ -12,6 +12,12 @@ const {
   config,
   t,
 } = require('../utils');
+const {
+  isPositiveInt,
+  isNonNegativeInt,
+  isValidSince,
+  isValidRedditSort,
+} = require('../utils/validators');
 
 program.on('--help', () => {
   console.log(
@@ -22,6 +28,8 @@ Example:
 });
 
 // settings
+program.option('--json', t('program.jsonOutput'));
+
 program
   .command('config')
   .description(t('program.configDesc'))
@@ -50,13 +58,13 @@ program
   .option('-s, --since <optional>', t('program.ghSince'))
   .option('-l, --lang <optional>', t('program.ghLang'))
   .action((args) => {
+    const { json } = program.opts();
     const { since = 'daily', lang = '' } = args;
-    const availableSince = ['daily', 'weekly', 'monthly'];
-    if (!availableSince.includes(since)) {
+    if (!isValidSince(since)) {
       console.log(chalk.red(t('program.invalidSince')));
       return;
     }
-    fetchGitHubTrending(since, lang);
+    fetchGitHubTrending(since, lang, json ? 'json' : 'text');
   });
 
 // get hacker news feeds
@@ -65,12 +73,13 @@ program
   .description(t('program.hnDesc'))
   .option('-t, --top <optional>', t('program.hnTop'))
   .action((args) => {
-    const top = Number.parseInt(args.top, 10) || 10;
-    if (top <= 0) {
+    const { json } = program.opts();
+    const topInput = args.top === undefined ? 10 : Number.parseInt(args.top, 10);
+    if (!isPositiveInt(topInput)) {
       console.log(chalk.red(t('program.invalidTop')));
       return;
     }
-    fetchHackerNews(0, top);
+    fetchHackerNews(0, topInput, json ? 'json' : 'text');
   });
 
 // get product hunt feeds
@@ -80,17 +89,18 @@ program
   .option('-c, --count <optional>', t('program.phCount'))
   .option('-p, --past <optional>', t('program.phPast'))
   .action((args) => {
-    const count = Number.parseInt(args.count, 10) || 10;
-    const past = Number.parseInt(args.past, 10) || 0;
-    if (count <= 0) {
+    const { json } = program.opts();
+    const countInput = args.count === undefined ? 10 : Number.parseInt(args.count, 10);
+    const pastInput = args.past === undefined ? 0 : Number.parseInt(args.past, 10);
+    if (!isPositiveInt(countInput)) {
       console.log(chalk.red(t('program.invalidCount')));
       return;
     }
-    if (past < 0) {
+    if (!isNonNegativeInt(pastInput)) {
       console.log(chalk.red(t('program.invalidPast')));
       return;
     }
-    fetchProductHunt(count, past);
+    fetchProductHunt(countInput, pastInput, undefined, json ? 'json' : 'text');
   });
 
 // get v2ex feeds
@@ -99,8 +109,9 @@ program
   .description(t('program.v2ex'))
   .option('-n, --node <optional>', t('program.v2exNode'))
   .action((args) => {
+    const { json } = program.opts();
     const { node } = args;
-    fetchV2ex(node);
+    fetchV2ex(node, json ? 'json' : 'text');
   });
 
 // get reddit feeds
@@ -110,13 +121,13 @@ program
   .option('-t, --topic <optional>', t('program.redditTopic'))
   .option('-s, --sort <optional>', t('program.redditSort'))
   .action((args) => {
+    const { json } = program.opts();
     const { topic, sort } = args;
-    const availableSorts = ['hot', 'new', 'best', 'top'];
-    if (sort && !availableSorts.includes(sort)) {
+    if (sort && !isValidRedditSort(sort)) {
       console.log(chalk.red(t('program.invalidRedditSort')));
       return;
     }
-    fetchReddit(sort, topic);
+    fetchReddit(sort, topic, json ? 'json' : 'text');
   });
 
 program.addHelpCommand('help [command]', t('program.help'));

@@ -1,9 +1,9 @@
-const axios = require('axios');
 const chalk = require('chalk');
 const ora = require('ora');
 const t = require('./i18n');
 const cheerio = require('cheerio');
 const { omitBy, isNil } = require('lodash');
+const { requestWithRetry } = require('./request');
 const GITHUB_URL = 'https://github.com';
 
 function omitNil(object) {
@@ -20,7 +20,9 @@ function removeDefaultAvatarSize(src) {
 
 async function fetchRepositories({ language = '', since = 'daily', spokenLanguage = '' } = {}) {
   const url = `${GITHUB_URL}/trending/${language}?since=${since}&spoken_language_code=${spokenLanguage}`;
-  const { data } = await axios.get(url, {
+  const { data } = await requestWithRetry({
+    url,
+    method: 'GET',
     responseType: 'text',
   });
   const $ = cheerio.load(data);
@@ -91,11 +93,26 @@ async function fetchRepositories({ language = '', since = 'daily', spokenLanguag
   );
 }
 
-async function fetchGitHubTrending(since = 'daily', language = '') {
+async function fetchGitHubTrending(since = 'daily', language = '', output = 'text') {
   const spinner = ora(t('spinner.load')).start();
   try {
     const items = await fetchRepositories({ language, since });
     spinner.stop();
+    if (output === 'json') {
+      console.log(
+        JSON.stringify(
+          {
+            source: 'github',
+            since,
+            language,
+            items,
+          },
+          null,
+          2,
+        ),
+      );
+      return items;
+    }
     console.log(
       chalk.green(`-----------------------------------------
           🐙 ${t('github.title')}          
