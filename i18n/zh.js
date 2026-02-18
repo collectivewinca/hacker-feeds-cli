@@ -25,6 +25,8 @@ const zh = {
     url: '产品介绍',
     website: '产品网址',
     votes: '投票',
+    missingToken:
+      '缺少 Product Hunt Token。请设置 HF_PRODUCTHUNT_TOKEN 或运行：hf config --ph-token <token>',
   },
   reddit: {
     title: 'Reddit 帖子',
@@ -46,7 +48,8 @@ const zh = {
   },
   spinner: {
     load: '数据拉取中...',
-    fail: '程序错误, 你可以发送邮件至 <phillzou@gmail.com> 联系开发者',
+    fail: '请求失败，请检查网络或 API 配置后重试',
+    errorPrefix: '请求错误',
     unUpdate: "数据暂未更新，你可以使用 '-p' 参数查看往日榜单",
   },
   program: {
@@ -60,7 +63,9 @@ const zh = {
     ghLang: '按照编程语言统计',
     configDesc: '配置此命令行',
     configLang: '配置此命令行语言，自动翻译内容',
+    configPhToken: '设置 Product Hunt API Token',
     langConfig: '请选择一种语言：',
+    phTokenConfig: 'Product Hunt Token（可选，直接回车跳过）：',
     help: '显示帮助',
     version: '显示版本号',
     redditDesc: '获取 Reddit 信息列表',
@@ -68,6 +73,11 @@ const zh = {
     redditSort: '排序方式，可支持参数：top，best，new 和 hot，默认为 hot',
     v2ex: '获取 V2EX 信息列表',
     v2exNode: '节点名称: programmer、python、create、macos 等等，默认为 create',
+    invalidSince: '无效的 --since 参数，可选值：daily、weekly、monthly',
+    invalidTop: '无效的 --top 参数，必须是正整数',
+    invalidCount: '无效的 --count 参数，必须是正整数',
+    invalidPast: '无效的 --past 参数，必须大于等于 0',
+    invalidRedditSort: '无效的 --sort 参数，可选值：hot、new、best、top',
   },
   config: {
     saved: '配置成功',

@@ -25,6 +25,8 @@ const en = {
     url: 'Product URL',
     website: 'Website',
     votes: 'Votes',
+    missingToken:
+      'Missing Product Hunt token. Set HF_PRODUCTHUNT_TOKEN or run: hf config --ph-token <token>',
   },
   reddit: {
     title: 'Reddit List',
@@ -46,7 +48,8 @@ const en = {
   },
   spinner: {
     load: 'Fetching feeds...',
-    fail: 'Something error, You can contact the developer. Mail to <phillzou@gmail.com>',
+    fail: 'Request failed. Check network/API settings and try again.',
+    errorPrefix: 'Request error',
     unUpdate: 'The ranking has not yet been updated, you can check the past data.',
   },
   program: {
@@ -60,7 +63,9 @@ const en = {
     ghLang: 'set programing language type',
     configDesc: 'config cli',
     configLang: 'config cli languag, translate content',
+    configPhToken: 'set Product Hunt API token',
     langConfig: 'Please select a language(Default EN): ',
+    phTokenConfig: 'Product Hunt token (optional, press enter to skip): ',
     help: 'display help for command',
     version: 'output the version number',
     redditDesc: 'get reddit post list',
@@ -68,6 +73,11 @@ const en = {
     redditSort: 'top, best, new and hot, default hot',
     v2ex: 'get v2ex post list',
     v2exNode: 'node name: programmer, python, create, macos, etc. Default create',
+    invalidSince: 'Invalid --since value. Use one of: daily, weekly, monthly.',
+    invalidTop: 'Invalid --top value. It must be a positive number.',
+    invalidCount: 'Invalid --count value. It must be a positive number.',
+    invalidPast: 'Invalid --past value. It must be 0 or greater.',
+    invalidRedditSort: 'Invalid --sort value. Use one of: hot, new, best, top.',
   },
   config: {
     saved: 'Config Saved',

@@ -30,7 +30,7 @@ async function fetchHackerNews(start = 0, end = 10) {
       });
     return news;
   } catch (error) {
-    console.log(error);
+    console.log(chalk.red(`${t('spinner.errorPrefix')}: ${error.message}`));
     spinner.fail(t('spinner.fail'));
   }
 }

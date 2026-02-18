@@ -1,7 +1,7 @@
 const axios = require('axios');
 const chalk = require('chalk');
 const ora = require('ora');
-const { PH_ACCESS_TOKEN } = require('../common/config');
+const { getProductHuntAccessToken } = require('../common/config');
 const { ProductHuntBaseUrl } = require('../common/const');
 const { formatDate, getAfterNDayDate, getBeforeNDayDate } = require('./date');
 const t = require('./i18n');
@@ -9,12 +9,17 @@ const t = require('./i18n');
 const defaultDate = formatDate(new Date());
 
 async function fetchProductHunt(count = 10, past = 0, time = defaultDate) {
+  const accessToken = getProductHuntAccessToken();
+  if (!accessToken) {
+    console.log(chalk.red(t('ph.missingToken')));
+    return;
+  }
   const beforeOneDay = getBeforeNDayDate(time, past);
   const afterOneDay = getAfterNDayDate(time, 1);
   const reqOptions = {
     url: ProductHuntBaseUrl,
     headers: {
-      Authorization: `Bearer ${PH_ACCESS_TOKEN}`,
+      Authorization: `Bearer ${accessToken}`,
       Accept: 'application/json',
       'Content-Type': 'application/json',
     },
@@ -69,7 +74,7 @@ async function fetchProductHunt(count = 10, past = 0, time = defaultDate) {
         console.log('----------------------------------------------');
       });
   } catch (error) {
-    console.log(error);
+    console.log(chalk.red(`${t('spinner.errorPrefix')}: ${error.message}`));
     spinner.fail(t('spinner.fail'));
   }
 }

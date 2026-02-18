@@ -1,3 +1,8 @@
-const PH_ACCESS_TOKEN = '<You Access Token>';
+const config = require('../utils/db');
 
-module.exports = { PH_ACCESS_TOKEN };
+function getProductHuntAccessToken() {
+  const fileConfig = config.load();
+  return process.env.HF_PRODUCTHUNT_TOKEN || fileConfig.productHuntToken || '';
+}
+
+module.exports = { getProductHuntAccessToken };

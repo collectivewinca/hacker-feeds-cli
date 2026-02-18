@@ -34,7 +34,7 @@ async function fetchV2ex(topic = 'create') {
     });
     spinner.stop();
   } catch (error) {
-    console.log(error);
+    console.log(chalk.red(`${t('spinner.errorPrefix')}: ${error.message}`));
     spinner.fail(t('spinner.fail'));
   }
 }

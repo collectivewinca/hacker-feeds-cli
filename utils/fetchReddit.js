@@ -40,7 +40,7 @@ async function fetchReddit(sort = 'hot', topic = 'popular') {
     });
     spinner.stop();
   } catch (error) {
-    console.log(error);
+    console.log(chalk.red(`${t('spinner.errorPrefix')}: ${error.message}`));
     spinner.fail(t('spinner.fail'));
   }
 }

@@ -26,13 +26,21 @@ program
   .command('config')
   .description(t('program.configDesc'))
   .option('-l, --lang <optional>', t('program.configLang'))
-  .action(({ args }) => {
-    if (args.length === 0) {
+  .option('-p, --ph-token <optional>', t('program.configPhToken'))
+  .action((options) => {
+    const { lang, phToken } = options;
+    if (!lang && !phToken) {
       setConfig();
       return;
     }
-    const { lang = 'en' } = args;
-    config.write({ lang });
+    const nextConfig = {};
+    if (lang) {
+      nextConfig.lang = lang;
+    }
+    if (phToken) {
+      nextConfig.productHuntToken = phToken;
+    }
+    config.write(nextConfig);
   });
 
 // get github feeds
@@ -43,6 +51,11 @@ program
   .option('-l, --lang <optional>', t('program.ghLang'))
   .action((args) => {
     const { since = 'daily', lang = '' } = args;
+    const availableSince = ['daily', 'weekly', 'monthly'];
+    if (!availableSince.includes(since)) {
+      console.log(chalk.red(t('program.invalidSince')));
+      return;
+    }
     fetchGitHubTrending(since, lang);
   });
 
@@ -52,7 +65,11 @@ program
   .description(t('program.hnDesc'))
   .option('-t, --top <optional>', t('program.hnTop'))
   .action((args) => {
-    const { top = 10 } = args;
+    const top = Number.parseInt(args.top, 10) || 10;
+    if (top <= 0) {
+      console.log(chalk.red(t('program.invalidTop')));
+      return;
+    }
     fetchHackerNews(0, top);
   });
 
@@ -63,7 +80,16 @@ program
   .option('-c, --count <optional>', t('program.phCount'))
   .option('-p, --past <optional>', t('program.phPast'))
   .action((args) => {
-    const { past = 0, count = 10 } = args;
+    const count = Number.parseInt(args.count, 10) || 10;
+    const past = Number.parseInt(args.past, 10) || 0;
+    if (count <= 0) {
+      console.log(chalk.red(t('program.invalidCount')));
+      return;
+    }
+    if (past < 0) {
+      console.log(chalk.red(t('program.invalidPast')));
+      return;
+    }
     fetchProductHunt(count, past);
   });
 
@@ -85,6 +111,11 @@ program
   .option('-s, --sort <optional>', t('program.redditSort'))
   .action((args) => {
     const { topic, sort } = args;
+    const availableSorts = ['hot', 'new', 'best', 'top'];
+    if (sort && !availableSorts.includes(sort)) {
+      console.log(chalk.red(t('program.invalidRedditSort')));
+      return;
+    }
     fetchReddit(sort, topic);
   });
 
@@ -100,8 +131,7 @@ if (!process.argv.slice(2).length) {
 }
 
 async function setConfig() {
-  // inquire for a api link
-  const { lang } = await inquirer.prompt([
+  const { lang, productHuntToken } = await inquirer.prompt([
     {
       type: 'list',
       message: t('program.langConfig'),
@@ -111,6 +141,15 @@ async function setConfig() {
         { name: 'ZH（简体中文）', value: 'zh' },
       ],
     },
+    {
+      type: 'input',
+      message: t('program.phTokenConfig'),
+      name: 'productHuntToken',
+    },
   ]);
-  config.write({ lang });
+  const updates = { lang };
+  if (productHuntToken) {
+    updates.productHuntToken = productHuntToken;
+  }
+  config.write(updates);
 }

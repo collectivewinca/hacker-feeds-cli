@@ -119,7 +119,7 @@ async function fetchGitHubTrending(since = 'daily', language = '') {
       console.log(chalk.cyan(`-----------------------------------------`));
     });
   } catch (e) {
-    console.log(e);
+    console.log(chalk.red(`${t('spinner.errorPrefix')}: ${e.message}`));
     spinner.fail(t('spinner.fail'));
   }
 }

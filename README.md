@@ -19,6 +19,10 @@ A command line tool for [Hacker News](https://news.ycombinator.com/)、 [Product
 > hf news
 # config cli
 > hf config
+# optional: set Product Hunt token
+> hf config --ph-token <token>
+# optional: use env var instead
+> export HF_PRODUCTHUNT_TOKEN=<token>
 ```
 
 ![feeds-cli-6](https://mayandev.oss-cn-hangzhou.aliyuncs.com/uPic/feeds-cli-6.png)
@@ -54,7 +58,7 @@ ping www.reddit.com
 Input sub-command `config` to config cli language.
 
 ```bash
-> feeds config
+> hf config
 ? Please select a language(Default EN):  (Use arrow keys)
   EN（English）
 ❯ ZH（简体中文）
@@ -77,4 +81,3 @@ Input sub-command `config` to config cli language.
 - [GitHub Trending API](https://github.com/huchenme/github-trending-api)
 - [Reddit API](https://www.reddit.com/dev/api/)
 - [V2EX API](https://v2ex.com/p/7v9TEc53)
-

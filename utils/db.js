@@ -22,7 +22,7 @@ const config = {
     const t = require('./i18n');
     const originOptions = await config.load(path);
     const mergedOptions = { ...originOptions, ...options };
-    const content = JSON.stringify(mergedOptions);
+    const content = JSON.stringify(mergedOptions, null, 2);
     try {
       fs.writeFileSync(path, content);
       console.log(chalk.green(`✅ ${t('config.saved')}!`));
