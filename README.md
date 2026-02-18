@@ -27,6 +27,13 @@ A command line tool for [Hacker News](https://news.ycombinator.com/)、 [Product
 > export HF_PRODUCTHUNT_TOKEN=<token>
 ```
 
+## Local Checks
+
+```bash
+npm test
+npm run smoke
+```
+
 ## JSON Output
 
 Use `--json` before any sub command:
