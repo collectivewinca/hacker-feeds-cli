@@ -1,0 +1,42 @@
+name: Daily Wiki Results
+
+on:
+  schedule:
+    - cron: '15 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Generate daily results and rebuild HTML
+        env:
+          HF_PRODUCTHUNT_TOKEN: ${{ secrets.HF_PRODUCTHUNT_TOKEN }}
+        run: bash wiki-results/scripts/generate-daily-results.sh
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add wiki-results/raw wiki-results/wiki-html
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: daily wiki results update"
+          git push

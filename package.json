@@ -14,7 +14,8 @@
     "format": "prettier --write '**/*.{json,js,md,yml}'",
     "pretty-quick": "pretty-quick",
     "prepublishOnly": "npm test",
-    "build:wiki": "node wiki-results/scripts/build-wiki-html.js"
+    "build:wiki": "node wiki-results/scripts/build-wiki-html.js",
+    "generate:daily": "bash wiki-results/scripts/generate-daily-results.sh"
   },
   "repository": {
     "type": "git",

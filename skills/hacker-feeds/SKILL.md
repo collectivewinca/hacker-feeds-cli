@@ -2,7 +2,7 @@
 name: hacker-feeds
 description: >
   Get trending repos, top stories, and hot posts from GitHub, Hacker News, Reddit,
-  Product Hunt, and V2EX. Use when the user asks about trending tech, top stories,
+  Product Hunt, V2EX, Dev.to, Lobsters, and Echo JS. Use when the user asks about trending tech, top stories,
   what's new on HN, developer news, popular repos, or hot posts. Triggers on phrases
   like "what's trending", "top stories", "hacker news", "github trending", "show me
   reddit", "product hunt today", "tech news".
@@ -10,7 +10,7 @@ description: >
 
 # Hacker Feeds
 
-Fetch developer news and trending content from 5 sources via the `hf` CLI.
+Fetch developer news and trending content from 8 sources via the `hf` CLI.
 
 ## Quick Reference
 
@@ -20,6 +20,9 @@ hf --json news    -t 5                       # Hacker News top N stories
 hf --json reddit  -t popular -s hot          # Reddit (hot/new/top/rising)
 hf --json product -c 5                       # Product Hunt top N (requires token)
 hf --json v2ex    -n hot                     # V2EX (hot/create/tech nodes)
+hf --json devto   -t ai -s top -c 5          # Dev.to (tag + sort + count)
+hf --json lobsters -s hottest -c 5           # Lobsters (hottest/newest/active)
+hf --json echojs  -s latest -c 5             # Echo JS (latest/top)
 ```
 
 Always use `--json` for structured output. Parse the JSON and format as tables.
@@ -201,3 +204,39 @@ When the user doesn't specify details, use sensible defaults:
 - If a feed times out or returns empty: report which feed failed, show results from others
 - If `hf` is not installed: tell the user to run `npm i -g hacker-feeds-cli`
 - If Product Hunt has no token: skip it silently in multi-feed mode, explain in single-feed mode
+
+
+### Dev.to
+
+```bash
+hf --json devto [-t <tag>] [-s <sort>] [-c <count>]
+```
+
+| Flag | Values | Default |
+|------|--------|---------|
+| `-t, --tag` | Any tag (e.g. `ai`, `javascript`) | none |
+| `-s, --sort` | `top`, `hot`, `newest` | `top` |
+| `-c, --count` | Number of posts | 10 |
+
+### Lobsters
+
+```bash
+hf --json lobsters [-s <sort>] [-t <tag>] [-c <count>]
+```
+
+| Flag | Values | Default |
+|------|--------|---------|
+| `-s, --sort` | `hottest`, `newest`, `active` | `hottest` |
+| `-t, --tag` | Any Lobsters tag | none |
+| `-c, --count` | Number of posts | 10 |
+
+### Echo JS
+
+```bash
+hf --json echojs [-s <sort>] [-c <count>]
+```
+
+| Flag | Values | Default |
+|------|--------|---------|
+| `-s, --sort` | `latest`, `top` | `latest` |
+| `-c, --count` | Number of posts | 10 |
