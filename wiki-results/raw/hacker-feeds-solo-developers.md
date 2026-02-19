@@ -1,6 +1,6 @@
 # Hacker Feeds Outcomes - Solo Developers
 
-Generated on: 2026-02-19 02:34:25 UTC
+Generated on: 2026-02-19 07:15:48 UTC
 
 Runtime note: executed with NODE_OPTIONS=--require /tmp/hf-polyfill.js
 
@@ -30,8 +30,8 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
       "desc": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 3684,
-      "forks": 232,
+      "stars": 3704,
+      "forks": 233,
       "added_stars": 1971,
       "builtBy": [
         {
@@ -69,8 +69,8 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
       "desc": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8792,
-      "forks": 1208,
+      "stars": 8828,
+      "forks": 1209,
       "added_stars": 1900,
       "builtBy": [
         {
@@ -108,8 +108,8 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
       "desc": "Chrome DevTools for coding agents",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 25915,
-      "forks": 1524,
+      "stars": 25947,
+      "forks": 1526,
       "added_stars": 2113,
       "builtBy": [
         {
@@ -142,7 +142,7 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
       "desc": "Generative UI SDK for React",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 10711,
+      "stars": 10725,
       "forks": 519,
       "added_stars": 2257,
       "builtBy": [
@@ -176,8 +176,8 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
       "desc": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 13528,
-      "forks": 1368,
+      "stars": 13599,
+      "forks": 1374,
       "added_stars": 2812,
       "builtBy": [
         {
@@ -210,8 +210,8 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
       "desc": "The memory-first coding agent",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1577,
-      "forks": 159,
+      "stars": 1582,
+      "forks": 160,
       "added_stars": 555,
       "builtBy": [
         {
@@ -244,8 +244,8 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
       "desc": "Database diagrams editor that allows you to visualize and design your DB with a single query.",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21272,
-      "forks": 1265,
+      "stars": 21275,
+      "forks": 1266,
       "added_stars": 156,
       "builtBy": [
         {
@@ -283,8 +283,8 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
       "desc": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9450,
-      "forks": 617,
+      "stars": 9461,
+      "forks": 619,
       "added_stars": 934,
       "builtBy": [
         {
@@ -317,8 +317,8 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
       "desc": "Official Claude Code compound engineering plugin",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9189,
-      "forks": 723,
+      "stars": 9199,
+      "forks": 724,
       "added_stars": 825,
       "builtBy": [
         {
@@ -390,8 +390,8 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
       "desc": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 83688,
-      "forks": 6077,
+      "stars": 83745,
+      "forks": 6081,
       "added_stars": 2170,
       "builtBy": [
         {
@@ -429,8 +429,8 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
       "desc": "Open Cyber Threat Intelligence Platform",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8707,
-      "forks": 1243,
+      "stars": 8759,
+      "forks": 1246,
       "added_stars": 408,
       "builtBy": [
         {
@@ -487,8 +487,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "lang": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4105,
-      "forks": 330,
+      "stars": 4126,
+      "forks": 332,
       "added_stars": 3536,
       "builtBy": [
         {
@@ -526,8 +526,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "lang": "Go",
       "languageColor": "#00ADD8",
-      "stars": 162872,
-      "forks": 14611,
+      "stars": 162894,
+      "forks": 14610,
       "added_stars": 3555,
       "builtBy": [
         {
@@ -565,7 +565,7 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "A tool for secrets management, encryption as a service, and privileged access management",
       "lang": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35056,
+      "stars": 35058,
       "forks": 4598,
       "added_stars": 1272,
       "builtBy": [
@@ -604,8 +604,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "Gas Town - multi-agent workspace manager",
       "lang": "Go",
       "languageColor": "#00ADD8",
-      "stars": 9725,
-      "forks": 751,
+      "stars": 9735,
+      "forks": 752,
       "added_stars": 5354,
       "builtBy": [
         {
@@ -643,8 +643,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
       "lang": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22681,
-      "forks": 1109,
+      "stars": 22694,
+      "forks": 1110,
       "added_stars": 1576,
       "builtBy": [
         {
@@ -683,7 +683,7 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "lang": "Go",
       "languageColor": "#00ADD8",
       "stars": 10754,
-      "forks": 9970,
+      "forks": 9973,
       "added_stars": 75,
       "builtBy": [
         {
@@ -721,7 +721,7 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "lang": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1826,
+      "stars": 1830,
       "forks": 395,
       "added_stars": 1048,
       "builtBy": [
@@ -760,7 +760,7 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "lang": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15254,
+      "stars": 15258,
       "forks": 1894,
       "added_stars": 1906,
       "builtBy": [
@@ -794,8 +794,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "lang": "Go",
       "languageColor": "#00ADD8",
-      "stars": 31993,
-      "forks": 2950,
+      "stars": 32001,
+      "forks": 2951,
       "added_stars": 1037,
       "builtBy": [
         {
@@ -828,7 +828,7 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "MCP server for Grafana",
       "lang": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2324,
+      "stars": 2327,
       "forks": 263,
       "added_stars": 198,
       "builtBy": [
@@ -857,8 +857,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "GitHub’s official command line tool",
       "lang": "Go",
       "languageColor": "#00ADD8",
-      "stars": 42570,
-      "forks": 7950,
+      "stars": 42584,
+      "forks": 7953,
       "added_stars": 569,
       "builtBy": [
         {
@@ -896,8 +896,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "Beads - A memory upgrade for your coding agent",
       "lang": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16652,
-      "forks": 1006,
+      "stars": 16666,
+      "forks": 1009,
       "added_stars": 5828,
       "builtBy": [
         {
@@ -969,8 +969,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "The to-do app to organize your life.",
       "lang": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3350,
-      "forks": 310,
+      "stars": 3351,
+      "forks": 309,
       "added_stars": 293,
       "builtBy": [
         {
@@ -1003,8 +1003,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "An open source, self-hosted implementation of the Tailscale control server",
       "lang": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35523,
-      "forks": 1906,
+      "stars": 35534,
+      "forks": 1905,
       "added_stars": 1206,
       "builtBy": [
         {
@@ -1037,7 +1037,7 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "Style definitions for nice terminal layouts 👄",
       "lang": "Go",
       "languageColor": "#00ADD8",
-      "stars": 10585,
+      "stars": 10586,
       "forks": 310,
       "added_stars": 239,
       "builtBy": [
@@ -1144,7 +1144,7 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "A powerful little TUI framework 🏗",
       "lang": "Go",
       "languageColor": "#00ADD8",
-      "stars": 39576,
+      "stars": 39584,
       "forks": 1094,
       "added_stars": 1236,
       "builtBy": [
@@ -1178,7 +1178,7 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "The easiest, most secure way to use WireGuard and 2FA.",
       "lang": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28459,
+      "stars": 28473,
       "forks": 2289,
       "added_stars": 1190,
       "builtBy": [
@@ -1217,7 +1217,7 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "lang": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3174,
+      "stars": 3176,
       "forks": 431,
       "added_stars": 492,
       "builtBy": [
@@ -1264,7 +1264,7 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "lang": "Python",
       "languageColor": "#3572A5",
-      "stars": 15521,
+      "stars": 15537,
       "forks": 1124,
       "added_stars": 10034,
       "builtBy": [
@@ -1293,7 +1293,7 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "Skills Catalog for Codex",
       "lang": "Python",
       "languageColor": "#3572A5",
-      "stars": 8943,
+      "stars": 8962,
       "forks": 499,
       "added_stars": 7232,
       "builtBy": [
@@ -1332,8 +1332,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "Public repository for Agent Skills",
       "lang": "Python",
       "languageColor": "#3572A5",
-      "stars": 71514,
-      "forks": 7290,
+      "stars": 71601,
+      "forks": 7300,
       "added_stars": 27403,
       "builtBy": [
         {
@@ -1371,8 +1371,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "Kimi Code CLI is your next CLI agent.",
       "lang": "Python",
       "languageColor": "#3572A5",
-      "stars": 6481,
-      "forks": 620,
+      "stars": 6483,
+      "forks": 621,
       "added_stars": 2627,
       "builtBy": [
         {
@@ -1405,7 +1405,7 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
       "lang": "Python",
       "languageColor": "#3572A5",
-      "stars": 5215,
+      "stars": 5217,
       "forks": 367,
       "added_stars": 2827,
       "builtBy": [
@@ -1444,7 +1444,7 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
       "lang": "Python",
       "languageColor": "#3572A5",
-      "stars": 9393,
+      "stars": 9403,
       "forks": 723,
       "added_stars": 4636,
       "builtBy": [
@@ -1478,8 +1478,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "Fully automatic censorship removal for language models",
       "lang": "Python",
       "languageColor": "#3572A5",
-      "stars": 8060,
-      "forks": 813,
+      "stars": 8151,
+      "forks": 821,
       "added_stars": 3621,
       "builtBy": [
         {
@@ -1517,8 +1517,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "Official inference framework for 1-bit LLMs",
       "lang": "Python",
       "languageColor": "#3572A5",
-      "stars": 28505,
-      "forks": 2332,
+      "stars": 28510,
+      "forks": 2334,
       "added_stars": 2821,
       "builtBy": [
         {
@@ -1556,8 +1556,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
       "lang": "Python",
       "languageColor": "#3572A5",
-      "stars": 31019,
-      "forks": 3821,
+      "stars": 31022,
+      "forks": 3822,
       "added_stars": 2305,
       "builtBy": [
         {
@@ -1595,7 +1595,7 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "Master Claude Code Hooks",
       "lang": "Python",
       "languageColor": "#3572A5",
-      "stars": 3079,
+      "stars": 3080,
       "forks": 554,
       "added_stars": 1010,
       "builtBy": [
@@ -1619,8 +1619,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "lang": "Python",
       "languageColor": "#3572A5",
-      "stars": 33071,
-      "forks": 2208,
+      "stars": 33117,
+      "forks": 2210,
       "added_stars": 11256,
       "builtBy": [
         {
@@ -1646,6 +1646,45 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       ]
     },
     {
+      "author": "Shubhamsaboo",
+      "repo": "awesome-llm-apps",
+      "avatar": "https://github.com/Shubhamsaboo.png",
+      "repo_link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "desc": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 95972,
+      "forks": 13920,
+      "added_stars": 8068,
+      "builtBy": [
+        {
+          "username": "Shubhamsaboo",
+          "href": "https://github.com/Shubhamsaboo",
+          "avatar": "https://avatars.githubusercontent.com/u/31396011"
+        },
+        {
+          "username": "Madhuvod",
+          "href": "https://github.com/Madhuvod",
+          "avatar": "https://avatars.githubusercontent.com/u/124294538"
+        },
+        {
+          "username": "libw0430",
+          "href": "https://github.com/libw0430",
+          "avatar": "https://avatars.githubusercontent.com/u/102198332"
+        },
+        {
+          "username": "awesomekoder",
+          "href": "https://github.com/awesomekoder",
+          "avatar": "https://avatars.githubusercontent.com/u/258367783"
+        },
+        {
+          "username": "AndrewHoh",
+          "href": "https://github.com/AndrewHoh",
+          "avatar": "https://avatars.githubusercontent.com/u/774516"
+        }
+      ]
+    },
+    {
       "author": "microsoft",
       "repo": "agent-lightning",
       "avatar": "https://github.com/microsoft.png",
@@ -1653,8 +1692,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "The absolute trainer to light up AI agents.",
       "lang": "Python",
       "languageColor": "#3572A5",
-      "stars": 14989,
-      "forks": 1272,
+      "stars": 15000,
+      "forks": 1273,
       "added_stars": 4714,
       "builtBy": [
         {
@@ -1687,8 +1726,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "lang": "Python",
       "languageColor": "#3572A5",
-      "stars": 35753,
-      "forks": 3476,
+      "stars": 35792,
+      "forks": 3480,
       "added_stars": 14735,
       "builtBy": [
         {
@@ -1726,7 +1765,7 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads",
       "lang": "Python",
       "languageColor": "#3572A5",
-      "stars": 1857,
+      "stars": 1863,
       "forks": 223,
       "added_stars": 1080,
       "builtBy": [
@@ -1765,8 +1804,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "NanoGPT (124M) in 2 minutes",
       "lang": "Python",
       "languageColor": "#3572A5",
-      "stars": 4646,
-      "forks": 630,
+      "stars": 4647,
+      "forks": 631,
       "added_stars": 505,
       "builtBy": [
         {
@@ -1804,8 +1843,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "Bash is all you need. A nano Claude Code–like agent, built from 0 to 1",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 17225,
-      "forks": 3638,
+      "stars": 17231,
+      "forks": 3642,
       "added_stars": 2765,
       "builtBy": [
         {
@@ -1843,7 +1882,7 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "desc": "MCP server for Atlassian tools (Confluence, Jira)",
       "lang": "Python",
       "languageColor": "#3572A5",
-      "stars": 4310,
+      "stars": 4311,
       "forks": 923,
       "added_stars": 315,
       "builtBy": [
@@ -1882,10 +1921,24 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
   "sort": "latest",
   "items": [
     {
+      "title": "Window Tinting McAllen, TX | Tint-On-Wheels",
+      "url": "https://tintonwheels.info/",
+      "upvotes": "1",
+      "comments": "1",
+      "created": "2026-02-19T06:45:40.000Z"
+    },
+    {
+      "title": "20 Design Reference Platforms Beyond Dribbble",
+      "url": "https://jsdevspace.substack.com/p/20-design-reference-platforms-beyond",
+      "upvotes": "1",
+      "comments": "0",
+      "created": "2026-02-19T06:15:16.000Z"
+    },
+    {
       "title": "Mini Logo interpreter in ~120 lines of pure JS",
       "url": "https://slicker.me/javascript/logo/logo_interpreter.htm",
       "upvotes": "4",
-      "comments": "1",
+      "comments": "2",
       "created": "2026-02-18T04:01:03.000Z"
     },
     {
@@ -1936,20 +1989,6 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "upvotes": "1",
       "comments": "0",
       "created": "2026-02-10T22:23:40.000Z"
-    },
-    {
-      "title": "UEFI Bindings for JavaScript (Proof of Concept)",
-      "url": "https://codeberg.org/smnx/promethee",
-      "upvotes": "1",
-      "comments": "0",
-      "created": "2026-02-09T21:13:24.000Z"
-    },
-    {
-      "title": "browser-use for Node.js v0.2.0 — TypeScript AI browser automation with parity to Python browser-use v0.5.11",
-      "url": "https://github.com/webllm/browser-use",
-      "upvotes": "1",
-      "comments": "1",
-      "created": "2026-02-07T13:08:44.000Z"
     }
   ]
 }
@@ -1977,8 +2016,8 @@ node bin/main.js --json devto -s top -c 10 ; node bin/main.js --json lobsters -s
       "description": "Hey everyone,  I have some massive news to share today, and I couldn't be more excited to finally...",
       "url": "https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd",
       "tags": "news, devto, hackathon, discuss",
-      "reactions": 243,
-      "comments": 50,
+      "reactions": 256,
+      "comments": 56,
       "reading_time": 6,
       "author": "ben"
     },
@@ -1987,8 +2026,8 @@ node bin/main.js --json devto -s top -c 10 ; node bin/main.js --json lobsters -s
       "description": "I have some big news to share today: Major League Hacking has acquired DEV (dev.to), the developer...",
       "url": "https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65",
       "tags": "discuss, news, ai, programming",
-      "reactions": 63,
-      "comments": 14,
+      "reactions": 64,
+      "comments": 15,
       "reading_time": 4,
       "author": "jonmarkgo"
     },
@@ -1997,10 +2036,20 @@ node bin/main.js --json devto -s top -c 10 ; node bin/main.js --json lobsters -s
       "description": "We are currently living through the greatest inflation of software in history.  With the AI tools we...",
       "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
       "tags": "softwareengineering, career, productivity, discuss",
-      "reactions": 49,
-      "comments": 37,
+      "reactions": 50,
+      "comments": 42,
       "reading_time": 2,
       "author": "the_nortern_dev"
+    },
+    {
+      "title": "Introducing Our Next DEV Education Track: \"Build Multi-Agent Systems with ADK\"",
+      "description": "Hundreds of developers have already completed our first DEV Education Track, and today we're excited...",
+      "url": "https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8",
+      "tags": "agents, gemini, ai, buildmultiagents",
+      "reactions": 90,
+      "comments": 9,
+      "reading_time": 3,
+      "author": "jess"
     },
     {
       "title": "Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side",
@@ -2017,7 +2066,7 @@ node bin/main.js --json devto -s top -c 10 ; node bin/main.js --json lobsters -s
       "description": "I have a confession to make.  Up until now, I wasn’t that much into “vibe coding.” I used AI all the...",
       "url": "https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52",
       "tags": "antigravity, ai, gemini, googlecloud",
-      "reactions": 14,
+      "reactions": 15,
       "comments": 0,
       "reading_time": 4,
       "author": "shirmeirlador"
@@ -2027,20 +2076,10 @@ node bin/main.js --json devto -s top -c 10 ; node bin/main.js --json lobsters -s
       "description": "Does writing still matter? Does anyone still care? I care. I write. Because it matters.  \"Still\"...",
       "url": "https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac",
       "tags": "writing, ai, watercooler, nanobanana",
-      "reactions": 18,
+      "reactions": 19,
       "comments": 0,
       "reading_time": 9,
       "author": "ingosteinke"
-    },
-    {
-      "title": "Introducing Our Next DEV Education Track: \"Build Multi-Agent Systems with ADK\"",
-      "description": "Hundreds of developers have already completed our first DEV Education Track, and today we're excited...",
-      "url": "https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8",
-      "tags": "agents, gemini, ai, buildmultiagents",
-      "reactions": 89,
-      "comments": 9,
-      "reading_time": 3,
-      "author": "jess"
     },
     {
       "title": "Can you order a pizza on my site? ❌ 99% Can't 😤",
@@ -2081,10 +2120,40 @@ node bin/main.js --json devto -s top -c 10 ; node bin/main.js --json lobsters -s
   "tag": null,
   "items": [
     {
+      "title": "Monitoring Data-Dependent Temporal Patterns",
+      "url": "https://imiron.io/post/fotl/",
+      "score": 1,
+      "comments": 0,
+      "tags": [
+        "formalmethods"
+      ],
+      "id": "fe3ecz"
+    },
+    {
+      "title": "C++26: std::is_within_lifetime",
+      "url": "https://www.sandordargo.com/blog/2026/02/18/cpp26-std_is_within_lifetime",
+      "score": 5,
+      "comments": 0,
+      "tags": [
+        "c++"
+      ],
+      "id": "j73dzq"
+    },
+    {
+      "title": "Full Disclosure of Security Vulnerabilities a 'Damned Good Idea' (2007)",
+      "url": "https://www.schneier.com/essays/archives/2007/01/schneier_full_disclo.html",
+      "score": 1,
+      "comments": 0,
+      "tags": [
+        "security"
+      ],
+      "id": "hn4w0f"
+    },
+    {
       "title": "how openai, the US government, and persona built an identity surveillance machine that files reports on you to the feds",
       "url": "https://vmfunc.re/blog/persona/",
-      "score": 8,
-      "comments": 3,
+      "score": 35,
+      "comments": 4,
       "tags": [
         "reversing",
         "security"
@@ -2104,17 +2173,19 @@ node bin/main.js --json devto -s top -c 10 ; node bin/main.js --json lobsters -s
     {
       "title": "Ditching Discord",
       "url": "https://wiki.alopex.li/DitchingDiscord",
-      "score": 12,
-      "comments": 2,
+      "score": 52,
+      "comments": 14,
       "tags": [
-        "networking"
+        "culture",
+        "practices",
+        "privacy"
       ],
       "id": "qvjp07"
     },
     {
       "title": "CEL by Example",
       "url": "https://celbyexample.com",
-      "score": 3,
+      "score": 6,
       "comments": 0,
       "tags": [
         "programming"
@@ -2124,7 +2195,7 @@ node bin/main.js --json devto -s top -c 10 ; node bin/main.js --json lobsters -s
     {
       "title": "Self-hosting my websites using bootable containers",
       "url": "https://yorickpeterse.com/articles/self-hosting-my-websites-using-bootable-containers/",
-      "score": 2,
+      "score": 3,
       "comments": 0,
       "tags": [
         "devops",
@@ -2135,7 +2206,7 @@ node bin/main.js --json devto -s top -c 10 ; node bin/main.js --json lobsters -s
     {
       "title": "Rust on CHERIoT: Status update #0",
       "url": "https://rust.cheriot.org/2026/02/15/status-update.html",
-      "score": 3,
+      "score": 7,
       "comments": 0,
       "tags": [
         "compilers",
@@ -2147,42 +2218,11 @@ node bin/main.js --json devto -s top -c 10 ; node bin/main.js --json lobsters -s
       "title": "Top 20 worldwide with social-engineering and a cheat that's still undetected",
       "url": "https://ud2.rip/blog/vsrg/",
       "score": 3,
-      "comments": 1,
+      "comments": 2,
       "tags": [
         "games"
       ],
       "id": "shh36u"
-    },
-    {
-      "title": "Bashtorio - Unix Pipe Factory",
-      "url": "https://bashtorio.xyz/",
-      "score": 1,
-      "comments": 0,
-      "tags": [
-        "games",
-        "unix"
-      ],
-      "id": "fb6ssd"
-    },
-    {
-      "title": "Analysis of reported issues in vodozemac",
-      "url": "https://matrix.org/blog/2026/02/analysis-of-reported-issues-in-vodozemac/",
-      "score": 1,
-      "comments": 0,
-      "tags": [
-        "cryptography"
-      ],
-      "id": "e8ibyr"
-    },
-    {
-      "title": "Why I don't think AGI is imminent",
-      "url": "https://dlants.me/agi-not-imminent.html",
-      "score": 9,
-      "comments": 0,
-      "tags": [
-        "vibecoding"
-      ],
-      "id": "rrlcfb"
     }
   ]
 }
@@ -2191,303 +2231,343 @@ node bin/main.js --json devto -s top -c 10 ; node bin/main.js --json lobsters -s
   "source": "hackernews",
   "items": [
     {
+      "by": "puppion",
+      "descendants": 89,
+      "id": 47070142,
+      "kids": [
+        47070465,
+        47070715,
+        47070388,
+        47070421,
+        47070782,
+        47070405,
+        47070443,
+        47070467,
+        47070544,
+        47070383,
+        47070572,
+        47070394,
+        47070582,
+        47070617,
+        47070542,
+        47070419
+      ],
+      "score": 147,
+      "time": 1771477657,
+      "title": "European Tech Alternatives",
+      "type": "story",
+      "url": "https://eutechmap.com/map"
+    },
+    {
       "by": "zdw",
-      "descendants": 172,
+      "descendants": 232,
       "id": 47066552,
       "kids": [
-        47067871,
         47067188,
+        47070303,
         47067519,
-        47067464,
-        47068994,
+        47067205,
         47067287,
+        47070315,
+        47069511,
+        47067464,
+        47070352,
+        47067568,
         47067247,
         47067413,
+        47067044,
+        47070611,
+        47067104,
         47068339,
         47068071,
-        47067568,
-        47067660,
         47067424,
-        47068121,
-        47067044,
+        47069308,
         47067367,
-        47067104,
-        47069016,
-        47067437,
-        47067366,
-        47068153,
+        47068121,
         47067158,
+        47067437,
+        47069334,
+        47070490,
+        47067660,
+        47068994,
+        47067366,
+        47069328,
+        47067871,
         47067124,
-        47067205,
+        47067134,
+        47067786,
+        47069899,
         47067167,
         47067281,
-        47067134,
         47067150,
+        47069016,
         47068022,
         47067382,
         47067163,
-        47068072,
+        47068153,
         47067401,
         47067283,
         47067170,
+        47068072,
         47067126,
-        47067786,
         47068986
       ],
-      "score": 294,
+      "score": 452,
       "time": 1771449500,
       "title": "Sizing chaos",
       "type": "story",
       "url": "https://pudding.cool/2026/02/womens-sizing/"
     },
     {
-      "by": "thewavelength",
-      "descendants": 149,
-      "id": 47067678,
-      "kids": [
-        47068856,
-        47067890,
-        47068035,
-        47069150,
-        47068488,
-        47067830,
-        47067885,
-        47068002,
-        47069073,
-        47068031,
-        47068967,
-        47067758,
-        47068657,
-        47068256,
-        47068814,
-        47068456
-      ],
-      "score": 196,
-      "time": 1771456118,
-      "title": "Ladybird: Closing this as we are no longer pursuing Swift adoption",
-      "type": "story",
-      "url": "https://github.com/LadybirdBrowser/ladybird/issues/933"
-    },
-    {
       "by": "surprisetalk",
-      "descendants": 78,
+      "descendants": 143,
       "id": 47066241,
       "kids": [
         47067816,
         47067622,
-        47069104,
         47067483,
-        47069108,
         47067501,
-        47067239,
+        47069108,
+        47069518,
+        47070614,
         47067442,
+        47067239,
         47067295,
-        47068100,
+        47070463,
+        47070667,
+        47069670,
         47067173,
         47067809,
-        47067742,
+        47068100,
+        47069231,
+        47069104,
+        47070578,
+        47067637,
+        47069349,
         47067383,
         47067515,
-        47067763,
-        47067637,
-        47067264,
-        47067676,
+        47069620,
         47067362,
+        47069310,
+        47067763,
+        47067264,
+        47067742,
+        47067676,
         47067899,
+        47070506,
         47067438
       ],
-      "score": 154,
+      "score": 280,
       "time": 1771448071,
       "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
       "type": "story",
       "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/"
     },
     {
+      "by": "fp64enjoyer",
+      "descendants": 26,
+      "id": 47068890,
+      "kids": [
+        47069424,
+        47069822,
+        47070839,
+        47069802,
+        47069479,
+        47070554,
+        47070612,
+        47070015,
+        47070025
+      ],
+      "score": 82,
+      "time": 1771465567,
+      "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
+      "type": "story",
+      "url": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html"
+    },
+    {
+      "by": "theahura",
+      "descendants": 261,
+      "id": 47069299,
+      "kids": [
+        47070852,
+        47070518,
+        47069629,
+        47069488,
+        47069775,
+        47069726,
+        47069903,
+        47070164,
+        47069643,
+        47070825,
+        47070764,
+        47070531,
+        47070613,
+        47070448,
+        47070449,
+        47070229,
+        47070089,
+        47069719,
+        47070696,
+        47069494,
+        47069667,
+        47069300,
+        47069561,
+        47069483,
+        47070211,
+        47069677,
+        47069649,
+        47069883,
+        47069759,
+        47069916,
+        47069606,
+        47069539,
+        47069720,
+        47069740,
+        47069808,
+        47069570,
+        47070276,
+        47070481,
+        47069697,
+        47069772,
+        47069713,
+        47070400,
+        47069960,
+        47069565,
+        47069766,
+        47070049,
+        47069756,
+        47069495
+      ],
+      "score": 250,
+      "time": 1771469546,
+      "title": "Anthropic officially bans using subscription auth for third party use",
+      "type": "story",
+      "url": "https://code.claude.com/docs/en/legal-and-compliance"
+    },
+    {
       "by": "jfantl",
-      "descendants": 83,
+      "descendants": 108,
       "id": 47064490,
       "kids": [
         47065241,
+        47070040,
         47066342,
+        47069590,
+        47070523,
         47065053,
         47065023,
-        47068424,
-        47067829,
-        47068399,
+        47069971,
         47065778,
         47065865,
-        47068901,
         47065187,
-        47068186,
+        47067829,
+        47068399,
+        47069398,
         47067734,
+        47068186,
         47065571,
         47065159,
+        47068901,
         47065526,
         47065547,
         47066107,
         47066991,
-        47068987,
         47068369,
         47066698,
         47065494,
+        47068987,
         47067620,
         47069109,
+        47068424,
         47066930,
         47066153
       ],
-      "score": 283,
+      "score": 345,
       "time": 1771439842,
       "title": "Cosmologically Unique IDs",
       "type": "story",
       "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/"
     },
     {
-      "by": "sz4kerto",
-      "descendants": 172,
-      "id": 47063005,
+      "by": "kristianp",
+      "descendants": 11,
+      "id": 47069179,
       "kids": [
-        47065206,
-        47063590,
-        47063593,
-        47066760,
-        47067781,
-        47066294,
-        47066809,
-        47067447,
-        47067144,
-        47064620,
-        47067628,
-        47066205,
-        47066755,
-        47064866,
-        47063713,
-        47063775,
-        47064003,
-        47065114,
-        47063781,
-        47064605,
-        47064181,
-        47063757
+        47069184,
+        47069582,
+        47070128,
+        47070629,
+        47070073
       ],
-      "score": 328,
-      "time": 1771433172,
-      "title": "Tailscale Peer Relays is now generally available",
+      "score": 40,
+      "time": 1771468320,
+      "title": "Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act",
       "type": "story",
-      "url": "https://tailscale.com/blog/peer-relays-ga"
-    },
-    {
-      "by": "idoxer",
-      "descendants": 137,
-      "id": 47062748,
-      "kids": [
-        47063074,
-        47066807,
-        47069048,
-        47063053,
-        47069093,
-        47065270,
-        47063206,
-        47068302,
-        47063859,
-        47063587,
-        47065102,
-        47062749,
-        47063165,
-        47063766,
-        47065032,
-        47064265,
-        47062786,
-        47063290,
-        47063106
-      ],
-      "score": 258,
-      "time": 1771432099,
-      "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
-      "type": "story",
-      "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html"
-    },
-    {
-      "by": "todsacerdoti",
-      "descendants": 97,
-      "id": 47064047,
-      "kids": [
-        47069134,
-        47066072,
-        47064841,
-        47067142,
-        47066215,
-        47066365,
-        47068372,
-        47068995,
-        47066673,
-        47069002,
-        47067983,
-        47066751,
-        47066723,
-        47065717,
-        47066157,
-        47066163,
-        47065345,
-        47065810,
-        47065105,
-        47068701,
-        47066303,
-        47065851,
-        47067472,
-        47066106,
-        47065749,
-        47066313,
-        47065308,
-        47067225,
-        47065746
-      ],
-      "score": 202,
-      "time": 1771437853,
-      "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
-      "type": "story",
-      "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html"
-    },
-    {
-      "by": "tuananh",
-      "descendants": 7,
-      "id": 47068948,
-      "kids": [
-        47069168,
-        47069122,
-        47069107,
-        47069173
-      ],
-      "score": 33,
-      "time": 1771466133,
-      "title": "Minecraft Java is switching from OpenGL to Vulkan",
-      "type": "story",
-      "url": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/"
+      "url": "https://static.stepfun.com/blog/step-3.5-flash/"
     },
     {
       "by": "thunderseethe",
-      "descendants": 0,
+      "descendants": 10,
       "id": 47025885,
-      "score": 20,
+      "kids": [
+        47069526,
+        47069377,
+        47070366,
+        47069595
+      ],
+      "score": 82,
       "time": 1771178864,
       "title": "How to Choose Between Hindley-Milner and Bidirectional Typing",
       "type": "story",
       "url": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/"
     },
     {
-      "by": "tosh",
-      "descendants": 9,
-      "id": 47065179,
-      "kids": [
-        47069018,
-        47065658,
-        47067015,
-        47066063
-      ],
-      "score": 59,
-      "time": 1771442939,
-      "title": "R3forth: A concatenative language derived from ColorForth",
+      "by": "murat3ok",
+      "descendants": 0,
+      "id": 47070446,
+      "score": 6,
+      "time": 1771481398,
+      "title": "Stoolap/Node: A Native Node.js Driver That's Surprisingly Fast",
       "type": "story",
-      "url": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md"
+      "url": "https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/"
+    },
+    {
+      "by": "sz4kerto",
+      "descendants": 190,
+      "id": 47063005,
+      "kids": [
+        47065206,
+        47063590,
+        47063593,
+        47070292,
+        47066760,
+        47067447,
+        47066809,
+        47070256,
+        47066294,
+        47067781,
+        47064620,
+        47064866,
+        47067144,
+        47066205,
+        47067628,
+        47066755,
+        47063713,
+        47069237,
+        47063775,
+        47064003,
+        47065114,
+        47063781,
+        47064605,
+        47064181,
+        47070052,
+        47063757
+      ],
+      "score": 381,
+      "time": 1771433172,
+      "title": "Tailscale Peer Relays is now generally available",
+      "type": "story",
+      "url": "https://tailscale.com/blog/peer-relays-ga"
     }
   ]
 }
@@ -2518,20 +2598,30 @@ Request error: Request failed with status code 403
       "description": "We are currently living through the greatest inflation of software in history.  With the AI tools we...",
       "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
       "tags": "softwareengineering, career, productivity, discuss",
-      "reactions": 49,
-      "comments": 37,
+      "reactions": 50,
+      "comments": 42,
       "reading_time": 2,
       "author": "the_nortern_dev"
     },
     {
-      "title": "21. C# (while Loop 2)",
-      "description": "Goal    Ask the user to enter a word If the word length is less than 15 Keep appending...",
-      "url": "https://dev.to/sabin_sim/21-c-while-loop-2-5fd3",
-      "tags": "csharp, programming, learning, career",
-      "reactions": 1,
+      "title": "Final Round AI Alternatives in 2026: What Engineers Should Actually Pay Attention To",
+      "description": "Search for “Final Round AI alternatives”, and you’ll find plenty of comparison posts. Most of them...",
+      "url": "https://dev.to/finalroundai/final-round-ai-alternatives-in-2026-what-engineers-should-actually-pay-attention-to-41oc",
+      "tags": "ai, productivity, career, interview",
+      "reactions": 6,
       "comments": 0,
-      "reading_time": 2,
-      "author": "sabin_sim"
+      "reading_time": 7,
+      "author": "hadil"
+    },
+    {
+      "title": "Software Is About to Get Cheap. Here's What That Actually Means.",
+      "description": "Last week I wrote about AI coming for white-collar jobs. That post was about employment. But there's...",
+      "url": "https://dev.to/maniishbhusal/software-is-about-to-get-cheap-heres-what-that-actually-means-182j",
+      "tags": "ai, saas, webdev, career",
+      "reactions": 0,
+      "comments": 0,
+      "reading_time": 7,
+      "author": "maniishbhusal"
     },
     {
       "title": "One Month Into My Java Journey – Honest Course Feedback",
@@ -2544,14 +2634,24 @@ Request error: Request failed with status code 403
       "author": "kesavarthini"
     },
     {
-      "title": "The LinkedIn Easy Apply Trap: Why 200 Applications Gets You 3 Callbacks",
-      "description": "I'll be honest with you — when I was building SIRA, I kept seeing the same pattern over and over....",
-      "url": "https://dev.to/sira_ai/the-linkedin-easy-apply-trap-why-200-applications-gets-you-3-callbacks-nfo",
-      "tags": "career, resume, beginners, discuss",
+      "title": "How I calculate my minimum hourly rate before every new client",
+      "description": "I've been freelancing for about 6 years. The single biggest mistake I made early on was setting my...",
+      "url": "https://dev.to/mattkallaway/how-i-calculate-my-minimum-hourly-rate-before-every-new-client-2k98",
+      "tags": "career, productivity",
       "reactions": 0,
       "comments": 0,
-      "reading_time": 5,
-      "author": "sira_ai"
+      "reading_time": 3,
+      "author": "mattkallaway"
+    },
+    {
+      "title": "7 Web Development Truths Nobody Tells You (Until It's Too Late)",
+      "description": "Discover the 7 critical web development truths that experienced developers wish they'd learned earlier. From framework choices to performance, accessibility, and testing—lessons that will change how you build for the web.",
+      "url": "https://dev.to/iniyarajan86/7-web-development-truths-nobody-tells-you-until-its-too-late-1l2",
+      "tags": "webdev, javascript, programming, career",
+      "reactions": 0,
+      "comments": 0,
+      "reading_time": 6,
+      "author": "iniyarajan86"
     },
     {
       "title": "In Praise of “Hobbyist Languages”: The Unsung Heroes of Software Development",
@@ -2564,6 +2664,16 @@ Request error: Request failed with status code 403
       "author": "lucianofedericopereira"
     },
     {
+      "title": "The LinkedIn Easy Apply Trap: Why 200 Applications Gets You 3 Callbacks",
+      "description": "I'll be honest with you — when I was building SIRA, I kept seeing the same pattern over and over....",
+      "url": "https://dev.to/sira_ai/the-linkedin-easy-apply-trap-why-200-applications-gets-you-3-callbacks-nfo",
+      "tags": "career, resume, beginners, discuss",
+      "reactions": 0,
+      "comments": 0,
+      "reading_time": 5,
+      "author": "sira_ai"
+    },
+    {
       "title": "[Boost]",
       "description": "Your Plumber Has More Job Security Than You: AI Threat Levels...",
       "url": "https://dev.to/willzmu/-3j8n",
@@ -2574,44 +2684,14 @@ Request error: Request failed with status code 403
       "author": "willzmu"
     },
     {
-      "title": "7 years, no senior. So what?",
-      "description": "7 years ago I started learning to code.  I didn't become a senior at 22. I didn't get into Google. I...",
-      "url": "https://dev.to/whoammi_who_39a247fb5ab0d/7-years-no-senior-so-what-4mb0",
-      "tags": "career, cpp, devjournal, learning",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 3,
-      "author": "whoammi_who_39a247fb5ab0d"
-    },
-    {
-      "title": "The Country of Geniuses That Doesn’t Exist",
-      "description": "Why AI won’t replace white-collar workers anytime soon — and what actually matters for your career.",
-      "url": "https://dev.to/razoorka/the-country-of-geniuses-that-doesnt-exist-5dkh",
-      "tags": "ai, career, productivity, discuss",
-      "reactions": 1,
-      "comments": 0,
-      "reading_time": 6,
-      "author": "razoorka"
-    },
-    {
-      "title": "Tech Background of Abdullah Arafat Issah",
-      "description": "Meet Abdullah Arafat Issah stage name Onlembeh King Black,  a driven IT Support &amp; Networking...",
-      "url": "https://dev.to/jimclinton/tech-background-of-abdullah-arafat-issah-2d0k",
-      "tags": "career, learning, monitoring, networking",
+      "title": "I Deleted 17 Items From My To-Do List. Here Is What Actually Mattered",
+      "description": "I tracked my to-do list for 3 months. The data was humbling.           The experiment   Every day I...",
+      "url": "https://dev.to/sergheipogor/i-deleted-17-items-from-my-to-do-list-here-is-what-actually-mattered-dop",
+      "tags": "productivity, career, beginners, discuss",
       "reactions": 0,
       "comments": 0,
       "reading_time": 1,
-      "author": "jimclinton"
-    },
-    {
-      "title": "5 Most Asked Spring Interview Questions",
-      "description": "✅ 1. What is the Spring Framework and why is it used?  Answer:  Spring is a powerful Java framework...",
-      "url": "https://dev.to/quipoin_a9cb84280f6225b1e/5-most-asked-spring-interview-questions-1hon",
-      "tags": "spring, webdev, career, beginners",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 2,
-      "author": "quipoin_a9cb84280f6225b1e"
+      "author": "sergheipogor"
     }
   ]
 }
