@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Creators Wiki</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <h2 class="brand">Hacker Feeds Wiki</h2>
+      <nav class="nav">
+        <a href="./index.html">Home</a>
+        <a class="active" href="./creators.html">Creators</a>
+        <a href="./solo-developers.html">Solo Developers</a>
+        <a href="./freelancers.html">Freelancers</a>
+      </nav>
+    </aside>
+
+    <main class="content">
+      <section class="card">
+        <h1>Creators Wiki</h1><h2>Goal</h2><p>Identify high-leverage content ideas and narrative angles from live tech feeds.</p><h2>Feed Mix</h2><ul><li>Product Hunt</li><li>Reddit</li><li>Dev.to</li><li>GitHub Trending</li><li>Hacker News</li><li>Lobsters</li></ul><h2>Query Playbook</h2><table><thead><tr><th>#</th><th>Use Case</th><th>Query</th><th>Command</th></tr></thead><tbody><tr><td>1</td><td>Hot themes today</td><td>What content themes are hot today?</td><td><code>hf --json product -c 10 &amp;&amp; hf --json reddit -t popular -s hot &amp;&amp; hf --json devto -s top -c 10</code></td></tr><tr><td>2</td><td>Weekly AI/Web ideas</td><td>What should I make a video/post about this week in AI + web?</td><td><code>hf --json github -s weekly -l javascript &amp;&amp; hf --json devto -t ai -s top -c 10 &amp;&amp; hf --json news -t 10</code></td></tr><tr><td>3</td><td>Launch reaction content</td><td>What products launched that I can review or react to?</td><td><code>hf --json product -c 15 &amp;&amp; hf --json reddit -t startups -s new</code></td></tr><tr><td>4</td><td>Debate-driven talking points</td><td>What talking points are tech people debating right now?</td><td><code>hf --json news -t 12 &amp;&amp; hf --json lobsters -s hottest -c 10</code></td></tr></tbody></table><h2>Publishing Workflow</h2><ol><li>Run one query bundle.</li><li>Pick 3-5 repeated topics across the three sources.</li><li>Draft one short-form post, one thread, one long-form piece.</li><li>Re-run in 24h and update with trend movement.</li></ol><h2>Raw Results</h2><ul><li><a href="../hacker-feeds-creators.md"><code>hacker-feeds-creators.md</code></a></li></ul>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

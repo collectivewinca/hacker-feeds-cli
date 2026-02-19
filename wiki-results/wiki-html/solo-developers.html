@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Solo Developers Wiki</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <h2 class="brand">Hacker Feeds Wiki</h2>
+      <nav class="nav">
+        <a href="./index.html">Home</a>
+        <a href="./creators.html">Creators</a>
+        <a class="active" href="./solo-developers.html">Solo Developers</a>
+        <a href="./freelancers.html">Freelancers</a>
+      </nav>
+    </aside>
+
+    <main class="content">
+      <section class="card">
+        <h1>Solo Developers Wiki</h1><h2>Goal</h2><p>Spot build opportunities, stack momentum, and practical skill priorities.</p><h2>Feed Mix</h2><ul><li>Product Hunt</li><li>GitHub Trending</li><li>Reddit</li><li>Echo JS</li><li>Dev.to</li><li>Lobsters</li><li>Hacker News</li></ul><h2>Query Playbook</h2><table><thead><tr><th>#</th><th>Use Case</th><th>Query</th><th>Command</th></tr></thead><tbody><tr><td>1</td><td>Weekend build demand</td><td>What should I build this weekend that has demand?</td><td><code>hf --json product -c 10 &amp;&amp; hf --json github -s weekly -l typescript &amp;&amp; hf --json reddit -t webdev -s top</code></td></tr><tr><td>2</td><td>Monthly stack direction</td><td>What stack trends should I follow this month?</td><td><code>hf --json github -s monthly -l go &amp;&amp; hf --json github -s monthly -l python &amp;&amp; hf --json echojs -s latest -c 10</code></td></tr><tr><td>3</td><td>What builders are shipping</td><td>What are builders shipping and discussing right now?</td><td><code>hf --json devto -s top -c 10 &amp;&amp; hf --json lobsters -s newest -c 10 &amp;&amp; hf --json news -t 10</code></td></tr><tr><td>4</td><td>Skill roadmap topics</td><td>What practical coding topics should I study next?</td><td><code>hf --json reddit -t programming -s top &amp;&amp; hf --json devto -t career -s top -c 10</code></td></tr></tbody></table><h2>Build Prioritization Workflow</h2><ol><li>Rank ideas by market pull (Product Hunt + Reddit signals).</li><li>Validate technical feasibility via GitHub Trending and HN.</li><li>Choose one idea to ship in 48-72 hours.</li><li>Document and publish build log for feedback loop.</li></ol><h2>Raw Results</h2><ul><li><a href="../hacker-feeds-solo-developers.md"><code>hacker-feeds-solo-developers.md</code></a></li></ul>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

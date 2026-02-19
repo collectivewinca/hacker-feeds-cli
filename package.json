@@ -13,7 +13,8 @@
     "smoke:live": "bash ./scripts/smoke-live.sh",
     "format": "prettier --write '**/*.{json,js,md,yml}'",
     "pretty-quick": "pretty-quick",
-    "prepublishOnly": "npm test"
+    "prepublishOnly": "npm test",
+    "build:wiki": "node wiki-results/scripts/build-wiki-html.js"
   },
   "repository": {
     "type": "git",
