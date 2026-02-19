@@ -3,6 +3,9 @@ const ProductHuntBaseUrl = 'https://api.producthunt.com/v2/api/graphql/';
 const GitHubBaseUrl = 'https://trendings.herokuapp.com/repo';
 const RedditBaseUrl = 'https://www.reddit.com';
 const V2exBaseUrl = 'https://www.v2ex.com';
+const DevtoBaseUrl = 'https://dev.to/api';
+const LobstersBaseUrl = 'https://lobste.rs';
+const EchoJSBaseUrl = 'https://echojs.com';
 const OneDayMillSeconds = 1000 * 60 * 60 * 24;
 
 module.exports = {
@@ -12,4 +15,7 @@ module.exports = {
   GitHubBaseUrl,
   RedditBaseUrl,
   V2exBaseUrl,
+  DevtoBaseUrl,
+  LobstersBaseUrl,
+  EchoJSBaseUrl,
 };

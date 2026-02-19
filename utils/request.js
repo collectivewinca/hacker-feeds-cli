@@ -20,7 +20,7 @@ function shouldRetry(error) {
     return true;
   }
   const status = error.response && error.response.status;
-  return typeof status === 'number' && status >= 500;
+  return typeof status === 'number' && (status === 429 || status >= 500);
 }
 
 async function requestWithRetry(config, options = {}) {

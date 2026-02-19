@@ -5,6 +5,9 @@ const {
   isNonNegativeInt,
   isValidSince,
   isValidRedditSort,
+  isValidDevtoSort,
+  isValidLobstersSort,
+  isValidEchojsSort,
 } = require('../utils/validators');
 
 test('isPositiveInt validates positive integers only', () => {
@@ -35,4 +38,23 @@ test('isValidRedditSort allows supported sorts', () => {
   assert.equal(isValidRedditSort('best'), true);
   assert.equal(isValidRedditSort('top'), true);
   assert.equal(isValidRedditSort('rising'), false);
+});
+
+test('isValidDevtoSort allows supported sorts', () => {
+  assert.equal(isValidDevtoSort('top'), true);
+  assert.equal(isValidDevtoSort('latest'), true);
+  assert.equal(isValidDevtoSort('rising'), true);
+  assert.equal(isValidDevtoSort('hot'), false);
+});
+
+test('isValidLobstersSort allows supported sorts', () => {
+  assert.equal(isValidLobstersSort('hottest'), true);
+  assert.equal(isValidLobstersSort('newest'), true);
+  assert.equal(isValidLobstersSort('top'), false);
+});
+
+test('isValidEchojsSort allows supported sorts', () => {
+  assert.equal(isValidEchojsSort('latest'), true);
+  assert.equal(isValidEchojsSort('top'), true);
+  assert.equal(isValidEchojsSort('hot'), false);
 });

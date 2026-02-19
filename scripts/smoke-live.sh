@@ -55,6 +55,9 @@ run_json_check "github" node bin/main.js --json github -s daily -l javascript
 run_json_check "hackernews" node bin/main.js --json news -t 3
 run_json_check "reddit" node bin/main.js --json reddit -t popular -s hot
 run_json_check "v2ex" node bin/main.js --json v2ex -n create
+run_json_check "devto" node bin/main.js --json devto -c 3
+run_json_check "lobsters" node bin/main.js --json lobsters -c 3
+run_json_check "echojs" node bin/main.js --json echojs -c 3
 
 if [[ -n "${HF_PRODUCTHUNT_TOKEN:-}" || "${REQUIRE_PRODUCTHUNT:-0}" == "1" ]]; then
   if [[ -z "${HF_PRODUCTHUNT_TOKEN:-}" ]]; then

@@ -10,7 +10,7 @@ test('shouldRetry returns true for transient network errors', () => {
 
 test('shouldRetry returns true for 5xx and false for 4xx', () => {
   assert.equal(shouldRetry({ response: { status: 500 } }), true);
-  assert.equal(shouldRetry({ response: { status: 429 } }), false);
+  assert.equal(shouldRetry({ response: { status: 429 } }), true);
   assert.equal(shouldRetry({ response: { status: 404 } }), false);
 });
 

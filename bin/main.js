@@ -9,6 +9,9 @@ const {
   fetchGitHubTrending,
   fetchReddit,
   fetchV2ex,
+  fetchDevto,
+  fetchLobsters,
+  fetchEchoJS,
   config,
   t,
 } = require('../utils');
@@ -17,6 +20,9 @@ const {
   isNonNegativeInt,
   isValidSince,
   isValidRedditSort,
+  isValidDevtoSort,
+  isValidLobstersSort,
+  isValidEchojsSort,
 } = require('../utils/validators');
 
 program.on('--help', () => {
@@ -128,6 +134,71 @@ program
       return;
     }
     fetchReddit(sort, topic, json ? 'json' : 'text');
+  });
+
+// get dev.to feeds
+program
+  .command('devto')
+  .description(t('program.devtoDesc'))
+  .option('-t, --tag <optional>', t('program.devtoTag'))
+  .option('-s, --sort <optional>', t('program.devtoSort'))
+  .option('-c, --count <optional>', t('program.devtoCount'))
+  .action((args) => {
+    const { json } = program.opts();
+    const { tag = '', sort = 'top' } = args;
+    const countInput = args.count === undefined ? 10 : Number.parseInt(args.count, 10);
+    if (!isValidDevtoSort(sort)) {
+      console.log(chalk.red(t('program.invalidDevtoSort')));
+      return;
+    }
+    if (!isPositiveInt(countInput)) {
+      console.log(chalk.red(t('program.invalidCount')));
+      return;
+    }
+    fetchDevto(tag, sort, countInput, json ? 'json' : 'text');
+  });
+
+// get lobsters feeds
+program
+  .command('lobsters')
+  .description(t('program.lobstersDesc'))
+  .option('-s, --sort <optional>', t('program.lobstersSort'))
+  .option('-t, --tag <optional>', t('program.lobstersTag'))
+  .option('-c, --count <optional>', t('program.lobstersCount'))
+  .action((args) => {
+    const { json } = program.opts();
+    const { sort = 'hottest', tag = '' } = args;
+    const countInput = args.count === undefined ? 10 : Number.parseInt(args.count, 10);
+    if (!isValidLobstersSort(sort)) {
+      console.log(chalk.red(t('program.invalidLobstersSort')));
+      return;
+    }
+    if (!isPositiveInt(countInput)) {
+      console.log(chalk.red(t('program.invalidCount')));
+      return;
+    }
+    fetchLobsters(sort, tag, countInput, json ? 'json' : 'text');
+  });
+
+// get echo js feeds
+program
+  .command('echojs')
+  .description(t('program.echojsDesc'))
+  .option('-s, --sort <optional>', t('program.echojsSort'))
+  .option('-c, --count <optional>', t('program.echojsCount'))
+  .action((args) => {
+    const { json } = program.opts();
+    const { sort = 'latest' } = args;
+    const countInput = args.count === undefined ? 10 : Number.parseInt(args.count, 10);
+    if (!isValidEchojsSort(sort)) {
+      console.log(chalk.red(t('program.invalidEchojsSort')));
+      return;
+    }
+    if (!isPositiveInt(countInput)) {
+      console.log(chalk.red(t('program.invalidCount')));
+      return;
+    }
+    fetchEchoJS(sort, countInput, json ? 'json' : 'text');
   });
 
 program.addHelpCommand('help [command]', t('program.help'));
