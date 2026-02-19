@@ -128,6 +128,46 @@ code {
   font-size: 0.9em;
 }
 
+pre {
+  background: #0f1a13;
+  color: #dceee1;
+  border-radius: 10px;
+  border: 1px solid #243b2c;
+  padding: 12px;
+  overflow: auto;
+  max-height: 480px;
+}
+
+pre code {
+  background: transparent;
+  border: 0;
+  color: inherit;
+  padding: 0;
+  display: block;
+  white-space: pre;
+  font-size: 0.85rem;
+}
+
+.report-section {
+  margin-top: 20px;
+  padding-top: 16px;
+  border-top: 1px dashed var(--border);
+}
+
+.report-section h2 {
+  margin-bottom: 8px;
+}
+
+.output-details > summary {
+  cursor: pointer;
+  font-weight: 600;
+  margin: 8px 0;
+}
+
+.output-details[open] > summary {
+  color: var(--accent-2);
+}
+
 .footer-link {
   display: inline-block;
   margin-top: 8px;
