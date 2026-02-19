@@ -4,25 +4,82 @@ set -euo pipefail
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT_DIR"
 
-echo "[smoke:live] Running live feed checks..."
+VERBOSE="${VERBOSE:-0}"
+failures=0
+passed=0
+skipped=0
+results=()
 
-echo "[smoke:live] github"
-node bin/main.js --json github -s daily -l javascript >/dev/null
+run_json_check() {
+  local source="$1"
+  shift
+  local output item_count elapsed
+  local start_time end_time
 
-echo "[smoke:live] news"
-node bin/main.js --json news -t 3 >/dev/null
+  start_time=$(date +%s%N 2>/dev/null || date +%s)
+  output="$("$@" 2>&1 || true)"
+  end_time=$(date +%s%N 2>/dev/null || date +%s)
 
-echo "[smoke:live] reddit"
-node bin/main.js --json reddit -t popular -s hot >/dev/null
+  # Calculate elapsed time (ms if nanoseconds available, otherwise s)
+  if [[ ${#start_time} -gt 10 ]]; then
+    elapsed="$(( (end_time - start_time) / 1000000 ))ms"
+  else
+    elapsed="$(( end_time - start_time ))s"
+  fi
 
-echo "[smoke:live] v2ex"
-node bin/main.js --json v2ex -n create >/dev/null
+  if grep -q '"source"' <<<"$output" && grep -q "\"source\": \"${source}\"" <<<"$output"; then
+    # Count items in the response
+    item_count=$(grep -c '"title"\|"repo"\|"name"' <<<"$output" || echo "0")
+    results+=("  ✓ ${source}  ${item_count} items  ${elapsed}")
+    passed=$((passed + 1))
 
-if [[ -n "${HF_PRODUCTHUNT_TOKEN:-}" ]]; then
-  echo "[smoke:live] producthunt"
-  node bin/main.js --json product -c 1 >/dev/null
+    if [[ "$VERBOSE" == "1" ]]; then
+      echo "$output"
+    fi
+  else
+    # Show first 3 lines of output on failure to help diagnose
+    local preview
+    preview=$(head -3 <<<"$output")
+    results+=("  ✗ ${source}  failed  ${elapsed}")
+    results+=("    ↳ ${preview}")
+    failures=$((failures + 1))
+  fi
+}
+
+echo ""
+echo "  hacker-feeds-cli live smoke test"
+echo "  ─────────────────────────────────"
+echo ""
+
+run_json_check "github" node bin/main.js --json github -s daily -l javascript
+run_json_check "hackernews" node bin/main.js --json news -t 3
+run_json_check "reddit" node bin/main.js --json reddit -t popular -s hot
+run_json_check "v2ex" node bin/main.js --json v2ex -n create
+
+if [[ -n "${HF_PRODUCTHUNT_TOKEN:-}" || "${REQUIRE_PRODUCTHUNT:-0}" == "1" ]]; then
+  if [[ -z "${HF_PRODUCTHUNT_TOKEN:-}" ]]; then
+    results+=("  ✗ producthunt  missing HF_PRODUCTHUNT_TOKEN")
+    failures=$((failures + 1))
+  else
+    run_json_check "producthunt" node bin/main.js --json product -c 1
+  fi
 else
-  echo "[smoke:live] producthunt skipped (set HF_PRODUCTHUNT_TOKEN to enable)"
+  results+=("  ○ producthunt  skipped (no token)")
+  skipped=$((skipped + 1))
 fi
 
-echo "[smoke:live] done"
+# Print results
+for line in "${results[@]}"; do
+  echo "$line"
+done
+
+echo ""
+echo "  ─────────────────────────────────"
+total=$((passed + failures + skipped))
+echo "  ${passed} passed  ${failures} failed  ${skipped} skipped  (${total} feeds)"
+echo ""
+
+if [[ "$failures" -gt 0 ]]; then
+  echo "  Set VERBOSE=1 to see full JSON output"
+  exit 1
+fi

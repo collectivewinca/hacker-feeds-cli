@@ -79,6 +79,33 @@ ping www.reddit.com
 | [Reddit](https://www.reddit.com/) | `reddit` | `-t --topic`<br>`-s --sort` | ![CUAGzP](https://mayandev.oss-cn-hangzhou.aliyuncs.com/uPic/CUAGzP.png) |
 | [V2EX](https://www.v2ex.com/) | `v2ex` | `-n --node` | ![neAWcA](https://mayandev.oss-cn-hangzhou.aliyuncs.com/uPic/neAWcA.png) |
 
+## Product Hunt Setup
+
+The Product Hunt feed requires a free API token (the other four feeds work without any key).
+
+1. Visit [api.producthunt.com/v2/oauth/applications](https://api.producthunt.com/v2/oauth/applications)
+2. Sign in and click **Add an Application**
+3. Set any name and `https://localhost` as the redirect URI
+4. Open the app and generate a **Developer Token**
+
+Then configure the CLI:
+
+```bash
+# Option A: environment variable (add to .bashrc / .zshrc to persist)
+export HF_PRODUCTHUNT_TOKEN="your-token"
+
+# Option B: CLI config (saved to ~/.hacker-feeds-cli/config.json)
+hf config --ph-token your-token
+```
+
+Verify it works:
+
+```bash
+hf product -c 3
+# or in JSON mode
+hf --json product -c 3
+```
+
 ## Language Support
 
 Input sub-command `config` to config cli language.
