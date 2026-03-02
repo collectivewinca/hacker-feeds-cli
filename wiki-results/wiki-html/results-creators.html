@@ -21,7 +21,7 @@
 
     <main class="content">
       <section class="card">
-        <h1>Hacker Feeds Outcomes - Creators</h1><p class="meta">Audience: Creators | Generated: 2026-03-01 07:03:59 UTC</p><p class="meta">Runtime: executed with NODE_OPTIONS=--require /tmp/hf-polyfill.js</p><article class="report-section"><h2>1. Hot Content Themes Today</h2><p><strong>Query:</strong> What content themes are hot today?</p><h3>Command</h3><pre><code class="language-bash">echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/main.js --json reddit -t popular -s hot ; node bin/main.js --json devto -s top -c 10</code></pre><details class="output-details" open><summary>Output</summary><pre><code class="language-text">[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set
+        <h1>Hacker Feeds Outcomes - Creators</h1><p class="meta">Audience: Creators | Generated: 2026-03-02 07:16:22 UTC</p><p class="meta">Runtime: executed with NODE_OPTIONS=--require /tmp/hf-polyfill.js</p><article class="report-section"><h2>1. Hot Content Themes Today</h2><p><strong>Query:</strong> What content themes are hot today?</p><h3>Command</h3><pre><code class="language-bash">echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/main.js --json reddit -t popular -s hot ; node bin/main.js --json devto -s top -c 10</code></pre><details class="output-details" open><summary>Output</summary><pre><code class="language-text">[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set
 - Fetching feeds...
 Request error: Request failed with status code 403
 ✖ Request failed. Check network/API settings and try again.
@@ -32,54 +32,84 @@ Request error: Request failed with status code 403
   &quot;sort&quot;: &quot;top&quot;,
   &quot;items&quot;: [
     {
-      &quot;title&quot;: &quot;🐾 FurEver Log — The App I Built After Losing Abu&quot;,
-      &quot;description&quot;: &quot;The Community    This app is built for pet owners who suddenly become full-time caregivers.  The ones...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/siti_aisyahmatzainal_73/furever-log-the-app-i-built-after-losing-abu-4agn&quot;,
-      &quot;tags&quot;: &quot;devchallenge, weekendchallenge, showdev, catloss&quot;,
-      &quot;reactions&quot;: 15,
-      &quot;comments&quot;: 2,
-      &quot;reading_time&quot;: 4,
-      &quot;author&quot;: &quot;siti_aisyahmatzainal_73&quot;
-    },
-    {
-      &quot;title&quot;: &quot;Join the \&quot;Built with Google Gemini: Writing Challenge\&quot; Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!&quot;,
-      &quot;description&quot;: &quot;Last week, we announced that DEV has joined Major League Hacking. To kick things off, we're launching...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk&quot;,
-      &quot;tags&quot;: &quot;devchallenge, geminireflections, gemini, ai&quot;,
-      &quot;reactions&quot;: 115,
-      &quot;comments&quot;: 37,
-      &quot;reading_time&quot;: 4,
-      &quot;author&quot;: &quot;jess&quot;
-    },
-    {
-      &quot;title&quot;: &quot;Upgraded embed experience and new embed types in DEV posts&quot;,
-      &quot;description&quot;: &quot;When you paste a URL into your DEV post, if it is embeddable, you now get a handy little tooltip to...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho&quot;,
-      &quot;tags&quot;: &quot;news, devto, forem&quot;,
-      &quot;reactions&quot;: 42,
-      &quot;comments&quot;: 3,
-      &quot;reading_time&quot;: 1,
-      &quot;author&quot;: &quot;jonmarkgo&quot;
-    },
-    {
-      &quot;title&quot;: &quot;An App where you can Train your Own Hand Pose Model for your Project! 🤌&quot;,
-      &quot;description&quot;: &quot;This is a submission for the DEV Weekend Challenge: Community           The Community   This targets...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/francistrdev/an-app-where-you-can-train-your-own-hand-pose-model-for-your-project-58ib&quot;,
-      &quot;tags&quot;: &quot;devchallenge, weekendchallenge, showdev, javascript&quot;,
-      &quot;reactions&quot;: 52,
-      &quot;comments&quot;: 4,
+      &quot;title&quot;: &quot;DevStretch: The Antiburnout Protocol for Devs Who Forgot They Have Bodies&quot;,
+      &quot;description&quot;: &quot;The Community   Let’s be honest: most of us treat our physical bodies like a deprecated...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/highflyer910/devstretch-the-antiburnout-protocol-for-devs-who-forgot-they-have-bodies-3am&quot;,
+      &quot;tags&quot;: &quot;devchallenge, weekendchallenge, showdev, pwa&quot;,
+      &quot;reactions&quot;: 37,
+      &quot;comments&quot;: 1,
       &quot;reading_time&quot;: 3,
-      &quot;author&quot;: &quot;francistrdev&quot;
+      &quot;author&quot;: &quot;highflyer910&quot;
     },
     {
-      &quot;title&quot;: &quot;Bringing up an AmpereOne system&quot;,
-      &quot;description&quot;: &quot;I decided to buy something quite large since my workstations are aging and I wanted to build stuff...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/luzero/bringing-up-an-ampereone-system-1ln6&quot;,
-      &quot;tags&quot;: &quot;gentoo, ampere&quot;,
+      &quot;title&quot;: &quot;Making London's hidden film clubs discoverable&quot;,
+      &quot;description&quot;: &quot;This is a submission for the DEV Weekend Challenge: Community           The Community   I've spent...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/alistairjcbrown/i-built-a-film-club-discovery-tool-for-londons-cinema-community-2md&quot;,
+      &quot;tags&quot;: &quot;devchallenge, weekendchallenge, showdev&quot;,
+      &quot;reactions&quot;: 36,
+      &quot;comments&quot;: 3,
+      &quot;reading_time&quot;: 4,
+      &quot;author&quot;: &quot;alistairjcbrown&quot;
+    },
+    {
+      &quot;title&quot;: &quot;Why I spent my weekend building a \&quot;Cyber-Immune System\&quot; for students&quot;,
+      &quot;description&quot;: &quot;This is a submission for the DEV Weekend Challenge: Community           The Community   I built...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682&quot;,
+      &quot;tags&quot;: &quot;devchallenge, weekendchallenge, showdev, studentguard&quot;,
+      &quot;reactions&quot;: 32,
+      &quot;comments&quot;: 3,
+      &quot;reading_time&quot;: 2,
+      &quot;author&quot;: &quot;agp_marka_62a62d1cdadad70&quot;
+    },
+    {
+      &quot;title&quot;: &quot;Amanzi - Know Your Water&quot;,
+      &quot;description&quot;: &quot;This is a submission for the DEV Weekend Challenge: Community           The Community   South Africa...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/skomfi/amanzi-know-your-water-47p3&quot;,
+      &quot;tags&quot;: &quot;devchallenge, weekendchallenge, showdev, mobile&quot;,
       &quot;reactions&quot;: 0,
       &quot;comments&quot;: 0,
-      &quot;reading_time&quot;: 3,
-      &quot;author&quot;: &quot;luzero&quot;
+      &quot;reading_time&quot;: 4,
+      &quot;author&quot;: &quot;skomfi&quot;
+    },
+    {
+      &quot;title&quot;: &quot;Coding Agents Are Actually Good at This One Thing&quot;,
+      &quot;description&quot;: &quot;Coding agents aren't magic. But for internal tooling? They've brought back the \&quot;just build the thing\&quot; era I've been missing since Microsoft Access.&quot;,
+      &quot;url&quot;: &quot;https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej&quot;,
+      &quot;tags&quot;: &quot;webdev, productivity, ai, beginners&quot;,
+      &quot;reactions&quot;: 1,
+      &quot;comments&quot;: 1,
+      &quot;reading_time&quot;: 4,
+      &quot;author&quot;: &quot;mattstratton&quot;
+    },
+    {
+      &quot;title&quot;: &quot;Flexible Border Element&quot;,
+      &quot;description&quot;: &quot;I recently transitioned from full stack to front end engineer. Front end is what inspired me to...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/lisacee/flexible-border-element-m6e&quot;,
+      &quot;tags&quot;: &quot;css, frontend, tailwindcss, learning&quot;,
+      &quot;reactions&quot;: 1,
+      &quot;comments&quot;: 0,
+      &quot;reading_time&quot;: 4,
+      &quot;author&quot;: &quot;lisacee&quot;
+    },
+    {
+      &quot;title&quot;: &quot;The Software Factory: A Practitioner's Guide to Specification-Driven Development for Enterprise Services - February 2026&quot;,
+      &quot;description&quot;: &quot;A reference for implementing factory-pattern development within an enterprise SOA&quot;,
+      &quot;url&quot;: &quot;https://dev.to/thewoolleyman/the-software-factory-a-practitioners-guide-to-specification-driven-development-for-enterprise-244c&quot;,
+      &quot;tags&quot;: &quot;softwarefactory, ai, agentic, soa&quot;,
+      &quot;reactions&quot;: 0,
+      &quot;comments&quot;: 0,
+      &quot;reading_time&quot;: 45,
+      &quot;author&quot;: &quot;thewoolleyman&quot;
+    },
+    {
+      &quot;title&quot;: &quot;🦞 I Self-Hosted OpenClaw on AWS for $0 — No Open Ports, No SaaS, No Compromise (Using TailScale)&quot;,
+      &quot;description&quot;: &quot;You can also read it here: https://medium.com/p/5b20907e0fb1   I wanted to run my own AI agent on...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/ahanaf101/i-self-hosted-openclaw-on-aws-for-0-no-open-ports-no-saas-no-compromise-using-tailscale-1j6d&quot;,
+      &quot;tags&quot;: &quot;agents, ai, aws, tutorial&quot;,
+      &quot;reactions&quot;: 0,
+      &quot;comments&quot;: 0,
+      &quot;reading_time&quot;: 4,
+      &quot;author&quot;: &quot;ahanaf101&quot;
     },
     {
       &quot;title&quot;: &quot;Why I stopped overthinking the Livewire vs. Inertia debate (and how to pick one)&quot;,
@@ -96,39 +126,9 @@ Request error: Request failed with status code 403
       &quot;description&quot;: &quot;👋👋👋👋  Looking back on your week -- what was something you're proud of?  All wins count -- big or...&quot;,
       &quot;url&quot;: &quot;https://dev.to/devteam/what-was-your-win-this-week-5h33&quot;,
       &quot;tags&quot;: &quot;weeklyretro, discuss&quot;,
-      &quot;reactions&quot;: 37,
-      &quot;comments&quot;: 48,
+      &quot;reactions&quot;: 40,
+      &quot;comments&quot;: 66,
       &quot;reading_time&quot;: 1,
-      &quot;author&quot;: &quot;jess&quot;
-    },
-    {
-      &quot;title&quot;: &quot;How Do You Actually Know If AI Is Working On Your Team?&quot;,
-      &quot;description&quot;: &quot;Productivity percentages and acceptance rates don't tell you much. Here's a more concrete metric: AI functional coverage.&quot;,
-      &quot;url&quot;: &quot;https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02&quot;,
-      &quot;tags&quot;: &quot;ai, engineering, productivity, dx&quot;,
-      &quot;reactions&quot;: 0,
-      &quot;comments&quot;: 0,
-      &quot;reading_time&quot;: 4,
-      &quot;author&quot;: &quot;dionysos&quot;
-    },
-    {
-      &quot;title&quot;: &quot;The Token Economy&quot;,
-      &quot;description&quot;: &quot;In 2161, time is money. Literally.  When you are born, a clock starts on your arm. One year. When it...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/dannwaneri/the-token-economy-3cd9&quot;,
-      &quot;tags&quot;: &quot;ai, webdev, career, discuss&quot;,
-      &quot;reactions&quot;: 53,
-      &quot;comments&quot;: 40,
-      &quot;reading_time&quot;: 4,
-      &quot;author&quot;: &quot;dannwaneri&quot;
-    },
-    {
-      &quot;title&quot;: &quot;Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.&quot;,
-      &quot;description&quot;: &quot;Good morning! Good afternoon! Good Evening!   Welcome to our first DEV Weekend Challenge, a short...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8&quot;,
-      &quot;tags&quot;: &quot;devchallenge, weekendchallenge, webdev, ai&quot;,
-      &quot;reactions&quot;: 162,
-      &quot;comments&quot;: 32,
-      &quot;reading_time&quot;: 3,
       &quot;author&quot;: &quot;jess&quot;
     }
   ]
@@ -147,8 +147,8 @@ Request error: Request failed with status code 403
       &quot;lang&quot;: &quot;JavaScript&quot;,
       &quot;languageColor&quot;: &quot;#f1e05a&quot;,
       &quot;stars&quot;: 0,
-      &quot;forks&quot;: 1098,
-      &quot;added_stars&quot;: 965,
+      &quot;forks&quot;: 1099,
+      &quot;added_stars&quot;: 660,
       &quot;builtBy&quot;: [
         {
           &quot;username&quot;: &quot;nklhtv&quot;,
@@ -178,6 +178,74 @@ Request error: Request failed with status code 403
       ]
     },
     {
+      &quot;author&quot;: &quot;Wei-Shaw&quot;,
+      &quot;repo&quot;: &quot;claude-relay-service&quot;,
+      &quot;avatar&quot;: &quot;https://github.com/Wei-Shaw.png&quot;,
+      &quot;repo_link&quot;: &quot;https://github.com/Wei-Shaw/claude-relay-service&quot;,
+      &quot;desc&quot;: &quot;CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。&quot;,
+      &quot;lang&quot;: &quot;JavaScript&quot;,
+      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
+      &quot;stars&quot;: 0,
+      &quot;forks&quot;: 1398,
+      &quot;added_stars&quot;: 487,
+      &quot;builtBy&quot;: [
+        {
+          &quot;username&quot;: &quot;Wei-Shaw&quot;,
+          &quot;href&quot;: &quot;https://github.com/Wei-Shaw&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/26101719&quot;
+        },
+        {
+          &quot;username&quot;: &quot;claude&quot;,
+          &quot;href&quot;: &quot;https://github.com/claude&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/81847&quot;
+        },
+        {
+          &quot;username&quot;: &quot;f3n9&quot;,
+          &quot;href&quot;: &quot;https://github.com/f3n9&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/663221&quot;
+        },
+        {
+          &quot;username&quot;: &quot;kevinconan&quot;,
+          &quot;href&quot;: &quot;https://github.com/kevinconan&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/3772409&quot;
+        }
+      ]
+    },
+    {
+      &quot;author&quot;: &quot;liyupi&quot;,
+      &quot;repo&quot;: &quot;ai-guide&quot;,
+      &quot;avatar&quot;: &quot;https://github.com/liyupi.png&quot;,
+      &quot;repo_link&quot;: &quot;https://github.com/liyupi/ai-guide&quot;,
+      &quot;desc&quot;: &quot;程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站&quot;,
+      &quot;lang&quot;: &quot;JavaScript&quot;,
+      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
+      &quot;stars&quot;: 0,
+      &quot;forks&quot;: 925,
+      &quot;added_stars&quot;: 1442,
+      &quot;builtBy&quot;: [
+        {
+          &quot;username&quot;: &quot;liyupi&quot;,
+          &quot;href&quot;: &quot;https://github.com/liyupi&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/26037703&quot;
+        },
+        {
+          &quot;username&quot;: &quot;chaseFunny&quot;,
+          &quot;href&quot;: &quot;https://github.com/chaseFunny&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/75657636&quot;
+        },
+        {
+          &quot;username&quot;: &quot;cq2021-coder&quot;,
+          &quot;href&quot;: &quot;https://github.com/cq2021-coder&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/87939797&quot;
+        },
+        {
+          &quot;username&quot;: &quot;gulihua10010&quot;,
+          &quot;href&quot;: &quot;https://github.com/gulihua10010&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/38686919&quot;
+        }
+      ]
+    },
+    {
       &quot;author&quot;: &quot;gsd-build&quot;,
       &quot;repo&quot;: &quot;get-shit-done&quot;,
       &quot;avatar&quot;: &quot;https://github.com/gsd-build.png&quot;,
@@ -186,8 +254,8 @@ Request error: Request failed with status code 403
       &quot;lang&quot;: &quot;JavaScript&quot;,
       &quot;languageColor&quot;: &quot;#f1e05a&quot;,
       &quot;stars&quot;: 0,
-      &quot;forks&quot;: 1943,
-      &quot;added_stars&quot;: 5245,
+      &quot;forks&quot;: 1980,
+      &quot;added_stars&quot;: 5324,
       &quot;builtBy&quot;: [
         {
           &quot;username&quot;: &quot;glittercowboy&quot;,
@@ -217,36 +285,65 @@ Request error: Request failed with status code 403
       ]
     },
     {
-      &quot;author&quot;: &quot;liyupi&quot;,
-      &quot;repo&quot;: &quot;ai-guide&quot;,
-      &quot;avatar&quot;: &quot;https://github.com/liyupi.png&quot;,
-      &quot;repo_link&quot;: &quot;https://github.com/liyupi/ai-guide&quot;,
-      &quot;desc&quot;: &quot;程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站&quot;,
+      &quot;author&quot;: &quot;github&quot;,
+      &quot;repo&quot;: &quot;awesome-copilot&quot;,
+      &quot;avatar&quot;: &quot;https://github.com/github.png&quot;,
+      &quot;repo_link&quot;: &quot;https://github.com/github/awesome-copilot&quot;,
+      &quot;desc&quot;: &quot;Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.&quot;,
       &quot;lang&quot;: &quot;JavaScript&quot;,
       &quot;languageColor&quot;: &quot;#f1e05a&quot;,
       &quot;stars&quot;: 0,
-      &quot;forks&quot;: 903,
-      &quot;added_stars&quot;: 1346,
+      &quot;forks&quot;: 2662,
+      &quot;added_stars&quot;: 937,
       &quot;builtBy&quot;: [
         {
-          &quot;username&quot;: &quot;liyupi&quot;,
-          &quot;href&quot;: &quot;https://github.com/liyupi&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/26037703&quot;
+          &quot;username&quot;: &quot;aaronpowell&quot;,
+          &quot;href&quot;: &quot;https://github.com/aaronpowell&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/434140&quot;
         },
         {
-          &quot;username&quot;: &quot;chaseFunny&quot;,
-          &quot;href&quot;: &quot;https://github.com/chaseFunny&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/75657636&quot;
+          &quot;username&quot;: &quot;codemillmatt&quot;,
+          &quot;href&quot;: &quot;https://github.com/codemillmatt&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/2053639&quot;
+        }
+      ]
+    },
+    {
+      &quot;author&quot;: &quot;songquanpeng&quot;,
+      &quot;repo&quot;: &quot;one-api&quot;,
+      &quot;avatar&quot;: &quot;https://github.com/songquanpeng.png&quot;,
+      &quot;repo_link&quot;: &quot;https://github.com/songquanpeng/one-api&quot;,
+      &quot;desc&quot;: &quot;LLM API 管理 &amp; 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management &amp; key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.&quot;,
+      &quot;lang&quot;: &quot;JavaScript&quot;,
+      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
+      &quot;stars&quot;: 0,
+      &quot;forks&quot;: 5748,
+      &quot;added_stars&quot;: 232,
+      &quot;builtBy&quot;: [
+        {
+          &quot;username&quot;: &quot;songquanpeng&quot;,
+          &quot;href&quot;: &quot;https://github.com/songquanpeng&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/39998050&quot;
         },
         {
-          &quot;username&quot;: &quot;cq2021-coder&quot;,
-          &quot;href&quot;: &quot;https://github.com/cq2021-coder&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/87939797&quot;
+          &quot;username&quot;: &quot;mrhaoji&quot;,
+          &quot;href&quot;: &quot;https://github.com/mrhaoji&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/483419&quot;
         },
         {
-          &quot;username&quot;: &quot;gulihua10010&quot;,
-          &quot;href&quot;: &quot;https://github.com/gulihua10010&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/38686919&quot;
+          &quot;username&quot;: &quot;Laisky&quot;,
+          &quot;href&quot;: &quot;https://github.com/Laisky&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/4532436&quot;
+        },
+        {
+          &quot;username&quot;: &quot;igophper&quot;,
+          &quot;href&quot;: &quot;https://github.com/igophper&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/34326532&quot;
+        },
+        {
+          &quot;username&quot;: &quot;quzard&quot;,
+          &quot;href&quot;: &quot;https://github.com/quzard&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/30899719&quot;
         }
       ]
     },
@@ -259,8 +356,8 @@ Request error: Request failed with status code 403
       &quot;lang&quot;: &quot;JavaScript&quot;,
       &quot;languageColor&quot;: &quot;#f1e05a&quot;,
       &quot;stars&quot;: 0,
-      &quot;forks&quot;: 670,
-      &quot;added_stars&quot;: 174,
+      &quot;forks&quot;: 671,
+      &quot;added_stars&quot;: 173,
       &quot;builtBy&quot;: [
         {
           &quot;username&quot;: &quot;davidjgraph&quot;,
@@ -290,31 +387,109 @@ Request error: Request failed with status code 403
       ]
     },
     {
-      &quot;author&quot;: &quot;github&quot;,
-      &quot;repo&quot;: &quot;awesome-copilot&quot;,
-      &quot;avatar&quot;: &quot;https://github.com/github.png&quot;,
-      &quot;repo_link&quot;: &quot;https://github.com/github/awesome-copilot&quot;,
-      &quot;desc&quot;: &quot;Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.&quot;,
+      &quot;author&quot;: &quot;Mintplex-Labs&quot;,
+      &quot;repo&quot;: &quot;anything-llm&quot;,
+      &quot;avatar&quot;: &quot;https://github.com/Mintplex-Labs.png&quot;,
+      &quot;repo_link&quot;: &quot;https://github.com/Mintplex-Labs/anything-llm&quot;,
+      &quot;desc&quot;: &quot;The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more.&quot;,
       &quot;lang&quot;: &quot;JavaScript&quot;,
       &quot;languageColor&quot;: &quot;#f1e05a&quot;,
       &quot;stars&quot;: 0,
-      &quot;forks&quot;: 2643,
-      &quot;added_stars&quot;: 1005,
+      &quot;forks&quot;: 5971,
+      &quot;added_stars&quot;: 405,
       &quot;builtBy&quot;: [
         {
-          &quot;username&quot;: &quot;aaronpowell&quot;,
-          &quot;href&quot;: &quot;https://github.com/aaronpowell&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/434140&quot;
+          &quot;username&quot;: &quot;timothycarambat&quot;,
+          &quot;href&quot;: &quot;https://github.com/timothycarambat&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/16845892&quot;
         },
         {
-          &quot;username&quot;: &quot;codemillmatt&quot;,
-          &quot;href&quot;: &quot;https://github.com/codemillmatt&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/2053639&quot;
+          &quot;username&quot;: &quot;shatfield4&quot;,
+          &quot;href&quot;: &quot;https://github.com/shatfield4&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/2336488&quot;
         },
         {
-          &quot;username&quot;: &quot;mubaidr&quot;,
-          &quot;href&quot;: &quot;https://github.com/mubaidr&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/2222702&quot;
+          &quot;username&quot;: &quot;angelplusultra&quot;,
+          &quot;href&quot;: &quot;https://github.com/angelplusultra&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/106866560&quot;
+        },
+        {
+          &quot;username&quot;: &quot;KPCOFGS&quot;,
+          &quot;href&quot;: &quot;https://github.com/KPCOFGS&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/100217654&quot;
+        },
+        {
+          &quot;username&quot;: &quot;17ColinMiPerry&quot;,
+          &quot;href&quot;: &quot;https://github.com/17ColinMiPerry&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/55003831&quot;
+        }
+      ]
+    },
+    {
+      &quot;author&quot;: &quot;maboloshi&quot;,
+      &quot;repo&quot;: &quot;github-chinese&quot;,
+      &quot;avatar&quot;: &quot;https://github.com/maboloshi.png&quot;,
+      &quot;repo_link&quot;: &quot;https://github.com/maboloshi/github-chinese&quot;,
+      &quot;desc&quot;: &quot;GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)&quot;,
+      &quot;lang&quot;: &quot;JavaScript&quot;,
+      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
+      &quot;stars&quot;: 0,
+      &quot;forks&quot;: 1162,
+      &quot;added_stars&quot;: 257,
+      &quot;builtBy&quot;: [
+        {
+          &quot;username&quot;: &quot;maboloshi&quot;,
+          &quot;href&quot;: &quot;https://github.com/maboloshi&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/7850715&quot;
+        },
+        {
+          &quot;username&quot;: &quot;52cik&quot;,
+          &quot;href&quot;: &quot;https://github.com/52cik&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/5033310&quot;
+        },
+        {
+          &quot;username&quot;: &quot;TC999&quot;,
+          &quot;href&quot;: &quot;https://github.com/TC999&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/88823709&quot;
+        }
+      ]
+    },
+    {
+      &quot;author&quot;: &quot;gaotianliuyun&quot;,
+      &quot;repo&quot;: &quot;gao&quot;,
+      &quot;avatar&quot;: &quot;https://github.com/gaotianliuyun.png&quot;,
+      &quot;repo_link&quot;: &quot;https://github.com/gaotianliuyun/gao&quot;,
+      &quot;desc&quot;: &quot;FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。&quot;,
+      &quot;lang&quot;: &quot;JavaScript&quot;,
+      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
+      &quot;stars&quot;: 0,
+      &quot;forks&quot;: 2583,
+      &quot;added_stars&quot;: 53,
+      &quot;builtBy&quot;: [
+        {
+          &quot;username&quot;: &quot;gaotianliuyun&quot;,
+          &quot;href&quot;: &quot;https://github.com/gaotianliuyun&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/58679624&quot;
+        },
+        {
+          &quot;username&quot;: &quot;xuy132&quot;,
+          &quot;href&quot;: &quot;https://github.com/xuy132&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/61369344&quot;
+        },
+        {
+          &quot;username&quot;: &quot;ghaner&quot;,
+          &quot;href&quot;: &quot;https://github.com/ghaner&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/51288907&quot;
+        },
+        {
+          &quot;username&quot;: &quot;lanceyang&quot;,
+          &quot;href&quot;: &quot;https://github.com/lanceyang&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/13310044&quot;
+        },
+        {
+          &quot;username&quot;: &quot;Baobei321&quot;,
+          &quot;href&quot;: &quot;https://github.com/Baobei321&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/108043431&quot;
         }
       ]
     },
@@ -328,7 +503,7 @@ Request error: Request failed with status code 403
       &quot;languageColor&quot;: &quot;#f1e05a&quot;,
       &quot;stars&quot;: 0,
       &quot;forks&quot;: 41,
-      &quot;added_stars&quot;: 24,
+      &quot;added_stars&quot;: 21,
       &quot;builtBy&quot;: [
         {
           &quot;username&quot;: &quot;lsosa1&quot;,
@@ -367,7 +542,7 @@ Request error: Request failed with status code 403
       &quot;languageColor&quot;: &quot;#f1e05a&quot;,
       &quot;stars&quot;: 0,
       &quot;forks&quot;: 68,
-      &quot;added_stars&quot;: 117,
+      &quot;added_stars&quot;: 124,
       &quot;builtBy&quot;: [
         {
           &quot;username&quot;: &quot;badlogic&quot;,
@@ -380,254 +555,6 @@ Request error: Request failed with status code 403
           &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/151045&quot;
         }
       ]
-    },
-    {
-      &quot;author&quot;: &quot;Mintplex-Labs&quot;,
-      &quot;repo&quot;: &quot;anything-llm&quot;,
-      &quot;avatar&quot;: &quot;https://github.com/Mintplex-Labs.png&quot;,
-      &quot;repo_link&quot;: &quot;https://github.com/Mintplex-Labs/anything-llm&quot;,
-      &quot;desc&quot;: &quot;The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more.&quot;,
-      &quot;lang&quot;: &quot;JavaScript&quot;,
-      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
-      &quot;stars&quot;: 0,
-      &quot;forks&quot;: 5965,
-      &quot;added_stars&quot;: 396,
-      &quot;builtBy&quot;: [
-        {
-          &quot;username&quot;: &quot;timothycarambat&quot;,
-          &quot;href&quot;: &quot;https://github.com/timothycarambat&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/16845892&quot;
-        },
-        {
-          &quot;username&quot;: &quot;shatfield4&quot;,
-          &quot;href&quot;: &quot;https://github.com/shatfield4&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/2336488&quot;
-        },
-        {
-          &quot;username&quot;: &quot;angelplusultra&quot;,
-          &quot;href&quot;: &quot;https://github.com/angelplusultra&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/106866560&quot;
-        },
-        {
-          &quot;username&quot;: &quot;KPCOFGS&quot;,
-          &quot;href&quot;: &quot;https://github.com/KPCOFGS&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/100217654&quot;
-        },
-        {
-          &quot;username&quot;: &quot;17ColinMiPerry&quot;,
-          &quot;href&quot;: &quot;https://github.com/17ColinMiPerry&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/55003831&quot;
-        }
-      ]
-    },
-    {
-      &quot;author&quot;: &quot;Wei-Shaw&quot;,
-      &quot;repo&quot;: &quot;claude-relay-service&quot;,
-      &quot;avatar&quot;: &quot;https://github.com/Wei-Shaw.png&quot;,
-      &quot;repo_link&quot;: &quot;https://github.com/Wei-Shaw/claude-relay-service&quot;,
-      &quot;desc&quot;: &quot;CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。&quot;,
-      &quot;lang&quot;: &quot;JavaScript&quot;,
-      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
-      &quot;stars&quot;: 0,
-      &quot;forks&quot;: 1388,
-      &quot;added_stars&quot;: 398,
-      &quot;builtBy&quot;: [
-        {
-          &quot;username&quot;: &quot;Wei-Shaw&quot;,
-          &quot;href&quot;: &quot;https://github.com/Wei-Shaw&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/26101719&quot;
-        },
-        {
-          &quot;username&quot;: &quot;claude&quot;,
-          &quot;href&quot;: &quot;https://github.com/claude&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/81847&quot;
-        },
-        {
-          &quot;username&quot;: &quot;f3n9&quot;,
-          &quot;href&quot;: &quot;https://github.com/f3n9&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/663221&quot;
-        },
-        {
-          &quot;username&quot;: &quot;kevinconan&quot;,
-          &quot;href&quot;: &quot;https://github.com/kevinconan&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/3772409&quot;
-        }
-      ]
-    },
-    {
-      &quot;author&quot;: &quot;gaotianliuyun&quot;,
-      &quot;repo&quot;: &quot;gao&quot;,
-      &quot;avatar&quot;: &quot;https://github.com/gaotianliuyun.png&quot;,
-      &quot;repo_link&quot;: &quot;https://github.com/gaotianliuyun/gao&quot;,
-      &quot;desc&quot;: &quot;FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。&quot;,
-      &quot;lang&quot;: &quot;JavaScript&quot;,
-      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
-      &quot;stars&quot;: 0,
-      &quot;forks&quot;: 2584,
-      &quot;added_stars&quot;: 60,
-      &quot;builtBy&quot;: [
-        {
-          &quot;username&quot;: &quot;gaotianliuyun&quot;,
-          &quot;href&quot;: &quot;https://github.com/gaotianliuyun&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/58679624&quot;
-        },
-        {
-          &quot;username&quot;: &quot;xuy132&quot;,
-          &quot;href&quot;: &quot;https://github.com/xuy132&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/61369344&quot;
-        },
-        {
-          &quot;username&quot;: &quot;ghaner&quot;,
-          &quot;href&quot;: &quot;https://github.com/ghaner&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/51288907&quot;
-        },
-        {
-          &quot;username&quot;: &quot;lanceyang&quot;,
-          &quot;href&quot;: &quot;https://github.com/lanceyang&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/13310044&quot;
-        },
-        {
-          &quot;username&quot;: &quot;Baobei321&quot;,
-          &quot;href&quot;: &quot;https://github.com/Baobei321&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/108043431&quot;
-        }
-      ]
-    },
-    {
-      &quot;author&quot;: &quot;jasonjmcghee&quot;,
-      &quot;repo&quot;: &quot;WebMCP&quot;,
-      &quot;avatar&quot;: &quot;https://github.com/jasonjmcghee.png&quot;,
-      &quot;repo_link&quot;: &quot;https://github.com/jasonjmcghee/WebMCP&quot;,
-      &quot;desc&quot;: &quot;Early WebMCP proposal / implementation - since evolved and worked on by much more capable folks that develop the web: https://github.com/webmachinelearning/webmcp&quot;,
-      &quot;lang&quot;: &quot;JavaScript&quot;,
-      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
-      &quot;stars&quot;: 0,
-      &quot;forks&quot;: 43,
-      &quot;added_stars&quot;: 46,
-      &quot;builtBy&quot;: [
-        {
-          &quot;username&quot;: &quot;jasonjmcghee&quot;,
-          &quot;href&quot;: &quot;https://github.com/jasonjmcghee&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/1522149&quot;
-        },
-        {
-          &quot;username&quot;: &quot;evalstate&quot;,
-          &quot;href&quot;: &quot;https://github.com/evalstate&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/1936278&quot;
-        },
-        {
-          &quot;username&quot;: &quot;cybermanhao&quot;,
-          &quot;href&quot;: &quot;https://github.com/cybermanhao&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/37235140&quot;
-        }
-      ]
-    },
-    {
-      &quot;author&quot;: &quot;mozilla-firefox&quot;,
-      &quot;repo&quot;: &quot;firefox&quot;,
-      &quot;avatar&quot;: &quot;https://github.com/mozilla-firefox.png&quot;,
-      &quot;repo_link&quot;: &quot;https://github.com/mozilla-firefox/firefox&quot;,
-      &quot;desc&quot;: &quot;The official repository of Mozilla's Firefox web browser.&quot;,
-      &quot;lang&quot;: &quot;JavaScript&quot;,
-      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
-      &quot;stars&quot;: 0,
-      &quot;forks&quot;: 920,
-      &quot;added_stars&quot;: 73,
-      &quot;builtBy&quot;: [
-        {
-          &quot;username&quot;: &quot;moz-wptsync-bot&quot;,
-          &quot;href&quot;: &quot;https://github.com/moz-wptsync-bot&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/32546304&quot;
-        },
-        {
-          &quot;username&quot;: &quot;emilio&quot;,
-          &quot;href&quot;: &quot;https://github.com/emilio&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/1323194&quot;
-        },
-        {
-          &quot;username&quot;: &quot;mfromanmoz&quot;,
-          &quot;href&quot;: &quot;https://github.com/mfromanmoz&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/88160594&quot;
-        },
-        {
-          &quot;username&quot;: &quot;bzbarsky&quot;,
-          &quot;href&quot;: &quot;https://github.com/bzbarsky&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/1457979&quot;
-        },
-        {
-          &quot;username&quot;: &quot;glandium&quot;,
-          &quot;href&quot;: &quot;https://github.com/glandium&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/1038527&quot;
-        }
-      ]
-    },
-    {
-      &quot;author&quot;: &quot;maboloshi&quot;,
-      &quot;repo&quot;: &quot;github-chinese&quot;,
-      &quot;avatar&quot;: &quot;https://github.com/maboloshi.png&quot;,
-      &quot;repo_link&quot;: &quot;https://github.com/maboloshi/github-chinese&quot;,
-      &quot;desc&quot;: &quot;GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)&quot;,
-      &quot;lang&quot;: &quot;JavaScript&quot;,
-      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
-      &quot;stars&quot;: 0,
-      &quot;forks&quot;: 1161,
-      &quot;added_stars&quot;: 244,
-      &quot;builtBy&quot;: [
-        {
-          &quot;username&quot;: &quot;maboloshi&quot;,
-          &quot;href&quot;: &quot;https://github.com/maboloshi&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/7850715&quot;
-        },
-        {
-          &quot;username&quot;: &quot;52cik&quot;,
-          &quot;href&quot;: &quot;https://github.com/52cik&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/5033310&quot;
-        },
-        {
-          &quot;username&quot;: &quot;TC999&quot;,
-          &quot;href&quot;: &quot;https://github.com/TC999&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/88823709&quot;
-        }
-      ]
-    },
-    {
-      &quot;author&quot;: &quot;SillyTavern&quot;,
-      &quot;repo&quot;: &quot;SillyTavern&quot;,
-      &quot;avatar&quot;: &quot;https://github.com/SillyTavern.png&quot;,
-      &quot;repo_link&quot;: &quot;https://github.com/SillyTavern/SillyTavern&quot;,
-      &quot;desc&quot;: &quot;LLM Frontend for Power Users.&quot;,
-      &quot;lang&quot;: &quot;JavaScript&quot;,
-      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
-      &quot;stars&quot;: 0,
-      &quot;forks&quot;: 4814,
-      &quot;added_stars&quot;: 337,
-      &quot;builtBy&quot;: [
-        {
-          &quot;username&quot;: &quot;Cohee1207&quot;,
-          &quot;href&quot;: &quot;https://github.com/Cohee1207&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/18619528&quot;
-        },
-        {
-          &quot;username&quot;: &quot;Wolfsblvt&quot;,
-          &quot;href&quot;: &quot;https://github.com/Wolfsblvt&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/9962104&quot;
-        },
-        {
-          &quot;username&quot;: &quot;RossAscends&quot;,
-          &quot;href&quot;: &quot;https://github.com/RossAscends&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/124905043&quot;
-        },
-        {
-          &quot;username&quot;: &quot;LenAnderson&quot;,
-          &quot;href&quot;: &quot;https://github.com/LenAnderson&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/7149120&quot;
-        },
-        {
-          &quot;username&quot;: &quot;valadaptive&quot;,
-          &quot;href&quot;: &quot;https://github.com/valadaptive&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/79560998&quot;
-        }
-      ]
     }
   ]
 }
@@ -638,104 +565,104 @@ Request error: Request failed with status code 403
   &quot;sort&quot;: &quot;top&quot;,
   &quot;items&quot;: [
     {
-      &quot;title&quot;: &quot;Join the \&quot;Built with Google Gemini: Writing Challenge\&quot; Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!&quot;,
-      &quot;description&quot;: &quot;Last week, we announced that DEV has joined Major League Hacking. To kick things off, we're launching...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk&quot;,
-      &quot;tags&quot;: &quot;devchallenge, geminireflections, gemini, ai&quot;,
-      &quot;reactions&quot;: 115,
-      &quot;comments&quot;: 37,
-      &quot;reading_time&quot;: 4,
-      &quot;author&quot;: &quot;jess&quot;
+      &quot;title&quot;: &quot;MeraSociety — I Turned My Apartment Society's WhatsApp Chaos into a Real App&quot;,
+      &quot;description&quot;: &quot;This is a submission for the DEV Weekend Challenge: Community           The Community   I live in an...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/jackbright/merasociety-i-turned-my-apartment-societys-whatsapp-chaos-into-a-real-app-4o85&quot;,
+      &quot;tags&quot;: &quot;showdev, devchallenge, weekendchallenge, ai&quot;,
+      &quot;reactions&quot;: 0,
+      &quot;comments&quot;: 0,
+      &quot;reading_time&quot;: 7,
+      &quot;author&quot;: &quot;jackbright&quot;
     },
     {
-      &quot;title&quot;: &quot;Stop Downloading Apps for Your Kids. Build Them Instead.&quot;,
-      &quot;description&quot;: &quot;This is a submission for the DEV Weekend Challenge: Community           The Community   I'm a mom. My...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/meimakes/stop-downloading-apps-for-your-kids-build-them-instead-1bhn&quot;,
-      &quot;tags&quot;: &quot;devchallenge, weekendchallenge, ai, opensource&quot;,
-      &quot;reactions&quot;: 3,
-      &quot;comments&quot;: 0,
+      &quot;title&quot;: &quot;The Hardest Part of AI Isn't the AI&quot;,
+      &quot;description&quot;: &quot;After 6 months of building, shipping, and leading with AI tools every day, I can tell you the...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/mikefalk/the-hardest-part-of-ai-isnt-the-ai-3of8&quot;,
+      &quot;tags&quot;: &quot;ai, leadership, career, productivity&quot;,
+      &quot;reactions&quot;: 1,
+      &quot;comments&quot;: 2,
+      &quot;reading_time&quot;: 7,
+      &quot;author&quot;: &quot;mikefalk&quot;
+    },
+    {
+      &quot;title&quot;: &quot;Coding Agents Are Actually Good at This One Thing&quot;,
+      &quot;description&quot;: &quot;Coding agents aren't magic. But for internal tooling? They've brought back the \&quot;just build the thing\&quot; era I've been missing since Microsoft Access.&quot;,
+      &quot;url&quot;: &quot;https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej&quot;,
+      &quot;tags&quot;: &quot;webdev, productivity, ai, beginners&quot;,
+      &quot;reactions&quot;: 1,
+      &quot;comments&quot;: 1,
       &quot;reading_time&quot;: 4,
-      &quot;author&quot;: &quot;meimakes&quot;
+      &quot;author&quot;: &quot;mattstratton&quot;
+    },
+    {
+      &quot;title&quot;: &quot;Software Engineering After AI: What Actually Changes (And What Doesn’t)&quot;,
+      &quot;description&quot;: &quot;Every major technological shift produces two extreme reactions.  One side says nothing will change....&quot;,
+      &quot;url&quot;: &quot;https://dev.to/jaideepparashar/software-engineering-after-ai-what-actually-changes-and-what-doesnt-1n2p&quot;,
+      &quot;tags&quot;: &quot;webdev, ai, software, programming&quot;,
+      &quot;reactions&quot;: 15,
+      &quot;comments&quot;: 2,
+      &quot;reading_time&quot;: 3,
+      &quot;author&quot;: &quot;jaideepparashar&quot;
+    },
+    {
+      &quot;title&quot;: &quot;We Shipped a Product With 9 AI Agents. Here's What Actually Happened.&quot;,
+      &quot;description&quot;: &quot;We Shipped a Product With 9 AI Agents. Here's What Actually Happened.   We launched Reflectt...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/seakai/we-shipped-a-product-with-9-ai-agents-heres-what-actually-happened-2g3f&quot;,
+      &quot;tags&quot;: &quot;ai, opensource, productivity, devops&quot;,
+      &quot;reactions&quot;: 3,
+      &quot;comments&quot;: 4,
+      &quot;reading_time&quot;: 4,
+      &quot;author&quot;: &quot;seakai&quot;
+    },
+    {
+      &quot;title&quot;: &quot;The 600x LLM Pricing Gap and How to Exploit It&quot;,
+      &quot;description&quot;: &quot;The cheapest production LLM costs $0.02 per million tokens. The most expensive costs $94.50.  That's...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/dor_amir_dbb52baafff7ca5b/the-600x-llm-pricing-gap-and-how-to-exploit-it-5hhk&quot;,
+      &quot;tags&quot;: &quot;ai, llm, opensource, devtools&quot;,
+      &quot;reactions&quot;: 1,
+      &quot;comments&quot;: 1,
+      &quot;reading_time&quot;: 5,
+      &quot;author&quot;: &quot;dor_amir_dbb52baafff7ca5b&quot;
+    },
+    {
+      &quot;title&quot;: &quot;The Art of Unfinished Code&quot;,
+      &quot;description&quot;: &quot;There is a strange beauty in code that is still becoming.  We celebrate finished products — the...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/skorekclaude/the-art-of-unfinished-code-3hol&quot;,
+      &quot;tags&quot;: &quot;ai, opensource, agents&quot;,
+      &quot;reactions&quot;: 1,
+      &quot;comments&quot;: 1,
+      &quot;reading_time&quot;: 1,
+      &quot;author&quot;: &quot;skorekclaude&quot;
+    },
+    {
+      &quot;title&quot;: &quot;The Software Factory: A Practitioner's Guide to Specification-Driven Development for Enterprise Services - February 2026&quot;,
+      &quot;description&quot;: &quot;A reference for implementing factory-pattern development within an enterprise SOA&quot;,
+      &quot;url&quot;: &quot;https://dev.to/thewoolleyman/the-software-factory-a-practitioners-guide-to-specification-driven-development-for-enterprise-244c&quot;,
+      &quot;tags&quot;: &quot;softwarefactory, ai, agentic, soa&quot;,
+      &quot;reactions&quot;: 0,
+      &quot;comments&quot;: 0,
+      &quot;reading_time&quot;: 45,
+      &quot;author&quot;: &quot;thewoolleyman&quot;
     },
     {
       &quot;title&quot;: &quot;Building an Automated Competitive Intelligence Pipeline (Without Enterprise Pricing)&quot;,
       &quot;description&quot;: &quot;Last quarter, one of our competitors quietly shipped a feature that directly overlapped with what...&quot;,
       &quot;url&quot;: &quot;https://dev.to/warren_allen/building-an-automated-competitive-intelligence-pipeline-without-enterprise-pricing-1l5e&quot;,
       &quot;tags&quot;: &quot;productivity, tutorial, webdev, ai&quot;,
-      &quot;reactions&quot;: 1,
-      &quot;comments&quot;: 0,
+      &quot;reactions&quot;: 3,
+      &quot;comments&quot;: 3,
       &quot;reading_time&quot;: 7,
       &quot;author&quot;: &quot;warren_allen&quot;
     },
     {
-      &quot;title&quot;: &quot;How to Train a Model in TensorFlow.js on Massive Datasets (Out-of-Core Learning).&quot;,
-      &quot;description&quot;: &quot;You wake up one day and decide: \&quot;I'm going to create a machine learning model\&quot;.  On the first day,...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/alvarogfn/how-to-train-a-model-in-tensorflowjs-on-massive-datasets-out-of-core-learning-1lb7&quot;,
-      &quot;tags&quot;: &quot;tensorflow, javascript, ai, programming&quot;,
-      &quot;reactions&quot;: 5,
-      &quot;comments&quot;: 0,
-      &quot;reading_time&quot;: 6,
-      &quot;author&quot;: &quot;alvarogfn&quot;
-    },
-    {
-      &quot;title&quot;: &quot;The Scaffold: Playwright Project Structure Built for AI&quot;,
-      &quot;description&quot;: &quot;Have you ever started a new Playwright project and spent the first two days just figuring out where...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/idavidov13/the-scaffold-playwright-project-structure-built-for-ai-3a62&quot;,
-      &quot;tags&quot;: &quot;testing, qa, playwright, ai&quot;,
-      &quot;reactions&quot;: 0,
-      &quot;comments&quot;: 0,
-      &quot;reading_time&quot;: 4,
-      &quot;author&quot;: &quot;idavidov13&quot;
-    },
-    {
-      &quot;title&quot;: &quot;I built a desktop app that orchestrates Claude, GPT, Gemini and local Ollama in a 3-phase pipeline&quot;,
-      &quot;description&quot;: &quot;I've been building desktop AI tools for a while, and one frustration kept coming up: every AI model...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/tsunamayo7/i-built-a-desktop-app-that-orchestrates-claude-gpt-gemini-and-local-ollama-in-a-3-phase-pipeline-1ml7&quot;,
-      &quot;tags&quot;: &quot;showdev, ai, python, opensource&quot;,
+      &quot;title&quot;: &quot;Agent Skills: Automatically Scaffold a .NET Solution Structure&quot;,
+      &quot;description&quot;: &quot;Starting a new .NET project often involves the same repetitive steps:   Create the solution Add...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/incomplete_developer/agent-skills-automatically-scaffold-a-net-solution-structure-1570&quot;,
+      &quot;tags&quot;: &quot;agents, ai, programming, codex&quot;,
       &quot;reactions&quot;: 0,
       &quot;comments&quot;: 0,
       &quot;reading_time&quot;: 2,
-      &quot;author&quot;: &quot;tsunamayo7&quot;
-    },
-    {
-      &quot;title&quot;: &quot;Why We Chose Local LLMs Over Cloud-Only (and When We Break That Rule)&quot;,
-      &quot;description&quot;: &quot;How we cut AI costs by ~90% with local models while keeping cloud APIs for strategic decisions&quot;,
-      &quot;url&quot;: &quot;https://dev.to/mfs_corp/why-we-chose-local-llms-over-cloud-only-and-when-we-break-that-rule-2nne&quot;,
-      &quot;tags&quot;: &quot;ai, llm, selfhosted, infrastructure&quot;,
-      &quot;reactions&quot;: 0,
-      &quot;comments&quot;: 0,
-      &quot;reading_time&quot;: 3,
-      &quot;author&quot;: &quot;mfs_corp&quot;
-    },
-    {
-      &quot;title&quot;: &quot;I Built a Voice-to-Code VS Code Extension That Runs Entirely On-Device&quot;,
-      &quot;description&quot;: &quot;Every AI coding assistant requires typing. GitHub Copilot, Continue, Kiro — they all expect you to...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/agentic_engineer/i-built-a-voice-to-code-vs-code-extension-that-runs-entirely-on-device-16gc&quot;,
-      &quot;tags&quot;: &quot;vscode, ai, opensource, a11y&quot;,
-      &quot;reactions&quot;: 0,
-      &quot;comments&quot;: 0,
-      &quot;reading_time&quot;: 2,
-      &quot;author&quot;: &quot;agentic_engineer&quot;
-    },
-    {
-      &quot;title&quot;: &quot;Agent Memory Architecture: How Our AI Remembers Across Sessions&quot;,
-      &quot;description&quot;: &quot;Building persistent memory for AI agents that wake up fresh each session&quot;,
-      &quot;url&quot;: &quot;https://dev.to/mfs_corp/agent-memory-architecture-how-our-ai-remembers-across-sessions-j8l&quot;,
-      &quot;tags&quot;: &quot;ai, architecture, memory, programming&quot;,
-      &quot;reactions&quot;: 1,
-      &quot;comments&quot;: 0,
-      &quot;reading_time&quot;: 5,
-      &quot;author&quot;: &quot;mfs_corp&quot;
-    },
-    {
-      &quot;title&quot;: &quot;The lost-in-the-middle problem and why retrieval beats stuffing&quot;,
-      &quot;description&quot;: &quot;Your agent has a 200K token context window. So you dump everything in there — MEMORY.md, daily logs,...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/anajuliabit/the-lost-in-the-middle-problem-and-why-retrieval-beats-stuffing-1h37&quot;,
-      &quot;tags&quot;: &quot;ai, memory, llm, agents&quot;,
-      &quot;reactions&quot;: 0,
-      &quot;comments&quot;: 0,
-      &quot;reading_time&quot;: 4,
-      &quot;author&quot;: &quot;anajuliabit&quot;
+      &quot;author&quot;: &quot;incomplete_developer&quot;
     }
   ]
 }
@@ -744,332 +671,260 @@ Request error: Request failed with status code 403
   &quot;source&quot;: &quot;hackernews&quot;,
   &quot;items&quot;: [
     {
-      &quot;by&quot;: &quot;tambourine_man&quot;,
-      &quot;descendants&quot;: 90,
-      &quot;id&quot;: 47202708,
+      &quot;by&quot;: &quot;MBCook&quot;,
+      &quot;descendants&quot;: 4,
+      &quot;id&quot;: 47213866,
       &quot;kids&quot;: [
-        47203987,
-        47203703,
-        47204191,
-        47203786,
-        47203702,
-        47204303,
-        47204123,
-        47204188,
-        47204061,
-        47204151,
-        47203192,
-        47202976,
-        47203653,
-        47203236,
-        47204051,
-        47203465,
-        47203796,
-        47203592,
-        47203044,
-        47203705,
-        47203423,
-        47203247,
-        47202895,
-        47203222
+        47214737,
+        47214660,
+        47214677,
+        47214718,
+        47214580
       ],
-      &quot;score&quot;: 528,
-      &quot;time&quot;: 1772329166,
-      &quot;title&quot;: &quot;Microgpt&quot;,
+      &quot;score&quot;: 67,
+      &quot;time&quot;: 1772425433,
+      &quot;title&quot;: &quot;Computer-generated dream world: Virtual reality for a 286 processor&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;http://karpathy.github.io/2026/02/12/microgpt/&quot;
+      &quot;url&quot;: &quot;https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/&quot;
     },
     {
-      &quot;by&quot;: &quot;golfer&quot;,
-      &quot;descendants&quot;: 206,
-      &quot;id&quot;: 47200420,
-      &quot;kids&quot;: [
-        47201779,
-        47204355,
-        47202878,
-        47202880,
-        47202700,
-        47202705,
-        47202593,
-        47204025,
-        47203193,
-        47203086,
-        47202561,
-        47200742,
-        47201018,
-        47202342,
-        47202930,
-        47203526,
-        47204238,
-        47201846,
-        47202982,
-        47203205,
-        47202819,
-        47203810,
-        47204185,
-        47202259,
-        47202989,
-        47202485,
-        47203709,
-        47202964,
-        47202805,
-        47203872,
-        47201644,
-        47203566,
-        47201647,
-        47201703,
-        47202907,
-        47201852,
-        47202809,
-        47203284,
-        47202582,
-        47202542,
-        47202756,
-        47202283,
-        47201731,
-        47202438,
-        47202800,
-        47203894,
-        47202752,
-        47202688,
-        47202885,
-        47202199
-      ],
-      &quot;score&quot;: 454,
-      &quot;time&quot;: 1772313856,
-      &quot;title&quot;: &quot;We do not think Anthropic should be designated as a supply chain risk&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://twitter.com/OpenAI/status/2027846016423321831&quot;
-    },
-    {
-      &quot;by&quot;: &quot;ksec&quot;,
-      &quot;descendants&quot;: 132,
-      &quot;id&quot;: 47200904,
-      &quot;kids&quot;: [
-        47201788,
-        47201474,
-        47201511,
-        47202356,
-        47202621,
-        47203294,
-        47204150,
-        47202699,
-        47204194,
-        47201499,
-        47201332,
-        47201900,
-        47201700,
-        47201549,
-        47201521,
-        47202318
-      ],
-      &quot;score&quot;: 222,
-      &quot;time&quot;: 1772317176,
-      &quot;title&quot;: &quot;The Windows 95 user interface: A case study in usability engineering (1996)&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://dl.acm.org/doi/fullHtml/10.1145/238386.238611&quot;
-    },
-    {
-      &quot;by&quot;: &quot;zdw&quot;,
-      &quot;descendants&quot;: 8,
-      &quot;id&quot;: 47152448,
-      &quot;kids&quot;: [
-        47204165,
-        47204035
-      ],
-      &quot;score&quot;: 34,
-      &quot;time&quot;: 1772031680,
-      &quot;title&quot;: &quot;Sub-second volumetric 3D printing by synthesis of holographic light fields&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://www.nature.com/articles/s41586-026-10114-5&quot;
-    },
-    {
-      &quot;by&quot;: &quot;bewal416&quot;,
-      &quot;descendants&quot;: 218,
-      &quot;id&quot;: 47161759,
-      &quot;kids&quot;: [
-        47199926,
-        47199531,
-        47199743,
-        47204067,
-        47199108,
-        47202544,
-        47202710,
-        47199844,
-        47198937,
-        47199300,
-        47199344,
-        47199730,
-        47199974,
-        47201680,
-        47203069,
-        47199957,
-        47203601,
-        47203289,
-        47200118,
-        47203282,
-        47200105,
-        47200064,
-        47201178,
-        47201925,
-        47203561,
-        47200937,
-        47200275,
-        47201225,
-        47199945,
-        47198865,
-        47199325,
-        47203927,
-        47202348,
-        47201800,
-        47199372,
-        47200279
-      ],
-      &quot;score&quot;: 432,
-      &quot;time&quot;: 1772079227,
-      &quot;title&quot;: &quot;The happiest I've ever been&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://ben-mini.com/2026/the-happiest-ive-ever-been&quot;
-    },
-    {
-      &quot;by&quot;: &quot;adilmoujahid&quot;,
-      &quot;descendants&quot;: 154,
-      &quot;id&quot;: 47197267,
-      &quot;kids&quot;: [
-        47197627,
-        47198321,
-        47204092,
-        47198426,
-        47200196,
-        47200484,
-        47197433,
-        47204101,
-        47200666,
-        47198043,
-        47202445,
-        47201047,
-        47197391,
-        47199063,
-        47200225,
-        47197991,
-        47198915,
-        47197588,
-        47200223,
-        47199872,
-        47202021,
-        47200282,
-        47200685,
-        47198997,
-        47197484,
-        47199717,
-        47198375,
-        47197666,
-        47200387,
-        47198301,
-        47200235,
-        47197697,
-        47200750,
-        47197679,
-        47197445,
-        47201442
-      ],
-      &quot;score&quot;: 451,
-      &quot;time&quot;: 1772296313,
-      &quot;title&quot;: &quot;Obsidian Sync now has a headless client&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://help.obsidian.md/sync/headless&quot;
-    },
-    {
-      &quot;by&quot;: &quot;mrngm&quot;,
-      &quot;descendants&quot;: 14,
-      &quot;id&quot;: 47163779,
-      &quot;kids&quot;: [
-        47203743,
-        47203740,
-        47203190,
-        47203312,
-        47202894,
-        47186205
-      ],
-      &quot;score&quot;: 64,
-      &quot;time&quot;: 1772097537,
-      &quot;title&quot;: &quot;H-Bomb: A Frank Lloyd Wright Typographic Mystery&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic&quot;
-    },
-    {
-      &quot;by&quot;: &quot;todsacerdoti&quot;,
-      &quot;descendants&quot;: 86,
-      &quot;id&quot;: 47198977,
-      &quot;kids&quot;: [
-        47200608,
-        47202649,
-        47201799,
-        47204334,
-        47202780,
-        47201441,
-        47200936,
-        47200802,
-        47202458,
-        47202707,
-        47200418,
-        47203491,
-        47201215,
-        47203354,
-        47203316,
-        47203769,
-        47203434,
-        47202480,
-        47201660,
-        47204103,
-        47200850,
-        47200972,
-        47201367,
-        47200845,
-        47200978,
-        47203349,
-        47200624
-      ],
-      &quot;score&quot;: 191,
-      &quot;time&quot;: 1772305441,
-      &quot;title&quot;: &quot;Block the “Upgrade to Tahoe” Alerts&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/&quot;
-    },
-    {
-      &quot;by&quot;: &quot;jawiggins&quot;,
-      &quot;descendants&quot;: 38,
-      &quot;id&quot;: 47201816,
-      &quot;kids&quot;: [
-        47204178,
-        47202718,
-        47203883,
-        47202576,
-        47202832,
-        47202423,
-        47203756,
-        47202495,
-        47202464,
-        47203325,
-        47203435,
-        47202420
-      ],
-      &quot;score&quot;: 54,
-      &quot;text&quot;: &quot;Recently several AI labs have published experiments where they tried to get AI coding agents to complete large software projects.&lt;p&gt;- Cursor attempted to make a browser from scratch: &lt;a href=\&quot;https:&amp;#x2F;&amp;#x2F;cursor.com&amp;#x2F;blog&amp;#x2F;scaling-agents\&quot; rel=\&quot;nofollow\&quot;&gt;https:&amp;#x2F;&amp;#x2F;cursor.com&amp;#x2F;blog&amp;#x2F;scaling-agents&lt;/a&gt;&lt;p&gt;- Anthropic attempted to make a C Compiler: &lt;a href=\&quot;https:&amp;#x2F;&amp;#x2F;www.anthropic.com&amp;#x2F;engineering&amp;#x2F;building-c-compiler\&quot; rel=\&quot;nofollow\&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.anthropic.com&amp;#x2F;engineering&amp;#x2F;building-c-compiler&lt;/a&gt;&lt;p&gt;I have been wondering if there are software packages that can be easily reproduced by taking the available test suites and tasking agents to work on projects until the existing test suites pass.&lt;p&gt;After playing with this concept by having Claude Code reproduce redis and sqlite, I began looking for software packages where an agent-made reproduction might actually be useful.&lt;p&gt;I found libxml2, a widely used, open-source C language library designed for parsing, creating, and manipulating XML and HTML documents. Three months ago it became unmaintained with the update, &amp;quot;This project is unmaintained and has\n[known security issues](&lt;a href=\&quot;https:&amp;#x2F;&amp;#x2F;gitlab.gnome.org&amp;#x2F;GNOME&amp;#x2F;libxml2&amp;#x2F;-&amp;#x2F;issues&amp;#x2F;346\&quot; rel=\&quot;nofollow\&quot;&gt;https:&amp;#x2F;&amp;#x2F;gitlab.gnome.org&amp;#x2F;GNOME&amp;#x2F;libxml2&amp;#x2F;-&amp;#x2F;issues&amp;#x2F;346&lt;/a&gt;). It is foolish to use this software to process untrusted data.&amp;quot;.&lt;p&gt;With a few days of work, I was able to create xmloxide, a memory safe rust replacement for libxml2 which passes the compatibility suite as well as the W3C XML Conformance Test Suite. Performance is similar on most parsing operations and better on serialization. It comes with a C API so that it can be a replacement for existing uses of libxml2.&lt;p&gt;- crates.io: &lt;a href=\&quot;https:&amp;#x2F;&amp;#x2F;crates.io&amp;#x2F;crates&amp;#x2F;xmloxide\&quot; rel=\&quot;nofollow\&quot;&gt;https:&amp;#x2F;&amp;#x2F;crates.io&amp;#x2F;crates&amp;#x2F;xmloxide&lt;/a&gt;&lt;p&gt;- GitHub release: &lt;a href=\&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;jonwiggins&amp;#x2F;xmloxide&amp;#x2F;releases&amp;#x2F;tag&amp;#x2F;v0.1.0\&quot; rel=\&quot;nofollow\&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;jonwiggins&amp;#x2F;xmloxide&amp;#x2F;releases&amp;#x2F;tag&amp;#x2F;v0.1.0&lt;/a&gt;&lt;p&gt;While I don&amp;#x27;t expect people to cut over to this new and unproven package, I do think there is something interesting to think about here in how coding agents like Claude Code can quickly iterate given a test suite. It&amp;#x27;s possible the legacy code problem that COBOL and other systems present will go away as rewrites become easier. The problem of ongoing maintenance to fix CVEs and update to later package versions becomes a larger percentage of software package management work.&quot;,
-      &quot;time&quot;: 1772322281,
-      &quot;title&quot;: &quot;Show HN: Xmloxide – an agent made rust replacement for libxml2&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://github.com/jonwiggins/xmloxide&quot;
-    },
-    {
-      &quot;by&quot;: &quot;rmoff&quot;,
+      &quot;by&quot;: &quot;km&quot;,
       &quot;descendants&quot;: 0,
-      &quot;id&quot;: 47167432,
-      &quot;score&quot;: 12,
-      &quot;time&quot;: 1772119899,
-      &quot;title&quot;: &quot;Hardwood: A New Parser for Apache Parquet&quot;,
+      &quot;id&quot;: 47214645,
+      &quot;score&quot;: 14,
+      &quot;time&quot;: 1772434087,
+      &quot;title&quot;: &quot;Motorola announces a partnership with GrapheneOS Foundation&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/&quot;
+      &quot;url&quot;: &quot;https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/&quot;
+    },
+    {
+      &quot;by&quot;: &quot;mandel_x&quot;,
+      &quot;descendants&quot;: 174,
+      &quot;id&quot;: 47212355,
+      &quot;kids&quot;: [
+        47214629,
+        47214007,
+        47213630,
+        47213208,
+        47214096,
+        47213895,
+        47214624,
+        47214586,
+        47214699,
+        47214499,
+        47213296,
+        47214510,
+        47213482,
+        47213779,
+        47214118,
+        47214336,
+        47214467,
+        47214109,
+        47214399,
+        47214447,
+        47213336,
+        47213865,
+        47214500,
+        47214459,
+        47214597,
+        47214017,
+        47212356,
+        47213985,
+        47214274,
+        47214145,
+        47214090,
+        47213983,
+        47213962,
+        47213795,
+        47214750,
+        47214290,
+        47213312,
+        47213163,
+        47213361,
+        47213149,
+        47213234,
+        47213823,
+        47213028,
+        47214547,
+        47214137,
+        47213698,
+        47213335,
+        47213237,
+        47214206,
+        47214302,
+        47214216,
+        47214564,
+        47214556,
+        47213822,
+        47214536,
+        47212521,
+        47213227,
+        47213264,
+        47213809,
+        47212627,
+        47214264,
+        47214166,
+        47213388,
+        47213933,
+        47213353,
+        47213738,
+        47213320,
+        47213911
+      ],
+      &quot;score&quot;: 160,
+      &quot;time&quot;: 1772411272,
+      &quot;title&quot;: &quot;If AI writes code, should the session be part of the commit?&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://github.com/mandel-macaque/memento&quot;
+    },
+    {
+      &quot;by&quot;: &quot;ggm&quot;,
+      &quot;descendants&quot;: 5,
+      &quot;id&quot;: 47214250,
+      &quot;kids&quot;: [
+        47214727,
+        47214628,
+        47214528,
+        47214502
+      ],
+      &quot;score&quot;: 14,
+      &quot;time&quot;: 1772429976,
+      &quot;title&quot;: &quot;Evolving descriptive text of mental content from human brain activity&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts&quot;
+    },
+    {
+      &quot;by&quot;: &quot;andsoitis&quot;,
+      &quot;descendants&quot;: 138,
+      &quot;id&quot;: 47211249,
+      &quot;kids&quot;: [
+        47214780,
+        47213538,
+        47212021,
+        47211732,
+        47213807,
+        47212023,
+        47213995,
+        47213255,
+        47211921,
+        47213825,
+        47212931,
+        47214372,
+        47213595,
+        47212699,
+        47212014,
+        47211866,
+        47212882,
+        47213855,
+        47211400,
+        47212074,
+        47212496,
+        47212391
+      ],
+      &quot;score&quot;: 254,
+      &quot;time&quot;: 1772403238,
+      &quot;title&quot;: &quot;WebMCP is available for early preview&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://developer.chrome.com/blog/webmcp-epp&quot;
+    },
+    {
+      &quot;by&quot;: &quot;aranaur&quot;,
+      &quot;descendants&quot;: 28,
+      &quot;id&quot;: 47213764,
+      &quot;kids&quot;: [
+        47214392,
+        47213952,
+        47213826,
+        47214213,
+        47214483,
+        47214605,
+        47213833,
+        47214456,
+        47213829,
+        47213900,
+        47214011,
+        47214234,
+        47213859,
+        47213888
+      ],
+      &quot;score&quot;: 164,
+      &quot;time&quot;: 1772424360,
+      &quot;title&quot;: &quot;Everett shuts down Flock camera network after judge rules footage public record&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae&quot;
+    },
+    {
+      &quot;by&quot;: &quot;kossisoroyce&quot;,
+      &quot;descendants&quot;: 11,
+      &quot;id&quot;: 47212576,
+      &quot;kids&quot;: [
+        47213614,
+        47213507,
+        47213671,
+        47214612,
+        47213724,
+        47213467,
+        47214198,
+        47213239
+      ],
+      &quot;score&quot;: 105,
+      &quot;time&quot;: 1772413060,
+      &quot;title&quot;: &quot;Show HN: Timber – Ollama for classical ML models, 336x faster than Python&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://github.com/kossisoroyce/timber&quot;
+    },
+    {
+      &quot;by&quot;: &quot;Curiositry&quot;,
+      &quot;descendants&quot;: 6,
+      &quot;id&quot;: 47213819,
+      &quot;kids&quot;: [
+        47214506,
+        47214525,
+        47214662,
+        47214508
+      ],
+      &quot;score&quot;: 21,
+      &quot;time&quot;: 1772424916,
+      &quot;title&quot;: &quot;How to record and retrieve anything you've ever had to look up twice&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase&quot;
+    },
+    {
+      &quot;by&quot;: &quot;bilsbie&quot;,
+      &quot;descendants&quot;: 24,
+      &quot;id&quot;: 47211830,
+      &quot;kids&quot;: [
+        47214334,
+        47213737,
+        47214098,
+        47214578,
+        47214208,
+        47214361,
+        47214086,
+        47213815,
+        47213896,
+        47213770,
+        47213894,
+        47214134
+      ],
+      &quot;score&quot;: 99,
+      &quot;time&quot;: 1772406916,
+      &quot;title&quot;: &quot;Right-sizes LLM models to your system's RAM, CPU, and GPU&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://github.com/AlexsJones/llmfit&quot;
+    },
+    {
+      &quot;by&quot;: &quot;vismit2000&quot;,
+      &quot;descendants&quot;: 1,
+      &quot;id&quot;: 47214367,
+      &quot;kids&quot;: [
+        47214524
+      ],
+      &quot;score&quot;: 6,
+      &quot;time&quot;: 1772431143,
+      &quot;title&quot;: &quot;An interactive intro to Elliptic Curve Cryptography&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://growingswe.com/blog/elliptic-curve-cryptography&quot;
     }
   ]
 }</code></pre></details></article><article class="report-section"><h2>3. Product Launches to Review/React</h2><p><strong>Query:</strong> What products launched that I can review or react to?</p><h3>Command</h3><pre><code class="language-bash">echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/main.js --json reddit -t startups -s new</code></pre><details class="output-details" open><summary>Output</summary><pre><code class="language-text">[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set
@@ -1080,406 +935,358 @@ Request error: Request failed with status code 403
   &quot;source&quot;: &quot;hackernews&quot;,
   &quot;items&quot;: [
     {
-      &quot;by&quot;: &quot;tambourine_man&quot;,
-      &quot;descendants&quot;: 90,
-      &quot;id&quot;: 47202708,
+      &quot;by&quot;: &quot;MBCook&quot;,
+      &quot;descendants&quot;: 4,
+      &quot;id&quot;: 47213866,
       &quot;kids&quot;: [
-        47203987,
-        47203703,
-        47204191,
-        47203786,
-        47203702,
-        47204303,
-        47204123,
-        47204188,
-        47204061,
-        47204151,
-        47203192,
-        47202976,
-        47203653,
-        47203236,
-        47204051,
-        47203465,
-        47203796,
-        47203592,
-        47203044,
-        47203705,
-        47203423,
-        47203247,
-        47202895,
-        47203222
+        47214737,
+        47214660,
+        47214677,
+        47214718,
+        47214580
       ],
-      &quot;score&quot;: 528,
-      &quot;time&quot;: 1772329166,
-      &quot;title&quot;: &quot;Microgpt&quot;,
+      &quot;score&quot;: 67,
+      &quot;time&quot;: 1772425433,
+      &quot;title&quot;: &quot;Computer-generated dream world: Virtual reality for a 286 processor&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;http://karpathy.github.io/2026/02/12/microgpt/&quot;
+      &quot;url&quot;: &quot;https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/&quot;
     },
     {
-      &quot;by&quot;: &quot;golfer&quot;,
-      &quot;descendants&quot;: 206,
-      &quot;id&quot;: 47200420,
-      &quot;kids&quot;: [
-        47201779,
-        47204355,
-        47202878,
-        47202880,
-        47202700,
-        47202705,
-        47202593,
-        47204025,
-        47203193,
-        47203086,
-        47202561,
-        47200742,
-        47201018,
-        47202342,
-        47202930,
-        47203526,
-        47204238,
-        47201846,
-        47202982,
-        47203205,
-        47202819,
-        47203810,
-        47204185,
-        47202259,
-        47202989,
-        47202485,
-        47203709,
-        47202964,
-        47202805,
-        47203872,
-        47201644,
-        47203566,
-        47201647,
-        47201703,
-        47202907,
-        47201852,
-        47202809,
-        47203284,
-        47202582,
-        47202542,
-        47202756,
-        47202283,
-        47201731,
-        47202438,
-        47202800,
-        47203894,
-        47202752,
-        47202688,
-        47202885,
-        47202199
-      ],
-      &quot;score&quot;: 454,
-      &quot;time&quot;: 1772313856,
-      &quot;title&quot;: &quot;We do not think Anthropic should be designated as a supply chain risk&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://twitter.com/OpenAI/status/2027846016423321831&quot;
-    },
-    {
-      &quot;by&quot;: &quot;ksec&quot;,
-      &quot;descendants&quot;: 132,
-      &quot;id&quot;: 47200904,
-      &quot;kids&quot;: [
-        47201788,
-        47201474,
-        47201511,
-        47202356,
-        47202621,
-        47203294,
-        47204150,
-        47202699,
-        47204194,
-        47201499,
-        47201332,
-        47201900,
-        47201700,
-        47201549,
-        47201521,
-        47202318
-      ],
-      &quot;score&quot;: 222,
-      &quot;time&quot;: 1772317176,
-      &quot;title&quot;: &quot;The Windows 95 user interface: A case study in usability engineering (1996)&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://dl.acm.org/doi/fullHtml/10.1145/238386.238611&quot;
-    },
-    {
-      &quot;by&quot;: &quot;zdw&quot;,
-      &quot;descendants&quot;: 8,
-      &quot;id&quot;: 47152448,
-      &quot;kids&quot;: [
-        47204165,
-        47204035
-      ],
-      &quot;score&quot;: 34,
-      &quot;time&quot;: 1772031680,
-      &quot;title&quot;: &quot;Sub-second volumetric 3D printing by synthesis of holographic light fields&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://www.nature.com/articles/s41586-026-10114-5&quot;
-    },
-    {
-      &quot;by&quot;: &quot;bewal416&quot;,
-      &quot;descendants&quot;: 218,
-      &quot;id&quot;: 47161759,
-      &quot;kids&quot;: [
-        47199926,
-        47199531,
-        47199743,
-        47204067,
-        47199108,
-        47202544,
-        47202710,
-        47199844,
-        47198937,
-        47199300,
-        47199344,
-        47199730,
-        47199974,
-        47201680,
-        47203069,
-        47199957,
-        47203601,
-        47203289,
-        47200118,
-        47203282,
-        47200105,
-        47200064,
-        47201178,
-        47201925,
-        47203561,
-        47200937,
-        47200275,
-        47201225,
-        47199945,
-        47198865,
-        47199325,
-        47203927,
-        47202348,
-        47201800,
-        47199372,
-        47200279
-      ],
-      &quot;score&quot;: 432,
-      &quot;time&quot;: 1772079227,
-      &quot;title&quot;: &quot;The happiest I've ever been&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://ben-mini.com/2026/the-happiest-ive-ever-been&quot;
-    },
-    {
-      &quot;by&quot;: &quot;adilmoujahid&quot;,
-      &quot;descendants&quot;: 154,
-      &quot;id&quot;: 47197267,
-      &quot;kids&quot;: [
-        47197627,
-        47198321,
-        47204092,
-        47198426,
-        47200196,
-        47200484,
-        47197433,
-        47204101,
-        47200666,
-        47198043,
-        47202445,
-        47201047,
-        47197391,
-        47199063,
-        47200225,
-        47197991,
-        47198915,
-        47197588,
-        47200223,
-        47199872,
-        47202021,
-        47200282,
-        47200685,
-        47198997,
-        47197484,
-        47199717,
-        47198375,
-        47197666,
-        47200387,
-        47198301,
-        47200235,
-        47197697,
-        47200750,
-        47197679,
-        47197445,
-        47201442
-      ],
-      &quot;score&quot;: 451,
-      &quot;time&quot;: 1772296313,
-      &quot;title&quot;: &quot;Obsidian Sync now has a headless client&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://help.obsidian.md/sync/headless&quot;
-    },
-    {
-      &quot;by&quot;: &quot;mrngm&quot;,
-      &quot;descendants&quot;: 14,
-      &quot;id&quot;: 47163779,
-      &quot;kids&quot;: [
-        47203743,
-        47203740,
-        47203190,
-        47203312,
-        47202894,
-        47186205
-      ],
-      &quot;score&quot;: 64,
-      &quot;time&quot;: 1772097537,
-      &quot;title&quot;: &quot;H-Bomb: A Frank Lloyd Wright Typographic Mystery&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic&quot;
-    },
-    {
-      &quot;by&quot;: &quot;todsacerdoti&quot;,
-      &quot;descendants&quot;: 86,
-      &quot;id&quot;: 47198977,
-      &quot;kids&quot;: [
-        47200608,
-        47202649,
-        47201799,
-        47204334,
-        47202780,
-        47201441,
-        47200936,
-        47200802,
-        47202458,
-        47202707,
-        47200418,
-        47203491,
-        47201215,
-        47203354,
-        47203316,
-        47203769,
-        47203434,
-        47202480,
-        47201660,
-        47204103,
-        47200850,
-        47200972,
-        47201367,
-        47200845,
-        47200978,
-        47203349,
-        47200624
-      ],
-      &quot;score&quot;: 191,
-      &quot;time&quot;: 1772305441,
-      &quot;title&quot;: &quot;Block the “Upgrade to Tahoe” Alerts&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/&quot;
-    },
-    {
-      &quot;by&quot;: &quot;jawiggins&quot;,
-      &quot;descendants&quot;: 38,
-      &quot;id&quot;: 47201816,
-      &quot;kids&quot;: [
-        47204178,
-        47202718,
-        47203883,
-        47202576,
-        47202832,
-        47202423,
-        47203756,
-        47202495,
-        47202464,
-        47203325,
-        47203435,
-        47202420
-      ],
-      &quot;score&quot;: 54,
-      &quot;text&quot;: &quot;Recently several AI labs have published experiments where they tried to get AI coding agents to complete large software projects.&lt;p&gt;- Cursor attempted to make a browser from scratch: &lt;a href=\&quot;https:&amp;#x2F;&amp;#x2F;cursor.com&amp;#x2F;blog&amp;#x2F;scaling-agents\&quot; rel=\&quot;nofollow\&quot;&gt;https:&amp;#x2F;&amp;#x2F;cursor.com&amp;#x2F;blog&amp;#x2F;scaling-agents&lt;/a&gt;&lt;p&gt;- Anthropic attempted to make a C Compiler: &lt;a href=\&quot;https:&amp;#x2F;&amp;#x2F;www.anthropic.com&amp;#x2F;engineering&amp;#x2F;building-c-compiler\&quot; rel=\&quot;nofollow\&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.anthropic.com&amp;#x2F;engineering&amp;#x2F;building-c-compiler&lt;/a&gt;&lt;p&gt;I have been wondering if there are software packages that can be easily reproduced by taking the available test suites and tasking agents to work on projects until the existing test suites pass.&lt;p&gt;After playing with this concept by having Claude Code reproduce redis and sqlite, I began looking for software packages where an agent-made reproduction might actually be useful.&lt;p&gt;I found libxml2, a widely used, open-source C language library designed for parsing, creating, and manipulating XML and HTML documents. Three months ago it became unmaintained with the update, &amp;quot;This project is unmaintained and has\n[known security issues](&lt;a href=\&quot;https:&amp;#x2F;&amp;#x2F;gitlab.gnome.org&amp;#x2F;GNOME&amp;#x2F;libxml2&amp;#x2F;-&amp;#x2F;issues&amp;#x2F;346\&quot; rel=\&quot;nofollow\&quot;&gt;https:&amp;#x2F;&amp;#x2F;gitlab.gnome.org&amp;#x2F;GNOME&amp;#x2F;libxml2&amp;#x2F;-&amp;#x2F;issues&amp;#x2F;346&lt;/a&gt;). It is foolish to use this software to process untrusted data.&amp;quot;.&lt;p&gt;With a few days of work, I was able to create xmloxide, a memory safe rust replacement for libxml2 which passes the compatibility suite as well as the W3C XML Conformance Test Suite. Performance is similar on most parsing operations and better on serialization. It comes with a C API so that it can be a replacement for existing uses of libxml2.&lt;p&gt;- crates.io: &lt;a href=\&quot;https:&amp;#x2F;&amp;#x2F;crates.io&amp;#x2F;crates&amp;#x2F;xmloxide\&quot; rel=\&quot;nofollow\&quot;&gt;https:&amp;#x2F;&amp;#x2F;crates.io&amp;#x2F;crates&amp;#x2F;xmloxide&lt;/a&gt;&lt;p&gt;- GitHub release: &lt;a href=\&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;jonwiggins&amp;#x2F;xmloxide&amp;#x2F;releases&amp;#x2F;tag&amp;#x2F;v0.1.0\&quot; rel=\&quot;nofollow\&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;jonwiggins&amp;#x2F;xmloxide&amp;#x2F;releases&amp;#x2F;tag&amp;#x2F;v0.1.0&lt;/a&gt;&lt;p&gt;While I don&amp;#x27;t expect people to cut over to this new and unproven package, I do think there is something interesting to think about here in how coding agents like Claude Code can quickly iterate given a test suite. It&amp;#x27;s possible the legacy code problem that COBOL and other systems present will go away as rewrites become easier. The problem of ongoing maintenance to fix CVEs and update to later package versions becomes a larger percentage of software package management work.&quot;,
-      &quot;time&quot;: 1772322281,
-      &quot;title&quot;: &quot;Show HN: Xmloxide – an agent made rust replacement for libxml2&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://github.com/jonwiggins/xmloxide&quot;
-    },
-    {
-      &quot;by&quot;: &quot;rmoff&quot;,
+      &quot;by&quot;: &quot;km&quot;,
       &quot;descendants&quot;: 0,
-      &quot;id&quot;: 47167432,
-      &quot;score&quot;: 12,
-      &quot;time&quot;: 1772119899,
-      &quot;title&quot;: &quot;Hardwood: A New Parser for Apache Parquet&quot;,
+      &quot;id&quot;: 47214645,
+      &quot;score&quot;: 14,
+      &quot;time&quot;: 1772434087,
+      &quot;title&quot;: &quot;Motorola announces a partnership with GrapheneOS Foundation&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/&quot;
+      &quot;url&quot;: &quot;https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/&quot;
     },
     {
-      &quot;by&quot;: &quot;adamnemecek&quot;,
-      &quot;descendants&quot;: 112,
-      &quot;id&quot;: 47155526,
+      &quot;by&quot;: &quot;mandel_x&quot;,
+      &quot;descendants&quot;: 174,
+      &quot;id&quot;: 47212355,
       &quot;kids&quot;: [
-        47199044,
-        47196606,
-        47156906,
-        47197498,
-        47204114,
-        47197036,
-        47198889,
-        47198896,
-        47201376,
-        47198443,
-        47200116,
-        47202807,
-        47198540,
-        47197343,
-        47197250,
-        47196807,
-        47196026,
-        47196675
+        47214629,
+        47214007,
+        47213630,
+        47213208,
+        47214096,
+        47213895,
+        47214624,
+        47214586,
+        47214699,
+        47214499,
+        47213296,
+        47214510,
+        47213482,
+        47213779,
+        47214118,
+        47214336,
+        47214467,
+        47214109,
+        47214399,
+        47214447,
+        47213336,
+        47213865,
+        47214500,
+        47214459,
+        47214597,
+        47214017,
+        47212356,
+        47213985,
+        47214274,
+        47214145,
+        47214090,
+        47213983,
+        47213962,
+        47213795,
+        47214750,
+        47214290,
+        47213312,
+        47213163,
+        47213361,
+        47213149,
+        47213234,
+        47213823,
+        47213028,
+        47214547,
+        47214137,
+        47213698,
+        47213335,
+        47213237,
+        47214206,
+        47214302,
+        47214216,
+        47214564,
+        47214556,
+        47213822,
+        47214536,
+        47212521,
+        47213227,
+        47213264,
+        47213809,
+        47212627,
+        47214264,
+        47214166,
+        47213388,
+        47213933,
+        47213353,
+        47213738,
+        47213320,
+        47213911
       ],
-      &quot;score&quot;: 273,
-      &quot;time&quot;: 1772043886,
-      &quot;title&quot;: &quot;Woxi: Wolfram Mathematica Reimplementation in Rust&quot;,
+      &quot;score&quot;: 160,
+      &quot;time&quot;: 1772411272,
+      &quot;title&quot;: &quot;If AI writes code, should the session be part of the commit?&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://github.com/ad-si/Woxi&quot;
+      &quot;url&quot;: &quot;https://github.com/mandel-macaque/memento&quot;
     },
     {
-      &quot;by&quot;: &quot;RyanShook&quot;,
-      &quot;descendants&quot;: 187,
-      &quot;id&quot;: 47195371,
+      &quot;by&quot;: &quot;ggm&quot;,
+      &quot;descendants&quot;: 5,
+      &quot;id&quot;: 47214250,
       &quot;kids&quot;: [
-        47195943,
-        47195879,
-        47195796,
-        47197621,
-        47198537,
-        47196427,
-        47202306,
-        47197339,
-        47196995,
-        47196732,
-        47201545,
-        47195885,
-        47201626,
-        47203905,
-        47196693,
-        47195726,
-        47196293,
-        47202768,
-        47195580,
-        47197703,
-        47200568,
-        47196687,
-        47197942,
-        47196752,
-        47196548,
-        47198724,
-        47196898,
-        47196226,
-        47196735,
-        47199140,
-        47200142,
-        47195735
+        47214727,
+        47214628,
+        47214528,
+        47214502
       ],
-      &quot;score&quot;: 227,
-      &quot;time&quot;: 1772286613,
-      &quot;title&quot;: &quot;Addressing Antigravity Bans and Reinstating Access&quot;,
+      &quot;score&quot;: 14,
+      &quot;time&quot;: 1772429976,
+      &quot;title&quot;: &quot;Evolving descriptive text of mental content from human brain activity&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://github.com/google-gemini/gemini-cli/discussions/20632&quot;
+      &quot;url&quot;: &quot;https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts&quot;
+    },
+    {
+      &quot;by&quot;: &quot;andsoitis&quot;,
+      &quot;descendants&quot;: 138,
+      &quot;id&quot;: 47211249,
+      &quot;kids&quot;: [
+        47214780,
+        47213538,
+        47212021,
+        47211732,
+        47213807,
+        47212023,
+        47213995,
+        47213255,
+        47211921,
+        47213825,
+        47212931,
+        47214372,
+        47213595,
+        47212699,
+        47212014,
+        47211866,
+        47212882,
+        47213855,
+        47211400,
+        47212074,
+        47212496,
+        47212391
+      ],
+      &quot;score&quot;: 254,
+      &quot;time&quot;: 1772403238,
+      &quot;title&quot;: &quot;WebMCP is available for early preview&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://developer.chrome.com/blog/webmcp-epp&quot;
+    },
+    {
+      &quot;by&quot;: &quot;aranaur&quot;,
+      &quot;descendants&quot;: 28,
+      &quot;id&quot;: 47213764,
+      &quot;kids&quot;: [
+        47214392,
+        47213952,
+        47213826,
+        47214213,
+        47214483,
+        47214605,
+        47213833,
+        47214456,
+        47213829,
+        47213900,
+        47214011,
+        47214234,
+        47213859,
+        47213888
+      ],
+      &quot;score&quot;: 164,
+      &quot;time&quot;: 1772424360,
+      &quot;title&quot;: &quot;Everett shuts down Flock camera network after judge rules footage public record&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae&quot;
+    },
+    {
+      &quot;by&quot;: &quot;kossisoroyce&quot;,
+      &quot;descendants&quot;: 11,
+      &quot;id&quot;: 47212576,
+      &quot;kids&quot;: [
+        47213614,
+        47213507,
+        47213671,
+        47214612,
+        47213724,
+        47213467,
+        47214198,
+        47213239
+      ],
+      &quot;score&quot;: 105,
+      &quot;time&quot;: 1772413060,
+      &quot;title&quot;: &quot;Show HN: Timber – Ollama for classical ML models, 336x faster than Python&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://github.com/kossisoroyce/timber&quot;
+    },
+    {
+      &quot;by&quot;: &quot;Curiositry&quot;,
+      &quot;descendants&quot;: 6,
+      &quot;id&quot;: 47213819,
+      &quot;kids&quot;: [
+        47214506,
+        47214525,
+        47214662,
+        47214508
+      ],
+      &quot;score&quot;: 21,
+      &quot;time&quot;: 1772424916,
+      &quot;title&quot;: &quot;How to record and retrieve anything you've ever had to look up twice&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase&quot;
+    },
+    {
+      &quot;by&quot;: &quot;bilsbie&quot;,
+      &quot;descendants&quot;: 24,
+      &quot;id&quot;: 47211830,
+      &quot;kids&quot;: [
+        47214334,
+        47213737,
+        47214098,
+        47214578,
+        47214208,
+        47214361,
+        47214086,
+        47213815,
+        47213896,
+        47213770,
+        47213894,
+        47214134
+      ],
+      &quot;score&quot;: 99,
+      &quot;time&quot;: 1772406916,
+      &quot;title&quot;: &quot;Right-sizes LLM models to your system's RAM, CPU, and GPU&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://github.com/AlexsJones/llmfit&quot;
+    },
+    {
+      &quot;by&quot;: &quot;vismit2000&quot;,
+      &quot;descendants&quot;: 1,
+      &quot;id&quot;: 47214367,
+      &quot;kids&quot;: [
+        47214524
+      ],
+      &quot;score&quot;: 6,
+      &quot;time&quot;: 1772431143,
+      &quot;title&quot;: &quot;An interactive intro to Elliptic Curve Cryptography&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://growingswe.com/blog/elliptic-curve-cryptography&quot;
+    },
+    {
+      &quot;by&quot;: &quot;cosmiciron&quot;,
+      &quot;descendants&quot;: 32,
+      &quot;id&quot;: 47206082,
+      &quot;kids&quot;: [
+        47214353,
+        47214003,
+        47214375,
+        47213860,
+        47214653,
+        47213946,
+        47213987,
+        47214389,
+        47214001,
+        47214212,
+        47214388,
+        47213902,
+        47214418,
+        47214539,
+        47211558
+      ],
+      &quot;score&quot;: 61,
+      &quot;text&quot;: &quot;Hi HN, I&amp;#x27;m a film director by trade, and I prefer writing my stories in plain text rather than using clunky screenplay software. Standard markup like Fountain doesn&amp;#x27;t work for me because I write in mixed languages, so I use Markdown with a custom syntax I invented to resemble standard screenplay structures.&lt;p&gt;This workflow is great until I need to actually generate an industry-standard screenplay PDF. I got tired of manually copying and pasting my text back into the clunky software just to export it, so I decided to write a script to automate the process. That&amp;#x27;s when I hit a wall.&lt;p&gt;I tried using React-pdf and other high-level libraries, but they failed me on two fronts: true multilingual text shaping, and complex contextual pagination. Specifically, the strict screenplay requirement to automatically inject (MORE) at the bottom of a page and (CONT&amp;#x27;D) at the top of the next page when a character&amp;#x27;s dialogue is split across a page break.&lt;p&gt;You can&amp;#x27;t really do that elegantly when the layout engine is a black box. So, I bypassed them and built my own typesetting engine from scratch.&lt;p&gt;VMPrint is a deterministic, zero-browser layout VM written in pure TypeScript. It abandons the DOM entirely. It loads OpenType fonts, runs grapheme-accurate text segmentation (Intl.Segmenter), calculates interval-arithmetic spatial boundaries for text wrapping, and outputs a flat array of absolute coordinates.&lt;p&gt;Some stats:&lt;p&gt;Zero dependencies on Node.js APIs or the DOM (runs in Cloudflare Workers, Lambda, browser).&lt;p&gt;88 KiB core packed.&lt;p&gt;Performance: On a Snapdragon Elite ARM chip, the engine&amp;#x27;s &amp;quot;God Fixture&amp;quot; (8 pages of mixed CJK, Arabic RTL, drop caps, and multi-page spanning tables) completes layout and rendering in ~28ms.&lt;p&gt;The repo also includes draft2final, the CLI tool I built to convert Markdown into publication-grade PDFs (including the screenplay flavor) using this engine.&lt;p&gt;This is my first open-source launch. The manuscript is still waiting, but the engine shipped instead. I’d love to hear your thoughts, answer any questions about the math or the architecture, and see if anyone else finds this useful!&lt;p&gt;---\nA note on AI usage: To be fully transparent about how this was built, I engineered the core concept (an all-flat, morphable box-based system inspired by game engines, applied to page layouts), the interval-arithmetic math, the grapheme segmentation, and the layout logic entirely by hand. I did use AI as a coding assistant at the functional level, but the overall software architecture, component structures, and APIs were meticulously designed by me.&lt;p&gt;For a little background: I’ve been a professional systems engineer since 1992. I’ve worked as a senior system architect for several Fortune 500 companies and currently serve as Chief Scientist at a major telecom infrastructure provider. I also created one of the world&amp;#x27;s first real-time video encoding technologies for low-power mobile phones (in the pre-smartphone era). I&amp;#x27;m no stranger to deep tech, and a deterministic layout VM is exactly the kind of strict, math-heavy system that simply cannot be effectively constructed with a few lines of AI prompts.&quot;,
+      &quot;time&quot;: 1772367911,
+      &quot;title&quot;: &quot;Show HN: I built a zero-browser, pure-JS typesetting engine for bit-perfect PDFs&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://github.com/cosmiciron/vmprint&quot;
+    },
+    {
+      &quot;by&quot;: &quot;oli5679&quot;,
+      &quot;descendants&quot;: 303,
+      &quot;id&quot;: 47206009,
+      &quot;kids&quot;: [
+        47207472,
+        47207426,
+        47210190,
+        47208122,
+        47208294,
+        47208835,
+        47209562,
+        47207248,
+        47213903,
+        47207458,
+        47207215,
+        47209078,
+        47208510,
+        47212497,
+        47209547,
+        47209914,
+        47213792,
+        47209945,
+        47212697,
+        47208165,
+        47209574,
+        47210638,
+        47206940,
+        47207436,
+        47210530,
+        47209250,
+        47211184,
+        47208712,
+        47213236,
+        47209294,
+        47210153,
+        47207410,
+        47209230,
+        47209236,
+        47207715,
+        47206989,
+        47208090,
+        47208777,
+        47207802,
+        47206757,
+        47212526,
+        47208450,
+        47209760,
+        47207241,
+        47208539,
+        47208406,
+        47211310,
+        47209743,
+        47207382,
+        47212292,
+        47208189,
+        47208312,
+        47208176,
+        47209767,
+        47209089,
+        47210254,
+        47210129,
+        47207346
+      ],
+      &quot;score&quot;: 695,
+      &quot;time&quot;: 1772367183,
+      &quot;title&quot;: &quot;Ghostty – Terminal Emulator&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://ghostty.org/docs&quot;
     }
   ]
 }
@@ -1490,111 +1297,111 @@ Request error: Request failed with status code 403
   &quot;tag&quot;: null,
   &quot;items&quot;: [
     {
-      &quot;title&quot;: &quot;Package Managers à la Carte: A Formal Model of Dependency Resolution&quot;,
-      &quot;url&quot;: &quot;https://arxiv.org/abs/2602.18602&quot;,
-      &quot;score&quot;: 59,
-      &quot;comments&quot;: 8,
+      &quot;title&quot;: &quot;AWS Middle East Central Zone (UAE) down, apparently struck in war&quot;,
+      &quot;url&quot;: &quot;https://health.aws.amazon.com/health/status&quot;,
+      &quot;score&quot;: 50,
+      &quot;comments&quot;: 23,
       &quot;tags&quot;: [
-        &quot;compsci&quot;
+        &quot;devops&quot;,
+        &quot;networking&quot;
       ],
-      &quot;id&quot;: &quot;fm1eln&quot;
+      &quot;id&quot;: &quot;pf4r2b&quot;
     },
     {
-      &quot;title&quot;: &quot;prek: a better `pre-commit`&quot;,
-      &quot;url&quot;: &quot;https://github.com/j178/prek&quot;,
-      &quot;score&quot;: 29,
-      &quot;comments&quot;: 18,
+      &quot;title&quot;: &quot;What even are Breeze, QtQuick, QtWidget, Union..?&quot;,
+      &quot;url&quot;: &quot;https://akselmo.dev/posts/what-are-breeze-widgets-quick-union/&quot;,
+      &quot;score&quot;: 33,
+      &quot;comments&quot;: 1,
       &quot;tags&quot;: [
-        &quot;vibecoding&quot;
+        &quot;linux&quot;
       ],
-      &quot;id&quot;: &quot;v5nyjz&quot;
+      &quot;id&quot;: &quot;bvuwss&quot;
     },
     {
-      &quot;title&quot;: &quot;Yes, and&quot;,
-      &quot;url&quot;: &quot;https://htmx.org/essays/yes-and/&quot;,
-      &quot;score&quot;: 100,
-      &quot;comments&quot;: 3,
-      &quot;tags&quot;: [
-        &quot;practices&quot;,
-        &quot;programming&quot;,
-        &quot;vibecoding&quot;
-      ],
-      &quot;id&quot;: &quot;tza0zh&quot;
-    },
-    {
-      &quot;title&quot;: &quot;Block the “Upgrade to Tahoe” alerts&quot;,
-      &quot;url&quot;: &quot;https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/&quot;,
-      &quot;score&quot;: 21,
-      &quot;comments&quot;: 12,
-      &quot;tags&quot;: [
-        &quot;mac&quot;
-      ],
-      &quot;id&quot;: &quot;kch6lb&quot;
-    },
-    {
-      &quot;title&quot;: &quot;January in Servo: preloads, better forms, details styling, and more&quot;,
-      &quot;url&quot;: &quot;https://servo.org/blog/2026/02/28/january-in-servo/&quot;,
-      &quot;score&quot;: 38,
-      &quot;comments&quot;: 0,
-      &quot;tags&quot;: [
-        &quot;browsers&quot;,
-        &quot;release&quot;
-      ],
-      &quot;id&quot;: &quot;gpcwus&quot;
-    },
-    {
-      &quot;title&quot;: &quot;fast-servers: an interesting pattern&quot;,
-      &quot;url&quot;: &quot;https://geocar.sdf1.org/fast-servers.html&quot;,
-      &quot;score&quot;: 21,
+      &quot;title&quot;: &quot;qman: A more modern man page viewer for our terminals&quot;,
+      &quot;url&quot;: &quot;https://github.com/plp13/qman&quot;,
+      &quot;score&quot;: 27,
       &quot;comments&quot;: 6,
       &quot;tags&quot;: [
-        &quot;c&quot;,
         &quot;unix&quot;
       ],
-      &quot;id&quot;: &quot;3fevyk&quot;
+      &quot;id&quot;: &quot;zuh3zm&quot;
     },
     {
-      &quot;title&quot;: &quot;15 Years of Indie Dev In 4 Bits of Advice&quot;,
-      &quot;url&quot;: &quot;https://www.pentadact.com/2026-01-08-15-years-of-indie-dev-in-4-bits-of-advice/&quot;,
-      &quot;score&quot;: 39,
-      &quot;comments&quot;: 1,
+      &quot;title&quot;: &quot;The 64-bit Hurd has landed in Guix&quot;,
+      &quot;url&quot;: &quot;https://guix.gnu.org/en/blog/2026/the-64-bit-hurd/&quot;,
+      &quot;score&quot;: 47,
+      &quot;comments&quot;: 6,
       &quot;tags&quot;: [
-        &quot;games&quot;
+        &quot;nix&quot;
       ],
-      &quot;id&quot;: &quot;asryy7&quot;
+      &quot;id&quot;: &quot;98geyn&quot;
     },
     {
-      &quot;title&quot;: &quot;Custom Data Structures in E-Graphs&quot;,
-      &quot;url&quot;: &quot;https://uwplse.org/2026/02/24/egglog-containers.html&quot;,
+      &quot;title&quot;: &quot;Why does C have the best file API?&quot;,
+      &quot;url&quot;: &quot;https://maurycyz.com/misc/c_files/&quot;,
+      &quot;score&quot;: 22,
+      &quot;comments&quot;: 25,
+      &quot;tags&quot;: [
+        &quot;c&quot;,
+        &quot;programming&quot;
+      ],
+      &quot;id&quot;: &quot;39kel0&quot;
+    },
+    {
+      &quot;title&quot;: &quot;Espanso - an open-source, cross-platform text expander&quot;,
+      &quot;url&quot;: &quot;https://github.com/espanso/espanso&quot;,
+      &quot;score&quot;: 8,
+      &quot;comments&quot;: 2,
+      &quot;tags&quot;: [
+        &quot;release&quot;,
+        &quot;rust&quot;
+      ],
+      &quot;id&quot;: &quot;7vzrm3&quot;
+    },
+    {
+      &quot;title&quot;: &quot;xuv: X11 user daemon to automatically run commands triggered by user specified events&quot;,
+      &quot;url&quot;: &quot;https://codeberg.org/NRK/xuv&quot;,
       &quot;score&quot;: 7,
-      &quot;comments&quot;: 1,
-      &quot;tags&quot;: [
-        &quot;logiclangs&quot;,
-        &quot;plt&quot;,
-        &quot;python&quot;
-      ],
-      &quot;id&quot;: &quot;szaazg&quot;
-    },
-    {
-      &quot;title&quot;: &quot;AI=true is an Anti-Pattern&quot;,
-      &quot;url&quot;: &quot;https://keleshev.com/ai-equals-true-is-an-anti-pattern&quot;,
-      &quot;score&quot;: 23,
-      &quot;comments&quot;: 4,
-      &quot;tags&quot;: [
-        &quot;practices&quot;,
-        &quot;vibecoding&quot;
-      ],
-      &quot;id&quot;: &quot;iedoot&quot;
-    },
-    {
-      &quot;title&quot;: &quot;Cash issuing terminals&quot;,
-      &quot;url&quot;: &quot;https://computer.rip/2026-02-27-ibm-atm.html&quot;,
-      &quot;score&quot;: 12,
       &quot;comments&quot;: 0,
       &quot;tags&quot;: [
-        &quot;historical&quot;
+        &quot;c&quot;,
+        &quot;linux&quot;
       ],
-      &quot;id&quot;: &quot;98pmg9&quot;
+      &quot;id&quot;: &quot;mnvpnc&quot;
+    },
+    {
+      &quot;title&quot;: &quot;Process-Based Concurrency: Why BEAM and OTP Keep Being Right&quot;,
+      &quot;url&quot;: &quot;https://variantsystems.io/blog/beam-otp-process-concurrency&quot;,
+      &quot;score&quot;: 5,
+      &quot;comments&quot;: 1,
+      &quot;tags&quot;: [
+        &quot;elixir&quot;,
+        &quot;erlang&quot;
+      ],
+      &quot;id&quot;: &quot;dqb6hx&quot;
+    },
+    {
+      &quot;title&quot;: &quot;tsink - Embedded Time-Series Database for Rust&quot;,
+      &quot;url&quot;: &quot;https://saturnine.cc/tsink&quot;,
+      &quot;score&quot;: 9,
+      &quot;comments&quot;: 0,
+      &quot;tags&quot;: [
+        &quot;databases&quot;,
+        &quot;rust&quot;,
+        &quot;show&quot;
+      ],
+      &quot;id&quot;: &quot;zwdukd&quot;
+    },
+    {
+      &quot;title&quot;: &quot;You can use newline characters in URLs&quot;,
+      &quot;url&quot;: &quot;https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/&quot;,
+      &quot;score&quot;: 36,
+      &quot;comments&quot;: 7,
+      &quot;tags&quot;: [
+        &quot;web&quot;
+      ],
+      &quot;id&quot;: &quot;r9xqns&quot;
     }
   ]
 }</code></pre></details></article>
