@@ -21,7 +21,7 @@
 
     <main class="content">
       <section class="card">
-        <h1>Hacker Feeds Outcomes - Creators</h1><p class="meta">Audience: Creators | Generated: 2026-03-15 07:12:57 UTC</p><p class="meta">Runtime: executed with NODE_OPTIONS=--require /tmp/hf-polyfill.js</p><article class="report-section"><h2>1. Hot Content Themes Today</h2><p><strong>Query:</strong> What content themes are hot today?</p><h3>Command</h3><pre><code class="language-bash">echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/main.js --json reddit -t popular -s hot ; node bin/main.js --json devto -s top -c 10</code></pre><details class="output-details" open><summary>Output</summary><pre><code class="language-text">[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set
+        <h1>Hacker Feeds Outcomes - Creators</h1><p class="meta">Audience: Creators | Generated: 2026-03-16 07:48:27 UTC</p><p class="meta">Runtime: executed with NODE_OPTIONS=--require /tmp/hf-polyfill.js</p><article class="report-section"><h2>1. Hot Content Themes Today</h2><p><strong>Query:</strong> What content themes are hot today?</p><h3>Command</h3><pre><code class="language-bash">echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/main.js --json reddit -t popular -s hot ; node bin/main.js --json devto -s top -c 10</code></pre><details class="output-details" open><summary>Output</summary><pre><code class="language-text">[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set
 - Fetching feeds...
 Request error: Request failed with status code 403
 ✖ Request failed. Check network/API settings and try again.
@@ -32,44 +32,94 @@ Request error: Request failed with status code 403
   &quot;sort&quot;: &quot;top&quot;,
   &quot;items&quot;: [
     {
-      &quot;title&quot;: &quot;90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?&quot;,
-      &quot;description&quot;: &quot;I read the headline at 11pm on a random Wednesday.  \&quot;Anthropic CEO predicts 90% of all code will be...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3&quot;,
-      &quot;tags&quot;: &quot;ai, career, webdev, javascript&quot;,
-      &quot;reactions&quot;: 31,
-      &quot;comments&quot;: 20,
+      &quot;title&quot;: &quot;Why I, as Someone Who Likes MySQL, Now Want to Recommend PostgreSQL&quot;,
+      &quot;description&quot;: &quot;Why I now recommend PostgreSQL for new applications, even though I still like MySQL and have used it for a long time.&quot;,
+      &quot;url&quot;: &quot;https://dev.to/catatsuy/why-i-as-someone-who-likes-mysql-now-want-to-recommend-postgresql-2a8i&quot;,
+      &quot;tags&quot;: &quot;mysql, postgres, database, sql&quot;,
+      &quot;reactions&quot;: 6,
+      &quot;comments&quot;: 2,
+      &quot;reading_time&quot;: 13,
+      &quot;author&quot;: &quot;catatsuy&quot;
+    },
+    {
+      &quot;title&quot;: &quot;Thiago Colen's Digital Universe: Building a Content-Synced Portfolio with Gatsby &amp; DEV.to&quot;,
+      &quot;description&quot;: &quot;Learn how I built a high-performance personal site that automatically syncs articles from DEV.to using Gatsby, providing a 'write once, publish everywhere' workflow.&quot;,
+      &quot;url&quot;: &quot;https://dev.to/thiagocolen/thiago-colens-digital-universe-building-a-content-synced-portfolio-with-gatsby-devto-31cj&quot;,
+      &quot;tags&quot;: &quot;gatsby, devto, jamstack, react&quot;,
+      &quot;reactions&quot;: 1,
+      &quot;comments&quot;: 0,
+      &quot;reading_time&quot;: 3,
+      &quot;author&quot;: &quot;thiagocolen&quot;
+    },
+    {
+      &quot;title&quot;: &quot;Gemini CLI and Jules: my March 2026 stack&quot;,
+      &quot;description&quot;: &quot;Development workflow is a very personal thing. As the various AI and LLM coding tools evolve, I've...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146&quot;,
+      &quot;tags&quot;: &quot;ai, javascript, tooling, webdev&quot;,
+      &quot;reactions&quot;: 0,
+      &quot;comments&quot;: 0,
       &quot;reading_time&quot;: 7,
-      &quot;author&quot;: &quot;harsh2644&quot;
+      &quot;author&quot;: &quot;rowan_m&quot;
+    },
+    {
+      &quot;title&quot;: &quot;Fortran meets AI&quot;,
+      &quot;description&quot;: &quot;A computer science exam from 1978 and 2026 AI models &quot;,
+      &quot;url&quot;: &quot;https://dev.to/viksaaskool/fortran-meets-ai-3oac&quot;,
+      &quot;tags&quot;: &quot;fortran, ai&quot;,
+      &quot;reactions&quot;: 5,
+      &quot;comments&quot;: 0,
+      &quot;reading_time&quot;: 3,
+      &quot;author&quot;: &quot;viksaaskool&quot;
     },
     {
       &quot;title&quot;: &quot;What was your win this week?!&quot;,
       &quot;description&quot;: &quot;👋👋👋👋  Looking back on your week -- what was something you're proud of?  All wins count -- big or...&quot;,
       &quot;url&quot;: &quot;https://dev.to/devteam/what-was-your-win-this-week-ilf&quot;,
       &quot;tags&quot;: &quot;weeklyretro, discuss&quot;,
-      &quot;reactions&quot;: 42,
-      &quot;comments&quot;: 96,
+      &quot;reactions&quot;: 56,
+      &quot;comments&quot;: 128,
       &quot;reading_time&quot;: 1,
       &quot;author&quot;: &quot;jess&quot;
-    },
-    {
-      &quot;title&quot;: &quot;I Built EchoHR: The HR System That Doesn’t Ghost You&quot;,
-      &quot;description&quot;: &quot;This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i&quot;,
-      &quot;tags&quot;: &quot;devchallenge, notionchallenge, mcp, ai&quot;,
-      &quot;reactions&quot;: 35,
-      &quot;comments&quot;: 50,
-      &quot;reading_time&quot;: 5,
-      &quot;author&quot;: &quot;ujja&quot;
     },
     {
       &quot;title&quot;: &quot;Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark &amp; Demo🚀)&quot;,
       &quot;description&quot;: &quot;JavaScript has been the main language of the web for years. Its popularity probably surprised even...&quot;,
       &quot;url&quot;: &quot;https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i&quot;,
       &quot;tags&quot;: &quot;webdev, javascript, typescript, webgpu&quot;,
-      &quot;reactions&quot;: 56,
-      &quot;comments&quot;: 60,
+      &quot;reactions&quot;: 82,
+      &quot;comments&quot;: 78,
       &quot;reading_time&quot;: 6,
       &quot;author&quot;: &quot;sylwia-lask&quot;
+    },
+    {
+      &quot;title&quot;: &quot;90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?&quot;,
+      &quot;description&quot;: &quot;I read the headline at 11pm on a random Wednesday.  \&quot;Anthropic CEO predicts 90% of all code will be...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3&quot;,
+      &quot;tags&quot;: &quot;ai, career, webdev, javascript&quot;,
+      &quot;reactions&quot;: 48,
+      &quot;comments&quot;: 42,
+      &quot;reading_time&quot;: 7,
+      &quot;author&quot;: &quot;harsh2644&quot;
+    },
+    {
+      &quot;title&quot;: &quot;mcp-pvp — Privacy Vault Protocol for MCP&quot;,
+      &quot;description&quot;: &quot;Inspiration   We were building an AI agent that handled customer support emails. The agent...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/mitiku1/mcp-pvp-privacy-vault-protocol-for-mcp-2b80&quot;,
+      &quot;tags&quot;: &quot;ai, security, privacy, agents&quot;,
+      &quot;reactions&quot;: 0,
+      &quot;comments&quot;: 0,
+      &quot;reading_time&quot;: 6,
+      &quot;author&quot;: &quot;mitiku1&quot;
+    },
+    {
+      &quot;title&quot;: &quot;I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.&quot;,
+      &quot;description&quot;: &quot;An ETH Zurich study from February 2026 tested something most of us assumed was helping: giving AI...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl&quot;,
+      &quot;tags&quot;: &quot;ai, agents, productivity, tutorial&quot;,
+      &quot;reactions&quot;: 0,
+      &quot;comments&quot;: 0,
+      &quot;reading_time&quot;: 6,
+      &quot;author&quot;: &quot;alexefimenko&quot;
     },
     {
       &quot;title&quot;: &quot;Your AI code reviewer has no one to disagree with&quot;,
@@ -80,56 +130,6 @@ Request error: Request failed with status code 403
       &quot;comments&quot;: 1,
       &quot;reading_time&quot;: 5,
       &quot;author&quot;: &quot;spencermarx&quot;
-    },
-    {
-      &quot;title&quot;: &quot;Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)&quot;,
-      &quot;description&quot;: &quot;Agregar un CDN parece algo obvio. Hasta que es lo único que se interpone entre tú y un deployment...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh&quot;,
-      &quot;tags&quot;: &quot;arquitecturacloud, decisionesdearquitec&quot;,
-      &quot;reactions&quot;: 30,
-      &quot;comments&quot;: 0,
-      &quot;reading_time&quot;: 3,
-      &quot;author&quot;: &quot;davidcuy&quot;
-    },
-    {
-      &quot;title&quot;: &quot;I'm frozen and I cannot move&quot;,
-      &quot;description&quot;: &quot;This text is 100% handmade, like the code I am writing...  Recent developments in the AI realm made...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g&quot;,
-      &quot;tags&quot;: &quot;ai, programming, productivity&quot;,
-      &quot;reactions&quot;: 2,
-      &quot;comments&quot;: 1,
-      &quot;reading_time&quot;: 2,
-      &quot;author&quot;: &quot;jankapunkt&quot;
-    },
-    {
-      &quot;title&quot;: &quot;The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?&quot;,
-      &quot;description&quot;: &quot;Stack Overflow helped train the AI models that are now making it irrelevant. As developers solve problems privately with AI assistants, the public knowledge commons is quietly starving. This is an underrated problem.&quot;,
-      &quot;url&quot;: &quot;https://dev.to/sag1v/the-internet-is-getting-quieter-who-will-feed-the-next-generation-of-ai-4bl1&quot;,
-      &quot;tags&quot;: &quot;ai, knowledgesharing, stackoverflow, opinion&quot;,
-      &quot;reactions&quot;: 37,
-      &quot;comments&quot;: 20,
-      &quot;reading_time&quot;: 5,
-      &quot;author&quot;: &quot;sag1v&quot;
-    },
-    {
-      &quot;title&quot;: &quot;Параллелизм в ruby 1: создаем потоки&quot;,
-      &quot;description&quot;: &quot;я бы хотел бы поставить точки над i в тему тредов и ракторов, как минимум сам для себя; посмотреть какие задачи на параллелизм решаются в других языках, что можно оттуда подчеркнуть и перенести в Ruby&quot;,
-      &quot;url&quot;: &quot;https://dev.to/kopylov_vlad/parallielizm-v-ruby-1-sozdaiem-potoki-2i83&quot;,
-      &quot;tags&quot;: &quot;ruby, rails, thread&quot;,
-      &quot;reactions&quot;: 2,
-      &quot;comments&quot;: 0,
-      &quot;reading_time&quot;: 4,
-      &quot;author&quot;: &quot;kopylov_vlad&quot;
-    },
-    {
-      &quot;title&quot;: &quot;The Local AI Powerhouse&quot;,
-      &quot;description&quot;: &quot;Introduction   Keeping up with everything AI-related in the recent months has got me...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/amjadmh73/the-local-ai-powerhouse-28j&quot;,
-      &quot;tags&quot;: &quot;ai, qwen, localllm, gptoss&quot;,
-      &quot;reactions&quot;: 0,
-      &quot;comments&quot;: 0,
-      &quot;reading_time&quot;: 4,
-      &quot;author&quot;: &quot;amjadmh73&quot;
     }
   ]
 }</code></pre></details></article><article class="report-section"><h2>2. This Week AI + Web Content Ideas</h2><p><strong>Query:</strong> What should I make a video/post about this week in AI + web?</p><h3>Command</h3><pre><code class="language-bash">node bin/main.js --json github -s weekly -l javascript ; node bin/main.js --json devto -t ai -s top -c 10 ; node bin/main.js --json news -t 10</code></pre><details class="output-details" open><summary>Output</summary><pre><code class="language-text">- Fetching feeds...
@@ -139,119 +139,41 @@ Request error: Request failed with status code 403
   &quot;language&quot;: &quot;javascript&quot;,
   &quot;items&quot;: [
     {
-      &quot;author&quot;: &quot;aandrew-me&quot;,
-      &quot;repo&quot;: &quot;ytDownloader&quot;,
-      &quot;avatar&quot;: &quot;https://github.com/aandrew-me.png&quot;,
-      &quot;repo_link&quot;: &quot;https://github.com/aandrew-me/ytDownloader&quot;,
-      &quot;desc&quot;: &quot;Desktop App for downloading Videos and Audios from hundreds of sites&quot;,
+      &quot;author&quot;: &quot;pbakaus&quot;,
+      &quot;repo&quot;: &quot;impeccable&quot;,
+      &quot;avatar&quot;: &quot;https://github.com/pbakaus.png&quot;,
+      &quot;repo_link&quot;: &quot;https://github.com/pbakaus/impeccable&quot;,
+      &quot;desc&quot;: &quot;The design language that makes your AI harness better at design.&quot;,
       &quot;lang&quot;: &quot;JavaScript&quot;,
       &quot;languageColor&quot;: &quot;#f1e05a&quot;,
       &quot;stars&quot;: 0,
-      &quot;forks&quot;: 754,
-      &quot;added_stars&quot;: 382,
+      &quot;forks&quot;: 356,
+      &quot;added_stars&quot;: 7077,
       &quot;builtBy&quot;: [
         {
-          &quot;username&quot;: &quot;aandrew-me&quot;,
-          &quot;href&quot;: &quot;https://github.com/aandrew-me&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/66430340&quot;
+          &quot;username&quot;: &quot;pbakaus&quot;,
+          &quot;href&quot;: &quot;https://github.com/pbakaus&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/43004&quot;
         },
-        {
-          &quot;username&quot;: &quot;albanobattistella&quot;,
-          &quot;href&quot;: &quot;https://github.com/albanobattistella&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/34811668&quot;
-        },
-        {
-          &quot;username&quot;: &quot;Muxutruk2&quot;,
-          &quot;href&quot;: &quot;https://github.com/Muxutruk2&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/156070698&quot;
-        },
-        {
-          &quot;username&quot;: &quot;soredake&quot;,
-          &quot;href&quot;: &quot;https://github.com/soredake&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/5204968&quot;
-        },
-        {
-          &quot;username&quot;: &quot;candrapersada&quot;,
-          &quot;href&quot;: &quot;https://github.com/candrapersada&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/36833664&quot;
-        }
-      ]
-    },
-    {
-      &quot;author&quot;: &quot;apify&quot;,
-      &quot;repo&quot;: &quot;agent-skills&quot;,
-      &quot;avatar&quot;: &quot;https://github.com/apify.png&quot;,
-      &quot;repo_link&quot;: &quot;https://github.com/apify/agent-skills&quot;,
-      &quot;desc&quot;: &quot;Collection of Apify Agent Skills&quot;,
-      &quot;lang&quot;: &quot;JavaScript&quot;,
-      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
-      &quot;stars&quot;: 0,
-      &quot;forks&quot;: 175,
-      &quot;added_stars&quot;: 584,
-      &quot;builtBy&quot;: [
         {
           &quot;username&quot;: &quot;claude&quot;,
           &quot;href&quot;: &quot;https://github.com/claude&quot;,
           &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/81847&quot;
         },
         {
-          &quot;username&quot;: &quot;vystrcild&quot;,
-          &quot;href&quot;: &quot;https://github.com/vystrcild&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/25441338&quot;
+          &quot;username&quot;: &quot;glacierphonk&quot;,
+          &quot;href&quot;: &quot;https://github.com/glacierphonk&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/260244336&quot;
         },
         {
-          &quot;username&quot;: &quot;patrikbraborec&quot;,
-          &quot;href&quot;: &quot;https://github.com/patrikbraborec&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/18550315&quot;
+          &quot;username&quot;: &quot;VaishnavGunjari&quot;,
+          &quot;href&quot;: &quot;https://github.com/VaishnavGunjari&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/169933825&quot;
         },
         {
-          &quot;username&quot;: &quot;B4nan&quot;,
-          &quot;href&quot;: &quot;https://github.com/B4nan&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/615580&quot;
-        },
-        {
-          &quot;username&quot;: &quot;lukas-bekr&quot;,
-          &quot;href&quot;: &quot;https://github.com/lukas-bekr&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/224167845&quot;
-        }
-      ]
-    },
-    {
-      &quot;author&quot;: &quot;is-a-dev&quot;,
-      &quot;repo&quot;: &quot;register&quot;,
-      &quot;avatar&quot;: &quot;https://github.com/is-a-dev.png&quot;,
-      &quot;repo_link&quot;: &quot;https://github.com/is-a-dev/register&quot;,
-      &quot;desc&quot;: &quot;Grab your own sweet-looking '.is-a.dev' subdomain.&quot;,
-      &quot;lang&quot;: &quot;JavaScript&quot;,
-      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
-      &quot;stars&quot;: 0,
-      &quot;forks&quot;: 19095,
-      &quot;added_stars&quot;: 332,
-      &quot;builtBy&quot;: [
-        {
-          &quot;username&quot;: &quot;wdhdev&quot;,
-          &quot;href&quot;: &quot;https://github.com/wdhdev&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/87287585&quot;
-        },
-        {
-          &quot;username&quot;: &quot;DEV-DIBSTER&quot;,
-          &quot;href&quot;: &quot;https://github.com/DEV-DIBSTER&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/76603072&quot;
-        },
-        {
-          &quot;username&quot;: &quot;iostpa&quot;,
-          &quot;href&quot;: &quot;https://github.com/iostpa&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/69630113&quot;
-        },
-        {
-          &quot;username&quot;: &quot;STICKnoLOGIC&quot;,
-          &quot;href&quot;: &quot;https://github.com/STICKnoLOGIC&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/65322242&quot;
-        },
-        {
-          &quot;username&quot;: &quot;orangci&quot;,
-          &quot;href&quot;: &quot;https://github.com/orangci&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/90866414&quot;
+          &quot;username&quot;: &quot;whchi&quot;,
+          &quot;href&quot;: &quot;https://github.com/whchi&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/11798731&quot;
         }
       ]
     },
@@ -264,8 +186,8 @@ Request error: Request failed with status code 403
       &quot;lang&quot;: &quot;JavaScript&quot;,
       &quot;languageColor&quot;: &quot;#f1e05a&quot;,
       &quot;stars&quot;: 0,
-      &quot;forks&quot;: 2534,
-      &quot;added_stars&quot;: 4368,
+      &quot;forks&quot;: 2578,
+      &quot;added_stars&quot;: 4214,
       &quot;builtBy&quot;: [
         {
           &quot;username&quot;: &quot;glittercowboy&quot;,
@@ -295,41 +217,80 @@ Request error: Request failed with status code 403
       ]
     },
     {
-      &quot;author&quot;: &quot;jgraph&quot;,
-      &quot;repo&quot;: &quot;drawio&quot;,
-      &quot;avatar&quot;: &quot;https://github.com/jgraph.png&quot;,
-      &quot;repo_link&quot;: &quot;https://github.com/jgraph/drawio&quot;,
-      &quot;desc&quot;: &quot;draw.io is a JavaScript, client-side editor for general diagramming.&quot;,
+      &quot;author&quot;: &quot;apify&quot;,
+      &quot;repo&quot;: &quot;agent-skills&quot;,
+      &quot;avatar&quot;: &quot;https://github.com/apify.png&quot;,
+      &quot;repo_link&quot;: &quot;https://github.com/apify/agent-skills&quot;,
+      &quot;desc&quot;: &quot;Collection of Apify Agent Skills&quot;,
       &quot;lang&quot;: &quot;JavaScript&quot;,
       &quot;languageColor&quot;: &quot;#f1e05a&quot;,
       &quot;stars&quot;: 0,
-      &quot;forks&quot;: 718,
-      &quot;added_stars&quot;: 177,
+      &quot;forks&quot;: 176,
+      &quot;added_stars&quot;: 352,
       &quot;builtBy&quot;: [
         {
-          &quot;username&quot;: &quot;davidjgraph&quot;,
-          &quot;href&quot;: &quot;https://github.com/davidjgraph&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/1761087&quot;
+          &quot;username&quot;: &quot;claude&quot;,
+          &quot;href&quot;: &quot;https://github.com/claude&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/81847&quot;
         },
         {
-          &quot;username&quot;: &quot;alderg&quot;,
-          &quot;href&quot;: &quot;https://github.com/alderg&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/921200&quot;
+          &quot;username&quot;: &quot;vystrcild&quot;,
+          &quot;href&quot;: &quot;https://github.com/vystrcild&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/25441338&quot;
         },
         {
-          &quot;username&quot;: &quot;mediaslav&quot;,
-          &quot;href&quot;: &quot;https://github.com/mediaslav&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/472418&quot;
+          &quot;username&quot;: &quot;patrikbraborec&quot;,
+          &quot;href&quot;: &quot;https://github.com/patrikbraborec&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/18550315&quot;
         },
         {
-          &quot;username&quot;: &quot;m-mohamedin&quot;,
-          &quot;href&quot;: &quot;https://github.com/m-mohamedin&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/24944765&quot;
+          &quot;username&quot;: &quot;B4nan&quot;,
+          &quot;href&quot;: &quot;https://github.com/B4nan&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/615580&quot;
         },
         {
-          &quot;username&quot;: &quot;MJomaa&quot;,
-          &quot;href&quot;: &quot;https://github.com/MJomaa&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/9029497&quot;
+          &quot;username&quot;: &quot;lukas-bekr&quot;,
+          &quot;href&quot;: &quot;https://github.com/lukas-bekr&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/224167845&quot;
+        }
+      ]
+    },
+    {
+      &quot;author&quot;: &quot;coreyhaines31&quot;,
+      &quot;repo&quot;: &quot;marketingskills&quot;,
+      &quot;avatar&quot;: &quot;https://github.com/coreyhaines31.png&quot;,
+      &quot;repo_link&quot;: &quot;https://github.com/coreyhaines31/marketingskills&quot;,
+      &quot;desc&quot;: &quot;Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.&quot;,
+      &quot;lang&quot;: &quot;JavaScript&quot;,
+      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
+      &quot;stars&quot;: 0,
+      &quot;forks&quot;: 2011,
+      &quot;added_stars&quot;: 1746,
+      &quot;builtBy&quot;: [
+        {
+          &quot;username&quot;: &quot;coreyhaines31&quot;,
+          &quot;href&quot;: &quot;https://github.com/coreyhaines31&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/34802794&quot;
+        },
+        {
+          &quot;username&quot;: &quot;claude&quot;,
+          &quot;href&quot;: &quot;https://github.com/claude&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/81847&quot;
+        },
+        {
+          &quot;username&quot;: &quot;Jiliac&quot;,
+          &quot;href&quot;: &quot;https://github.com/Jiliac&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/5956866&quot;
+        },
+        {
+          &quot;username&quot;: &quot;bensabic&quot;,
+          &quot;href&quot;: &quot;https://github.com/bensabic&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/27636870&quot;
+        },
+        {
+          &quot;username&quot;: &quot;Ray0907&quot;,
+          &quot;href&quot;: &quot;https://github.com/Ray0907&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/29456968&quot;
         }
       ]
     },
@@ -342,8 +303,8 @@ Request error: Request failed with status code 403
       &quot;lang&quot;: &quot;JavaScript&quot;,
       &quot;languageColor&quot;: &quot;#f1e05a&quot;,
       &quot;stars&quot;: 0,
-      &quot;forks&quot;: 7495,
-      &quot;added_stars&quot;: 557,
+      &quot;forks&quot;: 7499,
+      &quot;added_stars&quot;: 579,
       &quot;builtBy&quot;: [
         {
           &quot;username&quot;: &quot;jaywcjlove&quot;,
@@ -372,12 +333,12 @@ Request error: Request failed with status code 403
       &quot;repo&quot;: &quot;easy-vibe&quot;,
       &quot;avatar&quot;: &quot;https://github.com/datawhalechina.png&quot;,
       &quot;repo_link&quot;: &quot;https://github.com/datawhalechina/easy-vibe&quot;,
-      &quot;desc&quot;: &quot;easy vibe 👋 一起 vibe ! Learn Vibe Coding From 0 to 1 ｜ Vibe Coding 零基础教程 ｜ 产品原型、AI 能力集成、前后端开发、多平台应用开发教程 ｜ Tutorial on Product Prototype, AI Capability Integration, Frontend and Backend Development, and Multi-platform Application Development&quot;,
+      &quot;desc&quot;: &quot;easy vibe 👋 一起 vibe ! Learn Vibe Coding From 0 to 1 ｜ Vibe Coding 零基础教程 ｜产品原型、AI 与全栈多平台开发教程｜Tutorial on Product Prototype, AI &amp; Full-Stack Multi-platform Dev&quot;,
       &quot;lang&quot;: &quot;JavaScript&quot;,
       &quot;languageColor&quot;: &quot;#f1e05a&quot;,
       &quot;stars&quot;: 0,
-      &quot;forks&quot;: 354,
-      &quot;added_stars&quot;: 456,
+      &quot;forks&quot;: 358,
+      &quot;added_stars&quot;: 440,
       &quot;builtBy&quot;: [
         {
           &quot;username&quot;: &quot;sanbuphy&quot;,
@@ -407,6 +368,147 @@ Request error: Request failed with status code 403
       ]
     },
     {
+      &quot;author&quot;: &quot;jgraph&quot;,
+      &quot;repo&quot;: &quot;drawio&quot;,
+      &quot;avatar&quot;: &quot;https://github.com/jgraph.png&quot;,
+      &quot;repo_link&quot;: &quot;https://github.com/jgraph/drawio&quot;,
+      &quot;desc&quot;: &quot;draw.io is a JavaScript, client-side editor for general diagramming.&quot;,
+      &quot;lang&quot;: &quot;JavaScript&quot;,
+      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
+      &quot;stars&quot;: 0,
+      &quot;forks&quot;: 717,
+      &quot;added_stars&quot;: 188,
+      &quot;builtBy&quot;: [
+        {
+          &quot;username&quot;: &quot;davidjgraph&quot;,
+          &quot;href&quot;: &quot;https://github.com/davidjgraph&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/1761087&quot;
+        },
+        {
+          &quot;username&quot;: &quot;alderg&quot;,
+          &quot;href&quot;: &quot;https://github.com/alderg&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/921200&quot;
+        },
+        {
+          &quot;username&quot;: &quot;mediaslav&quot;,
+          &quot;href&quot;: &quot;https://github.com/mediaslav&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/472418&quot;
+        },
+        {
+          &quot;username&quot;: &quot;m-mohamedin&quot;,
+          &quot;href&quot;: &quot;https://github.com/m-mohamedin&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/24944765&quot;
+        },
+        {
+          &quot;username&quot;: &quot;MJomaa&quot;,
+          &quot;href&quot;: &quot;https://github.com/MJomaa&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/9029497&quot;
+        }
+      ]
+    },
+    {
+      &quot;author&quot;: &quot;libaxuan&quot;,
+      &quot;repo&quot;: &quot;cursor2api-go&quot;,
+      &quot;avatar&quot;: &quot;https://github.com/libaxuan.png&quot;,
+      &quot;repo_link&quot;: &quot;https://github.com/libaxuan/cursor2api-go&quot;,
+      &quot;desc&quot;: &quot;Free claude-sonnet-4.6 | cursor不倒我不倒🙏 ❌ 不支持 tools / function calling / MCP&quot;,
+      &quot;lang&quot;: &quot;JavaScript&quot;,
+      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
+      &quot;stars&quot;: 0,
+      &quot;forks&quot;: 267,
+      &quot;added_stars&quot;: 296,
+      &quot;builtBy&quot;: [
+        {
+          &quot;username&quot;: &quot;libaxuan&quot;,
+          &quot;href&quot;: &quot;https://github.com/libaxuan&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/33255877&quot;
+        },
+        {
+          &quot;username&quot;: &quot;highkay&quot;,
+          &quot;href&quot;: &quot;https://github.com/highkay&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/443490&quot;
+        }
+      ]
+    },
+    {
+      &quot;author&quot;: &quot;is-a-dev&quot;,
+      &quot;repo&quot;: &quot;register&quot;,
+      &quot;avatar&quot;: &quot;https://github.com/is-a-dev.png&quot;,
+      &quot;repo_link&quot;: &quot;https://github.com/is-a-dev/register&quot;,
+      &quot;desc&quot;: &quot;Grab your own sweet-looking '.is-a.dev' subdomain.&quot;,
+      &quot;lang&quot;: &quot;JavaScript&quot;,
+      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
+      &quot;stars&quot;: 0,
+      &quot;forks&quot;: 19161,
+      &quot;added_stars&quot;: 245,
+      &quot;builtBy&quot;: [
+        {
+          &quot;username&quot;: &quot;wdhdev&quot;,
+          &quot;href&quot;: &quot;https://github.com/wdhdev&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/87287585&quot;
+        },
+        {
+          &quot;username&quot;: &quot;DEV-DIBSTER&quot;,
+          &quot;href&quot;: &quot;https://github.com/DEV-DIBSTER&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/76603072&quot;
+        },
+        {
+          &quot;username&quot;: &quot;iostpa&quot;,
+          &quot;href&quot;: &quot;https://github.com/iostpa&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/69630113&quot;
+        },
+        {
+          &quot;username&quot;: &quot;STICKnoLOGIC&quot;,
+          &quot;href&quot;: &quot;https://github.com/STICKnoLOGIC&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/65322242&quot;
+        },
+        {
+          &quot;username&quot;: &quot;orangci&quot;,
+          &quot;href&quot;: &quot;https://github.com/orangci&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/90866414&quot;
+        }
+      ]
+    },
+    {
+      &quot;author&quot;: &quot;fishjar&quot;,
+      &quot;repo&quot;: &quot;kiss-translator&quot;,
+      &quot;avatar&quot;: &quot;https://github.com/fishjar.png&quot;,
+      &quot;repo_link&quot;: &quot;https://github.com/fishjar/kiss-translator&quot;,
+      &quot;desc&quot;: &quot;A simple, open source bilingual translation extension &amp; Greasemonkey script (一个简约、开源的 双语对照翻译扩展 &amp; 油猴脚本)&quot;,
+      &quot;lang&quot;: &quot;JavaScript&quot;,
+      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
+      &quot;stars&quot;: 0,
+      &quot;forks&quot;: 380,
+      &quot;added_stars&quot;: 101,
+      &quot;builtBy&quot;: [
+        {
+          &quot;username&quot;: &quot;fishjar&quot;,
+          &quot;href&quot;: &quot;https://github.com/fishjar&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/1157624&quot;
+        },
+        {
+          &quot;username&quot;: &quot;htyxyt&quot;,
+          &quot;href&quot;: &quot;https://github.com/htyxyt&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/62530172&quot;
+        },
+        {
+          &quot;username&quot;: &quot;XYenon&quot;,
+          &quot;href&quot;: &quot;https://github.com/XYenon&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/20698483&quot;
+        },
+        {
+          &quot;username&quot;: &quot;hoilc&quot;,
+          &quot;href&quot;: &quot;https://github.com/hoilc&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/9067094&quot;
+        },
+        {
+          &quot;username&quot;: &quot;maou-shonen&quot;,
+          &quot;href&quot;: &quot;https://github.com/maou-shonen&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/22576780&quot;
+        }
+      ]
+    },
+    {
       &quot;author&quot;: &quot;zhaoolee&quot;,
       &quot;repo&quot;: &quot;ChromeAppHeroes&quot;,
       &quot;avatar&quot;: &quot;https://github.com/zhaoolee.png&quot;,
@@ -416,7 +518,7 @@ Request error: Request failed with status code 403
       &quot;languageColor&quot;: &quot;#f1e05a&quot;,
       &quot;stars&quot;: 0,
       &quot;forks&quot;: 2614,
-      &quot;added_stars&quot;: 778,
+      &quot;added_stars&quot;: 781,
       &quot;builtBy&quot;: [
         {
           &quot;username&quot;: &quot;zhaoolee&quot;,
@@ -436,26 +538,36 @@ Request error: Request failed with status code 403
       ]
     },
     {
-      &quot;author&quot;: &quot;libaxuan&quot;,
-      &quot;repo&quot;: &quot;cursor2api-go&quot;,
-      &quot;avatar&quot;: &quot;https://github.com/libaxuan.png&quot;,
-      &quot;repo_link&quot;: &quot;https://github.com/libaxuan/cursor2api-go&quot;,
-      &quot;desc&quot;: &quot;Free claude-sonnet-4.6 | cursor不倒我不倒🙏 ❌ 不支持 tools / function calling / MCP&quot;,
+      &quot;author&quot;: &quot;FreeTubeApp&quot;,
+      &quot;repo&quot;: &quot;FreeTube&quot;,
+      &quot;avatar&quot;: &quot;https://github.com/FreeTubeApp.png&quot;,
+      &quot;repo_link&quot;: &quot;https://github.com/FreeTubeApp/FreeTube&quot;,
+      &quot;desc&quot;: &quot;An Open Source YouTube app for privacy&quot;,
       &quot;lang&quot;: &quot;JavaScript&quot;,
       &quot;languageColor&quot;: &quot;#f1e05a&quot;,
       &quot;stars&quot;: 0,
-      &quot;forks&quot;: 264,
-      &quot;added_stars&quot;: 304,
+      &quot;forks&quot;: 1355,
+      &quot;added_stars&quot;: 137,
       &quot;builtBy&quot;: [
         {
-          &quot;username&quot;: &quot;libaxuan&quot;,
-          &quot;href&quot;: &quot;https://github.com/libaxuan&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/33255877&quot;
+          &quot;username&quot;: &quot;absidue&quot;,
+          &quot;href&quot;: &quot;https://github.com/absidue&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/48293849&quot;
         },
         {
-          &quot;username&quot;: &quot;highkay&quot;,
-          &quot;href&quot;: &quot;https://github.com/highkay&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/443490&quot;
+          &quot;username&quot;: &quot;PrestonN&quot;,
+          &quot;href&quot;: &quot;https://github.com/PrestonN&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/9736046&quot;
+        },
+        {
+          &quot;username&quot;: &quot;efb4f5ff-1298-471a-8973-3d47447115dc&quot;,
+          &quot;href&quot;: &quot;https://github.com/efb4f5ff-1298-471a-8973-3d47447115dc&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/73130443&quot;
+        },
+        {
+          &quot;username&quot;: &quot;PikachuEXE&quot;,
+          &quot;href&quot;: &quot;https://github.com/PikachuEXE&quot;,
+          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/1018543&quot;
         }
       ]
     },
@@ -468,8 +580,8 @@ Request error: Request failed with status code 403
       &quot;lang&quot;: &quot;JavaScript&quot;,
       &quot;languageColor&quot;: &quot;#f1e05a&quot;,
       &quot;stars&quot;: 0,
-      &quot;forks&quot;: 5822,
-      &quot;added_stars&quot;: 369,
+      &quot;forks&quot;: 5837,
+      &quot;added_stars&quot;: 364,
       &quot;builtBy&quot;: [
         {
           &quot;username&quot;: &quot;songquanpeng&quot;,
@@ -497,84 +609,6 @@ Request error: Request failed with status code 403
           &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/30899719&quot;
         }
       ]
-    },
-    {
-      &quot;author&quot;: &quot;lockfale&quot;,
-      &quot;repo&quot;: &quot;OSINT-Framework&quot;,
-      &quot;avatar&quot;: &quot;https://github.com/lockfale.png&quot;,
-      &quot;repo_link&quot;: &quot;https://github.com/lockfale/OSINT-Framework&quot;,
-      &quot;desc&quot;: &quot;OSINT Framework&quot;,
-      &quot;lang&quot;: &quot;JavaScript&quot;,
-      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
-      &quot;stars&quot;: 0,
-      &quot;forks&quot;: 1788,
-      &quot;added_stars&quot;: 79,
-      &quot;builtBy&quot;: [
-        {
-          &quot;username&quot;: &quot;s0lray&quot;,
-          &quot;href&quot;: &quot;https://github.com/s0lray&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/16158727&quot;
-        },
-        {
-          &quot;username&quot;: &quot;mrpnkt&quot;,
-          &quot;href&quot;: &quot;https://github.com/mrpnkt&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/2102625&quot;
-        },
-        {
-          &quot;username&quot;: &quot;Giddlers&quot;,
-          &quot;href&quot;: &quot;https://github.com/Giddlers&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/212430952&quot;
-        },
-        {
-          &quot;username&quot;: &quot;scanpatch&quot;,
-          &quot;href&quot;: &quot;https://github.com/scanpatch&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/3992998&quot;
-        },
-        {
-          &quot;username&quot;: &quot;bcoles&quot;,
-          &quot;href&quot;: &quot;https://github.com/bcoles&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/434827&quot;
-        }
-      ]
-    },
-    {
-      &quot;author&quot;: &quot;atlassian&quot;,
-      &quot;repo&quot;: &quot;atlassian-mcp-server&quot;,
-      &quot;avatar&quot;: &quot;https://github.com/atlassian.png&quot;,
-      &quot;repo_link&quot;: &quot;https://github.com/atlassian/atlassian-mcp-server&quot;,
-      &quot;desc&quot;: &quot;Remote MCP Server that securely connects Jira and Confluence with your LLM, IDE, or agent platform of choice.&quot;,
-      &quot;lang&quot;: &quot;JavaScript&quot;,
-      &quot;languageColor&quot;: &quot;#f1e05a&quot;,
-      &quot;stars&quot;: 0,
-      &quot;forks&quot;: 44,
-      &quot;added_stars&quot;: 40,
-      &quot;builtBy&quot;: [
-        {
-          &quot;username&quot;: &quot;lsosa1&quot;,
-          &quot;href&quot;: &quot;https://github.com/lsosa1&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/218678431&quot;
-        },
-        {
-          &quot;username&quot;: &quot;pnguyen-atlassian&quot;,
-          &quot;href&quot;: &quot;https://github.com/pnguyen-atlassian&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/16570385&quot;
-        },
-        {
-          &quot;username&quot;: &quot;iosamaatlassian&quot;,
-          &quot;href&quot;: &quot;https://github.com/iosamaatlassian&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/154573081&quot;
-        },
-        {
-          &quot;username&quot;: &quot;ekahinga&quot;,
-          &quot;href&quot;: &quot;https://github.com/ekahinga&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/255455128&quot;
-        },
-        {
-          &quot;username&quot;: &quot;evperlman1&quot;,
-          &quot;href&quot;: &quot;https://github.com/evperlman1&quot;,
-          &quot;avatar&quot;: &quot;https://avatars.githubusercontent.com/u/262648862&quot;
-        }
-      ]
     }
   ]
 }
@@ -585,104 +619,104 @@ Request error: Request failed with status code 403
   &quot;sort&quot;: &quot;top&quot;,
   &quot;items&quot;: [
     {
-      &quot;title&quot;: &quot;90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?&quot;,
-      &quot;description&quot;: &quot;I read the headline at 11pm on a random Wednesday.  \&quot;Anthropic CEO predicts 90% of all code will be...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3&quot;,
-      &quot;tags&quot;: &quot;ai, career, webdev, javascript&quot;,
-      &quot;reactions&quot;: 31,
-      &quot;comments&quot;: 20,
+      &quot;title&quot;: &quot;I Built an AI That Finds Your Bugs and Rewrites Your Code to Fix Them.&quot;,
+      &quot;description&quot;: &quot;How I built CodeLens — a Groq-powered code review tool that detects SQL injection, memory leaks, and...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/kamaumbuguadev/i-built-an-ai-that-finds-your-bugs-and-rewrites-your-code-to-fix-them-4e21&quot;,
+      &quot;tags&quot;: &quot;python, react, ai, security&quot;,
+      &quot;reactions&quot;: 2,
+      &quot;comments&quot;: 1,
+      &quot;reading_time&quot;: 5,
+      &quot;author&quot;: &quot;kamaumbuguadev&quot;
+    },
+    {
+      &quot;title&quot;: &quot;Building Adaptive Language Coaching with Gemini Live API&quot;,
+      &quot;description&quot;: &quot;Building Adaptive Language Coaching with Gemini Live API  How 12 neurolinguistic principles, a...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/ryan_ahamer_105192d3215e3/building-adaptive-language-coaching-with-gemini-live-api-2ngd&quot;,
+      &quot;tags&quot;: &quot;gemini, ai, hackathon, webde&quot;,
+      &quot;reactions&quot;: 1,
+      &quot;comments&quot;: 0,
+      &quot;reading_time&quot;: 11,
+      &quot;author&quot;: &quot;ryan_ahamer_105192d3215e3&quot;
+    },
+    {
+      &quot;title&quot;: &quot;Git Archaeology #15 — AI Creates Stars, Not Gravity&quot;,
+      &quot;description&quot;: &quot;AI creates stars. But it doesn't create gravity. What happens when code universes experience their first starburst?&quot;,
+      &quot;url&quot;: &quot;https://dev.to/machuz/git-archaeology-15-ai-creates-stars-not-gravity-4i05&quot;,
+      &quot;tags&quot;: &quot;ai, opensource, git, career&quot;,
+      &quot;reactions&quot;: 2,
+      &quot;comments&quot;: 2,
+      &quot;reading_time&quot;: 16,
+      &quot;author&quot;: &quot;machuz&quot;
+    },
+    {
+      &quot;title&quot;: &quot;Your AI Agent Just Failed in Production. Where Do You Even Start Debugging?&quot;,
+      &quot;description&quot;: &quot;You shipped an AI agent to production. A user reports a wrong answer. Or worse, a user doesn't report...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/utibe_okodi_339fb47a13ef5/your-ai-agent-just-failed-in-production-where-do-you-even-start-debugging-268&quot;,
+      &quot;tags&quot;: &quot;ai, agents, genai&quot;,
+      &quot;reactions&quot;: 0,
+      &quot;comments&quot;: 0,
       &quot;reading_time&quot;: 7,
-      &quot;author&quot;: &quot;harsh2644&quot;
+      &quot;author&quot;: &quot;utibe_okodi_339fb47a13ef5&quot;
     },
     {
-      &quot;title&quot;: &quot;How I bypassed PyTorch OOM errors with a Zero-Copy C++ Graph Engine&quot;,
-      &quot;description&quot;: &quot;If you have ever tried to train a Graph Neural Network (GNN) on a massive dataset, you already know...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/krish_singaria/how-i-bypassed-pytorch-oom-errors-with-a-zero-copy-c-graph-engine-2983&quot;,
-      &quot;tags&quot;: &quot;ai, performance, cpp, python&quot;,
-      &quot;reactions&quot;: 0,
-      &quot;comments&quot;: 0,
-      &quot;reading_time&quot;: 2,
-      &quot;author&quot;: &quot;krish_singaria&quot;
-    },
-    {
-      &quot;title&quot;: &quot;LedgerMind 3.0 3.3.2: How We Turned \&quot;It Works\&quot; into \&quot;It Works Brilliantly\&quot;&quot;,
-      &quot;description&quot;: &quot;Spoiler: 497 commits, three sleepless nights with SQLite, and one very stubborn race condition that...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/sl4m3/ledgermind-30-332-how-we-turned-it-works-into-it-works-brilliantly-39cp&quot;,
-      &quot;tags&quot;: &quot;ai, programming, productivity, python&quot;,
-      &quot;reactions&quot;: 1,
-      &quot;comments&quot;: 0,
-      &quot;reading_time&quot;: 6,
-      &quot;author&quot;: &quot;sl4m3&quot;
-    },
-    {
-      &quot;title&quot;: &quot;Heavy AI agent frameworks were too slow for my Raspberry Pi. So I built a different one&quot;,
-      &quot;description&quot;: &quot;The problem   I’ve been experimenting with AI agents on a Raspberry Pi 5, and I kept hitting...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/evgenii_engineer/heavy-ai-agent-frameworks-were-too-slow-for-my-raspberry-pi-so-i-built-a-different-one-4iee&quot;,
-      &quot;tags&quot;: &quot;ai, raspberrypi, go, llm&quot;,
-      &quot;reactions&quot;: 3,
-      &quot;comments&quot;: 4,
-      &quot;reading_time&quot;: 2,
-      &quot;author&quot;: &quot;evgenii_engineer&quot;
-    },
-    {
-      &quot;title&quot;: &quot;Build a Production-Ready Review Analytics MCP Server with TypeScript, Rules, LLMs, and Vector Search&quot;,
-      &quot;description&quot;: &quot;Build a Review Analytics MCP Server with TypeScript, Rules, LLMs, and Vector Search   App...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/abhishek_dubey_21fdc73a80/build-a-production-ready-review-analytics-mcp-server-with-typescript-rules-llms-and-vector-search-3bal&quot;,
-      &quot;tags&quot;: &quot;ai, mcp, llm, programming&quot;,
-      &quot;reactions&quot;: 0,
-      &quot;comments&quot;: 0,
-      &quot;reading_time&quot;: 1,
-      &quot;author&quot;: &quot;abhishek_dubey_21fdc73a80&quot;
-    },
-    {
-      &quot;title&quot;: &quot;Building RehearsAI for the Gemini Live Agent Challenge&quot;,
-      &quot;description&quot;: &quot;A few weeks ago we came across the Gemini Live Agent Challenge, a Google hackathon focused on...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/franco_bebczuk/building-rehearsai-for-the-gemini-live-agent-challenge-3di0&quot;,
-      &quot;tags&quot;: &quot;ai, gemini, showdev, geminiliveagentchallenge&quot;,
-      &quot;reactions&quot;: 1,
-      &quot;comments&quot;: 0,
-      &quot;reading_time&quot;: 2,
-      &quot;author&quot;: &quot;franco_bebczuk&quot;
-    },
-    {
-      &quot;title&quot;: &quot;I asked my AI agent to audit himself. He scored 62/100.&quot;,
-      &quot;description&quot;: &quot;Before you sell something, you should probably make sure it actually works on yourself.  That's the...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/garybotlington/i-asked-my-ai-agent-to-audit-himself-he-scored-62100-180n&quot;,
-      &quot;tags&quot;: &quot;ai, llm, productivity, agents&quot;,
-      &quot;reactions&quot;: 0,
-      &quot;comments&quot;: 0,
-      &quot;reading_time&quot;: 4,
-      &quot;author&quot;: &quot;garybotlington&quot;
-    },
-    {
-      &quot;title&quot;: &quot;How to Architect AI Products That Improve Over Time&quot;,
+      &quot;title&quot;: &quot;Stateless Software Is Dying: The Rise of Context-Aware Systems&quot;,
       &quot;description&quot;: &quot;Invitation: Now, I am officially active on X (Twitter). For new DevOps ideas, you can join me on X...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/jaideepparashar/how-to-architect-ai-products-that-improve-over-time-41af&quot;,
-      &quot;tags&quot;: &quot;webdev, ai, programming, beginners&quot;,
-      &quot;reactions&quot;: 16,
+      &quot;url&quot;: &quot;https://dev.to/jaideepparashar/stateless-software-is-dying-the-rise-of-context-aware-systems-pm&quot;,
+      &quot;tags&quot;: &quot;webdev, ai, devops, programming&quot;,
+      &quot;reactions&quot;: 18,
       &quot;comments&quot;: 1,
       &quot;reading_time&quot;: 3,
       &quot;author&quot;: &quot;jaideepparashar&quot;
     },
     {
-      &quot;title&quot;: &quot;Building Agent Emulator: Habbo emulator + MCP 👨‍💻🏨&quot;,
-      &quot;description&quot;: &quot;Running Claude AI Agents Inside a Habbo Hotel — via MCP   I built something a bit weird and...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/tijmen_de_jong/building-agent-emulator-habbo-emulator-mcp-4ob4&quot;,
-      &quot;tags&quot;: &quot;webdev, ai, programming, mcp&quot;,
-      &quot;reactions&quot;: 3,
+      &quot;title&quot;: &quot;Beyond Single Agents: How to Build Collaborative AI Workflows with LangGraph&quot;,
+      &quot;description&quot;: &quot;In the race to build AI applications, the early wins came from single, monolithic agents. You give an...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/programmingcentral/beyond-single-agents-how-to-build-collaborative-ai-workflows-with-langgraph-cpf&quot;,
+      &quot;tags&quot;: &quot;javascript, typescript, ai, webdev&quot;,
+      &quot;reactions&quot;: 0,
       &quot;comments&quot;: 0,
-      &quot;reading_time&quot;: 3,
-      &quot;author&quot;: &quot;tijmen_de_jong&quot;
+      &quot;reading_time&quot;: 6,
+      &quot;author&quot;: &quot;programmingcentral&quot;
     },
     {
-      &quot;title&quot;: &quot;How API Data Bloat is Ruining Your AI Agents (And How I Cut Token Usage by 98% in Python)&quot;,
-      &quot;description&quot;: &quot;If you are building autonomous AI agents right now using OpenAI, Anthropic, or local models, you have...&quot;,
-      &quot;url&quot;: &quot;https://dev.to/craig_mac_dev/how-api-data-bloat-is-ruining-your-ai-agents-and-how-i-cut-token-usage-by-98-in-python-3bif&quot;,
-      &quot;tags&quot;: &quot;python, ai, opensource, machinelearning&quot;,
-      &quot;reactions&quot;: 2,
+      &quot;title&quot;: &quot;EVAL #004: AI Agent Frameworks — LangGraph vs CrewAI vs AutoGen vs Smolagents vs OpenAI Agents SDK&quot;,
+      &quot;description&quot;: &quot;Every week there's a new AI agent framework on Hacker News. The GitHub stars pile up, the demo videos...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/ultraduneai/eval-004-ai-agent-frameworks-langgraph-vs-crewai-vs-autogen-vs-smolagents-vs-openai-agents-sdk-190l&quot;,
+      &quot;tags&quot;: &quot;ai, agents, python, machinelearning&quot;,
+      &quot;reactions&quot;: 1,
       &quot;comments&quot;: 0,
-      &quot;reading_time&quot;: 3,
-      &quot;author&quot;: &quot;craig_mac_dev&quot;
+      &quot;reading_time&quot;: 1,
+      &quot;author&quot;: &quot;ultraduneai&quot;
+    },
+    {
+      &quot;title&quot;: &quot;I built the personal AI that OpenClaw should have been&quot;,
+      &quot;description&quot;: &quot;OpenClaw hit 216,000 GitHub stars in six weeks. It proved that millions of people want a personal AI...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/heliosnova/i-built-the-personal-ai-that-openclaw-should-have-been-1fgj&quot;,
+      &quot;tags&quot;: &quot;ai, opensource, selfhosted, python&quot;,
+      &quot;reactions&quot;: 1,
+      &quot;comments&quot;: 0,
+      &quot;reading_time&quot;: 5,
+      &quot;author&quot;: &quot;heliosnova&quot;
+    },
+    {
+      &quot;title&quot;: &quot;Why Claude Code Skills Don't Trigger (And How to Fix Them in 2026)&quot;,
+      &quot;description&quot;: &quot;The core problem with Claude Code skills is a token budget overflow that silently drops your skill...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/lizechengnet/why-claude-code-skills-dont-trigger-and-how-to-fix-them-in-2026-o7h&quot;,
+      &quot;tags&quot;: &quot;ai, buildinpublic, webdev, productivity&quot;,
+      &quot;reactions&quot;: 1,
+      &quot;comments&quot;: 0,
+      &quot;reading_time&quot;: 6,
+      &quot;author&quot;: &quot;lizechengnet&quot;
+    },
+    {
+      &quot;title&quot;: &quot;Power Apps - A Cooler Way to use Code Apps&quot;,
+      &quot;description&quot;: &quot;If you don't know about Code Apps in the Power Platform let me quickly fill you in.  They are full...&quot;,
+      &quot;url&quot;: &quot;https://dev.to/wyattdave/power-apps-a-cooler-way-to-use-code-apps-3nb6&quot;,
+      &quot;tags&quot;: &quot;powerapps, powerplatform, ai, cli&quot;,
+      &quot;reactions&quot;: 5,
+      &quot;comments&quot;: 0,
+      &quot;reading_time&quot;: 5,
+      &quot;author&quot;: &quot;wyattdave&quot;
     }
   ]
 }
@@ -691,267 +725,387 @@ Request error: Request failed with status code 403
   &quot;source&quot;: &quot;hackernews&quot;,
   &quot;items&quot;: [
     {
-      &quot;by&quot;: &quot;cdrnsf&quot;,
-      &quot;descendants&quot;: 18,
-      &quot;id&quot;: 47384352,
+      &quot;by&quot;: &quot;opengrass&quot;,
+      &quot;descendants&quot;: 180,
+      &quot;id&quot;: 47392084,
       &quot;kids&quot;: [
-        47384793,
-        47384822,
-        47384548,
-        47384814,
-        47384844,
-        47384691,
-        47384600,
-        47384613,
-        47384903,
-        47384573,
-        47384766
+        47393177,
+        47395037,
+        47396126,
+        47392794,
+        47393187,
+        47394078,
+        47394573,
+        47395828,
+        47393021,
+        47396092,
+        47395661,
+        47393477,
+        47394181,
+        47394042,
+        47393497,
+        47393644,
+        47395972,
+        47394009,
+        47395088,
+        47395097,
+        47395065,
+        47393590,
+        47394434,
+        47395530,
+        47393493,
+        47395244,
+        47394447,
+        47394257,
+        47393801,
+        47393277,
+        47395024,
+        47393746,
+        47393652,
+        47392914,
+        47394446,
+        47392829,
+        47392789,
+        47393070,
+        47392928,
+        47392852,
+        47393301,
+        47392988,
+        47393502,
+        47393064,
+        47395663
       ],
-      &quot;score&quot;: 82,
-      &quot;time&quot;: 1773548623,
-      &quot;title&quot;: &quot;Rack-mount hydroponics&quot;,
+      &quot;score&quot;: 617,
+      &quot;text&quot;: &quot;&lt;a href=\&quot;https:&amp;#x2F;&amp;#x2F;www.parl.ca&amp;#x2F;DocumentViewer&amp;#x2F;en&amp;#x2F;45-1&amp;#x2F;bill&amp;#x2F;C-22&amp;#x2F;first-reading\&quot; rel=\&quot;nofollow\&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.parl.ca&amp;#x2F;DocumentViewer&amp;#x2F;en&amp;#x2F;45-1&amp;#x2F;bill&amp;#x2F;C-22&amp;#x2F;first-r...&lt;/a&gt;&quot;,
+      &quot;time&quot;: 1773609736,
+      &quot;title&quot;: &quot;Canada's bill C-22 mandates mass metadata surveillance&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://sa.lj.am/rack-mount-hydroponics/&quot;
+      &quot;url&quot;: &quot;https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/&quot;
     },
     {
-      &quot;by&quot;: &quot;tartoran&quot;,
+      &quot;by&quot;: &quot;kermatt&quot;,
+      &quot;descendants&quot;: 221,
+      &quot;id&quot;: 47390945,
+      &quot;kids&quot;: [
+        47391711,
+        47391592,
+        47391949,
+        47395852,
+        47393825,
+        47395848,
+        47393092,
+        47392631,
+        47396023,
+        47392035,
+        47392574,
+        47391705,
+        47395053,
+        47391497,
+        47392485,
+        47391568,
+        47392070,
+        47392888,
+        47392588,
+        47393171,
+        47395171,
+        47394258,
+        47394317,
+        47395764,
+        47392018,
+        47391585,
+        47395874,
+        47392745,
+        47395784,
+        47395329,
+        47394896,
+        47392817,
+        47391912,
+        47392320,
+        47391646,
+        47393680,
+        47393283,
+        47394721,
+        47391600,
+        47395098,
+        47391732,
+        47393252,
+        47391765,
+        47392129,
+        47392749,
+        47392260,
+        47393182,
+        47396058,
+        47395369,
+        47393598,
+        47391464
+      ],
+      &quot;score&quot;: 472,
+      &quot;time&quot;: 1773602718,
+      &quot;title&quot;: &quot;The 49MB web page&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://thatshubham.com/blog/news-audit&quot;
+    },
+    {
+      &quot;by&quot;: &quot;indigodaddy&quot;,
       &quot;descendants&quot;: 57,
-      &quot;id&quot;: 47383804,
+      &quot;id&quot;: 47394022,
       &quot;kids&quot;: [
-        47385002,
-        47384950,
-        47384136,
-        47384106,
-        47384127,
-        47384086,
-        47383856,
-        47384224,
-        47384029,
-        47383991,
-        47383990,
-        47384056,
-        47383984
+        47396133,
+        47395680,
+        47396098,
+        47395774,
+        47394537,
+        47395501,
+        47395596,
+        47395500,
+        47395685,
+        47396079,
+        47395824,
+        47395765,
+        47394702,
+        47395805
       ],
-      &quot;score&quot;: 59,
-      &quot;time&quot;: 1773542913,
-      &quot;title&quot;: &quot;Treasure hunter freed from jail after refusing to turn over shipwreck gold&quot;,
+      &quot;score&quot;: 119,
+      &quot;time&quot;: 1773624249,
+      &quot;title&quot;: &quot;How I write software with LLMs&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://www.bbc.com/news/articles/cg4g7kn99q3o&quot;
+      &quot;url&quot;: &quot;https://www.stavros.io/posts/how-i-write-software-with-llms/&quot;
     },
     {
-      &quot;by&quot;: &quot;davikr&quot;,
-      &quot;descendants&quot;: 91,
-      &quot;id&quot;: 47382791,
+      &quot;by&quot;: &quot;xnx&quot;,
+      &quot;descendants&quot;: 187,
+      &quot;id&quot;: 47390817,
       &quot;kids&quot;: [
-        47383625,
-        47384838,
-        47384269,
-        47383607,
-        47384668,
-        47383950,
-        47383347,
-        47384245,
-        47383921,
-        47384020
+        47392034,
+        47392102,
+        47391079,
+        47392002,
+        47395052,
+        47395304,
+        47391489,
+        47391356,
+        47392373,
+        47395045,
+        47395215,
+        47393503,
+        47394813,
+        47393719,
+        47394424,
+        47394874,
+        47391775,
+        47392089,
+        47393307,
+        47391926,
+        47391198,
+        47391685,
+        47391886,
+        47392675,
+        47391206,
+        47392536,
+        47391877,
+        47392853,
+        47391760,
+        47391812,
+        47394648,
+        47391717,
+        47391810,
+        47393044,
+        47392869,
+        47391463,
+        47391149,
+        47396027,
+        47394601,
+        47392433,
+        47395790,
+        47392448,
+        47394142,
+        47393651,
+        47394694,
+        47392123,
+        47391281,
+        47391278,
+        47391165,
+        47392756
       ],
-      &quot;score&quot;: 118,
-      &quot;time&quot;: 1773533710,
-      &quot;title&quot;: &quot;How kernel anti-cheats work&quot;,
+      &quot;score&quot;: 446,
+      &quot;time&quot;: 1773601973,
+      &quot;title&quot;: &quot;Chrome DevTools MCP (2025)&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/&quot;
+      &quot;url&quot;: &quot;https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session&quot;
     },
     {
-      &quot;by&quot;: &quot;xodn348&quot;,
-      &quot;descendants&quot;: 87,
-      &quot;id&quot;: 47381382,
+      &quot;by&quot;: &quot;o4c&quot;,
+      &quot;descendants&quot;: 11,
+      &quot;id&quot;: 47350016,
       &quot;kids&quot;: [
-        47383386,
-        47382219,
-        47382747,
-        47382246,
-        47382765,
-        47384290,
-        47382790,
-        47383450,
-        47381772,
-        47382348,
-        47383946,
-        47383111,
-        47384366,
-        47383189,
-        47382498,
-        47383383,
-        47382806,
-        47382365,
-        47382930,
-        47383080,
-        47383509,
-        47382272,
-        47383261,
-        47382656,
-        47382635,
-        47382899,
-        47382832,
-        47384017,
-        47382451,
-        47381630,
-        47381993
-      ],
-      &quot;score&quot;: 151,
-      &quot;text&quot;: &quot;A few weeks ago I saw a post about someone converting an entire C++ codebase to Rust using AI in under two weeks.&lt;p&gt;That inspired me — if AI can rewrite a whole language stack that fast, I wanted to try building a programming language from scratch with AI assistance.&lt;p&gt;I&amp;#x27;ve also been noticing growing global interest in Korean language and culture, and I wondered: what would a programming language look like if every keyword was in Hangul (the Korean writing system)?&lt;p&gt;Han is the result. It&amp;#x27;s a statically-typed language written in Rust with a full compiler pipeline (lexer → parser → AST → interpreter + LLVM IR codegen).&lt;p&gt;It supports arrays, structs with impl blocks, closures, pattern matching, try&amp;#x2F;catch, file I&amp;#x2F;O, module imports, a REPL, and a basic LSP server.&lt;p&gt;This is a side project, not a &amp;quot;you should use this instead of Python&amp;quot; pitch. \nFeedback on language design, compiler architecture, or the Korean keyword choices is very welcome.&lt;p&gt;&lt;a href=\&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;xodn348&amp;#x2F;han\&quot; rel=\&quot;nofollow\&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;xodn348&amp;#x2F;han&lt;/a&gt;&quot;,
-      &quot;time&quot;: 1773523653,
-      &quot;title&quot;: &quot;Show HN: Han – A Korean programming language written in Rust&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://github.com/xodn348/han&quot;
-    },
-    {
-      &quot;by&quot;: &quot;Uptrenda&quot;,
-      &quot;descendants&quot;: 6,
-      &quot;id&quot;: 47384032,
-      &quot;kids&quot;: [
-        47384956,
-        47384626,
-        47384953,
-        47384599
-      ],
-      &quot;score&quot;: 39,
-      &quot;time&quot;: 1773545357,
-      &quot;title&quot;: &quot;A most elegant TCP hole punching algorithm&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html&quot;
-    },
-    {
-      &quot;by&quot;: &quot;picafrost&quot;,
-      &quot;descendants&quot;: 2,
-      &quot;id&quot;: 47374924,
-      &quot;kids&quot;: [
-        47384120,
-        47384713,
-        47384211
+        47395494,
+        47395599,
+        47395245,
+        47395644
       ],
       &quot;score&quot;: 57,
-      &quot;time&quot;: 1773481117,
-      &quot;title&quot;: &quot;Mathematics Distillation Challenge – Equational Theories&quot;,
+      &quot;time&quot;: 1773320675,
+      &quot;title&quot;: &quot;Electric motor scaling laws and inertia in robot actuators&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/&quot;
+      &quot;url&quot;: &quot;https://robot-daycare.com/posts/actuation_series_1/&quot;
     },
     {
-      &quot;by&quot;: &quot;nateb2022&quot;,
-      &quot;descendants&quot;: 340,
-      &quot;id&quot;: 47381791,
-      &quot;kids&quot;: [
-        47382416,
-        47383909,
-        47382336,
-        47382773,
-        47382467,
-        47383407,
-        47383065,
-        47382318,
-        47383550,
-        47382963,
-        47382860,
-        47384779,
-        47384118,
-        47382530,
-        47382315,
-        47383067,
-        47383716,
-        47384733,
-        47382356,
-        47382342,
-        47383118,
-        47383158,
-        47383967,
-        47383308,
-        47382431,
-        47382340,
-        47384129,
-        47383961,
-        47383615,
-        47384391,
-        47382444,
-        47384074,
-        47383695,
-        47383624,
-        47382328,
-        47382876,
-        47382711,
-        47384275,
-        47382448,
-        47383055,
-        47382426
-      ],
-      &quot;score&quot;: 526,
-      &quot;time&quot;: 1773526226,
-      &quot;title&quot;: &quot;Ageless Linux – Software for humans of indeterminate age&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://agelesslinux.org/&quot;
-    },
-    {
-      &quot;by&quot;: &quot;at2005&quot;,
+      &quot;by&quot;: &quot;jbarrow&quot;,
       &quot;descendants&quot;: 3,
-      &quot;id&quot;: 47383059,
+      &quot;id&quot;: 47343902,
       &quot;kids&quot;: [
-        47384806,
-        47384331,
-        47384016,
-        47383644
+        47395207,
+        47395164,
+        47395840
       ],
-      &quot;score&quot;: 49,
-      &quot;time&quot;: 1773535915,
-      &quot;title&quot;: &quot;Tree Search Distillation for Language Models Using PPO&quot;,
+      &quot;score&quot;: 42,
+      &quot;time&quot;: 1773271462,
+      &quot;title&quot;: &quot;What every computer scientist should know about floating-point arithmetic (1991) [pdf]&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/&quot;
+      &quot;url&quot;: &quot;https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf&quot;
     },
     {
-      &quot;by&quot;: &quot;sebi_io&quot;,
-      &quot;descendants&quot;: 31,
-      &quot;id&quot;: 47381736,
+      &quot;by&quot;: &quot;tzury&quot;,
+      &quot;descendants&quot;: 28,
+      &quot;id&quot;: 47388676,
       &quot;kids&quot;: [
-        47384875,
-        47384464,
-        47384961,
-        47384159,
-        47383778,
-        47384560,
-        47384774,
-        47384353,
-        47384544,
-        47384659,
-        47384676,
-        47384658,
-        47384003,
-        47384443,
-        47384871,
-        47384105,
-        47384194
+        47396130,
+        47393509,
+        47392209,
+        47395601,
+        47391507,
+        47392301,
+        47392962,
+        47393340,
+        47393164,
+        47393743,
+        47393446,
+        47393353,
+        47392942,
+        47394047,
+        47391662,
+        47393535,
+        47394454,
+        47395086,
+        47393860,
+        47391607,
+        47391331,
+        47391007,
+        47390699
       ],
-      &quot;score&quot;: 97,
-      &quot;time&quot;: 1773525827,
-      &quot;title&quot;: &quot;Allow me to get to know you, mistakes and all&quot;,
+      &quot;score&quot;: 365,
+      &quot;time&quot;: 1773590469,
+      &quot;title&quot;: &quot;LLM Architecture Gallery&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/&quot;
+      &quot;url&quot;: &quot;https://sebastianraschka.com/llm-architecture-gallery/&quot;
     },
     {
-      &quot;by&quot;: &quot;anonzzzies&quot;,
-      &quot;descendants&quot;: 13,
-      &quot;id&quot;: 47382398,
+      &quot;by&quot;: &quot;tjohnell&quot;,
+      &quot;descendants&quot;: 135,
+      &quot;id&quot;: 47391803,
       &quot;kids&quot;: [
-        47384693,
-        47384503,
-        47384813,
-        47383008,
-        47383871,
-        47384631,
-        47384317,
-        47382933
+        47393253,
+        47396090,
+        47395741,
+        47395275,
+        47393439,
+        47393844,
+        47393636,
+        47395253,
+        47395342,
+        47393562,
+        47395565,
+        47395692,
+        47394400,
+        47393286,
+        47393940,
+        47395173,
+        47394988,
+        47395721,
+        47393228,
+        47393400,
+        47393528,
+        47394895,
+        47394978,
+        47395553,
+        47394547,
+        47395955,
+        47393335,
+        47395335,
+        47393970,
+        47395666,
+        47393461,
+        47393625,
+        47393879,
+        47394481,
+        47393904,
+        47393445,
+        47394242,
+        47393881,
+        47395056
       ],
-      &quot;score&quot;: 73,
-      &quot;time&quot;: 1773530559,
-      &quot;title&quot;: &quot;SBCL Fibers – Lightweight Cooperative Threads&quot;,
+      &quot;score&quot;: 182,
+      &quot;time&quot;: 1773608181,
+      &quot;title&quot;: &quot;LLMs can be exhausting&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://atgreen.github.io/repl-yell/posts/sbcl-fibers/&quot;
+      &quot;url&quot;: &quot;https://tomjohnell.com/llms-can-be-absolutely-exhausting/&quot;
+    },
+    {
+      &quot;by&quot;: &quot;ingve&quot;,
+      &quot;descendants&quot;: 0,
+      &quot;id&quot;: 47349499,
+      &quot;score&quot;: 24,
+      &quot;time&quot;: 1773317480,
+      &quot;title&quot;: &quot;How far can you go with IX Route Servers only?&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://blog.benjojo.co.uk/post/how-far-can-you-get-with-ix-route-servers&quot;
+    },
+    {
+      &quot;by&quot;: &quot;namnnumbr&quot;,
+      &quot;descendants&quot;: 116,
+      &quot;id&quot;: 47389570,
+      &quot;kids&quot;: [
+        47395063,
+        47392805,
+        47395177,
+        47395633,
+        47395796,
+        47393017,
+        47392709,
+        47395658,
+        47394135,
+        47392800,
+        47389571,
+        47394191,
+        47392668,
+        47392935,
+        47393018,
+        47395920,
+        47394471,
+        47394020,
+        47395068,
+        47394152,
+        47394775,
+        47392959,
+        47393480,
+        47393973,
+        47393957,
+        47394174,
+        47393230,
+        47394342,
+        47393698,
+        47394165,
+        47393748,
+        47393968,
+        47394110,
+        47393465,
+        47393175
+      ],
+      &quot;score&quot;: 261,
+      &quot;time&quot;: 1773595500,
+      &quot;title&quot;: &quot;Stop Sloppypasta&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://stopsloppypasta.ai/&quot;
     }
   ]
 }</code></pre></details></article><article class="report-section"><h2>3. Product Launches to Review/React</h2><p><strong>Query:</strong> What products launched that I can review or react to?</p><h3>Command</h3><pre><code class="language-bash">echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/main.js --json reddit -t startups -s new</code></pre><details class="output-details" open><summary>Output</summary><pre><code class="language-text">[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set
@@ -962,302 +1116,433 @@ Request error: Request failed with status code 403
   &quot;source&quot;: &quot;hackernews&quot;,
   &quot;items&quot;: [
     {
-      &quot;by&quot;: &quot;cdrnsf&quot;,
-      &quot;descendants&quot;: 18,
-      &quot;id&quot;: 47384352,
+      &quot;by&quot;: &quot;opengrass&quot;,
+      &quot;descendants&quot;: 180,
+      &quot;id&quot;: 47392084,
       &quot;kids&quot;: [
-        47384793,
-        47384822,
-        47384548,
-        47384814,
-        47384844,
-        47384691,
-        47384600,
-        47384613,
-        47384903,
-        47384573,
-        47384766
+        47393177,
+        47395037,
+        47396126,
+        47392794,
+        47393187,
+        47394078,
+        47394573,
+        47395828,
+        47393021,
+        47396092,
+        47395661,
+        47393477,
+        47394181,
+        47394042,
+        47393497,
+        47393644,
+        47395972,
+        47394009,
+        47395088,
+        47395097,
+        47395065,
+        47393590,
+        47394434,
+        47395530,
+        47393493,
+        47395244,
+        47394447,
+        47394257,
+        47393801,
+        47393277,
+        47395024,
+        47393746,
+        47393652,
+        47392914,
+        47394446,
+        47392829,
+        47392789,
+        47393070,
+        47392928,
+        47392852,
+        47393301,
+        47392988,
+        47393502,
+        47393064,
+        47395663
       ],
-      &quot;score&quot;: 82,
-      &quot;time&quot;: 1773548623,
-      &quot;title&quot;: &quot;Rack-mount hydroponics&quot;,
+      &quot;score&quot;: 617,
+      &quot;text&quot;: &quot;&lt;a href=\&quot;https:&amp;#x2F;&amp;#x2F;www.parl.ca&amp;#x2F;DocumentViewer&amp;#x2F;en&amp;#x2F;45-1&amp;#x2F;bill&amp;#x2F;C-22&amp;#x2F;first-reading\&quot; rel=\&quot;nofollow\&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.parl.ca&amp;#x2F;DocumentViewer&amp;#x2F;en&amp;#x2F;45-1&amp;#x2F;bill&amp;#x2F;C-22&amp;#x2F;first-r...&lt;/a&gt;&quot;,
+      &quot;time&quot;: 1773609736,
+      &quot;title&quot;: &quot;Canada's bill C-22 mandates mass metadata surveillance&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://sa.lj.am/rack-mount-hydroponics/&quot;
+      &quot;url&quot;: &quot;https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/&quot;
     },
     {
-      &quot;by&quot;: &quot;tartoran&quot;,
+      &quot;by&quot;: &quot;kermatt&quot;,
+      &quot;descendants&quot;: 221,
+      &quot;id&quot;: 47390945,
+      &quot;kids&quot;: [
+        47391711,
+        47391592,
+        47391949,
+        47395852,
+        47393825,
+        47395848,
+        47393092,
+        47392631,
+        47396023,
+        47392035,
+        47392574,
+        47391705,
+        47395053,
+        47391497,
+        47392485,
+        47391568,
+        47392070,
+        47392888,
+        47392588,
+        47393171,
+        47395171,
+        47394258,
+        47394317,
+        47395764,
+        47392018,
+        47391585,
+        47395874,
+        47392745,
+        47395784,
+        47395329,
+        47394896,
+        47392817,
+        47391912,
+        47392320,
+        47391646,
+        47393680,
+        47393283,
+        47394721,
+        47391600,
+        47395098,
+        47391732,
+        47393252,
+        47391765,
+        47392129,
+        47392749,
+        47392260,
+        47393182,
+        47396058,
+        47395369,
+        47393598,
+        47391464
+      ],
+      &quot;score&quot;: 472,
+      &quot;time&quot;: 1773602718,
+      &quot;title&quot;: &quot;The 49MB web page&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://thatshubham.com/blog/news-audit&quot;
+    },
+    {
+      &quot;by&quot;: &quot;indigodaddy&quot;,
       &quot;descendants&quot;: 57,
-      &quot;id&quot;: 47383804,
+      &quot;id&quot;: 47394022,
       &quot;kids&quot;: [
-        47385002,
-        47384950,
-        47384136,
-        47384106,
-        47384127,
-        47384086,
-        47383856,
-        47384224,
-        47384029,
-        47383991,
-        47383990,
-        47384056,
-        47383984
+        47396133,
+        47395680,
+        47396098,
+        47395774,
+        47394537,
+        47395501,
+        47395596,
+        47395500,
+        47395685,
+        47396079,
+        47395824,
+        47395765,
+        47394702,
+        47395805
       ],
-      &quot;score&quot;: 59,
-      &quot;time&quot;: 1773542913,
-      &quot;title&quot;: &quot;Treasure hunter freed from jail after refusing to turn over shipwreck gold&quot;,
+      &quot;score&quot;: 119,
+      &quot;time&quot;: 1773624249,
+      &quot;title&quot;: &quot;How I write software with LLMs&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://www.bbc.com/news/articles/cg4g7kn99q3o&quot;
+      &quot;url&quot;: &quot;https://www.stavros.io/posts/how-i-write-software-with-llms/&quot;
     },
     {
-      &quot;by&quot;: &quot;davikr&quot;,
-      &quot;descendants&quot;: 91,
-      &quot;id&quot;: 47382791,
+      &quot;by&quot;: &quot;xnx&quot;,
+      &quot;descendants&quot;: 187,
+      &quot;id&quot;: 47390817,
       &quot;kids&quot;: [
-        47383625,
-        47384838,
-        47384269,
-        47383607,
-        47384668,
-        47383950,
-        47383347,
-        47384245,
-        47383921,
-        47384020
+        47392034,
+        47392102,
+        47391079,
+        47392002,
+        47395052,
+        47395304,
+        47391489,
+        47391356,
+        47392373,
+        47395045,
+        47395215,
+        47393503,
+        47394813,
+        47393719,
+        47394424,
+        47394874,
+        47391775,
+        47392089,
+        47393307,
+        47391926,
+        47391198,
+        47391685,
+        47391886,
+        47392675,
+        47391206,
+        47392536,
+        47391877,
+        47392853,
+        47391760,
+        47391812,
+        47394648,
+        47391717,
+        47391810,
+        47393044,
+        47392869,
+        47391463,
+        47391149,
+        47396027,
+        47394601,
+        47392433,
+        47395790,
+        47392448,
+        47394142,
+        47393651,
+        47394694,
+        47392123,
+        47391281,
+        47391278,
+        47391165,
+        47392756
       ],
-      &quot;score&quot;: 118,
-      &quot;time&quot;: 1773533710,
-      &quot;title&quot;: &quot;How kernel anti-cheats work&quot;,
+      &quot;score&quot;: 446,
+      &quot;time&quot;: 1773601973,
+      &quot;title&quot;: &quot;Chrome DevTools MCP (2025)&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/&quot;
+      &quot;url&quot;: &quot;https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session&quot;
     },
     {
-      &quot;by&quot;: &quot;xodn348&quot;,
-      &quot;descendants&quot;: 87,
-      &quot;id&quot;: 47381382,
+      &quot;by&quot;: &quot;o4c&quot;,
+      &quot;descendants&quot;: 11,
+      &quot;id&quot;: 47350016,
       &quot;kids&quot;: [
-        47383386,
-        47382219,
-        47382747,
-        47382246,
-        47382765,
-        47384290,
-        47382790,
-        47383450,
-        47381772,
-        47382348,
-        47383946,
-        47383111,
-        47384366,
-        47383189,
-        47382498,
-        47383383,
-        47382806,
-        47382365,
-        47382930,
-        47383080,
-        47383509,
-        47382272,
-        47383261,
-        47382656,
-        47382635,
-        47382899,
-        47382832,
-        47384017,
-        47382451,
-        47381630,
-        47381993
-      ],
-      &quot;score&quot;: 151,
-      &quot;text&quot;: &quot;A few weeks ago I saw a post about someone converting an entire C++ codebase to Rust using AI in under two weeks.&lt;p&gt;That inspired me — if AI can rewrite a whole language stack that fast, I wanted to try building a programming language from scratch with AI assistance.&lt;p&gt;I&amp;#x27;ve also been noticing growing global interest in Korean language and culture, and I wondered: what would a programming language look like if every keyword was in Hangul (the Korean writing system)?&lt;p&gt;Han is the result. It&amp;#x27;s a statically-typed language written in Rust with a full compiler pipeline (lexer → parser → AST → interpreter + LLVM IR codegen).&lt;p&gt;It supports arrays, structs with impl blocks, closures, pattern matching, try&amp;#x2F;catch, file I&amp;#x2F;O, module imports, a REPL, and a basic LSP server.&lt;p&gt;This is a side project, not a &amp;quot;you should use this instead of Python&amp;quot; pitch. \nFeedback on language design, compiler architecture, or the Korean keyword choices is very welcome.&lt;p&gt;&lt;a href=\&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;xodn348&amp;#x2F;han\&quot; rel=\&quot;nofollow\&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;xodn348&amp;#x2F;han&lt;/a&gt;&quot;,
-      &quot;time&quot;: 1773523653,
-      &quot;title&quot;: &quot;Show HN: Han – A Korean programming language written in Rust&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://github.com/xodn348/han&quot;
-    },
-    {
-      &quot;by&quot;: &quot;Uptrenda&quot;,
-      &quot;descendants&quot;: 6,
-      &quot;id&quot;: 47384032,
-      &quot;kids&quot;: [
-        47384956,
-        47384626,
-        47384953,
-        47384599
-      ],
-      &quot;score&quot;: 39,
-      &quot;time&quot;: 1773545357,
-      &quot;title&quot;: &quot;A most elegant TCP hole punching algorithm&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html&quot;
-    },
-    {
-      &quot;by&quot;: &quot;picafrost&quot;,
-      &quot;descendants&quot;: 2,
-      &quot;id&quot;: 47374924,
-      &quot;kids&quot;: [
-        47384120,
-        47384713,
-        47384211
+        47395494,
+        47395599,
+        47395245,
+        47395644
       ],
       &quot;score&quot;: 57,
-      &quot;time&quot;: 1773481117,
-      &quot;title&quot;: &quot;Mathematics Distillation Challenge – Equational Theories&quot;,
+      &quot;time&quot;: 1773320675,
+      &quot;title&quot;: &quot;Electric motor scaling laws and inertia in robot actuators&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/&quot;
+      &quot;url&quot;: &quot;https://robot-daycare.com/posts/actuation_series_1/&quot;
     },
     {
-      &quot;by&quot;: &quot;nateb2022&quot;,
-      &quot;descendants&quot;: 340,
-      &quot;id&quot;: 47381791,
-      &quot;kids&quot;: [
-        47382416,
-        47383909,
-        47382336,
-        47382773,
-        47382467,
-        47383407,
-        47383065,
-        47382318,
-        47383550,
-        47382963,
-        47382860,
-        47384779,
-        47384118,
-        47382530,
-        47382315,
-        47383067,
-        47383716,
-        47384733,
-        47382356,
-        47382342,
-        47383118,
-        47383158,
-        47383967,
-        47383308,
-        47382431,
-        47382340,
-        47384129,
-        47383961,
-        47383615,
-        47384391,
-        47382444,
-        47384074,
-        47383695,
-        47383624,
-        47382328,
-        47382876,
-        47382711,
-        47384275,
-        47382448,
-        47383055,
-        47382426
-      ],
-      &quot;score&quot;: 526,
-      &quot;time&quot;: 1773526226,
-      &quot;title&quot;: &quot;Ageless Linux – Software for humans of indeterminate age&quot;,
-      &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://agelesslinux.org/&quot;
-    },
-    {
-      &quot;by&quot;: &quot;at2005&quot;,
+      &quot;by&quot;: &quot;jbarrow&quot;,
       &quot;descendants&quot;: 3,
-      &quot;id&quot;: 47383059,
+      &quot;id&quot;: 47343902,
       &quot;kids&quot;: [
-        47384806,
-        47384331,
-        47384016,
-        47383644
+        47395207,
+        47395164,
+        47395840
       ],
-      &quot;score&quot;: 49,
-      &quot;time&quot;: 1773535915,
-      &quot;title&quot;: &quot;Tree Search Distillation for Language Models Using PPO&quot;,
+      &quot;score&quot;: 42,
+      &quot;time&quot;: 1773271462,
+      &quot;title&quot;: &quot;What every computer scientist should know about floating-point arithmetic (1991) [pdf]&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/&quot;
+      &quot;url&quot;: &quot;https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf&quot;
     },
     {
-      &quot;by&quot;: &quot;sebi_io&quot;,
-      &quot;descendants&quot;: 31,
-      &quot;id&quot;: 47381736,
+      &quot;by&quot;: &quot;tzury&quot;,
+      &quot;descendants&quot;: 28,
+      &quot;id&quot;: 47388676,
       &quot;kids&quot;: [
-        47384875,
-        47384464,
-        47384961,
-        47384159,
-        47383778,
-        47384560,
-        47384774,
-        47384353,
-        47384544,
-        47384659,
-        47384676,
-        47384658,
-        47384003,
-        47384443,
-        47384871,
-        47384105,
-        47384194
+        47396130,
+        47393509,
+        47392209,
+        47395601,
+        47391507,
+        47392301,
+        47392962,
+        47393340,
+        47393164,
+        47393743,
+        47393446,
+        47393353,
+        47392942,
+        47394047,
+        47391662,
+        47393535,
+        47394454,
+        47395086,
+        47393860,
+        47391607,
+        47391331,
+        47391007,
+        47390699
       ],
-      &quot;score&quot;: 97,
-      &quot;time&quot;: 1773525827,
-      &quot;title&quot;: &quot;Allow me to get to know you, mistakes and all&quot;,
+      &quot;score&quot;: 365,
+      &quot;time&quot;: 1773590469,
+      &quot;title&quot;: &quot;LLM Architecture Gallery&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/&quot;
+      &quot;url&quot;: &quot;https://sebastianraschka.com/llm-architecture-gallery/&quot;
     },
     {
-      &quot;by&quot;: &quot;anonzzzies&quot;,
-      &quot;descendants&quot;: 13,
-      &quot;id&quot;: 47382398,
+      &quot;by&quot;: &quot;tjohnell&quot;,
+      &quot;descendants&quot;: 135,
+      &quot;id&quot;: 47391803,
       &quot;kids&quot;: [
-        47384693,
-        47384503,
-        47384813,
-        47383008,
-        47383871,
-        47384631,
-        47384317,
-        47382933
+        47393253,
+        47396090,
+        47395741,
+        47395275,
+        47393439,
+        47393844,
+        47393636,
+        47395253,
+        47395342,
+        47393562,
+        47395565,
+        47395692,
+        47394400,
+        47393286,
+        47393940,
+        47395173,
+        47394988,
+        47395721,
+        47393228,
+        47393400,
+        47393528,
+        47394895,
+        47394978,
+        47395553,
+        47394547,
+        47395955,
+        47393335,
+        47395335,
+        47393970,
+        47395666,
+        47393461,
+        47393625,
+        47393879,
+        47394481,
+        47393904,
+        47393445,
+        47394242,
+        47393881,
+        47395056
       ],
-      &quot;score&quot;: 73,
-      &quot;time&quot;: 1773530559,
-      &quot;title&quot;: &quot;SBCL Fibers – Lightweight Cooperative Threads&quot;,
+      &quot;score&quot;: 182,
+      &quot;time&quot;: 1773608181,
+      &quot;title&quot;: &quot;LLMs can be exhausting&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://atgreen.github.io/repl-yell/posts/sbcl-fibers/&quot;
+      &quot;url&quot;: &quot;https://tomjohnell.com/llms-can-be-absolutely-exhausting/&quot;
     },
     {
-      &quot;by&quot;: &quot;1659447091&quot;,
-      &quot;descendants&quot;: 25,
-      &quot;id&quot;: 47381011,
-      &quot;kids&quot;: [
-        47383537,
-        47383372,
-        47382130,
-        47383453,
-        47383277,
-        47384009,
-        47383043,
-        47382353
-      ],
-      &quot;score&quot;: 103,
-      &quot;time&quot;: 1773521350,
-      &quot;title&quot;: &quot;Bumblebee queens breathe underwater to survive drowning&quot;,
+      &quot;by&quot;: &quot;ingve&quot;,
+      &quot;descendants&quot;: 0,
+      &quot;id&quot;: 47349499,
+      &quot;score&quot;: 24,
+      &quot;time&quot;: 1773317480,
+      &quot;title&quot;: &quot;How far can you go with IX Route Servers only?&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/&quot;
+      &quot;url&quot;: &quot;https://blog.benjojo.co.uk/post/how-far-can-you-get-with-ix-route-servers&quot;
     },
     {
-      &quot;by&quot;: &quot;kosmavision&quot;,
-      &quot;descendants&quot;: 2,
-      &quot;id&quot;: 47337087,
+      &quot;by&quot;: &quot;namnnumbr&quot;,
+      &quot;descendants&quot;: 116,
+      &quot;id&quot;: 47389570,
       &quot;kids&quot;: [
-        47384923,
-        47384572,
-        47384762
+        47395063,
+        47392805,
+        47395177,
+        47395633,
+        47395796,
+        47393017,
+        47392709,
+        47395658,
+        47394135,
+        47392800,
+        47389571,
+        47394191,
+        47392668,
+        47392935,
+        47393018,
+        47395920,
+        47394471,
+        47394020,
+        47395068,
+        47394152,
+        47394775,
+        47392959,
+        47393480,
+        47393973,
+        47393957,
+        47394174,
+        47393230,
+        47394342,
+        47393698,
+        47394165,
+        47393748,
+        47393968,
+        47394110,
+        47393465,
+        47393175
       ],
-      &quot;score&quot;: 30,
-      &quot;time&quot;: 1773243746,
-      &quot;title&quot;: &quot;A look inside Dialector, filmmaker Chris Marker's chatbot from 1988&quot;,
+      &quot;score&quot;: 261,
+      &quot;time&quot;: 1773595500,
+      &quot;title&quot;: &quot;Stop Sloppypasta&quot;,
       &quot;type&quot;: &quot;story&quot;,
-      &quot;url&quot;: &quot;https://kubicki.org/letters/the-festival-of-the-machines/&quot;
+      &quot;url&quot;: &quot;https://stopsloppypasta.ai/&quot;
+    },
+    {
+      &quot;by&quot;: &quot;AnnikaL&quot;,
+      &quot;descendants&quot;: 0,
+      &quot;id&quot;: 47342185,
+      &quot;score&quot;: 9,
+      &quot;time&quot;: 1773264376,
+      &quot;title&quot;: &quot;Kona EV Hacking&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;http://techno-fandom.org/~hobbit/cars/ev/&quot;
+    },
+    {
+      &quot;by&quot;: &quot;dpassens&quot;,
+      &quot;descendants&quot;: 132,
+      &quot;id&quot;: 47388137,
+      &quot;kids&quot;: [
+        47396119,
+        47395914,
+        47390865,
+        47394265,
+        47394161,
+        47391523,
+        47389972,
+        47395924,
+        47391144,
+        47390122,
+        47389729,
+        47391193,
+        47392883,
+        47389943,
+        47393998,
+        47390131,
+        47394986,
+        47390514,
+        47392017,
+        47390650,
+        47389619,
+        47391780,
+        47390116,
+        47394288
+      ],
+      &quot;score&quot;: 277,
+      &quot;time&quot;: 1773587364,
+      &quot;title&quot;: &quot;Separating the Wayland compositor and window manager&quot;,
+      &quot;type&quot;: &quot;story&quot;,
+      &quot;url&quot;: &quot;https://isaacfreund.com/blog/river-window-management/&quot;
     }
   ]
 }
@@ -1268,106 +1553,110 @@ Request error: Request failed with status code 403
   &quot;tag&quot;: null,
   &quot;items&quot;: [
     {
-      &quot;title&quot;: &quot;The Compose key is magic&quot;,
-      &quot;url&quot;: &quot;https://crescentro.se/posts/compose-key/&quot;,
-      &quot;score&quot;: 83,
-      &quot;comments&quot;: 34,
+      &quot;title&quot;: &quot;Separating the Wayland Compositor and Window Manager&quot;,
+      &quot;url&quot;: &quot;https://isaacfreund.com/blog/river-window-management/&quot;,
+      &quot;score&quot;: 93,
+      &quot;comments&quot;: 12,
       &quot;tags&quot;: [
-        &quot;linux&quot;
+        &quot;graphics&quot;
       ],
-      &quot;id&quot;: &quot;u3cc1e&quot;
+      &quot;id&quot;: &quot;pk2axu&quot;
+    },
+    {
+      &quot;title&quot;: &quot;Gothub is live&quot;,
+      &quot;url&quot;: &quot;https://x61.sh/log/2026/03/14032026191148-gothub.html&quot;,
+      &quot;score&quot;: 67,
+      &quot;comments&quot;: 10,
+      &quot;tags&quot;: [
+        &quot;openbsd&quot;,
+        &quot;vcs&quot;
+      ],
+      &quot;id&quot;: &quot;yqnihu&quot;
+    },
+    {
+      &quot;title&quot;: &quot;rack-mount hydroponics&quot;,
+      &quot;url&quot;: &quot;https://sa.lj.am/rack-mount-hydroponics/&quot;,
+      &quot;score&quot;: 42,
+      &quot;comments&quot;: 0,
+      &quot;tags&quot;: [
+        &quot;hardware&quot;
+      ],
+      &quot;id&quot;: &quot;vio5wq&quot;
+    },
+    {
+      &quot;title&quot;: &quot;I let Claude Code configure my Arch install&quot;,
+      &quot;url&quot;: &quot;https://www.willmorrison.com/blog/03-15-2026-llm-dotfiles&quot;,
+      &quot;score&quot;: 10,
+      &quot;comments&quot;: 11,
+      &quot;tags&quot;: [
+        &quot;linux&quot;,
+        &quot;vibecoding&quot;
+      ],
+      &quot;id&quot;: &quot;8pfxqy&quot;
+    },
+    {
+      &quot;title&quot;: &quot;Try not to get scammed while looking for work&quot;,
+      &quot;url&quot;: &quot;https://trysound.io/try-not-to-get-scammed-while-looking-for-work/&quot;,
+      &quot;score&quot;: 5,
+      &quot;comments&quot;: 0,
+      &quot;tags&quot;: [
+        &quot;security&quot;
+      ],
+      &quot;id&quot;: &quot;yhc5ug&quot;
     },
     {
       &quot;title&quot;: &quot;tree-style invite systems reduce AI slop&quot;,
       &quot;url&quot;: &quot;https://abyss.fish/tree-style_invite_systems_reduce_AI_slop&quot;,
-      &quot;score&quot;: 16,
-      &quot;comments&quot;: 4,
+      &quot;score&quot;: 82,
+      &quot;comments&quot;: 31,
       &quot;tags&quot;: [
         &quot;culture&quot;
       ],
       &quot;id&quot;: &quot;dw0hx5&quot;
     },
     {
-      &quot;title&quot;: &quot;A Guide to vim.pack (Neovim built-in plugin manager)&quot;,
-      &quot;url&quot;: &quot;https://echasnovski.com/blog/2026-03-13-a-guide-to-vim-pack&quot;,
-      &quot;score&quot;: 32,
-      &quot;comments&quot;: 14,
+      &quot;title&quot;: &quot;Introducing pgtui, a Postgres TUI client&quot;,
+      &quot;url&quot;: &quot;https://kdwarn.net/programming/blog/227&quot;,
+      &quot;score&quot;: 4,
+      &quot;comments&quot;: 0,
       &quot;tags&quot;: [
-        &quot;vim&quot;
+        &quot;databases&quot;,
+        &quot;rust&quot;
       ],
-      &quot;id&quot;: &quot;rmemq6&quot;
+      &quot;id&quot;: &quot;mbljtb&quot;
     },
     {
-      &quot;title&quot;: &quot;Sunsetting Jazzband&quot;,
-      &quot;url&quot;: &quot;https://jazzband.co/news/2026/03/14/sunsetting-jazzband&quot;,
-      &quot;score&quot;: 18,
+      &quot;title&quot;: &quot;A Linux distribution designed to eliminate single points of failure&quot;,
+      &quot;url&quot;: &quot;https://stagex.tools/&quot;,
+      &quot;score&quot;: 15,
       &quot;comments&quot;: 4,
       &quot;tags&quot;: [
-        &quot;python&quot;
+        &quot;linux&quot;,
+        &quot;privacy&quot;,
+        &quot;security&quot;
       ],
-      &quot;id&quot;: &quot;kyrt0i&quot;
+      &quot;id&quot;: &quot;e1skzj&quot;
     },
     {
       &quot;title&quot;: &quot;Changes to OpenTTD distribution on Steam&quot;,
       &quot;url&quot;: &quot;https://www.openttd.org/news/2026/03/14/steam-changes&quot;,
-      &quot;score&quot;: 4,
-      &quot;comments&quot;: 2,
+      &quot;score&quot;: 34,
+      &quot;comments&quot;: 14,
       &quot;tags&quot;: [
         &quot;games&quot;
       ],
       &quot;id&quot;: &quot;nc3c14&quot;
     },
     {
-      &quot;title&quot;: &quot;Lies I was Told About Collaborative Editing, Part 2: Why we don't use Yjs&quot;,
-      &quot;url&quot;: &quot;https://www.moment.dev/blog/lies-i-was-told-pt-2&quot;,
-      &quot;score&quot;: 15,
-      &quot;comments&quot;: 4,
+      &quot;title&quot;: &quot;Summary - Rust Project Perspectives on AI&quot;,
+      &quot;url&quot;: &quot;https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html&quot;,
+      &quot;score&quot;: 27,
+      &quot;comments&quot;: 16,
       &quot;tags&quot;: [
-        &quot;distributed&quot;
-      ],
-      &quot;id&quot;: &quot;jh5ljk&quot;
-    },
-    {
-      &quot;title&quot;: &quot;Baochip: What It Is, Why I'm Doing It Now, and How It Came About&quot;,
-      &quot;url&quot;: &quot;https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about&quot;,
-      &quot;score&quot;: 40,
-      &quot;comments&quot;: 1,
-      &quot;tags&quot;: [
-        &quot;hardware&quot;
-      ],
-      &quot;id&quot;: &quot;vnkkp5&quot;
-    },
-    {
-      &quot;title&quot;: &quot;Why Mathematica does not simplify Sinh[ArcCosh[x]]&quot;,
-      &quot;url&quot;: &quot;https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/&quot;,
-      &quot;score&quot;: 14,
-      &quot;comments&quot;: 5,
-      &quot;tags&quot;: [
-        &quot;math&quot;
-      ],
-      &quot;id&quot;: &quot;kzm8tb&quot;
-    },
-    {
-      &quot;title&quot;: &quot;Thoughts on generative A.I&quot;,
-      &quot;url&quot;: &quot;https://kghose.github.io/generative-ai/&quot;,
-      &quot;score&quot;: 6,
-      &quot;comments&quot;: 28,
-      &quot;tags&quot;: [
-        &quot;philosophy&quot;,
+        &quot;rust&quot;,
         &quot;vibecoding&quot;
       ],
-      &quot;id&quot;: &quot;ypes5v&quot;
-    },
-    {
-      &quot;title&quot;: &quot;Humanities in the Machine&quot;,
-      &quot;url&quot;: &quot;https://blainsmith.com/essays/humanities-in-the-machine/&quot;,
-      &quot;score&quot;: 14,
-      &quot;comments&quot;: 1,
-      &quot;tags&quot;: [
-        &quot;historical&quot;,
-        &quot;philosophy&quot;
-      ],
-      &quot;id&quot;: &quot;gsg6fc&quot;
+      &quot;id&quot;: &quot;mizmno&quot;
     }
   ]
 }</code></pre></details></article>
