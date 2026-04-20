@@ -39,6 +39,7 @@
     "chalk": "^4.1.0",
     "cheerio": "^1.0.0-rc.9",
     "commander": "^6.2.1",
+    "fast-xml-parser": "^5.7.1",
     "inquirer": "^8.1.0",
     "lodash": "^4.17.21",
     "ora": "^5.4.0"
