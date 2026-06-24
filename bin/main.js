@@ -126,14 +126,15 @@ program
   .description(t('program.redditDesc'))
   .option('-t, --topic <optional>', t('program.redditTopic'))
   .option('-s, --sort <optional>', t('program.redditSort'))
+  .option('--oauth', 'Use OAuth worker (requires HFEEDS_REDDIT_WORKER env var)')
   .action((args) => {
     const { json } = program.opts();
-    const { topic, sort } = args;
+    const { topic, sort, oauth } = args;
     if (sort && !isValidRedditSort(sort)) {
       console.log(chalk.red(t('program.invalidRedditSort')));
       return;
     }
-    fetchReddit(sort, topic, json ? 'json' : 'text');
+    fetchReddit(sort, topic, json ? 'json' : 'text', oauth || false);
   });
 
 // get dev.to feeds
