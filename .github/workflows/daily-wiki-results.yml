@@ -57,8 +57,8 @@ jobs:
           git restore --staged --worktree -- wiki-results/raw wiki-results/wiki-html || true
           git clean -fd -- wiki-results/raw wiki-results/wiki-html
 
-          git fetch origin "refs/heads/${BRANCH}:refs/remotes/origin/${BRANCH}" || true
-          if git show-ref --verify --quiet "refs/remotes/origin/${BRANCH}"; then
+          if git ls-remote --exit-code origin "refs/heads/${BRANCH}" >/dev/null; then
+            git fetch origin "refs/heads/${BRANCH}:refs/remotes/origin/${BRANCH}"
             git switch --track "origin/${BRANCH}" || git switch "$BRANCH"
           else
             git switch -c "$BRANCH"
