@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   generate:
@@ -28,14 +29,60 @@ jobs:
           HF_PRODUCTHUNT_TOKEN: ${{ secrets.HF_PRODUCTHUNT_TOKEN }}
         run: bash wiki-results/scripts/generate-daily-results.sh
 
-      - name: Commit changes
+      # Pushing main is rejected by branch protection (GH006). Open or update a
+      # same-day PR instead. GITHUB_TOKEN cannot bypass required reviews.
+      - name: Open or update pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
+          set -euo pipefail
+
+          DATE_UTC="$(date -u +%F)"
+          BRANCH="chore/daily-wiki-results-${DATE_UTC}"
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add wiki-results/raw wiki-results/wiki-html
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "chore: daily wiki results update"
-          git push
+
+          tmpdir="$(mktemp -d)"
+          trap 'rm -rf "$tmpdir"' EXIT
+          cp -a wiki-results/raw "$tmpdir/raw"
+          cp -a wiki-results/wiki-html "$tmpdir/wiki-html"
+
+          git restore --staged --worktree -- wiki-results/raw wiki-results/wiki-html || true
+          git clean -fd -- wiki-results/raw wiki-results/wiki-html
+
+          if git ls-remote --exit-code origin "refs/heads/${BRANCH}" >/dev/null; then
+            git fetch origin "refs/heads/${BRANCH}:refs/remotes/origin/${BRANCH}"
+            git switch --track "origin/${BRANCH}" || git switch "$BRANCH"
+          else
+            git switch -c "$BRANCH"
+          fi
+
+          rm -rf wiki-results/raw wiki-results/wiki-html
+          cp -a "$tmpdir/raw" wiki-results/raw
+          cp -a "$tmpdir/wiki-html" wiki-results/wiki-html
+
+          git add wiki-results/raw wiki-results/wiki-html
+          if git diff --cached --quiet; then
+            echo "Dated branch already has the generated files"
+          else
+            git commit -m "chore: daily wiki results update"
+            git push -u origin "HEAD:${BRANCH}"
+          fi
+
+          existing="$(gh pr list --base main --head "${GITHUB_REPOSITORY_OWNER}:${BRANCH}" --state open --json number --jq '.[0].number // empty')"
+          if [[ -n "$existing" ]]; then
+            echo "Updated existing pull request #${existing} for ${BRANCH}"
+          else
+            gh pr create \
+              --base main \
+              --head "$BRANCH" \
+              --title "chore: daily wiki results update (${DATE_UTC})" \
+              --body "Automated daily wiki results for ${DATE_UTC}."
+          fi
