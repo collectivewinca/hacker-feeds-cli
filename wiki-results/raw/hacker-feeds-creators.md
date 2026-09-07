@@ -1,6 +1,6 @@
 # Hacker Feeds Outcomes - Creators
 
-Generated on: 2026-04-28 07:11:52 UTC
+Generated on: 2026-09-07 06:48:16 UTC
 
 Runtime note: executed with NODE_OPTIONS=--require /tmp/hf-polyfill.js
 
@@ -23,279 +23,279 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
   "sort": "hot",
   "items": [
     {
-      "title": "* “Sharing the road is not a suggestion”",
-      "url": "https://v.redd.it/ho4efw8qarxg1",
-      "permalink": "https://www.reddit.com/r/dashcams/comments/1sx82fg/sharing_the_road_is_not_a_suggestion/",
-      "author": "/u/Feaselbf6",
+      "title": "The gravestone for Ken'neka Jenkins goes viral for it's upgrade after her family won a $10 million wrongful death lawsuit",
+      "url": "https://i.redd.it/v1jskrhc2xnh1.jpeg",
+      "permalink": "https://www.reddit.com/r/whoathatsinteresting/comments/1w8z1td/the_gravestone_for_kenneka_jenkins_goes_viral_for/",
+      "author": "/u/ThatPatelGuy",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/Feaselbf6 &#32; to &#32; r/dashcams [link] &#32; [comments]",
-      "published": "2026-04-27T16:03:57+00:00"
+      "selftext": "Ken&#39;neka attended a party in a room at the Crowne Plaza Chicago O’Hare (Rosemont) on the night of September 8 2017, and was found dead in a walk-in freezer the next day. The Cook County Medical Examiner ruled the death accidental hypothermia from cold exposure. Surveilance video showed her walking into the kitchen and freezer alone and no one entered before or after she was in. The freezer did not lock and had a working interior release/latch so it could be opened from inside. The room was booked with a fraudulent credit card tied to identity theft. Police said the people who reserved it were affiliated with a West Side Chicago gang. https://www.newsweek.com/kenneka-james-hotel-freezer-new-video-found-dead-case-closed-gang-members-vice-690038 The family sued for $50 million, alleging the hotel was negligent for leaving the kitchen/freezer area accessible. The case settled in 2023 for $10 million and the family upgraded the gravestone after receiving the funds https://www.cnn.com/2023/12/14/us/kenneka-jenkins-chicago-freezer-death-settlement &#32; submitted by &#32; /u/ThatPatelGuy &#32; to &#32; r/whoathatsinteresting [link] &#32; [comments]",
+      "published": "2026-09-06T15:23:18+00:00"
     },
     {
-      "title": "Who’s a celebrity everyone finds attractive but you don’t?",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1sxm7tn/whos_a_celebrity_everyone_finds_attractive_but/",
-      "permalink": "https://www.reddit.com/r/AskReddit/comments/1sxm7tn/whos_a_celebrity_everyone_finds_attractive_but/",
-      "author": "/u/Valo_X_baddie",
+      "title": "AIO - a stranger commented on my due date and I’m not pregnant",
+      "url": "https://i.redd.it/6aq1u5681ynh1.jpeg",
+      "permalink": "https://www.reddit.com/r/AmIOverreacting/comments/1w942wv/aio_a_stranger_commented_on_my_due_date_and_im/",
+      "author": "/u/WheelPrior9845",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/Valo_X_baddie &#32; to &#32; r/AskReddit [link] &#32; [comments]",
-      "published": "2026-04-28T00:48:03+00:00"
+      "selftext": "A good friend of mine (in brown) and I (in yellow) went to a farmers market yesterday - she is due in 2 weeks and is very clearly pregnant. I, however, am not pregnant. We’re waiting for our coffee at this cute little shop and this middle aged woman looked at us and said “aww how sweet you guys are due so close together.” I was immediately in shock and just said “oop welp I’m not pregnant” and she does “oh I’m so sorry it must be your dress!” I just grabbed my little girl who was toddling around and walked away so fast - I was honestly reeling in humiliation. Surrounded by dozens of people all of the sudden I felt like the most hideous troll in the place and everyone was staring at me. Im sure they weren’t but the immediate mental assault was staggering. I’ve had a really hard time losing weight postpartum (had a c section that left me with an apron belly) and was feeling really cute in this dress. Which just made it so much worse. I have actually lost weight recently and fitting into a cute summer dress and feeling good about myself. Just to be told by a stranger I looked 9 months pregnant. It shattered my self confidence and honestly I just put on a brave face and laughed it off and walked through the rest of the market but deep down I was dying. I don’t typically struggle with too much insecurity because I know comparison is the thief of happiness and genuinely try to be present and positive for my little girl but man… I ugly cried and sobbed the whole way home in the car. My sweet friend was furious and apologized over and over for not saying something back to the lady but I think we were both just in shock - how can you expect to be told something like that?? Of course it wasn’t her fault. I’m adding a picture of what we both looked like. I just can’t believe a woman would ever assume something so sensitive. Am I overreacting??? EDIT: I cannot believe all these amazing comments….I can’t even catch them all before more come in. Thank you to everyone for your honest feedback. And to everyone who is sharing their cringiest gaffes…. You have totally turned the tides on how I feel about this experience. I have been crying laughing for the last hour. THANK YOU FOR YOUR SERVICE 🫶🫶🫶 &#32; submitted by &#32; /u/WheelPrior9845 &#32; to &#32; r/AmIOverreacting [link] &#32; [comments]",
+      "published": "2026-09-06T18:30:33+00:00"
     },
     {
-      "title": "My 5 year old wants to be a chef, so he made a ‘charcuterie board’ for his little sister tonight",
-      "url": "https://www.reddit.com/gallery/1sxnd0x",
-      "permalink": "https://www.reddit.com/r/MadeMeSmile/comments/1sxnd0x/my_5_year_old_wants_to_be_a_chef_so_he_made_a/",
-      "author": "/u/MokaMama",
+      "title": "[OC] I asked my husband for duck ravioli for my birthday",
+      "url": "https://i.redd.it/og3smlxoxznh1.jpeg",
+      "permalink": "https://www.reddit.com/r/pics/comments/1w9dkj7/oc_i_asked_my_husband_for_duck_ravioli_for_my/",
+      "author": "/u/akwardstreet",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "He helped me with a big charcuterie spread last week and has been talking about it ever since. Tonight he wanted to make one for dinner for him and his little sister. He was so proud of the “fancy cheese” and kept checking that everything looked right. It was gone in minutes, but I think this one’s going to stick with me for a while. &#32; submitted by &#32; /u/MokaMama &#32; to &#32; r/MadeMeSmile [link] &#32; [comments]",
-      "published": "2026-04-28T01:38:50+00:00"
+      "selftext": "&#32; submitted by &#32; /u/akwardstreet &#32; to &#32; r/pics [link] &#32; [comments]",
+      "published": "2026-09-07T00:54:17+00:00"
     },
     {
-      "title": "B-Eminem-W",
-      "url": "https://v.redd.it/xlbl6qxrouxg1",
-      "permalink": "https://www.reddit.com/r/funny/comments/1sxpsz2/beminemw/",
-      "author": "/u/Conscious-Weight4569",
+      "title": "It only takes one person",
+      "url": "https://i.redd.it/jasnqm62qxnh1.jpeg",
+      "permalink": "https://www.reddit.com/r/SipsTea/comments/1w92cwa/it_only_takes_one_person/",
+      "author": "/u/ConsistentRecover312",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/Conscious-Weight4569 &#32; to &#32; r/funny [link] &#32; [comments]",
-      "published": "2026-04-28T03:27:55+00:00"
+      "selftext": "&#32; submitted by &#32; /u/ConsistentRecover312 &#32; to &#32; r/SipsTea [link] &#32; [comments]",
+      "published": "2026-09-06T17:27:59+00:00"
     },
     {
-      "title": "meirl",
-      "url": "https://i.redd.it/xse7f3d6stxg1.jpeg",
-      "permalink": "https://www.reddit.com/r/meirl/comments/1sxlp5g/meirl/",
-      "author": "/u/MustardGoddess",
+      "title": "Jackass neighbor licks this thumb and jabs my sidemirror every morning",
+      "url": "https://v.redd.it/fqn7u6n4rynh1",
+      "permalink": "https://www.reddit.com/r/mildlyinfuriating/comments/1w981ch/jackass_neighbor_licks_this_thumb_and_jabs_my/",
+      "author": "/u/Vetriol",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/MustardGoddess &#32; to &#32; r/meirl [link] &#32; [comments]",
-      "published": "2026-04-28T00:25:12+00:00"
+      "selftext": "A month ago, he mistakenly parked in my reserved spot and I asked him if he could move his truck. He took it very personally and has been doing this bullshit every time he walks to his car. &#32; submitted by &#32; /u/Vetriol &#32; to &#32; r/mildlyinfuriating [link] &#32; [comments]",
+      "published": "2026-09-06T20:58:02+00:00"
     },
     {
-      "title": "$70.69 for Bland Tacos at Coachella",
-      "url": "https://v.redd.it/ygkfjrcjjrxg1",
-      "permalink": "https://www.reddit.com/r/StupidFood/comments/1sx9h88/7069_for_bland_tacos_at_coachella/",
-      "author": "/u/ForceUseYouMust",
+      "title": "A guy caught a 112 MPH home run ball with one hand",
+      "url": "https://v.redd.it/tkrtly4ts0oh1",
+      "permalink": "https://www.reddit.com/r/nextfuckinglevel/comments/1w9h5pd/a_guy_caught_a_112_mph_home_run_ball_with_one_hand/",
+      "author": "/u/Shoe_boooo",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/ForceUseYouMust &#32; to &#32; r/StupidFood [link] &#32; [comments]",
-      "published": "2026-04-27T16:53:16+00:00"
+      "selftext": "&#32; submitted by &#32; /u/Shoe_boooo &#32; to &#32; r/nextfuckinglevel [link] &#32; [comments]",
+      "published": "2026-09-07T03:48:44+00:00"
     },
     {
-      "title": "Jeffries says Trump impeachment not a top priority if Dems win House majority",
-      "url": "https://thehill.com/homenews/house/5849707-democrats-decline-trump-impeachment/",
-      "permalink": "https://www.reddit.com/r/politics/comments/1sx9pi6/jeffries_says_trump_impeachment_not_a_top/",
-      "author": "/u/metacyan",
+      "title": "Store LP using a drone to track suspected thieves",
+      "url": "https://v.redd.it/jw4elr37c0oh1",
+      "permalink": "https://www.reddit.com/r/interestingasfuck/comments/1w9f9oq/store_lp_using_a_drone_to_track_suspected_thieves/",
+      "author": "/u/HomeNowWTF",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/metacyan &#32; to &#32; r/politics [link] &#32; [comments]",
-      "published": "2026-04-27T17:01:07+00:00"
+      "selftext": "&#32; submitted by &#32; /u/HomeNowWTF &#32; to &#32; r/interestingasfuck [link] &#32; [comments]",
+      "published": "2026-09-07T02:15:44+00:00"
     },
     {
-      "title": "Scientologist buildings have removed the door handles in an attempt to defend themselves from the speedruns",
-      "url": "https://v.redd.it/bykd8z9cxtxg1",
-      "permalink": "https://www.reddit.com/r/TikTokCringe/comments/1sxmfe0/scientologist_buildings_have_removed_the_door/",
-      "author": "/u/Girl-Understood",
+      "title": "The world map is changing: The UN has backed replacing the 500-year-old Mercator projection with the accurate Equal Earth projection",
+      "url": "https://i.redd.it/31cijmhrkwnh1.jpeg",
+      "permalink": "https://www.reddit.com/r/interestingasfuck/comments/1w8wf6a/the_world_map_is_changing_the_un_has_backed/",
+      "author": "/u/lonewolff321",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/Girl-Understood &#32; to &#32; r/TikTokCringe [link] &#32; [comments]",
-      "published": "2026-04-28T00:57:26+00:00"
+      "selftext": "&#32; submitted by &#32; /u/lonewolff321 &#32; to &#32; r/interestingasfuck [link] &#32; [comments]",
+      "published": "2026-09-06T13:36:35+00:00"
     },
     {
-      "title": "Melania Trump calls on ABC to cancel Jimmy Kimmel's late-night show after he said she has “a glow like an expectant widow” during his mock White House Correspondents' Dinner sketch: “People like Kimmel shouldn’t have the opportunity to enter our homes each evening to spread hate.“",
-      "url": "https://v.redd.it/4ezyhcx6zqxg1",
-      "permalink": "https://www.reddit.com/r/Fauxmoi/comments/1sx67kj/melania_trump_calls_on_abc_to_cancel_jimmy/",
-      "author": "/u/cmaia1503",
+      "title": "Yes I can confirm, Puerto Rican women are just as powerful as Lucia",
+      "url": "https://v.redd.it/b922sqpf5xnh1",
+      "permalink": "https://www.reddit.com/r/videogames/comments/1w8za9p/yes_i_can_confirm_puerto_rican_women_are_just_as/",
+      "author": "/u/SEVENS_HEAVEN_7",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/cmaia1503 &#32; to &#32; r/Fauxmoi [link] &#32; [comments]",
-      "published": "2026-04-27T14:59:11+00:00"
+      "selftext": "&#32; submitted by &#32; /u/SEVENS_HEAVEN_7 &#32; to &#32; r/videogames [link] &#32; [comments]",
+      "published": "2026-09-06T15:32:29+00:00"
     },
     {
-      "title": "McDonald's removed the drink station and the ketchup from the lobby.",
-      "url": "https://i.redd.it/b53lfhqv8sxg1.jpeg",
-      "permalink": "https://www.reddit.com/r/mildlyinfuriating/comments/1sxdl0u/mcdonalds_removed_the_drink_station_and_the/",
-      "author": "/u/RandomBloke2021",
+      "title": "Pentagon refuses payout for soldiers who died in Iran conflict ‘because it isn’t a war'",
+      "url": "https://www.telegraph.co.uk/world-news/2026/09/06/pentagon-refused-payout-soldiers-died-in-iran-war/",
+      "permalink": "https://www.reddit.com/r/politics/comments/1w9gyzz/pentagon_refuses_payout_for_soldiers_who_died_in/",
+      "author": "/u/1_for_you_2_for_me",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/RandomBloke2021 &#32; to &#32; r/mildlyinfuriating [link] &#32; [comments]",
-      "published": "2026-04-27T19:15:16+00:00"
+      "selftext": "&#32; submitted by &#32; /u/1_for_you_2_for_me &#32; to &#32; r/politics [link] &#32; [comments]",
+      "published": "2026-09-07T03:39:27+00:00"
     },
     {
-      "title": "Strange How That Works.",
-      "url": "https://i.redd.it/7qvcqxr60uxg1.jpeg",
-      "permalink": "https://www.reddit.com/r/SipsTea/comments/1sxmpux/strange_how_that_works/",
-      "author": "/u/Monsur_Ausuhnom",
+      "title": "To the man that asked me and my baby to go in his car",
+      "url": "https://i.redd.it/g48f5a6tz0oh1.jpeg",
+      "permalink": "https://www.reddit.com/r/GirlDinnerDiaries/comments/1w9hxxm/to_the_man_that_asked_me_and_my_baby_to_go_in_his/",
+      "author": "/u/barbieshoesound",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/Monsur_Ausuhnom &#32; to &#32; r/SipsTea [link] &#32; [comments]",
-      "published": "2026-04-28T01:10:11+00:00"
+      "selftext": "My car started breaking down on the highway in 95 degree heat. My power steering went out, there was smoke everywhere and I was afraid my car was going to catch on fire. I pulled over to the shoulder. I took my baby out of their carseat and ran from the car, watching and waiting for the flames. Suddenly, an older man pulled over on the side of the road. He first ran toward the car to make sure no one was in it. He asked if me and my baby were okay and proceeded to inspect the situation as the smoke dissipated. He told me he was sure with the engine off, it was safe to be near it. I sat my baby back in the car and left the door open so they could at least be in the shade and maybe get some wind from passing cars. After a few moments of waiting while I made some calls, the man hesitantly said ‘Well, it’s really really hot out here and it’s not too safe for your baby. If you wanted to, I have air conditioning in my car…?’ In that moment, I very quickly said no. He responded ‘Okay, I’ll wait here in my car until your husband picks you up, just in case you need some help. Please stay cool.’ Sir, if there’s any chance you or your family read this, thank you for waiting almost a whole hour on the side of the highway during rush hour for my husband to get to me and my baby. I did not ask your name and I wish I did. You couldn’t have known this, but you have no idea how badly I wanted my dad in that moment, and it was a comfort to have you near. I apologize for not accepting your offer, though I knew in that moment you understood why. Thank you for being so kind to a total stranger in need. Lunch today was this donut and a good amount of electrolytes bc I keep crying over this situation 🥲 &#32; submitted by &#32; /u/barbieshoesound &#32; to &#32; r/GirlDinnerDiaries [link] &#32; [comments]",
+      "published": "2026-09-07T04:27:57+00:00"
     },
     {
-      "title": "Claude-powered AI coding agent deletes entire company database in 9 seconds — backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue",
-      "permalink": "https://www.reddit.com/r/technology/comments/1sxaa7a/claudepowered_ai_coding_agent_deletes_entire/",
-      "author": "/u/WouldbeWanderer",
+      "title": "Bubinha, the most curious of the family. Giving Totoro vibes.",
+      "url": "https://v.redd.it/yijmhki4d0oh1",
+      "permalink": "https://www.reddit.com/r/cats/comments/1w9fdma/bubinha_the_most_curious_of_the_family_giving/",
+      "author": "/u/DarthiusFatticus",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/WouldbeWanderer &#32; to &#32; r/technology [link] &#32; [comments]",
-      "published": "2026-04-27T17:20:58+00:00"
+      "selftext": "&#32; submitted by &#32; /u/DarthiusFatticus &#32; to &#32; r/cats [link] &#32; [comments]",
+      "published": "2026-09-07T02:20:57+00:00"
     },
     {
-      "title": "[Highlight] Jamal Cain absolutely yams it on Jalen Duren",
-      "url": "https://streamable.com/zm5333",
-      "permalink": "https://www.reddit.com/r/nba/comments/1sxodt7/highlight_jamal_cain_absolutely_yams_it_on_jalen/",
-      "author": "/u/Large_banana_hammock",
+      "title": "Im feeling down, can you please show me your cats 🐱",
+      "url": "https://i.redd.it/xh6youdrtxnh1.jpeg",
+      "permalink": "https://www.reddit.com/r/cats/comments/1w92xs1/im_feeling_down_can_you_please_show_me_your_cats/",
+      "author": "/u/chardawk",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/Large_banana_hammock &#32; to &#32; r/nba [link] &#32; [comments]",
-      "published": "2026-04-28T02:23:10+00:00"
+      "selftext": "This is Moo, my boyfriend’s cat. I think I’m her favourite &#32; submitted by &#32; /u/chardawk &#32; to &#32; r/cats [link] &#32; [comments]",
+      "published": "2026-09-06T17:48:42+00:00"
     },
     {
-      "title": "You can really feel the hope and change back in 2008.",
-      "url": "https://i.redd.it/57530h82otxg1.jpeg",
-      "permalink": "https://www.reddit.com/r/Millennials/comments/1sxl6eq/you_can_really_feel_the_hope_and_change_back_in/",
-      "author": "/u/icey_sawg0034",
+      "title": "Trump posts map that renames New Mexico ‘New America’",
+      "url": "https://nypost.com/2026/09/06/us-news/trump-posts-map-that-renames-new-mexico-new-america/",
+      "permalink": "https://www.reddit.com/r/politics/comments/1w97pcy/trump_posts_map_that_renames_new_mexico_new/",
+      "author": "/u/Rock-n-roll-Kevin",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/icey_sawg0034 &#32; to &#32; r/Millennials [link] &#32; [comments]",
-      "published": "2026-04-28T00:02:07+00:00"
+      "selftext": "&#32; submitted by &#32; /u/Rock-n-roll-Kevin &#32; to &#32; r/politics [link] &#32; [comments]",
+      "published": "2026-09-06T20:45:09+00:00"
     },
     {
-      "title": "How small he is!",
-      "url": "https://v.redd.it/w8b4ymz9quxg1",
-      "permalink": "https://www.reddit.com/r/Damnthatsinteresting/comments/1sxpzg3/how_small_he_is/",
-      "author": "/u/NoAcanthocephala2582",
+      "title": "What animated movie is 10/10?",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1w9d3wo/what_animated_movie_is_1010/",
+      "permalink": "https://www.reddit.com/r/AskReddit/comments/1w9d3wo/what_animated_movie_is_1010/",
+      "author": "/u/Independent-Rip-1299",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/NoAcanthocephala2582 &#32; to &#32; r/Damnthatsinteresting [link] &#32; [comments]",
-      "published": "2026-04-28T03:36:24+00:00"
+      "selftext": "&#32; submitted by &#32; /u/Independent-Rip-1299 &#32; to &#32; r/AskReddit [link] &#32; [comments]",
+      "published": "2026-09-07T00:32:38+00:00"
     },
     {
-      "title": "Explain like I’m five, please.",
-      "url": "https://i.redd.it/87jk3yzxksxg1.jpeg",
-      "permalink": "https://www.reddit.com/r/BlackPeopleofReddit/comments/1sxfj4f/explain_like_im_five_please/",
-      "author": "/u/diehard404",
+      "title": "Mexican strongman Raul Flores has shattered the deadlift world record with an insane 511kg (1,126.6 lbs) lift!",
+      "url": "https://v.redd.it/mq1yo6kti0oh1",
+      "permalink": "https://www.reddit.com/r/sports/comments/1w9g0q6/mexican_strongman_raul_flores_has_shattered_the/",
+      "author": "/u/Apprehensive_Sky4558",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/diehard404 &#32; to &#32; r/BlackPeopleofReddit [link] &#32; [comments]",
-      "published": "2026-04-27T20:22:55+00:00"
+      "selftext": "&#32; submitted by &#32; /u/Apprehensive_Sky4558 &#32; to &#32; r/sports [link] &#32; [comments]",
+      "published": "2026-09-07T02:52:48+00:00"
     },
     {
-      "title": "When the horse says, \"Get off of me,\" you get off.",
-      "url": "https://v.redd.it/1w988jfj1sxg1",
-      "permalink": "https://www.reddit.com/r/Wellthatsucks/comments/1sxcewv/when_the_horse_says_get_off_of_me_you_get_off/",
-      "author": "/u/Expert_Koala_8691",
+      "title": "GF gifted me GTA 6 in the most ridiculous way for bday",
+      "url": "https://www.reddit.com/gallery/1w914em",
+      "permalink": "https://www.reddit.com/r/GTA6/comments/1w914em/gf_gifted_me_gta_6_in_the_most_ridiculous_way_for/",
+      "author": "/u/ImHeiden",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/Expert_Koala_8691 &#32; to &#32; r/Wellthatsucks [link] &#32; [comments]",
-      "published": "2026-04-27T18:34:24+00:00"
+      "selftext": "She has spent hours on painting a cardboard box with black spray paint. Turns out she gifted me GTA 6 Ultimate edition. And not only that all chores and food is taken care of from launch day till Sunday. &#32; submitted by &#32; /u/ImHeiden &#32; to &#32; r/GTA6 [link] &#32; [comments]",
+      "published": "2026-09-06T16:42:03+00:00"
     },
     {
-      "title": "The Onion unveils new rainbow logo for InfoWars merchandise with a portion of the profits going to Sandy Hook families",
-      "url": "https://i.redd.it/ih6uanmgltxg1.jpeg",
-      "permalink": "https://www.reddit.com/r/Fauxmoi/comments/1sxktrl/the_onion_unveils_new_rainbow_logo_for_infowars/",
-      "author": "/u/mlg1981",
+      "title": "Took a pottery class. Studio insisted on glazing themselves. This is how my work turned out.",
+      "url": "https://www.reddit.com/gallery/1w9gtt0",
+      "permalink": "https://www.reddit.com/r/mildlyinfuriating/comments/1w9gtt0/took_a_pottery_class_studio_insisted_on_glazing/",
+      "author": "/u/asilmarie",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "Details: https://www.them.us/story/infowars-licensed-the-onion-rainbow-logo &#32; submitted by &#32; /u/mlg1981 &#32; to &#32; r/Fauxmoi [link] &#32; [comments]",
-      "published": "2026-04-27T23:47:34+00:00"
+      "selftext": "Yes, I know it looks like… To clarify - the studio policy denies students to glaze their own work. It’s not the norm so I have no clue why. Don’t even get me started on the fact that they made the whole class vote on ONE glaze color for everyone’s work This cost me $225. They didn’t say anything to me when I went to pick my pieces up. They were just sitting in a box with everyone else’s UPDATE: these comments helped me feel less like a Karen so I just emailed them asking what happened and how they can make it right. Will keep y’all posted if they respond! I don’t want to tank their small business so I’m not posting any bad reviews on Google/yelp/etc &#32; submitted by &#32; /u/asilmarie &#32; to &#32; r/mildlyinfuriating [link] &#32; [comments]",
+      "published": "2026-09-07T03:32:06+00:00"
     },
     {
-      "title": "I don't see the problem here 🤷‍♀️",
-      "url": "https://v.redd.it/j6rav0c23vxg1",
-      "permalink": "https://www.reddit.com/r/Unexpected/comments/1sxrgbn/i_dont_see_the_problem_here/",
-      "author": "/u/Alternative-Dot-34",
+      "title": "The day Robin Williams made Koko the gorilla laugh, after she had been grieving the loss of her companion, Michael, for six months.",
+      "url": "https://v.redd.it/30edktixyznh1",
+      "permalink": "https://www.reddit.com/r/BeAmazed/comments/1w9dpwx/the_day_robin_williams_made_koko_the_gorilla/",
+      "author": "/u/Professional_Arm794",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/Alternative-Dot-34 &#32; to &#32; r/Unexpected [link] &#32; [comments]",
-      "published": "2026-04-28T04:48:26+00:00"
+      "selftext": "&#32; submitted by &#32; /u/Professional_Arm794 &#32; to &#32; r/BeAmazed [link] &#32; [comments]",
+      "published": "2026-09-07T01:01:17+00:00"
     },
     {
-      "title": "Maybe a politics thing? Barnacles?",
-      "url": "https://i.redd.it/w9uhmd6tpsxg1.jpeg",
-      "permalink": "https://www.reddit.com/r/PeterExplainsTheJoke/comments/1sxgayx/maybe_a_politics_thing_barnacles/",
-      "author": "/u/No_Diet1854",
+      "title": "The Fool, Albany NY[OC]",
+      "url": "https://i.redd.it/90vqy4k97znh1.jpeg",
+      "permalink": "https://www.reddit.com/r/pics/comments/1w9a891/the_fool_albany_nyoc/",
+      "author": "/u/ThatsABadCardTrick",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "I saw this, can&#39;t make sense of it. I figure it&#39;s something like the barnacles have a different stance on some political issue than the whale? &#32; submitted by &#32; /u/No_Diet1854 &#32; to &#32; r/PeterExplainsTheJoke [link] &#32; [comments]",
-      "published": "2026-04-27T20:50:09+00:00"
+      "selftext": "&#32; submitted by &#32; /u/ThatsABadCardTrick &#32; to &#32; r/pics [link] &#32; [comments]",
+      "published": "2026-09-06T22:26:10+00:00"
     },
     {
-      "title": "What is this very heavy jar I found digging around in an old folk's pantry?",
-      "url": "https://www.reddit.com/gallery/1sx5mb8",
-      "permalink": "https://www.reddit.com/r/whatisit/comments/1sx5mb8/what_is_this_very_heavy_jar_i_found_digging/",
-      "author": "/u/GruntCandy86",
+      "title": "Outjerked again. It's real",
+      "url": "https://i.redd.it/hafr84abtynh1.jpeg",
+      "permalink": "https://www.reddit.com/r/wallstreetbets/comments/1w98aw7/outjerked_again_its_real/",
+      "author": "/u/Thoughtful_Tortoise",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/GruntCandy86 &#32; to &#32; r/whatisit [link] &#32; [comments]",
-      "published": "2026-04-27T14:38:04+00:00"
+      "selftext": "&#32; submitted by &#32; /u/Thoughtful_Tortoise &#32; to &#32; r/wallstreetbets [link] &#32; [comments]",
+      "published": "2026-09-06T21:07:58+00:00"
     },
     {
-      "title": "Italy has a roller coaster that drags you to the edge of a 42-meter drop, stops completely, and makes you stare straight down at 87° before letting go. Oblivion: The Black Hole at Gardaland.",
-      "url": "https://v.redd.it/ndfbqo6anqxg1",
-      "permalink": "https://www.reddit.com/r/Damnthatsinteresting/comments/1sx4ceo/italy_has_a_roller_coaster_that_drags_you_to_the/",
-      "author": "/u/Valuable_View_561",
+      "title": "Kimi Antonelli wins the 2026 Italian Grand Prix! The first victory on home soil by an Italian driver since 1966",
+      "url": "https://i.redd.it/5xc9uhovywnh1.png",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1w8yczg/kimi_antonelli_wins_the_2026_italian_grand_prix/",
+      "author": "/u/overspeeed",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/Valuable_View_561 &#32; to &#32; r/Damnthatsinteresting [link] &#32; [comments]",
-      "published": "2026-04-27T13:52:27+00:00"
+      "selftext": "&#32; submitted by &#32; /u/overspeeed &#32; to &#32; r/formula1 [link] &#32; [comments]",
+      "published": "2026-09-06T14:56:34+00:00"
     },
     {
-      "title": "A praying mantis (hymenaea protera) trapped in amber, approximately 12 million years old",
-      "url": "https://www.reddit.com/gallery/1sxjqo4",
-      "permalink": "https://www.reddit.com/r/interestingasfuck/comments/1sxjqo4/a_praying_mantis_hymenaea_protera_trapped_in/",
-      "author": "/u/Additional_Berry_977",
+      "title": "Morality of seeking out emotionally vulnerable people.",
+      "url": "https://i.redd.it/6281to9cnxnh1.jpeg",
+      "permalink": "https://www.reddit.com/r/MoralityScaling/comments/1w91xob/morality_of_seeking_out_emotionally_vulnerable/",
+      "author": "/u/Paldavin",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/Additional_Berry_977 &#32; to &#32; r/interestingasfuck [link] &#32; [comments]",
-      "published": "2026-04-27T23:02:00+00:00"
+      "selftext": "&#32; submitted by &#32; /u/Paldavin &#32; to &#32; r/MoralityScaling [link] &#32; [comments]",
+      "published": "2026-09-06T17:12:44+00:00"
     },
     {
-      "title": "Google co-founder slams California billionaire tax, says “I fled socialism,” after reportedly leaving the state to avoid a proposed 5% wealth tax. He has a reported net worth of around $270 billion. How is this not parasitic behavior? He is trying to leave the state that helped build him.",
-      "url": "https://i.redd.it/h61hjfuxptxg1.png",
-      "permalink": "https://www.reddit.com/r/antiwork/comments/1sxlmgv/google_cofounder_slams_california_billionaire_tax/",
-      "author": "/u/RandomUwUFace",
+      "title": "Where’s the Office Space fans at?",
+      "url": "https://i.redd.it/3az7ve5z10oh1.jpeg",
+      "permalink": "https://www.reddit.com/r/90s/comments/1w9e2nk/wheres_the_office_space_fans_at/",
+      "author": "/u/rockstoned4",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "Seriously, how is this not parasitic behavior? Or am I the only one who thinks this? He (or the company he co-founded, Google) benefits from taxpayer-funded schools like the University of California system (with schools like UC Berkeley, UCLA, and UC San Diego), and the California State University system, including schools like San Jose State University, which are huge feeders into Silicon Valley and the company. His company also benefited from the highway system that many employees used to get to work, internet backbone and federal defense-related research origins (ARPANET roots tied to UC/Stanford/DARPA ecosystem), the venture capital ecosystem concentrated in California (enabled by its legal and financial infrastructure), and public research funding (e.g., NSF/NIH grants supporting UC and Stanford labs and early-stage tech research), etc., and yet he wants to leave the state that helped build him up. He claims he fled socialism and fled the state because he is afraid of California’s proposed ballot measure. If the ballot measure passes, it would impose a ONE-TIME 5% wealth tax on billionaires in the state. Mark Zuckerberg also reportedly is buying property in Florida to avoid the tax. Now they all want to buddy up with politicians who are against this (you know the political party I am referring to). &#32; submitted by &#32; /u/RandomUwUFace &#32; to &#32; r/antiwork [link] &#32; [comments]",
-      "published": "2026-04-28T00:21:53+00:00"
+      "selftext": "&#32; submitted by &#32; /u/rockstoned4 &#32; to &#32; r/90s [link] &#32; [comments]",
+      "published": "2026-09-07T01:18:18+00:00"
     },
     {
-      "title": "(Hated Trope) Everyone marries their HS sweetheart.",
-      "url": "https://www.reddit.com/gallery/1sxdpga",
-      "permalink": "https://www.reddit.com/r/TopCharacterTropes/comments/1sxdpga/hated_trope_everyone_marries_their_hs_sweetheart/",
-      "author": "/u/TheStoryBoy",
+      "title": "The moment Prime Air Boeing 767 overshots the runway at Miami International Airport - September 6, 2026",
+      "url": "https://v.redd.it/s88vuiumhznh1",
+      "permalink": "https://www.reddit.com/r/aviation/comments/1w9bl1g/the_moment_prime_air_boeing_767_overshots_the/",
+      "author": "/u/Repulsive-Pattern-57",
       "subreddit": "popular",
       "score": null,
       "num_comments": null,
-      "selftext": "Harry Potter Franchise: Ron and Hermione end up married, Harry and Ginny do as well. 70s show: When that 90s show came out it showed that Donna and Eric did end up married, as well as Jackie and Kelso. &#32; submitted by &#32; /u/TheStoryBoy &#32; to &#32; r/TopCharacterTropes [link] &#32; [comments]",
-      "published": "2026-04-27T19:19:35+00:00"
+      "selftext": "&#32; submitted by &#32; /u/Repulsive-Pattern-57 &#32; to &#32; r/aviation [link] &#32; [comments]",
+      "published": "2026-09-06T23:24:18+00:00"
     }
   ]
 }
@@ -306,104 +306,104 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
   "sort": "top",
   "items": [
     {
-      "title": "Meme Monday",
-      "description": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "url": "https://dev.to/ben/meme-monday-98e",
-      "tags": "discuss, jokes, watercooler",
-      "reactions": 21,
-      "comments": 20,
-      "reading_time": 1,
-      "author": "ben"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "description": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl",
-      "tags": "top7, discuss",
-      "reactions": 39,
-      "comments": 5,
-      "reading_time": 3,
-      "author": "jess"
-    },
-    {
-      "title": "Fine-Tune Any HuggingFace Model like Gemma on TPUs with TorchAX",
-      "description": "Learn how to fine-tune PyTorch HuggingFace models on Google TPUs using torchax and LoRA — no JAX rewrite needed. Includes evaluation, save/reload, and a Colab notebook.",
-      "url": "https://dev.to/gde/fine-tune-any-huggingface-model-like-gemma-on-tpus-with-torchax-5g21",
-      "tags": "machinelearning, pytorch, python, tutorial",
-      "reactions": 8,
-      "comments": 0,
+      "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
+      "description": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
+      "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
+      "tags": "ai, agents, mcp, beginners",
+      "reactions": 175,
+      "comments": 89,
       "reading_time": 11,
-      "author": "ahmed_elnaggar"
+      "author": "sylwia-lask"
     },
     {
-      "title": "What was your win this week!?",
-      "description": "👋👋👋👋  Looking back on your week -- what was something you're proud of?  All wins count -- big or...",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-8ep",
-      "tags": "discuss, weeklyretro",
-      "reactions": 52,
-      "comments": 86,
+      "title": "My Grandmother Ran Ajo. I Built the Version Where the Pot Can't Walk Away",
+      "description": "This is a submission for Weekend Challenge: Generosity Edition           What I Built   My late...",
+      "url": "https://dev.to/dannwaneri/my-grandmother-ran-ajo-i-built-the-version-where-the-pot-cant-walk-away-5gkn",
+      "tags": "weekendchallenge, devchallenge, solana, gemini",
+      "reactions": 14,
+      "comments": 0,
+      "reading_time": 6,
+      "author": "dannwaneri"
+    },
+    {
+      "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
+      "description": "Eliminate in-place mutation bugs, corrupted undo stacks, defensive copying overhead, and skipped Flutter rebuilds by pairing BlocSignal with fast_immutable_collections.",
+      "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2",
+      "tags": "flutter, dart, architecture, statemanagement",
+      "reactions": 5,
+      "comments": 0,
+      "reading_time": 16,
+      "author": "randalschwartz"
+    },
+    {
+      "title": "Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with CubitSignalMixin",
+      "description": "Discover how to eliminate Flutter StatefulWidget boilerplate and overcome Dart's single-inheritance wall by combining ScrollController with CubitSignalMixin and BlocSignalMixin for a 100% StatelessWidget UI.",
+      "url": "https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh",
+      "tags": "flutter, dart, architecture, statemanagement",
+      "reactions": 7,
+      "comments": 0,
+      "reading_time": 9,
+      "author": "randalschwartz"
+    },
+    {
+      "title": "Unifying Google Workspace and Apache Iceberg: Serverless Lakehouse Management",
+      "description": "Turn Google Sheets into a Petabyte Lakehouse with Sub-Second ACID Queries.             ...",
+      "url": "https://dev.to/gde/unifying-google-workspace-and-apache-iceberg-serverless-lakehouse-management-ep3",
+      "tags": "googleworkspace, googlecloud, bigquery, apacheiceberg",
+      "reactions": 5,
+      "comments": 0,
+      "reading_time": 21,
+      "author": "tanaike"
+    },
+    {
+      "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
+      "description": "AI engineering sounds fancy. New terms are everywhere: agentic development, AI-native engineering,...",
+      "url": "https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4",
+      "tags": "ai, agents, software, discuss",
+      "reactions": 38,
+      "comments": 26,
+      "reading_time": 4,
+      "author": "ujja"
+    },
+    {
+      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
+      "description": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
+      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg",
+      "tags": "discuss, aws, beginners, agents",
+      "reactions": 76,
+      "comments": 29,
+      "reading_time": 17,
+      "author": "hemapriya_kanagala"
+    },
+    {
+      "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
+      "description": "Let me describe a moment you might recognize.  You had an idea for an app. You didn't know how to...",
+      "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3",
+      "tags": "ai, beginners, webdev",
+      "reactions": 126,
+      "comments": 73,
+      "reading_time": 7,
+      "author": "james_anderson_h"
+    },
+    {
+      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
+      "description": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs synchronous signals with screen facades for 0ms optimistic UI.",
+      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84",
+      "tags": "flutter, dart, architecture, statemanagement",
+      "reactions": 5,
+      "comments": 0,
+      "reading_time": 9,
+      "author": "randalschwartz"
+    },
+    {
+      "title": "What was your win this week?",
+      "description": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-1mo8",
+      "tags": "weeklyretro",
+      "reactions": 32,
+      "comments": 28,
       "reading_time": 1,
       "author": "jess"
-    },
-    {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
-      "tags": "ai, agents, development, workspace",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 5,
-      "author": "feloy"
-    },
-    {
-      "title": "How to Remove Console.log from React Native Production Builds",
-      "description": "When building React Native apps, console.log is your best friend during development. But leaving it...",
-      "url": "https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d",
-      "tags": "reactnative, typescript, performance, mobile",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 2,
-      "author": "neeraj1005"
-    },
-    {
-      "title": "ChatGPT 5.4 v/s Claude Opus 4.6: Which Model Should You use?",
-      "description": "GPT-5.4 wins on cost efficiency, native computer use, and speed for high-throughput pipelines. Claude...",
-      "url": "https://dev.to/devashishmamgain/chatgpt-54-vs-claude-opus-46-which-model-should-you-use-oln",
-      "tags": "ai, chatgpt, claude, llm",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 10,
-      "author": "devashishmamgain"
-    },
-    {
-      "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
-      "description": "I spent some time this weekend noodling around with Github Copilot, using the copilot-cli tool.  A...",
-      "url": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
-      "tags": "ai, programming, githubcopilot",
-      "reactions": 3,
-      "comments": 0,
-      "reading_time": 5,
-      "author": "drhyde"
-    },
-    {
-      "title": "Codemod for ignoring lint errors",
-      "description": "Meet my new codemod, ignore-lint-errors. It helps us ignore lint errors from eslint, stylelint, and...",
-      "url": "https://dev.to/ijlee2/codemod-for-ignoring-lint-errors-2j3g",
-      "tags": "javascript, ember, showdev, opensource",
-      "reactions": 0,
-      "comments": 1,
-      "reading_time": 2,
-      "author": "ijlee2"
-    },
-    {
-      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
-      "description": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.",
-      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
-      "tags": "backend, architecture",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 5,
-      "author": "toybz"
     }
   ]
 }
@@ -427,21 +427,65 @@ node bin/main.js --json github -s weekly -l javascript ; node bin/main.js --json
   "language": "javascript",
   "items": [
     {
-      "author": "Anil-matcha",
-      "repo": "Open-Generative-AI",
-      "avatar": "https://github.com/Anil-matcha.png",
-      "repo_link": "https://github.com/Anil-matcha/Open-Generative-AI",
-      "desc": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "author": "tt-a1i",
+      "repo": "archify",
+      "avatar": "https://github.com/tt-a1i.png",
+      "repo_link": "https://github.com/tt-a1i/archify",
+      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "lang": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": 0,
-      "forks": 1692,
-      "added_stars": 3862,
+      "forks": 3352,
+      "added_stars": 17190,
       "builtBy": [
         {
-          "username": "Anil-matcha",
-          "href": "https://github.com/Anil-matcha",
-          "avatar": "https://avatars.githubusercontent.com/u/4326215"
+          "username": "tt-a1i",
+          "href": "https://github.com/tt-a1i",
+          "avatar": "https://avatars.githubusercontent.com/u/53142663"
+        },
+        {
+          "username": "sunsunsun-java",
+          "href": "https://github.com/sunsunsun-java",
+          "avatar": "https://avatars.githubusercontent.com/u/55621390"
+        },
+        {
+          "username": "YunyueLi",
+          "href": "https://github.com/YunyueLi",
+          "avatar": "https://avatars.githubusercontent.com/u/44204222"
+        },
+        {
+          "username": "cursoragent",
+          "href": "https://github.com/cursoragent",
+          "avatar": "https://avatars.githubusercontent.com/u/199161495"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        }
+      ]
+    },
+    {
+      "author": "affaan-m",
+      "repo": "ECC",
+      "avatar": "https://github.com/affaan-m.png",
+      "repo_link": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 0,
+      "forks": 37835,
+      "added_stars": 6394,
+      "builtBy": [
+        {
+          "username": "affaan-m",
+          "href": "https://github.com/affaan-m",
+          "avatar": "https://avatars.githubusercontent.com/u/124439313"
+        },
+        {
+          "username": "haelyra",
+          "href": "https://github.com/haelyra",
+          "avatar": "https://avatars.githubusercontent.com/u/49814733"
         },
         {
           "username": "claude",
@@ -449,19 +493,272 @@ node bin/main.js --json github -s weekly -l javascript ; node bin/main.js --json
           "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "jaiprasad04",
-          "href": "https://github.com/jaiprasad04",
-          "avatar": "https://avatars.githubusercontent.com/u/114457757"
+          "username": "pangerlkr",
+          "href": "https://github.com/pangerlkr",
+          "avatar": "https://avatars.githubusercontent.com/u/73515951"
+        }
+      ]
+    },
+    {
+      "author": "DietrichGebert",
+      "repo": "ponytail",
+      "avatar": "https://github.com/DietrichGebert.png",
+      "repo_link": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 0,
+      "forks": 6960,
+      "added_stars": 12186,
+      "builtBy": [
+        {
+          "username": "DietrichGebert",
+          "href": "https://github.com/DietrichGebert",
+          "avatar": "https://avatars.githubusercontent.com/u/137048761"
         },
         {
-          "username": "vadootvpeer",
-          "href": "https://github.com/vadootvpeer",
-          "avatar": "https://avatars.githubusercontent.com/u/64298579"
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "taherfattahi",
-          "href": "https://github.com/taherfattahi",
-          "avatar": "https://avatars.githubusercontent.com/u/14248281"
+          "username": "Lakshya77089",
+          "href": "https://github.com/Lakshya77089",
+          "avatar": "https://avatars.githubusercontent.com/u/169168095"
+        },
+        {
+          "username": "ousamabenyounes",
+          "href": "https://github.com/ousamabenyounes",
+          "avatar": "https://avatars.githubusercontent.com/u/2910651"
+        },
+        {
+          "username": "dhedhialy",
+          "href": "https://github.com/dhedhialy",
+          "avatar": "https://avatars.githubusercontent.com/u/91044156"
+        }
+      ]
+    },
+    {
+      "author": "OpenWhispr",
+      "repo": "openwhispr",
+      "avatar": "https://github.com/OpenWhispr.png",
+      "repo_link": "https://github.com/OpenWhispr/openwhispr",
+      "desc": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+      "lang": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 0,
+      "forks": 939,
+      "added_stars": 1388,
+      "builtBy": [
+        {
+          "username": "gabrielste1n",
+          "href": "https://github.com/gabrielste1n",
+          "avatar": "https://avatars.githubusercontent.com/u/11309189"
+        },
+        {
+          "username": "Chadpiha",
+          "href": "https://github.com/Chadpiha",
+          "avatar": "https://avatars.githubusercontent.com/u/48052303"
+        },
+        {
+          "username": "xAlcahest",
+          "href": "https://github.com/xAlcahest",
+          "avatar": "https://avatars.githubusercontent.com/u/62606476"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "hsusul",
+          "href": "https://github.com/hsusul",
+          "avatar": "https://avatars.githubusercontent.com/u/231806842"
+        }
+      ]
+    },
+    {
+      "author": "bilawalsidhu",
+      "repo": "gods-eye-view",
+      "avatar": "https://github.com/bilawalsidhu.png",
+      "repo_link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 0,
+      "forks": 3784,
+      "added_stars": 4851,
+      "builtBy": [
+        {
+          "username": "bilawalsidhu",
+          "href": "https://github.com/bilawalsidhu",
+          "avatar": "https://avatars.githubusercontent.com/u/106619546"
+        },
+        {
+          "username": "ethanstoner",
+          "href": "https://github.com/ethanstoner",
+          "avatar": "https://avatars.githubusercontent.com/u/177599791"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "yangsongsf",
+          "href": "https://github.com/yangsongsf",
+          "avatar": "https://avatars.githubusercontent.com/u/4534677"
+        },
+        {
+          "username": "prajwal-raj",
+          "href": "https://github.com/prajwal-raj",
+          "avatar": "https://avatars.githubusercontent.com/u/49208092"
+        }
+      ]
+    },
+    {
+      "author": "WorldFlowAI",
+      "repo": "everything-claude-code",
+      "avatar": "https://github.com/WorldFlowAI.png",
+      "repo_link": "https://github.com/WorldFlowAI/everything-claude-code",
+      "desc": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+      "lang": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 0,
+      "forks": 376,
+      "added_stars": 672,
+      "builtBy": [
+        {
+          "username": "affaan-m",
+          "href": "https://github.com/affaan-m",
+          "avatar": "https://avatars.githubusercontent.com/u/124439313"
+        },
+        {
+          "username": "gzb1128",
+          "href": "https://github.com/gzb1128",
+          "avatar": "https://avatars.githubusercontent.com/u/55176411"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "zbennett10",
+          "href": "https://github.com/zbennett10",
+          "avatar": "https://avatars.githubusercontent.com/u/19748368"
+        },
+        {
+          "username": "zerx-lab",
+          "href": "https://github.com/zerx-lab",
+          "avatar": "https://avatars.githubusercontent.com/u/161401688"
+        }
+      ]
+    },
+    {
+      "author": "bigskysoftware",
+      "repo": "htmx",
+      "avatar": "https://github.com/bigskysoftware.png",
+      "repo_link": "https://github.com/bigskysoftware/htmx",
+      "desc": "</> htmx - high power tools for HTML",
+      "lang": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 0,
+      "forks": 1652,
+      "added_stars": 155,
+      "builtBy": [
+        {
+          "username": "1cg",
+          "href": "https://github.com/1cg",
+          "avatar": "https://avatars.githubusercontent.com/u/469183"
+        },
+        {
+          "username": "bencroker",
+          "href": "https://github.com/bencroker",
+          "avatar": "https://avatars.githubusercontent.com/u/57572400"
+        },
+        {
+          "username": "benpate",
+          "href": "https://github.com/benpate",
+          "avatar": "https://avatars.githubusercontent.com/u/4381040"
+        },
+        {
+          "username": "alexpetros",
+          "href": "https://github.com/alexpetros",
+          "avatar": "https://avatars.githubusercontent.com/u/23287457"
+        },
+        {
+          "username": "Telroshan",
+          "href": "https://github.com/Telroshan",
+          "avatar": "https://avatars.githubusercontent.com/u/19146183"
+        }
+      ]
+    },
+    {
+      "author": "gchq",
+      "repo": "CyberChef",
+      "avatar": "https://github.com/gchq.png",
+      "repo_link": "https://github.com/gchq/CyberChef",
+      "desc": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+      "lang": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 0,
+      "forks": 4139,
+      "added_stars": 72,
+      "builtBy": [
+        {
+          "username": "n1474335",
+          "href": "https://github.com/n1474335",
+          "avatar": "https://avatars.githubusercontent.com/u/22770796"
+        },
+        {
+          "username": "j433866",
+          "href": "https://github.com/j433866",
+          "avatar": "https://avatars.githubusercontent.com/u/45944169"
+        },
+        {
+          "username": "traviscibot",
+          "href": "https://github.com/traviscibot",
+          "avatar": "https://avatars.githubusercontent.com/u/33116358"
+        },
+        {
+          "username": "d98762625",
+          "href": "https://github.com/d98762625",
+          "avatar": "https://avatars.githubusercontent.com/u/37445287"
+        }
+      ]
+    },
+    {
+      "author": "facebook",
+      "repo": "stylex",
+      "avatar": "https://github.com/facebook.png",
+      "repo_link": "https://github.com/facebook/stylex",
+      "desc": "StyleX is the styling system for ambitious user interfaces.",
+      "lang": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 0,
+      "forks": 473,
+      "added_stars": 173,
+      "builtBy": [
+        {
+          "username": "nmn",
+          "href": "https://github.com/nmn",
+          "avatar": "https://avatars.githubusercontent.com/u/3582514"
+        },
+        {
+          "username": "mellyeliu",
+          "href": "https://github.com/mellyeliu",
+          "avatar": "https://avatars.githubusercontent.com/u/64865235"
+        },
+        {
+          "username": "henryqdineen",
+          "href": "https://github.com/henryqdineen",
+          "avatar": "https://avatars.githubusercontent.com/u/682132"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
         }
       ]
     },
@@ -474,8 +771,8 @@ node bin/main.js --json github -s weekly -l javascript ; node bin/main.js --json
       "lang": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": 0,
-      "forks": 3998,
-      "added_stars": 2729,
+      "forks": 7401,
+      "added_stars": 1331,
       "builtBy": [
         {
           "username": "coreyhaines31",
@@ -505,513 +802,142 @@ node bin/main.js --json github -s weekly -l javascript ; node bin/main.js --json
       ]
     },
     {
-      "author": "datawhalechina",
-      "repo": "easy-vibe",
-      "avatar": "https://github.com/datawhalechina.png",
-      "repo_link": "https://github.com/datawhalechina/easy-vibe",
-      "desc": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+      "author": "alam00000",
+      "repo": "bentopdf",
+      "avatar": "https://github.com/alam00000.png",
+      "repo_link": "https://github.com/alam00000/bentopdf",
+      "desc": "The Privacy First PDF Toolkit",
       "lang": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": 0,
-      "forks": 722,
-      "added_stars": 1180,
+      "forks": 1315,
+      "added_stars": 294,
       "builtBy": [
         {
-          "username": "sanbuphy",
-          "href": "https://github.com/sanbuphy",
-          "avatar": "https://avatars.githubusercontent.com/u/96160062"
+          "username": "alam00000",
+          "href": "https://github.com/alam00000",
+          "avatar": "https://avatars.githubusercontent.com/u/50314772"
         },
         {
-          "username": "GeoDaoyu",
-          "href": "https://github.com/GeoDaoyu",
-          "avatar": "https://avatars.githubusercontent.com/u/34641603"
+          "username": "Skillkiller",
+          "href": "https://github.com/Skillkiller",
+          "avatar": "https://avatars.githubusercontent.com/u/18444809"
         },
         {
-          "username": "claude",
-          "href": "https://github.com/claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847"
-        },
-        {
-          "username": "1985312383",
-          "href": "https://github.com/1985312383",
-          "avatar": "https://avatars.githubusercontent.com/u/56398475"
-        },
-        {
-          "username": "SherryTECNU",
-          "href": "https://github.com/SherryTECNU",
-          "avatar": "https://avatars.githubusercontent.com/u/47715534"
+          "username": "Stephan-P",
+          "href": "https://github.com/Stephan-P",
+          "avatar": "https://avatars.githubusercontent.com/u/10008599"
         }
       ]
     },
     {
-      "author": "EvoMap",
-      "repo": "evolver",
-      "avatar": "https://github.com/EvoMap.png",
-      "repo_link": "https://github.com/EvoMap/evolver",
-      "desc": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+      "author": "playcanvas",
+      "repo": "engine",
+      "avatar": "https://github.com/playcanvas.png",
+      "repo_link": "https://github.com/playcanvas/engine",
+      "desc": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF",
       "lang": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": 0,
-      "forks": 702,
-      "added_stars": 1075,
+      "forks": 1974,
+      "added_stars": 64,
       "builtBy": [
         {
-          "username": "autogame-17",
-          "href": "https://github.com/autogame-17",
-          "avatar": "https://avatars.githubusercontent.com/u/166480271"
+          "username": "willeastcott",
+          "href": "https://github.com/willeastcott",
+          "avatar": "https://avatars.githubusercontent.com/u/697563"
         },
         {
-          "username": "cursoragent",
-          "href": "https://github.com/cursoragent",
-          "avatar": "https://avatars.githubusercontent.com/u/199161495"
+          "username": "mvaligursky",
+          "href": "https://github.com/mvaligursky",
+          "avatar": "https://avatars.githubusercontent.com/u/59932779"
         },
         {
-          "username": "penggaolai",
-          "href": "https://github.com/penggaolai",
-          "avatar": "https://avatars.githubusercontent.com/u/44097312"
+          "username": "daredevildave",
+          "href": "https://github.com/daredevildave",
+          "avatar": "https://avatars.githubusercontent.com/u/504980"
         },
         {
-          "username": "onthebigtree",
-          "href": "https://github.com/onthebigtree",
-          "avatar": "https://avatars.githubusercontent.com/u/60813639"
+          "username": "guycalledfrank",
+          "href": "https://github.com/guycalledfrank",
+          "avatar": "https://avatars.githubusercontent.com/u/7008423"
         },
         {
-          "username": "firstdraft-work",
-          "href": "https://github.com/firstdraft-work",
-          "avatar": "https://avatars.githubusercontent.com/u/265695765"
+          "username": "vkalpias",
+          "href": "https://github.com/vkalpias",
+          "avatar": "https://avatars.githubusercontent.com/u/850969"
         }
       ]
     },
     {
-      "author": "HeyPuter",
-      "repo": "puter",
-      "avatar": "https://github.com/HeyPuter.png",
-      "repo_link": "https://github.com/HeyPuter/puter",
-      "desc": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
+      "author": "jgraph",
+      "repo": "drawio",
+      "avatar": "https://github.com/jgraph.png",
+      "repo_link": "https://github.com/jgraph/drawio",
+      "desc": "draw.io is a JavaScript, client-side editor for general diagramming.",
       "lang": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": 0,
-      "forks": 3691,
-      "added_stars": 233,
+      "forks": 1221,
+      "added_stars": 153,
       "builtBy": [
         {
-          "username": "KernelDeimos",
-          "href": "https://github.com/KernelDeimos",
-          "avatar": "https://avatars.githubusercontent.com/u/7225168"
+          "username": "davidjgraph",
+          "href": "https://github.com/davidjgraph",
+          "avatar": "https://avatars.githubusercontent.com/u/1761087"
         },
         {
-          "username": "jelveh",
-          "href": "https://github.com/jelveh",
-          "avatar": "https://avatars.githubusercontent.com/u/1715019"
+          "username": "alderg",
+          "href": "https://github.com/alderg",
+          "avatar": "https://avatars.githubusercontent.com/u/921200"
         },
         {
-          "username": "Salazareo",
-          "href": "https://github.com/Salazareo",
-          "avatar": "https://avatars.githubusercontent.com/u/25314977"
+          "username": "mediaslav",
+          "href": "https://github.com/mediaslav",
+          "avatar": "https://avatars.githubusercontent.com/u/472418"
         },
         {
-          "username": "ProgrammerIn-wonderland",
-          "href": "https://github.com/ProgrammerIn-wonderland",
-          "avatar": "https://avatars.githubusercontent.com/u/30693865"
+          "username": "m-mohamedin",
+          "href": "https://github.com/m-mohamedin",
+          "avatar": "https://avatars.githubusercontent.com/u/24944765"
         },
         {
-          "username": "AtkinsSJ",
-          "href": "https://github.com/AtkinsSJ",
-          "avatar": "https://avatars.githubusercontent.com/u/222642"
+          "username": "MJomaa",
+          "href": "https://github.com/MJomaa",
+          "avatar": "https://avatars.githubusercontent.com/u/9029497"
         }
       ]
     },
     {
-      "author": "decolua",
-      "repo": "9router",
-      "avatar": "https://github.com/decolua.png",
-      "repo_link": "https://github.com/decolua/9router",
-      "desc": "Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models",
+      "author": "laoma2053",
+      "repo": "awesome-zhuiju-free",
+      "avatar": "https://github.com/laoma2053.png",
+      "repo_link": "https://github.com/laoma2053/awesome-zhuiju-free",
+      "desc": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
       "lang": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": 0,
-      "forks": 766,
-      "added_stars": 482,
+      "forks": 492,
+      "added_stars": 1503,
       "builtBy": [
         {
-          "username": "anuragg-saxenaa",
-          "href": "https://github.com/anuragg-saxenaa",
-          "avatar": "https://avatars.githubusercontent.com/u/17893081"
-        },
-        {
-          "username": "claude",
-          "href": "https://github.com/claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847"
-        },
-        {
-          "username": "cursoragent",
-          "href": "https://github.com/cursoragent",
-          "avatar": "https://avatars.githubusercontent.com/u/199161495"
-        },
-        {
-          "username": "catalinstanciu",
-          "href": "https://github.com/catalinstanciu",
-          "avatar": "https://avatars.githubusercontent.com/u/5753427"
-        },
-        {
-          "username": "Blade096",
-          "href": "https://github.com/Blade096",
-          "avatar": "https://avatars.githubusercontent.com/u/46746496"
+          "username": "laoma2053",
+          "href": "https://github.com/laoma2053",
+          "avatar": "https://avatars.githubusercontent.com/u/169715751"
         }
       ]
     },
     {
-      "author": "LibreSpark",
-      "repo": "LibreTV",
-      "avatar": "https://github.com/LibreSpark.png",
-      "repo_link": "https://github.com/LibreSpark/LibreTV",
-      "desc": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
+      "author": "darkzOGx",
+      "repo": "youtube-automation-agent",
+      "avatar": "https://github.com/darkzOGx.png",
+      "repo_link": "https://github.com/darkzOGx/youtube-automation-agent",
+      "desc": "🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!",
       "lang": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": 0,
-      "forks": 27176,
-      "added_stars": 113,
-      "builtBy": [
-        {
-          "username": "bestZwei",
-          "href": "https://github.com/bestZwei",
-          "avatar": "https://avatars.githubusercontent.com/u/110226580"
-        },
-        {
-          "username": "senshinya",
-          "href": "https://github.com/senshinya",
-          "avatar": "https://avatars.githubusercontent.com/u/155552943"
-        },
-        {
-          "username": "JohnsonRan",
-          "href": "https://github.com/JohnsonRan",
-          "avatar": "https://avatars.githubusercontent.com/u/89735151"
-        },
-        {
-          "username": "WLongSAMA",
-          "href": "https://github.com/WLongSAMA",
-          "avatar": "https://avatars.githubusercontent.com/u/12743204"
-        }
-      ]
-    },
-    {
-      "author": "Stremio",
-      "repo": "stremio-web",
-      "avatar": "https://github.com/Stremio.png",
-      "repo_link": "https://github.com/Stremio/stremio-web",
-      "desc": "Stremio - Freedom to Stream",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 1162,
-      "added_stars": 48,
-      "builtBy": [
-        {
-          "username": "kKaskak",
-          "href": "https://github.com/kKaskak",
-          "avatar": "https://avatars.githubusercontent.com/u/117831817"
-        },
-        {
-          "username": "nklhtv",
-          "href": "https://github.com/nklhtv",
-          "avatar": "https://avatars.githubusercontent.com/u/5950722"
-        },
-        {
-          "username": "tymmesyde",
-          "href": "https://github.com/tymmesyde",
-          "avatar": "https://avatars.githubusercontent.com/u/7889816"
-        },
-        {
-          "username": "swetlasg",
-          "href": "https://github.com/swetlasg",
-          "avatar": "https://avatars.githubusercontent.com/u/15102316"
-        },
-        {
-          "username": "Botsy",
-          "href": "https://github.com/Botsy",
-          "avatar": "https://avatars.githubusercontent.com/u/10400528"
-        }
-      ]
-    },
-    {
-      "author": "louislam",
-      "repo": "uptime-kuma",
-      "avatar": "https://github.com/louislam.png",
-      "repo_link": "https://github.com/louislam/uptime-kuma",
-      "desc": "A fancy self-hosted monitoring tool",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 7735,
-      "added_stars": 512,
-      "builtBy": [
-        {
-          "username": "louislam",
-          "href": "https://github.com/louislam",
-          "avatar": "https://avatars.githubusercontent.com/u/1336778"
-        },
-        {
-          "username": "CommanderStorm",
-          "href": "https://github.com/CommanderStorm",
-          "avatar": "https://avatars.githubusercontent.com/u/26258709"
-        },
-        {
-          "username": "chakflying",
-          "href": "https://github.com/chakflying",
-          "avatar": "https://avatars.githubusercontent.com/u/3271800"
-        },
-        {
-          "username": "Saibamen",
-          "href": "https://github.com/Saibamen",
-          "avatar": "https://avatars.githubusercontent.com/u/905878"
-        },
-        {
-          "username": "Computroniks",
-          "href": "https://github.com/Computroniks",
-          "avatar": "https://avatars.githubusercontent.com/u/67638596"
-        }
-      ]
-    },
-    {
-      "author": "microsoft",
-      "repo": "power-platform-skills",
-      "avatar": "https://github.com/microsoft.png",
-      "repo_link": "https://github.com/microsoft/power-platform-skills",
-      "desc": "A plugin marketplace for Claude Code/GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 38,
-      "added_stars": 39,
-      "builtBy": [
-        {
-          "username": "priyanshu92",
-          "href": "https://github.com/priyanshu92",
-          "avatar": "https://avatars.githubusercontent.com/u/7589718"
-        },
-        {
-          "username": "claude",
-          "href": "https://github.com/claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847"
-        },
-        {
-          "username": "lesaltzm",
-          "href": "https://github.com/lesaltzm",
-          "avatar": "https://avatars.githubusercontent.com/u/69215460"
-        },
-        {
-          "username": "shivanichander",
-          "href": "https://github.com/shivanichander",
-          "avatar": "https://avatars.githubusercontent.com/u/25564713"
-        }
-      ]
-    },
-    {
-      "author": "jesse-ai",
-      "repo": "jesse",
-      "avatar": "https://github.com/jesse-ai.png",
-      "repo_link": "https://github.com/jesse-ai/jesse",
-      "desc": "An advanced crypto trading bot written in Python",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 1102,
-      "added_stars": 128,
-      "builtBy": [
-        {
-          "username": "saleh-mir",
-          "href": "https://github.com/saleh-mir",
-          "avatar": "https://avatars.githubusercontent.com/u/69156720"
-        },
-        {
-          "username": "cryptocoinserver",
-          "href": "https://github.com/cryptocoinserver",
-          "avatar": "https://avatars.githubusercontent.com/u/16636744"
-        },
-        {
-          "username": "morteza-koohgard",
-          "href": "https://github.com/morteza-koohgard",
-          "avatar": "https://avatars.githubusercontent.com/u/78785107"
-        },
-        {
-          "username": "pyup-bot",
-          "href": "https://github.com/pyup-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/16239342"
-        },
-        {
-          "username": "saleh-old",
-          "href": "https://github.com/saleh-old",
-          "avatar": "https://avatars.githubusercontent.com/u/13378447"
-        }
-      ]
-    },
-    {
-      "author": "jo-inc",
-      "repo": "camofox-browser",
-      "avatar": "https://github.com/jo-inc.png",
-      "repo_link": "https://github.com/jo-inc/camofox-browser",
-      "desc": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 335,
-      "added_stars": 487,
-      "builtBy": [
-        {
-          "username": "skyfallsin",
-          "href": "https://github.com/skyfallsin",
-          "avatar": "https://avatars.githubusercontent.com/u/998"
-        },
-        {
-          "username": "mvanhorn",
-          "href": "https://github.com/mvanhorn",
-          "avatar": "https://avatars.githubusercontent.com/u/455140"
-        },
-        {
-          "username": "company8",
-          "href": "https://github.com/company8",
-          "avatar": "https://avatars.githubusercontent.com/u/135282870"
-        },
-        {
-          "username": "leoneparise",
-          "href": "https://github.com/leoneparise",
-          "avatar": "https://avatars.githubusercontent.com/u/1442927"
-        },
-        {
-          "username": "Microck",
-          "href": "https://github.com/Microck",
-          "avatar": "https://avatars.githubusercontent.com/u/45483921"
-        }
-      ]
-    },
-    {
-      "author": "marktext",
-      "repo": "marktext",
-      "avatar": "https://github.com/marktext.png",
-      "repo_link": "https://github.com/marktext/marktext",
-      "desc": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 4151,
-      "added_stars": 237,
-      "builtBy": [
-        {
-          "username": "Jocs",
-          "href": "https://github.com/Jocs",
-          "avatar": "https://avatars.githubusercontent.com/u/9712830"
-        },
-        {
-          "username": "fxha",
-          "href": "https://github.com/fxha",
-          "avatar": "https://avatars.githubusercontent.com/u/22716132"
-        },
-        {
-          "username": "notAlaanor",
-          "href": "https://github.com/notAlaanor",
-          "avatar": "https://avatars.githubusercontent.com/u/17591936"
-        },
-        {
-          "username": "mdogadailo",
-          "href": "https://github.com/mdogadailo",
-          "avatar": "https://avatars.githubusercontent.com/u/3466287"
-        },
-        {
-          "username": "MrHeer",
-          "href": "https://github.com/MrHeer",
-          "avatar": "https://avatars.githubusercontent.com/u/18595761"
-        }
-      ]
-    },
-    {
-      "author": "SillyTavern",
-      "repo": "SillyTavern",
-      "avatar": "https://github.com/SillyTavern.png",
-      "repo_link": "https://github.com/SillyTavern/SillyTavern",
-      "desc": "LLM Frontend for Power Users.",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 5193,
-      "added_stars": 532,
-      "builtBy": [
-        {
-          "username": "Cohee1207",
-          "href": "https://github.com/Cohee1207",
-          "avatar": "https://avatars.githubusercontent.com/u/18619528"
-        },
-        {
-          "username": "Wolfsblvt",
-          "href": "https://github.com/Wolfsblvt",
-          "avatar": "https://avatars.githubusercontent.com/u/9962104"
-        },
-        {
-          "username": "RossAscends",
-          "href": "https://github.com/RossAscends",
-          "avatar": "https://avatars.githubusercontent.com/u/124905043"
-        },
-        {
-          "username": "LenAnderson",
-          "href": "https://github.com/LenAnderson",
-          "avatar": "https://avatars.githubusercontent.com/u/7149120"
-        },
-        {
-          "username": "valadaptive",
-          "href": "https://github.com/valadaptive",
-          "avatar": "https://avatars.githubusercontent.com/u/79560998"
-        }
-      ]
-    },
-    {
-      "author": "xifangczy",
-      "repo": "cat-catch",
-      "avatar": "https://github.com/xifangczy.png",
-      "repo_link": "https://github.com/xifangczy/cat-catch",
-      "desc": "猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 1694,
-      "added_stars": 178,
-      "builtBy": [
-        {
-          "username": "xifangczy",
-          "href": "https://github.com/xifangczy",
-          "avatar": "https://avatars.githubusercontent.com/u/1239904"
-        },
-        {
-          "username": "Oleada1",
-          "href": "https://github.com/Oleada1",
-          "avatar": "https://avatars.githubusercontent.com/u/26626786"
-        },
-        {
-          "username": "Havokdan",
-          "href": "https://github.com/Havokdan",
-          "avatar": "https://avatars.githubusercontent.com/u/6549729"
-        },
-        {
-          "username": "hmaoraze",
-          "href": "https://github.com/hmaoraze",
-          "avatar": "https://avatars.githubusercontent.com/u/88831788"
-        },
-        {
-          "username": "jetsung",
-          "href": "https://github.com/jetsung",
-          "avatar": "https://avatars.githubusercontent.com/u/149308191"
-        }
-      ]
-    },
-    {
-      "author": "a5c-ai",
-      "repo": "babysitter",
-      "avatar": "https://github.com/a5c-ai.png",
-      "repo_link": "https://github.com/a5c-ai/babysitter",
-      "desc": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 40,
-      "added_stars": 90,
+      "forks": 931,
+      "added_stars": 310,
       "builtBy": [
         {
           "username": "claude",
@@ -1019,19 +945,9 @@ node bin/main.js --json github -s weekly -l javascript ; node bin/main.js --json
           "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "tmuskal",
-          "href": "https://github.com/tmuskal",
-          "avatar": "https://avatars.githubusercontent.com/u/1934369"
-        },
-        {
-          "username": "Benihakak",
-          "href": "https://github.com/Benihakak",
-          "avatar": "https://avatars.githubusercontent.com/u/45761295"
-        },
-        {
-          "username": "MaTriXy",
-          "href": "https://github.com/MaTriXy",
-          "avatar": "https://avatars.githubusercontent.com/u/3080139"
+          "username": "darkzOGx",
+          "href": "https://github.com/darkzOGx",
+          "avatar": "https://avatars.githubusercontent.com/u/128010917"
         }
       ]
     }
@@ -1044,104 +960,104 @@ node bin/main.js --json github -s weekly -l javascript ; node bin/main.js --json
   "sort": "top",
   "items": [
     {
-      "title": "GitHub Copilot Switches to Usage-Based Billing on June 1. The Token Tab Came Due.",
-      "description": "Microsoft announced Copilot Pro is still $10 per month, but $10 now buys $10 in AI credits, and a single Opus agent session can consume that. Here is what your real bill looks like.",
-      "url": "https://dev.to/thegdsks/github-copilot-switches-to-usage-based-billing-on-june-1-the-token-tab-came-due-3h6c",
-      "tags": "ai, webdev, devtools, productivity",
-      "reactions": 4,
-      "comments": 0,
-      "reading_time": 6,
-      "author": "thegdsks"
+      "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
+      "description": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
+      "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
+      "tags": "ai, agents, mcp, beginners",
+      "reactions": 179,
+      "comments": 89,
+      "reading_time": 11,
+      "author": "sylwia-lask"
     },
     {
-      "title": "An AI Tool Had OAuth to Their Whole Google Workspace. Then Vercel Got Breached.",
-      "description": "A Vercel employee clicked Allow All on an AI app's OAuth consent screen. Three weeks later, customer environment variables were on a hacker's drive with a $2 million asking price. Here is the four-layer audit your org probably has not run.",
-      "url": "https://dev.to/thegdsks/an-ai-tool-had-oauth-to-their-whole-google-workspace-then-vercel-got-breached-2ocl",
-      "tags": "security, webdev, devtools, ai",
-      "reactions": 3,
-      "comments": 0,
-      "reading_time": 6,
-      "author": "thegdsks"
+      "title": "Compare Against the Schema They Shipped, Not the One You Expected",
+      "description": "My harness flagged the model for sending the wrong arguments. It compared what the model actually...",
+      "url": "https://dev.to/kenielzep97/compare-against-the-schema-they-shipped-not-the-one-you-expected-3mb8",
+      "tags": "security, ai, testing, opensource",
+      "reactions": 18,
+      "comments": 3,
+      "reading_time": 5,
+      "author": "kenielzep97"
     },
     {
-      "title": "What is Cursor AI’s business model? Asking for a friend.",
-      "description": "Other big players may have collateral incentives. OpenAI &amp; Claude has much broader goals for its...",
-      "url": "https://dev.to/andreik/what-is-cursor-ais-business-model-asking-for-a-friend-1jdj",
-      "tags": "ai, cursor, openai, vibecoding",
+      "title": "From AI Solutions to Shared Knowledge: Building an MCP for the Community",
+      "description": "This is a submission for the Weekend Challenge: Generosity Edition      Don't Just Ask AI. Give the...",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk",
+      "tags": "devchallenge, weekendchallenge, ai, mcp",
       "reactions": 7,
-      "comments": 2,
-      "reading_time": 1,
-      "author": "andreik"
+      "comments": 1,
+      "reading_time": 8,
+      "author": "pascal_cescato_692b7a8a20"
     },
     {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
-      "tags": "ai, agents, development, workspace",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 5,
-      "author": "feloy"
-    },
-    {
-      "title": "ChatGPT 5.4 v/s Claude Opus 4.6: Which Model Should You use?",
-      "description": "GPT-5.4 wins on cost efficiency, native computer use, and speed for high-throughput pipelines. Claude...",
-      "url": "https://dev.to/devashishmamgain/chatgpt-54-vs-claude-opus-46-which-model-should-you-use-oln",
-      "tags": "ai, chatgpt, claude, llm",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 10,
-      "author": "devashishmamgain"
-    },
-    {
-      "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
-      "description": "I spent some time this weekend noodling around with Github Copilot, using the copilot-cli tool.  A...",
-      "url": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
-      "tags": "ai, programming, githubcopilot",
-      "reactions": 3,
-      "comments": 0,
-      "reading_time": 5,
-      "author": "drhyde"
-    },
-    {
-      "title": "Competitive Map: 10 AI Agent / Bounty / Task Platforms vs AgentHansa",
-      "description": "Competitive Map: 10 AI Agent / Bounty / Task Platforms vs AgentHansa   I spent the last week...",
-      "url": "https://dev.to/xiami9378389/competitive-map-10-ai-agent-bounty-task-platforms-vs-agenthansa-3888",
-      "tags": "ai, agents, web3, marketplace",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 4,
-      "author": "xiami9378389"
-    },
-    {
-      "title": "Architecting Agentic AI Applications: The Complete Engineering Guide",
-      "description": "Introduction   There is a gap most engineering teams discover too late.  The prototype...",
-      "url": "https://dev.to/sreeni5018/architecting-agentic-ai-applications-the-complete-engineering-guide-508c",
-      "tags": "agents, ai, architecture, systemdesign",
+      "title": "BoonFest: The Anti-Sloth Game Where Generosity Means Survival!",
+      "description": "This is a submission for Weekend Challenge: Generosity Edition           What I Built   I built...",
+      "url": "https://dev.to/fm/boonfest-the-anti-sloth-game-where-generosity-means-survival-3pg8",
+      "tags": "devchallenge, weekendchallenge, ai, gamedev",
       "reactions": 1,
       "comments": 0,
-      "reading_time": 29,
-      "author": "sreeni5018"
+      "reading_time": 3,
+      "author": "fm"
     },
     {
-      "title": "Keeping You in the Driver's Seat and AI as the Copilot",
-      "description": "Last week I attended NDC Sydney, a large global tech conference aimed at software developers. The...",
-      "url": "https://dev.to/liatmoss/keeping-you-in-the-drivers-seat-and-ai-as-the-copilot-1oc8",
-      "tags": "ai, programming, productivity, learning",
+      "title": "A Better Model Improved the Numbers. It Didn't Fix the Product.",
+      "description": "Update — v0.1.0 released. CauterRule is now live on GitHub and PyPI. It turns repeated agent...",
+      "url": "https://dev.to/debashish_ghosal/better-models-showed-us-what-to-build-next-1oj6",
+      "tags": "ai, llm, testing, programming",
+      "reactions": 8,
+      "comments": 2,
+      "reading_time": 10,
+      "author": "debashish_ghosal"
+    },
+    {
+      "title": "FHIR R4 for ML Engineers: What Actually Lives in a Patient Record",
+      "description": "When I started building a grounded RAG system over FHIR records, I assumed the hard part would be...",
+      "url": "https://dev.to/budiwidhiyanto/fhir-r4-for-ml-engineers-what-actually-lives-in-a-patient-record-1ne4",
+      "tags": "fhir, healthcare, ai, rag",
+      "reactions": 0,
+      "comments": 0,
+      "reading_time": 6,
+      "author": "budiwidhiyanto"
+    },
+    {
+      "title": "Why Your AI-Generated Code Keeps Breaking in Production",
+      "description": "AI wrote your code, tests passed, you shipped it, and it broke in production.  Here is why that keeps...",
+      "url": "https://dev.to/web_dev-usman/why-your-ai-generated-code-keeps-breaking-in-production-25le",
+      "tags": "ai, coding, programming, development",
+      "reactions": 6,
+      "comments": 0,
+      "reading_time": 1,
+      "author": "web_dev-usman"
+    },
+    {
+      "title": "The Part of AI Coding Agents I Didn't Expect to Care About: Latency",
+      "description": "I spent the last few months pretty much living in Claude Code.  It became a regular part of how I...",
+      "url": "https://dev.to/prasad_rane_dev/the-part-of-ai-coding-agents-i-didnt-expect-to-care-about-latency-44ak",
+      "tags": "ai, devrel, programming, agents",
       "reactions": 0,
       "comments": 0,
       "reading_time": 3,
-      "author": "liatmoss"
+      "author": "prasad_rane_dev"
     },
     {
-      "title": "🤖 SWE-agent — Deep Dive & Build-Your-Own Guide 📘",
-      "description": "A practical, code-level walkthrough of how SWE-agent (Princeton NLP / Stanford, NeurIPS 2024)...",
-      "url": "https://dev.to/truongpx396/swe-agent-deep-dive-build-your-own-guide-ade",
-      "tags": "ai, llm, webdev, tutorial",
+      "title": "Why Your AI Agent Should Just Be a Simple while Loop",
+      "description": "The Case for Simplicity in Agentic Systems   In the rapidly evolving landscape of Large...",
+      "url": "https://dev.to/nainikmehta/why-your-ai-agent-should-just-be-a-simple-while-loop-467k",
+      "tags": "ai, architecture, coding, llm",
+      "reactions": 1,
+      "comments": 1,
+      "reading_time": 3,
+      "author": "nainikmehta"
+    },
+    {
+      "title": "GPT-6 Astra Can Find Zero-Days. The More Interesting Problem Is Whether We Can Still See What It’s Doing.",
+      "description": "When a new AI model becomes better at finding software vulnerabilities, the obvious reaction...",
+      "url": "https://dev.to/ayush_singh_9b0d83152be5b/gpt-6-astra-can-find-zero-days-the-more-interesting-problem-is-whether-we-can-still-see-what-its-4kb8",
+      "tags": "ai, cybersecurity, llm, openai",
       "reactions": 5,
       "comments": 0,
-      "reading_time": 31,
-      "author": "truongpx396"
+      "reading_time": 4,
+      "author": "ayush_singh_9b0d83152be5b"
     }
   ]
 }
@@ -1150,417 +1066,316 @@ node bin/main.js --json github -s weekly -l javascript ; node bin/main.js --json
   "source": "hackernews",
   "items": [
     {
-      "by": "StefanBatory",
-      "descendants": 5,
-      "id": 47931035,
+      "by": "sonicrocketman",
+      "descendants": 55,
+      "id": 49593563,
       "kids": [
-        47931239,
-        47931292,
-        47931211,
-        47931160
+        49594641,
+        49594593,
+        49593730,
+        49593714,
+        49594693,
+        49593770,
+        49594144,
+        49593564,
+        49594655,
+        49593712,
+        49594299,
+        49593766,
+        49594221,
+        49593824,
+        49593779,
+        49593789,
+        49594321
+      ],
+      "score": 244,
+      "time": 1788751791,
+      "title": "Keep Our Servers Running",
+      "type": "story",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/"
+    },
+    {
+      "by": "azhenley",
+      "descendants": 69,
+      "id": 49591876,
+      "kids": [
+        49592653,
+        49592077,
+        49592960,
+        49594671,
+        49593247,
+        49593834,
+        49592468,
+        49592093,
+        49592285,
+        49593548,
+        49592091,
+        49591918,
+        49591997,
+        49594552,
+        49594178,
+        49593090,
+        49593129
+      ],
+      "score": 184,
+      "time": 1788736448,
+      "title": "Making a Python interpreter in 1024 bytes",
+      "type": "story",
+      "url": "https://austinhenley.com/blog/python1024.html"
+    },
+    {
+      "by": "claytonwramsey",
+      "descendants": 24,
+      "id": 49550276,
+      "kids": [
+        49594648,
+        49594740,
+        49594105,
+        49594465,
+        49594429,
+        49593850,
+        49594094
+      ],
+      "score": 46,
+      "time": 1788445206,
+      "title": "I'm a seeing-eye dog for a computer",
+      "type": "story",
+      "url": "https://claytonwramsey.com/blog/seeing-eye/"
+    },
+    {
+      "by": "xena",
+      "descendants": 118,
+      "id": 49590611,
+      "kids": [
+        49591304,
+        49593106,
+        49591573,
+        49591443,
+        49593021,
+        49590933,
+        49594363,
+        49591632,
+        49593900,
+        49593048,
+        49591752,
+        49591399,
+        49592082,
+        49591535,
+        49591205,
+        49591769,
+        49591753,
+        49590826,
+        49591514,
+        49590893,
+        49592901,
+        49591159,
+        49593939,
+        49592047,
+        49592041,
+        49590890
+      ],
+      "score": 228,
+      "time": 1788726758,
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "type": "story",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/"
+    },
+    {
+      "by": "imadtaieber",
+      "descendants": 62,
+      "id": 49589914,
+      "kids": [
+        49594234,
+        49594747,
+        49593675,
+        49594125,
+        49594642,
+        49594490,
+        49593732,
+        49594183,
+        49594219,
+        49594132,
+        49594064,
+        49594119,
+        49594257,
+        49592102,
+        49594110,
+        49594250,
+        49592107,
+        49592918,
+        49594053,
+        49594217,
+        49594140,
+        49593797,
+        49591803,
+        49590065,
+        49593644,
+        49594099,
+        49590319,
+        49594420,
+        49594237,
+        49591006,
+        49593747,
+        49593912
+      ],
+      "score": 74,
+      "text": "How do you find skills, keep them organized, and make sure they actually work? Do you keep improving them over time?<p>I believe skills will eventually be eating by model capabilities, but until then I&#x27;m just looking for a better way to manage things.",
+      "time": 1788722830,
+      "title": "Ask HN: How do you manage skills files?",
+      "type": "story"
+    },
+    {
+      "by": "cyb0rg0",
+      "descendants": 1,
+      "id": 49593066,
+      "kids": [
+        49594395
+      ],
+      "score": 19,
+      "time": 1788747299,
+      "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
+      "type": "story",
+      "url": "https://rfd.shared.oxide.computer/rfd/0301"
+    },
+    {
+      "by": "jmpman",
+      "descendants": 51,
+      "id": 49577129,
+      "kids": [
+        49593755,
+        49594313,
+        49594522,
+        49593615,
+        49594374,
+        49594436,
+        49578876,
+        49594157,
+        49594591,
+        49593759,
+        49594673,
+        49594419,
+        49593893,
+        49593597,
+        49577397,
+        49593945,
+        49594384,
+        49593961,
+        49593704,
+        49594017,
+        49593906,
+        49593612,
+        49579530,
+        49593905
+      ],
+      "score": 92,
+      "text": "I have a self playing piano, using a system called PianoDisc Protigy. They have an online store which sells music for their system, from various modern artists along with classics such as Bach and Beethoven. Last night I saw they had released some music from Eric Satre, a 19th century French composer, which I bought. Curious if I could have just used AI to create these files, I began experimenting with Astra and Fable. Feeding the output of one into the other to critique. After an hour of LLM discussion of Rubato and fermata, solenoid response times and proper sustain pedal technique, they settled on their ultimate version of Gymnopedie No 1.<p>I then asked Fable to compare it to the open source version I&#x27;d downloaded from Mutopia, which it promptly ripped apart. No sustain, zero rubato, upside down balance.<p>Ok, what about the version I&#x27;d just bought?<p>The PianoDisc versions are mp3s encoded with the right channel carrying MIDI to be played on the piano, and the left channel containing any accompanying music to be played through attached speakers (who doesn&#x27;t want the harmonica on Piano Man?)<p>I gave the mp3 to Fable, which promptly decoded the format, identifying the right channel carrying MIDI using a 2004.5 Hz square wave.<p>It then went on to analyze the nuance of pedal lift and melody relative to the chords.<p>Fable then asked if I wanted it to build an encoder to write my own MIDI files into the right channel of mp3s.<p>Sounds great, and I instructed it to write the encoder.<p>What it came back with was a python encoder PLUS a decoder.<p>In the verbose explanation, it mentioned decoy notes.<p>Curious, I asked it to explain the decoy notes.<p>Apparently PianoDisc adds obfuscation into their format which is handled properly by their decoder, but would leave naively extracted MIDI unplayable on other systems.<p>Fable created an encoder which adds those decoy notes, and a decoder which removes them.<p>Am I allowed to publish the decoder? The encoder?",
+      "time": 1788620084,
+      "title": "Ask HN: Fable hacked my piano, can I release the results?",
+      "type": "story"
+    },
+    {
+      "by": "colinprince",
+      "descendants": 25,
+      "id": 49593959,
+      "kids": [
+        49594646,
+        49594579,
+        49594700,
+        49594683,
+        49594680,
+        49594640,
+        49594691,
+        49594489,
+        49594476,
+        49594455,
+        49594282
       ],
       "score": 44,
-      "time": 1777357659,
-      "title": "GTFOBins",
+      "time": 1788755902,
+      "title": "I refused to train the AI that could replace me",
       "type": "story",
-      "url": "https://gtfobins.org/"
+      "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/"
     },
     {
-      "by": "jekude",
-      "descendants": 95,
-      "id": 47927903,
+      "by": "usernametaken29",
+      "descendants": 25,
+      "id": 49583440,
       "kids": [
-        47931253,
-        47930782,
-        47930394,
-        47931275,
-        47930261,
-        47930714,
-        47930744,
-        47929230,
-        47929506,
-        47929169,
-        47930479,
-        47931087,
-        47931174,
-        47928886,
-        47929417,
-        47929046,
-        47928864,
-        47930526,
-        47929889,
-        47928949,
-        47930241,
-        47929317,
-        47928940,
-        47929190,
-        47929189,
-        47929828,
-        47929685,
-        47928917,
-        47928888,
-        47928987,
-        47930230
-      ],
-      "score": 293,
-      "time": 1777326948,
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "type": "story",
-      "url": "https://talkie-lm.com/introducing-talkie"
-    },
-    {
-      "by": "helsinkiandrew",
-      "descendants": 723,
-      "id": 47921248,
-      "kids": [
-        47923805,
-        47921551,
-        47922120,
-        47922477,
-        47930160,
-        47925421,
-        47922022,
-        47925160,
-        47921511,
-        47926909,
-        47922383,
-        47921995,
-        47925637,
-        47921267,
-        47924759,
-        47925814,
-        47926814,
-        47930909,
-        47923581,
-        47921287,
-        47921840,
-        47921718,
-        47923395,
-        47922446,
-        47922454,
-        47923370,
-        47921772,
-        47921252,
-        47927373,
-        47926220,
-        47921769,
-        47925888,
-        47926174,
-        47929924,
-        47922058,
-        47924679,
-        47925907,
-        47928188,
-        47926708,
-        47924571,
-        47921711,
-        47929738,
-        47929394,
-        47925570,
-        47925286,
-        47922834,
-        47929268,
-        47929683,
-        47921662,
-        47925248,
-        47921886,
-        47923734,
-        47928218,
-        47924193,
-        47924796,
-        47921792,
-        47921854,
-        47926878,
-        47923995,
-        47921270,
-        47921797,
-        47930785,
-        47921285,
-        47929969,
-        47924062,
-        47921816,
-        47924123,
-        47923418,
-        47923649,
-        47921715,
-        47929862,
-        47921832,
-        47923796,
-        47924682,
-        47921499
-      ],
-      "score": 847,
-      "text": "Gift Article: <a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-27&#x2F;microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NzI5NjE3MiwiZXhwIjoxNzc3OTAwOTcyLCJhcnRpY2xlSWQiOiJURTVMT0lLSzNOWUkwMCIsImJjb25uZWN0SWQiOiJDN0U3REM1Q0MxRTQ0NzM0QkY2MzYxQjY5QzgxN0UzMyJ9.mkOwEicK1kMLb-h6ZjkN4u-DsF55439rrFad0m1lqZM\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-27&#x2F;microsoft...</a><p><a href=\"https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;next-phase-of-microsoft-partnership&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;next-phase-of-microsoft-partnership...</a><p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;ajassy&#x2F;status&#x2F;2048806022253609115\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;ajassy&#x2F;status&#x2F;2048806022253609115</a>",
-      "time": 1777296162,
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "type": "story",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai"
-    },
-    {
-      "by": "theogravity",
-      "descendants": 317,
-      "id": 47926861,
-      "kids": [
-        47928794,
-        47931268,
-        47927476,
-        47931278,
-        47927501,
-        47928484,
-        47927626,
-        47931129,
-        47930788,
-        47927696,
-        47928573,
-        47928521,
-        47927622,
-        47928014,
-        47929995,
-        47929441,
-        47931249,
-        47930894,
-        47930456,
-        47928130,
-        47928405,
-        47927599,
-        47927550,
-        47931096,
-        47927649,
-        47930597,
-        47930478,
-        47927625,
-        47927667,
-        47930194,
-        47927578,
-        47930745,
-        47929576,
-        47930457,
-        47927707,
-        47928951,
-        47928665,
-        47927597,
-        47928555,
-        47930253,
-        47928630,
-        47927651,
-        47929805,
-        47927889,
-        47928387,
-        47930879,
-        47929329,
-        47930516,
-        47927702,
-        47928991,
-        47927594,
-        47927887,
-        47927810,
-        47927534,
-        47928509,
-        47928448,
-        47928067,
-        47928091,
-        47931048,
-        47929807,
-        47930365,
-        47929483,
-        47928868,
-        47931119,
-        47928499,
-        47927941,
-        47927789,
-        47928181,
-        47928371,
-        47927711,
-        47928637,
-        47927802,
-        47928783,
-        47929253,
-        47927729,
-        47928778,
-        47929008,
-        47928048,
-        47928319,
-        47927809,
-        47927875,
-        47927933,
-        47928144,
-        47927610,
-        47930847,
-        47929013,
-        47929884,
-        47927631,
-        47927784,
-        47930256,
-        47928223,
-        47928169,
-        47930141,
-        47927742,
-        47928692,
-        47928679,
-        47928570,
-        47930583,
-        47928781,
-        47928154,
-        47928261,
-        47927701,
-        47929453,
-        47929645,
-        47927905,
-        47928746,
-        47930131,
-        47928477,
-        47928465,
-        47928358,
-        47928222,
-        47928096,
-        47927812,
-        47927688,
-        47930359
-      ],
-      "score": 474,
-      "time": 1777321473,
-      "title": "Is my blue your blue?",
-      "type": "story",
-      "url": "https://ismy.blue/"
-    },
-    {
-      "by": "luu",
-      "descendants": 2,
-      "id": 47899669,
-      "kids": [
-        47930786
+        49594753,
+        49594128,
+        49591016,
+        49594463,
+        49594645,
+        49594054,
+        49583759,
+        49594515,
+        49594473,
+        49593958,
+        49594707,
+        49594100,
+        49594126,
+        49594044,
+        49583690,
+        49593740,
+        49594085,
+        49583598,
+        49594523,
+        49594348,
+        49594184,
+        49593613,
+        49588146
       ],
       "score": 52,
-      "time": 1777104979,
-      "title": "Pgrx: Build Postgres Extensions with Rust",
-      "type": "story",
-      "url": "https://github.com/pgcentralfoundation/pgrx"
+      "text": "I had a classic Bayesian statistical education throughout my undergraduate and grad years and I’ve come to conclude that the plethora of books offered are pretty bad.<p>For me personally statistics is intuitive if illustrated properly. \nA great example is <a href=\"https:&#x2F;&#x2F;seeing-theory.brown.edu&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;seeing-theory.brown.edu&#x2F;</a><p>I was wondering whether it would make sense to turn the intuitions behind statistics into a book. Would anyone read it? Do people still read stats books or would it be mostly a waste of effort?\nIf you wanted to teach&#x2F;help people understand statistics, what resources would you consider?",
+      "time": 1788670338,
+      "title": "Ask HN: Would you read a statistics textbook?",
+      "type": "story"
     },
     {
-      "by": "blfr",
-      "descendants": 12,
-      "id": 47902269,
+      "by": "zImPatrick",
+      "descendants": 300,
+      "id": 49588988,
       "kids": [
-        47929994,
-        47930044,
-        47930503,
-        47931031,
-        47929985,
-        47929973
+        49589220,
+        49594764,
+        49589666,
+        49589201,
+        49589353,
+        49592859,
+        49589348,
+        49590006,
+        49593160,
+        49589270,
+        49592087,
+        49593551,
+        49590410,
+        49593569,
+        49589341,
+        49589569,
+        49589533,
+        49589609,
+        49591820,
+        49593694,
+        49589269,
+        49590525,
+        49589625,
+        49590818,
+        49589422,
+        49589233,
+        49590923,
+        49590201,
+        49590158,
+        49589991,
+        49590481,
+        49589731,
+        49589687
       ],
-      "score": 100,
-      "time": 1777131714,
-      "title": "Mo RAM, Mo Problems (2025)",
+      "score": 640,
+      "text": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;zedeus&#x2F;nitter\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;zedeus&#x2F;nitter</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;cdclegal\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;cdclegal</a><p><a href=\"https:&#x2F;&#x2F;nitter.net&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;nitter.net&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;</a>",
+      "time": 1788716987,
+      "title": "Nitter and XCancel resume service after legal advice",
       "type": "story",
-      "url": "https://fabiensanglard.net/curse/"
-    },
-    {
-      "by": "gnabgib",
-      "descendants": 11,
-      "id": 47929035,
-      "kids": [
-        47930850,
-        47930357,
-        47929782,
-        47929926,
-        47931304,
-        47930653
-      ],
-      "score": 99,
-      "time": 1777336324,
-      "title": "High Performance Git",
-      "type": "story",
-      "url": "https://gitperf.com/"
-    },
-    {
-      "by": "gnabgib",
-      "descendants": 66,
-      "id": 47927070,
-      "kids": [
-        47930549,
-        47927632,
-        47927876,
-        47930427,
-        47930278,
-        47927890,
-        47929903,
-        47929681,
-        47928248,
-        47928066
-      ],
-      "score": 146,
-      "time": 1777322656,
-      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
-      "type": "story",
-      "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/"
-    },
-    {
-      "by": "nateb2022",
-      "descendants": 2,
-      "id": 47930170,
-      "kids": [
-        47931280,
-        47930546
-      ],
-      "score": 22,
-      "time": 1777346860,
-      "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
-      "type": "story",
-      "url": "https://technology.robbyant.com/lingbot-map"
-    },
-    {
-      "by": "Oravys",
-      "descendants": 181,
-      "id": 47919630,
-      "kids": [
-        47922388,
-        47919660,
-        47921246,
-        47922503,
-        47921406,
-        47922271,
-        47924381,
-        47928770,
-        47925528,
-        47921768,
-        47921812,
-        47922654,
-        47928246,
-        47923398,
-        47925971,
-        47921543,
-        47924203,
-        47923496,
-        47925195,
-        47923387,
-        47921348,
-        47924022,
-        47926164,
-        47921347,
-        47924108,
-        47921346,
-        47926724,
-        47921460,
-        47922520,
-        47922824,
-        47928739,
-        47928440,
-        47923123,
-        47921463,
-        47922399,
-        47922667,
-        47921646,
-        47930602,
-        47921364,
-        47928192,
-        47924106,
-        47923302
-      ],
-      "score": 510,
-      "time": 1777283830,
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "type": "story",
-      "url": "https://app.oravys.com/blog/mercor-breach-2026"
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
     }
   ]
 }
@@ -1579,288 +1394,8 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
 ```text
 [info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set
 - Fetching feeds...
-{
-  "source": "reddit",
-  "topic": "startups",
-  "sort": "new",
-  "items": [
-    {
-      "title": "Where to find first users and testers? (I will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1sxt83a/where_to_find_first_users_and_testers_i_will_not/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sxt83a/where_to_find_first_users_and_testers_i_will_not/",
-      "author": "/u/Krysza",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Hi everyone. I am helping out a startup with marketing. It is an AI consultant for 3D Printing. We have issues with finding first users. I tried posting on 3Dprint groups but get a lot of hate on AI. The founder said he made research and the product is needed. He got good feedback during Additive Manufacturing forum from 3D print product providers. But I am starting to doubt the idea. Where do you look for testers and first users? Would you recommend anything? Thanks in advance. Good luck with your projects! &#32; submitted by &#32; /u/Krysza [link] &#32; [comments]",
-      "published": "2026-04-28T06:24:00+00:00"
-    },
-    {
-      "title": "[i will not promote] Are support tools overkill for early-stage SaaS?",
-      "url": "https://www.reddit.com/r/startups/comments/1sxsd9y/i_will_not_promote_are_support_tools_overkill_for/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sxsd9y/i_will_not_promote_are_support_tools_overkill_for/",
-      "author": "/u/Jash_Kevadiya",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Feels like most support tools are overkill when you&#39;re just starting out. Tickets, automations, dashboards, pricing… a lot of it doesn’t get used early on. What are you all using in the beginning? Just email? Something custom? Trying to figure out what actually matters vs what’s just noise. &#32; submitted by &#32; /u/Jash_Kevadiya [link] &#32; [comments]",
-      "published": "2026-04-28T05:37:09+00:00"
-    },
-    {
-      "title": "Given the startup ecosystems in Canada, shouldn't there be more home runs? (I will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1sxoqz7/given_the_startup_ecosystems_in_canada_shouldnt/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sxoqz7/given_the_startup_ecosystems_in_canada_shouldnt/",
-      "author": "/u/coolinjapan001",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Given the countless accelerators in the major cities in the country and at least in Toronto specifically as well, MaRS, the MaRS health innovation conference that just happened, Toronto Tech Week, TechTO and various other innovation /startup conferences, how is it that the country has had so few startups that successfully scaled up to become &quot;big&quot; in the last 15-20 years? &#32; submitted by &#32; /u/coolinjapan001 [link] &#32; [comments]",
-      "published": "2026-04-28T02:39:27+00:00"
-    },
-    {
-      "title": "AI and stock trading I will not promote",
-      "url": "https://www.reddit.com/r/startups/comments/1sxn5wv/ai_and_stock_trading_i_will_not_promote/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sxn5wv/ai_and_stock_trading_i_will_not_promote/",
-      "author": "/u/No_Game_No_Life4",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Hello, I am planning to build an AI investing advisor for retail investors. The idea is have AI do a full equity research like you get from the JP morgan or similar investment firms. Then the user can review the plan aprove it or reject it, and then it executes through the connected brokerage. I am a tech person so I don’t really have a idea of what stocks and stuff might looks like but my friend who worked at hedfunds has a really good track record, 268% return in 4 years, and he has his filter and questions that he devoped with his hedge fund boss in his last work. I am just trying to put this into automation using AI, any opinion would be nice. But would you guys use this service? would you want the AI to exectue trade for you? and how much do you think you would pay for this serivice? I just have no idea and genually just trying to learn. Thank you for reading! &#32; submitted by &#32; /u/No_Game_No_Life4 [link] &#32; [comments]",
-      "published": "2026-04-28T01:30:11+00:00"
-    },
-    {
-      "title": "what would you name a child of \"Free\" and \"Included\" services \"i will not promote\"",
-      "url": "https://www.reddit.com/r/startups/comments/1sxhys1/what_would_you_name_a_child_of_free_and_included/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sxhys1/what_would_you_name_a_child_of_free_and_included/",
-      "author": "/u/Extension-Tip-159",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Imagine Free service and Included service happily merried and have a kid, what whoult be its name? I have this dilema, we have some services which are included in a package, so they basically come free. We just don&#39;t like the naming, Neither &quot;Free&quot; nor &quot;Included&quot; seems right. &#32; submitted by &#32; /u/Extension-Tip-159 [link] &#32; [comments]",
-      "published": "2026-04-27T21:51:26+00:00"
-    },
-    {
-      "title": "Equity split sanity check [I will not promote a startup today!]",
-      "url": "https://www.reddit.com/r/startups/comments/1sxfkh4/equity_split_sanity_check_i_will_not_promote_a/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sxfkh4/equity_split_sanity_check_i_will_not_promote_a/",
-      "author": "/u/alexandicity",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Hello! I wanted to get the community&#39;s opinions on a early-stage equity split, as I&#39;m struggling to work out what is fair. Capital-intensive hardware &amp; software firm in a niche industry. Two participants here: X and Y, both engineers. X incorporated the company 6 months ago. In that time, they have: Identified the market gap and the general solution Found initial customers &amp; got traction with them Set out the technical objective and plan Closed the first fundraising round (enough for the next 18 months of the plan, to get us to a sellable MVP stage) To date, Y&#39;s involvement has been quite limited. Y gave some bits of advice, reviews and some ideas over this period (total time involvement in the order of ~10 hours). All agree that X has put much more in than Y up to now. But equity splits also reflect future work division. X and Y will from now both be contributing their time equally going forward. X will take a minimum wage salary for the first year, while Y will take a near-market-rate salary (due to personal needs). Conventional wisdom is that Y is a &quot;first employee&quot; rather than a &quot;co-founder&quot;, but Y brings critical skills needed to make the company a success. As such, the company wants Y to be well vested and feel motivated to drive the company forward (and, as secondary effect, convince future investors of that). How would you split X and Y&#39;s equity? &#32; submitted by &#32; /u/alexandicity [link] &#32; [comments]",
-      "published": "2026-04-27T20:24:11+00:00"
-    },
-    {
-      "title": "Was working in a agency getting 25% \" I will not promote\"",
-      "url": "https://www.reddit.com/r/startups/comments/1sxaq6v/was_working_in_a_agency_getting_25_i_will_not/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sxaq6v/was_working_in_a_agency_getting_25_i_will_not/",
-      "author": "/u/memayankpal",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I was working in a web dev agency remotely, and they were paying me 25% of the project initially as I was doing nothing so I thought of let&#39;s try this and then now I think it&#39;s not fair. Either it should be any small percentage + a salary . So instead of this I was thinking of starting something my own like something to people I can handle the development part and he can handle the sales part. What do you think?? &#32; submitted by &#32; /u/memayankpal [link] &#32; [comments]",
-      "published": "2026-04-27T17:36:19+00:00"
-    },
-    {
-      "title": "Are all startups bound to content creation? (i will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1sx81vq/are_all_startups_bound_to_content_creation_i_will/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sx81vq/are_all_startups_bound_to_content_creation_i_will/",
-      "author": "/u/solo_sun",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "It seems like no matter the industry/product/business, if you want organic traffic, you have to be a content creator: Newsletters like substack Posting regularly on linkedin/insta/tiktok/etc Writing blog posts Engaging with communities on Slack/X or whatever else It&#39;s not just about posting and commenting but its also about doing it regularly and frequently. This in itself is a full time job and for bootstrapped founders, its extremely resource intensive. It&#39;s also hard to say what the ROI is. Are there strategies or tips that can make it less exhausting and more successful or is this just the name of the game? &#32; submitted by &#32; /u/solo_sun [link] &#32; [comments]",
-      "published": "2026-04-27T16:03:23+00:00"
-    },
-    {
-      "title": "Realized I was doing way too many things manually just to feel in control( I will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1sx3s1v/realized_i_was_doing_way_too_many_things_manually/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sx3s1v/realized_i_was_doing_way_too_many_things_manually/",
-      "author": "/u/Southern_Device4454",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I am a founder of a small brand. Recently noticed how much of my day disappears into tiny repetitive stuff. Updating tracking numbers. Answering basically the same customer email 4 times. Opening the same spreadsheet over and over. Jumping between WhatsApp, email, and supplier chats like a confused air traffic controller. None of it is difficult work. It’s just constant. I think I kept doing everything manually because it made me feel responsible or in control. But honestly I was mostly just exhausting myself. Still trying to figure out what actually needs my attention and what only feels important because I’m used to touching every part of the process. Curisous, what’s one small thing you stopped doing manually that made a surprisingly big difference in your business? &#32; submitted by &#32; /u/Southern_Device4454 [link] &#32; [comments]",
-      "published": "2026-04-27T13:31:19+00:00"
-    },
-    {
-      "title": "Elevator Pitch: 5 Seconds to get me intrested in your project. (I will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1sx2wc9/elevator_pitch_5_seconds_to_get_me_intrested_in/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sx2wc9/elevator_pitch_5_seconds_to_get_me_intrested_in/",
-      "author": "/u/JustSomeRandomAI",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Make your case fast - and I and everyone who sees the post might become your next user. not promoting anything - just here to help out and provide feedback Make your case fast - and I and everyone who sees the post might become your next user. not promoting anything - just here to help out and provide feedback :) _______________________________________________________ _______________________________________________________ &#32; submitted by &#32; /u/JustSomeRandomAI [link] &#32; [comments]",
-      "published": "2026-04-27T12:57:09+00:00"
-    },
-    {
-      "title": "Are AI-generated fake reviews becoming a massive startup problem? I will not promote",
-      "url": "https://www.reddit.com/r/startups/comments/1sx094r/are_aigenerated_fake_reviews_becoming_a_massive/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sx094r/are_aigenerated_fake_reviews_becoming_a_massive/",
-      "author": "/u/No-Tip353",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I’ve been noticing more AI-generated testimonials, fake reviews, and synthetic content being used online and it got me thinking about how startups will deal with this. For early-stage startups, trust is everything. If fake reviews, fake UGC, or AI-generated testimonials become normal, customers might stop trusting smaller brands entirely. I recently came across platforms trying human verification instead of just relying on AI detectors, which seems interesting because most AI detection tools feel inaccurate. Do you think this becomes a real problem in the next few years? How would startups deal with it? &#32; submitted by &#32; /u/No-Tip353 [link] &#32; [comments]",
-      "published": "2026-04-27T10:58:27+00:00"
-    },
-    {
-      "title": "Do early startups underestimate how much lost momentum kills sales? (I will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1swxpm0/do_early_startups_underestimate_how_much_lost/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swxpm0/do_early_startups_underestimate_how_much_lost/",
-      "author": "/u/DeliciousWin4649",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "One thing I continue to wonder about is how many of the challenges to selling during the early-stage start-up stage can be attributed to momentum rather than anything else. It’s not necessarily a bad product or bad messaging, but rather too many small breaks in the process, such as responding late, letting follow-ups slide, changing priorities every couple of days, restarting all your outreach efforts completely, and not being in a rhythm long enough to learn from what’s working. It seems that most founders are often quick to assume that the poor results they’re experiencing indicate they need a new sales strategy or maybe an entirely new product, when in reality there may not be any consistent rhythm to build upon in order to create a compounding effect from their efforts. I’m interested in hearing how others think about this: have you ever experienced the situation where the real issue which has been holding back sales was not related to your offer or copy, but rather the stop/start nature of your outreach? &#32; submitted by &#32; /u/DeliciousWin4649 [link] &#32; [comments]",
-      "published": "2026-04-27T08:32:27+00:00"
-    },
-    {
-      "title": "[Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
-      "url": "https://www.reddit.com/r/startups/comments/1swsszb/hiringseekingoffering_jobs_cofounders_weekly/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swsszb/hiringseekingoffering_jobs_cofounders_weekly/",
-      "author": "/u/AutoModerator",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "[Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread This is an experiment. We see there is a demand from the community to: Find Co-Founders Hiring / Seeking Jobs Offering Your Skillset / Looking for Talent Please use the following template: **[SEEKING / HIRING / OFFERING]** (Choose one) **[COFOUNDER / JOB / OFFER]** (Choose one) Company Name: (Optional) Pitch: Preferred Contact Method(s): Link: (Optional) All Other Subreddit Rules Still Apply We understand there will be mild self promotion involved with finding cofounders, recruiting and offering services. If you want to communicate via DM/Chat, put that as the Preferred Contact Method. We don&#39;t need to clutter the thread with lots of &#39;DM me&#39; or &#39;Please DM&#39; comments. Please make sure to follow all of the other rules, especially don&#39;t be rude. Reminder: This is an experiment We may or may not keep posting these. We are looking to improve them. If you have any feedback or suggestions, please share them with the mods via ModMail . &#32; submitted by &#32; /u/AutoModerator [link] &#32; [comments]",
-      "published": "2026-04-27T04:00:47+00:00"
-    },
-    {
-      "title": "What I’ve learned watching non-technical founders build with AI (i will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1swsldj/what_ive_learned_watching_nontechnical_founders/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swsldj/what_ive_learned_watching_nontechnical_founders/",
-      "author": "/u/Efficient_Pea_9984",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "After seeing a lot of AI-built apps over the past year, there’s a pattern that keeps showing up. The issue usually isn’t that people can’t build anymore it’s that they try to build everything too early. AI makes it really easy to go from idea → full product in one go. Multiple features, integrations, dashboards… all working (on the surface). But most of the problems later come from that decision. The apps that hold up tend to be the ones where someone focused on one core flow first and made sure it actually worked properly before adding more. The other thing is failure cases. AI almost always builds the “happy path” but real users don’t behave like that. They refresh mid-action, click things twice, leave halfway through. If you don’t think about that early, it comes back later in weird ways. Also, data. This is probably the least visible issue but the most painful one later. A lot of apps store things in whatever format works “for now”, and then once there’s real usage, it gets messy fast. None of this means AI isn’t useful, it’s the opposite. It’s probably the fastest way right now to get something real into users’ hands. But the people who get the most out of it aren’t treating it like magic. They’re just a bit more deliberate about what they build first and how they structure it. Curious if others have seen the same or had different experiences. &#32; submitted by &#32; /u/Efficient_Pea_9984 [link] &#32; [comments]",
-      "published": "2026-04-27T03:50:14+00:00"
-    },
-    {
-      "title": "I'm working on my startup and under what situation one should shut it off if there are cease & desist letters or lawsuits. \"I will not promote\"",
-      "url": "https://www.reddit.com/r/startups/comments/1swqyrv/im_working_on_my_startup_and_under_what_situation/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swqyrv/im_working_on_my_startup_and_under_what_situation/",
-      "author": "/u/Firm_Yogurtcloset102",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "&quot;I will not promote&quot; First time entrepreneur here. I&#39;m building my own startup. There are some grey areas like scraping. For example, LinkedIn vs. hi5 judgement says LinkedIn public facing profile (i.e, info not behind an auth wall) is public and can be scraped. I&#39;m just quoting this as an example.. I might be overthinking. If my startup gets any cease and desist letter or lawsuits, which stage it will trigger shutting down the company. I&#39;m in California, USA. &#32; submitted by &#32; /u/Firm_Yogurtcloset102 [link] &#32; [comments]",
-      "published": "2026-04-27T02:32:05+00:00"
-    },
-    {
-      "title": "Every monday i tell myself i'll do it. Every monday i don't. - i will not promote",
-      "url": "https://www.reddit.com/r/startups/comments/1swplxf/every_monday_i_tell_myself_ill_do_it_every_monday/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swplxf/every_monday_i_tell_myself_ill_do_it_every_monday/",
-      "author": "/u/Longjumping-Hope5941",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "There&#39;s one task i&#39;ve been avoiding for like 2 months now. It&#39;s not even hard. It&#39;s not urgent either. Just keeps moving to next week&#39;s todo list. Every monday i find something else to do instead. The weird part is i actually know it would help if i just did it. What&#39;s something you keep putting off even though you know it actually matters? &#32; submitted by &#32; /u/Longjumping-Hope5941 [link] &#32; [comments]",
-      "published": "2026-04-27T01:27:50+00:00"
-    },
-    {
-      "title": "Angels & VCs - is consumer hardware something you'd never invest in? [I will not promote]",
-      "url": "https://www.reddit.com/r/startups/comments/1swpdkw/angels_vcs_is_consumer_hardware_something_youd/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swpdkw/angels_vcs_is_consumer_hardware_something_youd/",
-      "author": "/u/Constant_Fig_232",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Im curious, is it typically just off limits or is there something that would make you invest in consumer hardware? I feel like no one wants to invest in this space and that everyone would just rather invest in AI/SaaS no matter if some VCs say they invest in all industries. &#32; submitted by &#32; /u/Constant_Fig_232 [link] &#32; [comments]",
-      "published": "2026-04-27T01:17:12+00:00"
-    },
-    {
-      "title": "Had my first investor call - cant tell how it went [I will not promote]",
-      "url": "https://www.reddit.com/r/startups/comments/1swpbli/had_my_first_investor_call_cant_tell_how_it_went/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swpbli/had_my_first_investor_call_cant_tell_how_it_went/",
-      "author": "/u/Constant_Fig_232",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I had an inbound investor call from a US VC firm. The guy reached out to me on linkedin (we&#39;re a canadian company) wanting to learn more about our startup. We&#39;re not raising rn and focused on gaining more traction so we hadnt started reaching out to VCs but took this call cuz why would I reject someone reaching out to me lol. It was our first call and we knew going in we&#39;d probably bomb it but I think it went okay? We definitely rambled more than we should&#39;ve and thought it didnt go too well, but at the end of it, they said they&#39;d reach out to us in 3 months to have another call or we can reach out earlier if we get more traction (we knew rn our traction wasn&#39;t the best). They haven&#39;t ever invested in our space (we&#39;re consumer hardware) so it was interesting seeing they reached out. The guy said he saw my linkedin, looked at my website, thought it was a cool product so wanted to reach out. I&#39;m definitely sad there weren&#39;t more meetings immediately set up. But idk, what are your guys thoughts? Also one of them put a deposit down on our website for our product immediately after the call (he fit our ICP). &#32; submitted by &#32; /u/Constant_Fig_232 [link] &#32; [comments]",
-      "published": "2026-04-27T01:14:43+00:00"
-    },
-    {
-      "title": "Our reps were all telling the product story differently so we gave them one thing to send. \"i will not promote\"",
-      "url": "https://www.reddit.com/r/startups/comments/1swor4z/our_reps_were_all_telling_the_product_story/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swor4z/our_reps_were_all_telling_the_product_story/",
-      "author": "/u/Low-Oil7883",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "We are still small enough that everyone kind of developed their own way of pitching the product. At first it seemed fine. Then deals got a little more serious and we realized buyers were getting very different versions depending on who they talked to. We kept thinking the answer was better training or cleaner decks, but what actually helped was giving reps one consistent demo experience to send before and after calls. That cleaned up a lot fast. Anyone else run into this once the team started growing? &#32; submitted by &#32; /u/Low-Oil7883 [link] &#32; [comments]",
-      "published": "2026-04-27T00:47:55+00:00"
-    },
-    {
-      "title": "Unexpected #1 on Hacker News. What next? I will not promote.",
-      "url": "https://www.reddit.com/r/startups/comments/1swnrhg/unexpected_1_on_hacker_news_what_next_i_will_not/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swnrhg/unexpected_1_on_hacker_news_what_next_i_will_not/",
-      "author": "/u/Used_Accountant_1090",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "4 of us ex-HubSpot product and engineering folks have been busy building context graphs for scattered enterprise data. It has proven super hard to sell as the real value of a robust context system is hard to show over simple RAG unless you are operating at a certain scale of real data and complexity. Meanwhile, I (Founder &amp; CEO) built a personal project on the side a few weeks ago because I had been using every agent under the roof in multiple terminal sessions at the same time and was sick of repeating myself to them. I was like &quot;if my agents could just talk to each other&quot; Light bulb and token reset hit and I built myself a Slack like office over a weekend (and a couple of weekdays for the extra polish) where I could get my Claudes, Codexes, Openclaws, local LLMs, all talking to each other in Slack like channels for coding, social content, SEO, etc. while sharing context via a Karpathy-style team wiki they build and maintain, built upon some of our own context architecture. This was surprisingly useful and I immediately saw value from our context infra for multi-agent operations. This was basically the missing usability layer for the infra. I showed this to the team and told them I will just keep this as a side open source project and get some more validation on the approach. So I decided to randomly post about it on ShowHN on Thursday with little hope of getting much from it. The only people I asked to upvote was my team and when they tried, they found that the post was marked dead on arrival, maybe because I had no karma. So, I hopelessly emailed the mods (had no idea if Claude got me the right email address or if rhey even respond), and went on with life. Was on the bus doing daddy duty, taking the kids out on Saturday, when a reply from a Hacker News mod hit my inbox &quot;OK, it&#39;s on the front page now. Good luck with it!&quot; I was confused, so opened ShowHN. Post was visible again and we were #1 on arrival, then still a few hours later, and then still dominating the top spot all of Saturday. 100s of comments on the post and our repo climbed from barely a 90 stars ( a lot of them came from lots of begging and convincing and quid-pro-quo star-for-star conversations) to 500+ stars in a day. I have never seen such hockey stick growth in my life and I don&#39;t know how to react. Yes, it is small and we haven&#39;t pulled an OpenClaw by even a small %, but it is substantial for us right now. After frantically replying to lots of comments on HN and hurriedly trying to fix all the issues in our repo (there are still tons of glaring issues, I feel like an imposter) and checking Discord like a maniac every few minutes to welcome any new community members, I am finally taking a breather, and thinking what&#39;s next. Is this a fluke that just dies off and we fail to do anything about it? Or will we be able to ride the momentum and climb higher and faster to exponential traction and momentum? These are just thoughts in my head and they make me happy, scared, anxious and grateful, all at the same time. &#32; submitted by &#32; /u/Used_Accountant_1090 [link] &#32; [comments]",
-      "published": "2026-04-27T00:01:54+00:00"
-    },
-    {
-      "title": "I will not promote: What surprised me building a small public-facing app (tooling sprawl + CSP)",
-      "url": "https://www.reddit.com/r/startups/comments/1swmv9z/i_will_not_promote_what_surprised_me_building_a/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swmv9z/i_will_not_promote_what_surprised_me_building_a/",
-      "author": "/u/Illustrious-Bag-3445",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I built a small side project in the resume space, and I expected the hard part to be feature development. What actually surprised me was everything around “making it production-safe” for public usage. The two biggest lessons: 1) Tooling grows fast (and each tool adds operational overhead) Very quickly I ended up integrating multiple services just to run a reliable app: \\- Sentry for error tracking \\- PostHog for product analytics \\- Resend for email flows \\- plus auth, DB, hosting, etc. Each one solved a real problem, but together they created a lot of integration/maintenance work: \\- env management \\- event consistency across tools \\- debugging across multiple dashboards \\- deciding what actually needs instrumentation vs what is noise 2) Content Security Policy (CSP) was way more complex than expected CSP looked simple at first (“just lock things down”), but in practice it became an iterative process: \\- third-party scripts/styles/connect endpoints \\- nonce/hash handling \\- avoiding overly broad rules while keeping the app functional \\- balancing security with dev velocity I underestimated how much time this would take compared to core product work. Curious how other founders handle this phase: \\- How do you decide which tools are truly essential early on? \\- Do you start strict with CSP from day 1, or tighten gradually? \\- Any heuristics to avoid over-instrumenting too early? &#32; submitted by &#32; /u/Illustrious-Bag-3445 [link] &#32; [comments]",
-      "published": "2026-04-26T23:22:02+00:00"
-    },
-    {
-      "title": "Interview red flag or normal in start up? I will not promote",
-      "url": "https://www.reddit.com/r/startups/comments/1swlxtq/interview_red_flag_or_normal_in_start_up_i_will/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swlxtq/interview_red_flag_or_normal_in_start_up_i_will/",
-      "author": "/u/EngineeringParty59",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I applied for a role in a small start up which I thought was cool. Long story short, after the 2nd interview (with CEO, first was pre recorded) he pitched me a made up role. He saw I had specific skills from running my own business. Told me to sleep on it. I was passed to the next round with another employee, who appreciated my expertise, he was 2nd in command I guess. I asked could he share what success would like I the role, how much the company had grown and what the salary range was. He couldn’t share the job spec and was cagey about the company’s worth (equity was part of the comp). He also said he didn’t know the range for pay and only the CEO would know. He obviously liked my interview and he followed up with a take home task for me to do (pretty sure he used AI to write it). They don’t have anyone who has expertise in this area in the company, but essentially the take home project was a full strategy (seemed more like contracted work than an audition). I was also concerned they could essentially just take my strategy and then not offer me a role (they’re trying to do what I’d help with , but without success). The idea was to prepare this then travel 500 odd miles to their office to present it. Given I’d have to take a few days out to prepare then at least 2 days to travel, I asked again about salary and job specs. The reply I was met was along the lines of, if you’re a good fit we’ll discuss salary down the road (I mean I’ve done 3 interviews).I’d have to move for the role. The second problem was I was sent a job spec from the site that had been there before I ever applied, it has some elements of what the ceo pitched me but it’s not the same. Essentially the job spec entails lots of low leverage stuff that can be cheaply outsourced, they wanted strategy and hands on implementing by the same person (it comes back to why what they’re trying to do isn’t working). Seems like a really unique product and an area I know I’d be really good at, but is this just full of red flags? How can I approach this? I have a feeling they think it’s way easier to fill this role than it actually will be. &#32; submitted by &#32; /u/EngineeringParty59 [link] &#32; [comments]",
-      "published": "2026-04-26T22:41:30+00:00"
-    },
-    {
-      "title": "Help pitching spin-out to owner (I will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1swk7ah/help_pitching_spinout_to_owner_i_will_not_promote/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swk7ah/help_pitching_spinout_to_owner_i_will_not_promote/",
-      "author": "/u/Happy_Gur_8962",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Hi all, First post here and I am looking for help in regards to pitching a spin-out idea to the owner who hired me. Background: I am the head of product and been there 3 years. Revenue of new product development has grown very well and looks to be x4-5 increased since I started (end of year) and I feel he has a good impression of me. I have 10+ experience with product development and Leadership. Not new I this but new to start up/ spin out. I have for a time considered pitching the idea of starting a new company in a related but different field. More upstream to what our current mother company is doing. I have experience in both company fields. Spin-Out My idea is to start a spin out - with me leading a new team (just me and 1-2 others in the beginning) that would be around 10-12 people after 6-7 years as I see it with a revenue of about 15-20M USD by year 8. There is a synergy effect for the mother in having a smaller company in a related field more upstream - it would be able to increase their revenue as well due to that but I would like to use some of organisational ressources. Due to it being a niche industry I do not feel comfortable disclosing which industry it is. Advice I would appreciate any feedback on what I can expect, what have your experience with owner expectations and value perceptions and if my current thoughts are realistic or should be adjusted. There are overall 4 things I would like to have. Minority Founder Equity 20 % vested over 5 years. Keep my current head of product salary until certain revenue targets are unlocked. My current salary is about 125.000 USD - it is in the lower end. I would like to have a scaled raise of 10k pr. 1 M revenue and up until 10M - which is 100K more in total where I started. Due to special circumstances I would like have a small percentage of the revenue - 2-3% revenue to cover my IP creation in what we do each year. Based on specific products I develop. At 10M I est this to be 40-80K at this time. . There will be more product developers involved over time but I will do the heavy IP work in the beginning. Last - profit poll - I am aware of the issue of having pure revenue based salary target as a profitable red flag for the owner 🚩 I am aware that targets connected to profitable makes sense for obvious reasons. I am however unsure what are good suggestions from my side on this subject and what danger zones I should be aware of here. Without point 4 - I est. my salary would be around 300K USD when (if) it has made it to a 10-15M revenue generating company with 20 % equity. So 4 points of potential bargaining chips - I would appreciate advice and critic in which one to fight most and why you think they are the best - also what you deem are fair levels would be great to hear! In terms of replacing me, if someone was wondering in that - I have brought one under my wing and are prepping if the time comes. I would ease his concern by mentioning this and not leave my current role before the transition to my capable colleague has happened. For me - my mind is made up - it is either with my current company or I start off on my own doing this’s However I would like/need a seed inverst of est. 1-1.5M USD from my old company - which are not funds I have available on my own. Experience would be much more bootstrapped. As one that has family I prefer a cut in equity for more stability. Which makes the Spin Out my preferred choice if the terms are reasonable. Appreciate you reading this far &#32; submitted by &#32; /u/Happy_Gur_8962 [link] &#32; [comments]",
-      "published": "2026-04-26T21:29:30+00:00"
-    },
-    {
-      "title": "How do you manage competitive intel when the AI landscape shifts every week? [I will not promote]",
-      "url": "https://www.reddit.com/r/startups/comments/1swjx4v/how_do_you_manage_competitive_intel_when_the_ai/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swjx4v/how_do_you_manage_competitive_intel_when_the_ai/",
-      "author": "/u/ComputerSciToFinance",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Top AI companies (Anthropic, OpenAI, Google, etc.) are releasing something new every week - some of these releases destroy existing startups, while others open up new opportunities. Meanwhile, there are folks constantly posting on X and stirring up anxiety. Founders - how do you keep up with what&#39;s happening in your domain: how AI is changing it, what your competitors are doing, and what they might do next? &#32; submitted by &#32; /u/ComputerSciToFinance [link] &#32; [comments]",
-      "published": "2026-04-26T21:18:17+00:00"
-    },
-    {
-      "title": "Is anyone else tired of being pitched marketing services 24/7? I will not promote",
-      "url": "https://www.reddit.com/r/startups/comments/1swj9dc/is_anyone_else_tired_of_being_pitched_marketing/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swj9dc/is_anyone_else_tired_of_being_pitched_marketing/",
-      "author": "/u/SuspiciousTicket8554",
-      "subreddit": "startups",
-      "score": null,
-      "num_comments": null,
-      "selftext": "We all know the 2026 freelance market is flooded with 1,000s of &quot;marketing experts&quot; and &quot;growth hackers.&quot; But as a founder, I bet your biggest headaches aren&#39;t always about marketing What are the other problems you have that you&#39;d happily pay a freelancer or agency to fix, but nobody seems to be offering? Is it hiring, backend systems, legal compliance, or something else entirely? Let’s talk about the service gaps that actually exist. &#32; submitted by &#32; /u/SuspiciousTicket8554 [link] &#32; [comments]",
-      "published": "2026-04-26T20:52:36+00:00"
-    }
-  ]
-}
+Request error: Request failed with status code 429
+✖ Request failed. Check network/API settings and try again.
 ```
 
 ## 4. Current Tech Debate Talking Points
@@ -1879,531 +1414,373 @@ node bin/main.js --json news -t 12 ; node bin/main.js --json lobsters -s hottest
   "source": "hackernews",
   "items": [
     {
-      "by": "StefanBatory",
-      "descendants": 5,
-      "id": 47931035,
+      "by": "sonicrocketman",
+      "descendants": 55,
+      "id": 49593563,
       "kids": [
-        47931239,
-        47931292,
-        47931211,
-        47931160
+        49594641,
+        49594593,
+        49593730,
+        49594144,
+        49593714,
+        49593770,
+        49594693,
+        49593564,
+        49593712,
+        49594655,
+        49594299,
+        49593766,
+        49594221,
+        49593824,
+        49593779,
+        49593789,
+        49594321
       ],
-      "score": 44,
-      "time": 1777357659,
-      "title": "GTFOBins",
+      "score": 245,
+      "time": 1788751791,
+      "title": "Keep Our Servers Running",
       "type": "story",
-      "url": "https://gtfobins.org/"
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/"
     },
     {
-      "by": "jekude",
-      "descendants": 95,
-      "id": 47927903,
+      "by": "azhenley",
+      "descendants": 69,
+      "id": 49591876,
       "kids": [
-        47931253,
-        47930782,
-        47930394,
-        47931275,
-        47930261,
-        47930714,
-        47930744,
-        47929230,
-        47929506,
-        47929169,
-        47930479,
-        47931087,
-        47931174,
-        47928886,
-        47929417,
-        47929046,
-        47928864,
-        47930526,
-        47929889,
-        47928949,
-        47930241,
-        47929317,
-        47928940,
-        47929190,
-        47929189,
-        47929828,
-        47929685,
-        47928917,
-        47928888,
-        47928987,
-        47930230
+        49592653,
+        49592077,
+        49592960,
+        49594671,
+        49593247,
+        49593834,
+        49592468,
+        49592093,
+        49592285,
+        49593548,
+        49592091,
+        49591918,
+        49591997,
+        49594552,
+        49594178,
+        49593090,
+        49593129
       ],
-      "score": 293,
-      "time": 1777326948,
-      "title": "Talkie: a 13B vintage language model from 1930",
+      "score": 184,
+      "time": 1788736448,
+      "title": "Making a Python interpreter in 1024 bytes",
       "type": "story",
-      "url": "https://talkie-lm.com/introducing-talkie"
+      "url": "https://austinhenley.com/blog/python1024.html"
     },
     {
-      "by": "helsinkiandrew",
-      "descendants": 723,
-      "id": 47921248,
+      "by": "claytonwramsey",
+      "descendants": 24,
+      "id": 49550276,
       "kids": [
-        47923805,
-        47921551,
-        47922120,
-        47922477,
-        47930160,
-        47925421,
-        47922022,
-        47925160,
-        47921511,
-        47926909,
-        47922383,
-        47921995,
-        47925637,
-        47921267,
-        47924759,
-        47925814,
-        47926814,
-        47930909,
-        47923581,
-        47921287,
-        47921840,
-        47921718,
-        47923395,
-        47922446,
-        47922454,
-        47923370,
-        47921772,
-        47921252,
-        47927373,
-        47926220,
-        47921769,
-        47925888,
-        47926174,
-        47929924,
-        47922058,
-        47924679,
-        47925907,
-        47928188,
-        47926708,
-        47924571,
-        47921711,
-        47929738,
-        47929394,
-        47925570,
-        47925286,
-        47922834,
-        47929268,
-        47929683,
-        47921662,
-        47925248,
-        47921886,
-        47923734,
-        47928218,
-        47924193,
-        47924796,
-        47921792,
-        47921854,
-        47926878,
-        47923995,
-        47921270,
-        47921797,
-        47930785,
-        47921285,
-        47929969,
-        47924062,
-        47921816,
-        47924123,
-        47923418,
-        47923649,
-        47921715,
-        47929862,
-        47921832,
-        47923796,
-        47924682,
-        47921499
+        49594648,
+        49594740,
+        49594105,
+        49594465,
+        49594429,
+        49593850,
+        49594094
       ],
-      "score": 847,
-      "text": "Gift Article: <a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-27&#x2F;microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NzI5NjE3MiwiZXhwIjoxNzc3OTAwOTcyLCJhcnRpY2xlSWQiOiJURTVMT0lLSzNOWUkwMCIsImJjb25uZWN0SWQiOiJDN0U3REM1Q0MxRTQ0NzM0QkY2MzYxQjY5QzgxN0UzMyJ9.mkOwEicK1kMLb-h6ZjkN4u-DsF55439rrFad0m1lqZM\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-27&#x2F;microsoft...</a><p><a href=\"https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;next-phase-of-microsoft-partnership&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;next-phase-of-microsoft-partnership...</a><p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;ajassy&#x2F;status&#x2F;2048806022253609115\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;ajassy&#x2F;status&#x2F;2048806022253609115</a>",
-      "time": 1777296162,
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "score": 46,
+      "time": 1788445206,
+      "title": "I'm a seeing-eye dog for a computer",
       "type": "story",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai"
+      "url": "https://claytonwramsey.com/blog/seeing-eye/"
     },
     {
-      "by": "theogravity",
-      "descendants": 317,
-      "id": 47926861,
+      "by": "xena",
+      "descendants": 118,
+      "id": 49590611,
       "kids": [
-        47928794,
-        47931268,
-        47927476,
-        47931278,
-        47927501,
-        47928484,
-        47927626,
-        47931129,
-        47930788,
-        47927696,
-        47928573,
-        47928521,
-        47927622,
-        47928014,
-        47929995,
-        47929441,
-        47931249,
-        47930894,
-        47930456,
-        47928130,
-        47928405,
-        47927599,
-        47927550,
-        47931096,
-        47927649,
-        47930597,
-        47930478,
-        47927625,
-        47927667,
-        47930194,
-        47927578,
-        47930745,
-        47929576,
-        47930457,
-        47927707,
-        47928951,
-        47928665,
-        47927597,
-        47928555,
-        47930253,
-        47928630,
-        47927651,
-        47929805,
-        47927889,
-        47928387,
-        47930879,
-        47929329,
-        47930516,
-        47927702,
-        47928991,
-        47927594,
-        47927887,
-        47927810,
-        47927534,
-        47928509,
-        47928448,
-        47928067,
-        47928091,
-        47931048,
-        47929807,
-        47930365,
-        47929483,
-        47928868,
-        47931119,
-        47928499,
-        47927941,
-        47927789,
-        47928181,
-        47928371,
-        47927711,
-        47928637,
-        47927802,
-        47928783,
-        47929253,
-        47927729,
-        47928778,
-        47929008,
-        47928048,
-        47928319,
-        47927809,
-        47927875,
-        47927933,
-        47928144,
-        47927610,
-        47930847,
-        47929013,
-        47929884,
-        47927631,
-        47927784,
-        47930256,
-        47928223,
-        47928169,
-        47930141,
-        47927742,
-        47928692,
-        47928679,
-        47928570,
-        47930583,
-        47928781,
-        47928154,
-        47928261,
-        47927701,
-        47929453,
-        47929645,
-        47927905,
-        47928746,
-        47930131,
-        47928477,
-        47928465,
-        47928358,
-        47928222,
-        47928096,
-        47927812,
-        47927688,
-        47930359
+        49591304,
+        49593106,
+        49591573,
+        49591443,
+        49593021,
+        49590933,
+        49594363,
+        49591632,
+        49593900,
+        49593048,
+        49591752,
+        49591399,
+        49592082,
+        49591535,
+        49591205,
+        49591769,
+        49591753,
+        49590826,
+        49591514,
+        49590893,
+        49592901,
+        49591159,
+        49593939,
+        49592047,
+        49592041,
+        49590890
       ],
-      "score": 474,
-      "time": 1777321473,
-      "title": "Is my blue your blue?",
+      "score": 228,
+      "time": 1788726758,
+      "title": "It took a year to ship WebAssembly in Anubis",
       "type": "story",
-      "url": "https://ismy.blue/"
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/"
     },
     {
-      "by": "luu",
-      "descendants": 2,
-      "id": 47899669,
+      "by": "imadtaieber",
+      "descendants": 62,
+      "id": 49589914,
       "kids": [
-        47930786
+        49594234,
+        49594747,
+        49593675,
+        49594125,
+        49594642,
+        49594490,
+        49593732,
+        49594183,
+        49594219,
+        49594132,
+        49594064,
+        49594119,
+        49594257,
+        49592102,
+        49594110,
+        49594250,
+        49592107,
+        49592918,
+        49594053,
+        49594217,
+        49594140,
+        49593797,
+        49591803,
+        49590065,
+        49593644,
+        49594099,
+        49590319,
+        49594420,
+        49594237,
+        49591006,
+        49593747,
+        49593912
       ],
-      "score": 52,
-      "time": 1777104979,
-      "title": "Pgrx: Build Postgres Extensions with Rust",
-      "type": "story",
-      "url": "https://github.com/pgcentralfoundation/pgrx"
+      "score": 75,
+      "text": "How do you find skills, keep them organized, and make sure they actually work? Do you keep improving them over time?<p>I believe skills will eventually be eating by model capabilities, but until then I&#x27;m just looking for a better way to manage things.",
+      "time": 1788722830,
+      "title": "Ask HN: How do you manage skills files?",
+      "type": "story"
     },
     {
-      "by": "blfr",
-      "descendants": 12,
-      "id": 47902269,
+      "by": "cyb0rg0",
+      "descendants": 1,
+      "id": 49593066,
       "kids": [
-        47929994,
-        47930044,
-        47930503,
-        47931031,
-        47929985,
-        47929973
+        49594395
       ],
-      "score": 100,
-      "time": 1777131714,
-      "title": "Mo RAM, Mo Problems (2025)",
+      "score": 19,
+      "time": 1788747299,
+      "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
       "type": "story",
-      "url": "https://fabiensanglard.net/curse/"
+      "url": "https://rfd.shared.oxide.computer/rfd/0301"
     },
     {
-      "by": "gnabgib",
-      "descendants": 11,
-      "id": 47929035,
+      "by": "jmpman",
+      "descendants": 51,
+      "id": 49577129,
       "kids": [
-        47930850,
-        47930357,
-        47929782,
-        47929926,
-        47931304,
-        47930653
+        49593755,
+        49594313,
+        49594522,
+        49593615,
+        49594374,
+        49594436,
+        49578876,
+        49594157,
+        49594591,
+        49593759,
+        49594673,
+        49594419,
+        49593893,
+        49593597,
+        49577397,
+        49593945,
+        49594384,
+        49593961,
+        49593704,
+        49594017,
+        49593906,
+        49593612,
+        49579530,
+        49593905
       ],
-      "score": 99,
-      "time": 1777336324,
-      "title": "High Performance Git",
-      "type": "story",
-      "url": "https://gitperf.com/"
+      "score": 92,
+      "text": "I have a self playing piano, using a system called PianoDisc Protigy. They have an online store which sells music for their system, from various modern artists along with classics such as Bach and Beethoven. Last night I saw they had released some music from Eric Satre, a 19th century French composer, which I bought. Curious if I could have just used AI to create these files, I began experimenting with Astra and Fable. Feeding the output of one into the other to critique. After an hour of LLM discussion of Rubato and fermata, solenoid response times and proper sustain pedal technique, they settled on their ultimate version of Gymnopedie No 1.<p>I then asked Fable to compare it to the open source version I&#x27;d downloaded from Mutopia, which it promptly ripped apart. No sustain, zero rubato, upside down balance.<p>Ok, what about the version I&#x27;d just bought?<p>The PianoDisc versions are mp3s encoded with the right channel carrying MIDI to be played on the piano, and the left channel containing any accompanying music to be played through attached speakers (who doesn&#x27;t want the harmonica on Piano Man?)<p>I gave the mp3 to Fable, which promptly decoded the format, identifying the right channel carrying MIDI using a 2004.5 Hz square wave.<p>It then went on to analyze the nuance of pedal lift and melody relative to the chords.<p>Fable then asked if I wanted it to build an encoder to write my own MIDI files into the right channel of mp3s.<p>Sounds great, and I instructed it to write the encoder.<p>What it came back with was a python encoder PLUS a decoder.<p>In the verbose explanation, it mentioned decoy notes.<p>Curious, I asked it to explain the decoy notes.<p>Apparently PianoDisc adds obfuscation into their format which is handled properly by their decoder, but would leave naively extracted MIDI unplayable on other systems.<p>Fable created an encoder which adds those decoy notes, and a decoder which removes them.<p>Am I allowed to publish the decoder? The encoder?",
+      "time": 1788620084,
+      "title": "Ask HN: Fable hacked my piano, can I release the results?",
+      "type": "story"
     },
     {
-      "by": "gnabgib",
-      "descendants": 66,
-      "id": 47927070,
+      "by": "colinprince",
+      "descendants": 25,
+      "id": 49593959,
       "kids": [
-        47930549,
-        47927632,
-        47927876,
-        47930427,
-        47930278,
-        47927890,
-        47929903,
-        47929681,
-        47928248,
-        47928066
+        49594646,
+        49594579,
+        49594700,
+        49594683,
+        49594680,
+        49594640,
+        49594691,
+        49594489,
+        49594476,
+        49594455,
+        49594282
       ],
-      "score": 146,
-      "time": 1777322656,
-      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+      "score": 45,
+      "time": 1788755902,
+      "title": "I refused to train the AI that could replace me",
       "type": "story",
-      "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/"
+      "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/"
     },
     {
-      "by": "nateb2022",
-      "descendants": 2,
-      "id": 47930170,
+      "by": "usernametaken29",
+      "descendants": 25,
+      "id": 49583440,
       "kids": [
-        47931280,
-        47930546
+        49594753,
+        49594128,
+        49591016,
+        49594463,
+        49594645,
+        49594054,
+        49583759,
+        49594515,
+        49594473,
+        49593958,
+        49594707,
+        49594100,
+        49594126,
+        49594044,
+        49583690,
+        49593740,
+        49594085,
+        49583598,
+        49594523,
+        49594348,
+        49594184,
+        49593613,
+        49588146
       ],
-      "score": 22,
-      "time": 1777346860,
-      "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
-      "type": "story",
-      "url": "https://technology.robbyant.com/lingbot-map"
+      "score": 53,
+      "text": "I had a classic Bayesian statistical education throughout my undergraduate and grad years and I’ve come to conclude that the plethora of books offered are pretty bad.<p>For me personally statistics is intuitive if illustrated properly. \nA great example is <a href=\"https:&#x2F;&#x2F;seeing-theory.brown.edu&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;seeing-theory.brown.edu&#x2F;</a><p>I was wondering whether it would make sense to turn the intuitions behind statistics into a book. Would anyone read it? Do people still read stats books or would it be mostly a waste of effort?\nIf you wanted to teach&#x2F;help people understand statistics, what resources would you consider?",
+      "time": 1788670338,
+      "title": "Ask HN: Would you read a statistics textbook?",
+      "type": "story"
     },
     {
-      "by": "Oravys",
-      "descendants": 181,
-      "id": 47919630,
+      "by": "zImPatrick",
+      "descendants": 300,
+      "id": 49588988,
       "kids": [
-        47922388,
-        47919660,
-        47921246,
-        47922503,
-        47921406,
-        47922271,
-        47924381,
-        47928770,
-        47925528,
-        47921768,
-        47921812,
-        47922654,
-        47928246,
-        47923398,
-        47925971,
-        47921543,
-        47924203,
-        47923496,
-        47925195,
-        47923387,
-        47921348,
-        47924022,
-        47926164,
-        47921347,
-        47924108,
-        47921346,
-        47926724,
-        47921460,
-        47922520,
-        47922824,
-        47928739,
-        47928440,
-        47923123,
-        47921463,
-        47922399,
-        47922667,
-        47921646,
-        47930602,
-        47921364,
-        47928192,
-        47924106,
-        47923302
+        49589220,
+        49594764,
+        49589666,
+        49589201,
+        49589353,
+        49592859,
+        49589348,
+        49590006,
+        49593160,
+        49589270,
+        49592087,
+        49593551,
+        49590410,
+        49593569,
+        49589341,
+        49589569,
+        49589533,
+        49589609,
+        49591820,
+        49593694,
+        49589269,
+        49590525,
+        49589625,
+        49590818,
+        49589422,
+        49589233,
+        49590923,
+        49590201,
+        49590158,
+        49589991,
+        49590481,
+        49589731,
+        49589687
       ],
-      "score": 510,
-      "time": 1777283830,
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "score": 641,
+      "text": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;zedeus&#x2F;nitter\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;zedeus&#x2F;nitter</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;cdclegal\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;cdclegal</a><p><a href=\"https:&#x2F;&#x2F;nitter.net&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;nitter.net&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;</a>",
+      "time": 1788716987,
+      "title": "Nitter and XCancel resume service after legal advice",
       "type": "story",
-      "url": "https://app.oravys.com/blog/mercor-breach-2026"
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
     },
     {
-      "by": "actinium226",
-      "descendants": 32,
-      "id": 47905208,
+      "by": "Cider9986",
+      "descendants": 186,
+      "id": 49590512,
       "kids": [
-        47930651,
-        47930734,
-        47930252,
-        47929281,
-        47929473,
-        47930741,
-        47930327,
-        47931229
+        49594323,
+        49591595,
+        49591708,
+        49591125,
+        49590566,
+        49591666,
+        49590961,
+        49593124,
+        49591166,
+        49590967,
+        49592599,
+        49593624,
+        49590948,
+        49590966,
+        49592433,
+        49591791,
+        49592254,
+        49593258
       ],
-      "score": 71,
-      "time": 1777156064,
-      "title": "How I leared what a decoupling capacitor is for, the hard way",
+      "score": 261,
+      "time": 1788726240,
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
       "type": "story",
-      "url": "https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor"
+      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649"
     },
     {
-      "by": "aselimov3",
-      "descendants": 241,
-      "id": 47920074,
+      "by": "yubblegum",
+      "descendants": 80,
+      "id": 49554622,
       "kids": [
-        47931299,
-        47931301,
-        47926043,
-        47921140,
-        47931133,
-        47923680,
-        47924781,
-        47921234,
-        47930867,
-        47923347,
-        47930555,
-        47924730,
-        47927220,
-        47930810,
-        47930511,
-        47923753,
-        47921743,
-        47923433,
-        47931199,
-        47926302,
-        47926987,
-        47921228,
-        47923248,
-        47921415,
-        47929752,
-        47930287,
-        47927827,
-        47926078,
-        47925122,
-        47930902,
-        47930295,
-        47922289,
-        47930709,
-        47930233,
-        47927147,
-        47927902,
-        47924608,
-        47927009,
-        47924143,
-        47926430,
-        47925969,
-        47922532,
-        47921765,
-        47922434,
-        47926213,
-        47926188,
-        47927923,
-        47928922,
-        47922169,
-        47921753,
-        47921642,
-        47922647,
-        47921925,
-        47928325,
-        47921979,
-        47923665,
-        47921636,
-        47921484,
-        47923023,
-        47921534,
-        47921281,
-        47924382,
-        47926590,
-        47923647,
-        47922064,
-        47924666,
-        47922038,
-        47923231,
-        47922738,
-        47924101,
-        47923969,
-        47923944,
-        47921220,
-        47921033,
-        47920130,
-        47921607,
-        47926536,
-        47928997,
-        47929485,
-        47922282,
-        47921097,
-        47923007
+        49589306,
+        49590050,
+        49592349,
+        49589811,
+        49592144,
+        49592700,
+        49590471,
+        49590908,
+        49594174,
+        49592318,
+        49592667,
+        49592452,
+        49590072,
+        49592773,
+        49554809
       ],
-      "score": 540,
-      "time": 1777288106,
-      "title": "Men who stare at walls",
+      "score": 126,
+      "time": 1788460807,
+      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
       "type": "story",
-      "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/"
+      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking"
     }
   ]
 }
@@ -2414,114 +1791,115 @@ node bin/main.js --json news -t 12 ; node bin/main.js --json lobsters -s hottest
   "tag": null,
   "items": [
     {
-      "title": "Email is crazy",
-      "url": "https://samkhawase.com/blog/email-is-crazy/",
-      "score": 48,
-      "comments": 16,
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "score": 53,
+      "comments": 9,
       "tags": [
-        "email",
-        "networking",
-        "security"
-      ],
-      "id": "esrk11"
-    },
-    {
-      "title": "Niri v26.04",
-      "url": "https://github.com/niri-wm/niri/releases/tag/v26.04",
-      "score": 86,
-      "comments": 11,
-      "tags": [
-        "linux",
-        "release",
-        "rust"
-      ],
-      "id": "uf38bg"
-    },
-    {
-      "title": "I won my FOIA against Twelve South to open up the electrical information for the PlugBug 120W",
-      "url": "https://archive.org/details/pb120-us",
-      "score": 22,
-      "comments": 3,
-      "tags": [
-        "hardware",
-        "pdf",
-        "reversing"
-      ],
-      "id": "kxnxyv"
-    },
-    {
-      "title": "\"Why not just use Lean?\"",
-      "url": "https://lawrencecpaulson.github.io/2026/04/23/Why_not_Lean.html",
-      "score": 35,
-      "comments": 4,
-      "tags": [
-        "formalmethods"
-      ],
-      "id": "d27llp"
-    },
-    {
-      "title": "Donating to open source",
-      "url": "https://entropicthoughts.com/open-source-donation",
-      "score": 7,
-      "comments": 1,
-      "tags": [
-        "culture"
-      ],
-      "id": "rmujw3"
-    },
-    {
-      "title": "From Milliseconds to 26 Nanoseconds: How a $20 eBay SFP Module Beat My Entire NTP Setup",
-      "url": "https://austinsnerdythings.com/2026/04/26/ptp-osa5401-26-nanoseconds-raspberry-pi/",
-      "score": 60,
-      "comments": 5,
-      "tags": [
-        "hardware"
-      ],
-      "id": "trap9p"
-    },
-    {
-      "title": "Wasm is not quite a stack machine",
-      "url": "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/",
-      "score": 45,
-      "comments": 18,
-      "tags": [
-        "plt",
+        "rust",
         "wasm"
       ],
-      "id": "h8hlp7"
+      "id": "aokzbg"
     },
     {
-      "title": "Lua can be a really cool HTML templating engine",
-      "url": "https://riki.house/lua-html",
-      "score": 100,
-      "comments": 64,
+      "title": "Python Iceberg",
+      "url": "https://aleyan.com/projects/python-iceberg/",
+      "score": 12,
+      "comments": 8,
       "tags": [
-        "lua",
-        "web"
+        "python",
+        "vibecoding",
+        "visualization"
       ],
-      "id": "ukar7d"
+      "id": "xv6z4r"
     },
     {
-      "title": "How I Broke the Anti-Bot Behind Nike, Kick, and Twitch",
-      "url": "https://emro.cat/blog/how-i-broke-the-anti-bot-behind-nike-kick-and-twitch/",
-      "score": 7,
-      "comments": 0,
+      "title": "NetBSD 11 from scratch",
+      "url": "https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/",
+      "score": 46,
+      "comments": 3,
       "tags": [
-        "javascript",
-        "reversing",
-        "rust"
+        "netbsd"
       ],
-      "id": "jpohft"
+      "id": "be5lrk"
     },
     {
-      "title": "Using Rust to Build a $1 Handheld Gaming Console",
-      "url": "https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/",
-      "score": 9,
+      "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
+      "url": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
+      "score": 48,
+      "comments": 8,
+      "tags": [
+        "go",
+        "performance",
+        "vibecoding"
+      ],
+      "id": "ceuque"
+    },
+    {
+      "title": "QBittorrent breaks out of sandbox to commit crimes",
+      "url": "https://beige.party/@intransitivelie/117057396732763183",
+      "score": 52,
       "comments": 1,
       "tags": [
-        "rust"
+        "satire",
+        "vibecoding"
       ],
-      "id": "jl0d5b"
+      "id": "os1y44"
+    },
+    {
+      "title": "Following legal advice, the Nitter project will continue",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "score": 54,
+      "comments": 11,
+      "tags": [
+        "culture",
+        "privacy",
+        "web"
+      ],
+      "id": "jsxzwl"
+    },
+    {
+      "title": "The revolt of the reader",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "score": 140,
+      "comments": 18,
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "id": "xnqxqe"
+    },
+    {
+      "title": "Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
+      "url": "https://mathstodon.xyz/@tao/117207856734787448",
+      "score": 74,
+      "comments": 0,
+      "tags": [
+        "math",
+        "vibecoding"
+      ],
+      "id": "nohdoj"
+    },
+    {
+      "title": "\"Simple Made Easy\" (2011)",
+      "url": "https://www.youtube.com/watch?v=SxdOUGdseq4",
+      "score": 24,
+      "comments": 7,
+      "tags": [
+        "practices",
+        "video"
+      ],
+      "id": "xccvnw"
+    },
+    {
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "score": 3,
+      "comments": 3,
+      "tags": [
+        "compilers"
+      ],
+      "id": "n0zgj1"
     }
   ]
 }
