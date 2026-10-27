@@ -1,6 +1,6 @@
 # Hacker Feeds Outcomes - Freelancers
 
-Generated on: 2026-04-28 07:11:52 UTC
+Generated on: 2026-10-27 06:40:36 UTC
 
 Runtime note: executed with NODE_OPTIONS=--require /tmp/hf-polyfill.js
 
@@ -17,288 +17,8 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
 ```text
 [info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set
 - Fetching feeds...
-{
-  "source": "reddit",
-  "topic": "smallbusiness",
-  "sort": "top",
-  "items": [
-    {
-      "title": "Government contracts aren't just for defense companies. Your city, county, and school district all have purchasing budgets — and most small businesses have never bid on any of them.",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sxiw01/government_contracts_arent_just_for_defense/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sxiw01/government_contracts_arent_just_for_defense/",
-      "author": "/u/No_Fig_37",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Most small business owners hear &quot;government contract&quot; and picture Lockheed Martin or some inside-the-Beltway consulting firm pitching the Pentagon. That&#39;s one slice of it. The bigger, more accessible slice is everything else. Every city, county, school district, hospital authority, and water utility has a purchasing budget. Most post their bids publicly. A lot of them are required to competitively open contracts to small businesses below certain dollar thresholds — meaning the big primes can&#39;t even touch those deals. Your school district buys IT equipment, janitorial services, landscaping, printing, food service, consulting, construction, and security. Same stuff commercial buyers purchase. Except it&#39;s posted publicly, it&#39;s bid competitively, and the check actually comes. Government doesn&#39;t ghost you after 60 days. State and local is often easier to break into than federal Federal contracting has a real learning curve. SAM.gov registration, NAICS codes, representations and certifications. Worth learning, but there&#39;s a lot to get wrong before you get it right. State and local is different. A lot of city and county contracts under $50K don&#39;t require full federal registration. The bidding process is simpler. And local governments genuinely prefer local vendors — being down the street is an actual advantage, not just a tie-breaker. The competition is thinner too. Federal solicitations pull bids from anywhere in the country. A city of 200,000 posting a $40,000 IT support contract might get three responses. Sometimes fewer. I&#39;ve seen one-bid awards on contracts that took maybe two hours to respond to. The hard part isn&#39;t qualifying It&#39;s knowing the opportunity exists. There&#39;s no single place to see all state and local contracts. SAM.gov is federal only. Every state has its own procurement portal. Counties run separate portals. Cities run theirs. School districts often have their own purchasing pages that nobody thinks to check. None of it connects. A janitorial company in Texas could legitimately be chasing work from the City of Houston, Harris County, Houston ISD, the Port of Houston Authority, and the Texas Facilities Commission — all at once, all on separate portals with different registration requirements. Most businesses find one of those and figure that&#39;s the picture. It&#39;s not close. Where to start Search &quot;[your city] purchasing department&quot; and &quot;[your county] procurement.&quot; Most have a vendor registration page and a bid board. Do the same for your school district — they&#39;re heavily overlooked, they have real budgets, and they&#39;re required to bid most contracts competitively. Then find your state&#39;s central portal. Texas uses the Electronic State Business Daily (ESBD at txsmartbuy.gov). Florida has MyFloridaMarketPlace. Most states have something, and most have a free vendor registration. Takes 15–30 minutes. That&#39;s the bar. Most businesses never clear it. What filters out most of the competition Contracts have deadlines. Sometimes 30 days. Sometimes 7. Most businesses that even know about procurement portals check them once a month. Or whenever they remember. The contracts that close in that window go to whoever was actually watching. That&#39;s most of it. Show up with a bid when the other guys didn&#39;t know it was posted. &#32; submitted by &#32; /u/No_Fig_37 [link] &#32; [comments]",
-      "published": "2026-04-27T22:27:28+00:00"
-    },
-    {
-      "title": "Is Yelp the kiss of death for small business?",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sx5akr/is_yelp_the_kiss_of_death_for_small_business/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sx5akr/is_yelp_the_kiss_of_death_for_small_business/",
-      "author": "/u/Perfect-History8818",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I claimed my free listing yet all of my reviews are not merged. They keep calling me everyday to pay for advertising which I am very confused about. Now when I search for my business name the Yelp page pops up with only the two bad reviews showing and not the 20 5 star reviews. Any advice would be great. &#32; submitted by &#32; /u/Perfect-History8818 [link] &#32; [comments]",
-      "published": "2026-04-27T14:26:34+00:00"
-    },
-    {
-      "title": "What's the most expensive part of running a business?",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sx2fa4/whats_the_most_expensive_part_of_running_a/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sx2fa4/whats_the_most_expensive_part_of_running_a/",
-      "author": "/u/Substantial_Copy_673",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Hii! We are a student start-up that wants to have a little more understanding of business and its financial system. Which part of your business do you deem more expensive/or where do you lose money on? We wanted to gain an in-depth understanding so we could further analyze and identify the best possible solution for our business plan. I&#39;ve heard that mostly the more expensive side is regarding software/web development or domains. I don&#39;t hear much about retail/wholesaling, other than overstocking and inventory documentation. Do those factors really have a significant financial effect on the overall income of a company/business? Or is it only a momentary problem at the beginning of the business? Please let me know! Thank you so much! &lt;3 &#32; submitted by &#32; /u/Substantial_Copy_673 [link] &#32; [comments]",
-      "published": "2026-04-27T12:37:46+00:00"
-    },
-    {
-      "title": "What is your take on starting up a retro arcade business but with a full bar inside serving all kinds of alcoholic beverages?",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sxno7u/what_is_your_take_on_starting_up_a_retro_arcade/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sxno7u/what_is_your_take_on_starting_up_a_retro_arcade/",
-      "author": "/u/armanddarke",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "My brother and I had a debate on this earlier, and I was not for this idea of having a bar inside an arcade as it could be a risky situation, drunks, damaged property, etc. I wanted it to be more of a family scene where anyone is welcome in a safer space without beer. I do like the idea of a food and beverage stand but not for the whole alcoholic side of it. His argument is that if people are tipsy after drinking, they are more likely to pay more to play with others. In my mind, it&#39;s more of a headache and not restrict the audience to adults 21+. What do you think? &#32; submitted by &#32; /u/armanddarke [link] &#32; [comments]",
-      "published": "2026-04-28T01:52:29+00:00"
-    },
-    {
-      "title": "How do you find clients?",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sx5wcq/how_do_you_find_clients/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sx5wcq/how_do_you_find_clients/",
-      "author": "/u/socalccna",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I&#39;m starting a small MSP (basically an IT consulting business) in SoCal and it has been very difficult to find comparable small businesses that I can serve. How can I find leads?, any recommendations? Seems to me that I just can&#39;t seem to land a client, looking for ideas/recommendations. &#32; submitted by &#32; /u/socalccna [link] &#32; [comments]",
-      "published": "2026-04-27T14:48:09+00:00"
-    },
-    {
-      "title": "Was this a scam?",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sxeupf/was_this_a_scam/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sxeupf/was_this_a_scam/",
-      "author": "/u/Hot-Still3963",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Hey I make websites for companies and a guy texted me wanting a website. Seemed legit and he texted me all of the things he wanted and needed. He asked for an estimate and I gave him 1250 then he said that sounds perfect and we talk a little more I tell him I could be finished in a week. Then he says he needs a favor. He said he has to pay his consultant and his consultant doesn&#39;t accept card or checks so he asked if he can add the 9900 he has to pay his consultant added on my payment. Which I thought was super weird considering how am I supposed to pay the consultant and why trust me with 9900. So I turned it down saying its a security risk and I only accept payments for my services. Now he isn&#39;t texting back. Was this a scam? &#32; submitted by &#32; /u/Hot-Still3963 [link] &#32; [comments]",
-      "published": "2026-04-27T19:59:41+00:00"
-    },
-    {
-      "title": "Posting consistently on Instagram but getting zero orders… what am I missing?",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sxhi5v/posting_consistently_on_instagram_but_getting/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sxhi5v/posting_consistently_on_instagram_but_getting/",
-      "author": "/u/ParticularPen8442",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I’m running a small home bakery in NC and trying to make Instagram my main way of getting orders. Right now I’m posting a few times a week (mostly reels + product pics), no ads, and honestly… nothing’s converting yet. I feel like I’m missing something in how I’m setting it up. If you’ve actually gotten orders through social, what made the difference for you? Was it the way you posted, how you handled DMs, doing drops, something else? Would really appreciate hearing what worked in real life. &#32; submitted by &#32; /u/ParticularPen8442 [link] &#32; [comments]",
-      "published": "2026-04-27T21:33:31+00:00"
-    },
-    {
-      "title": "Business Meal Expense",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sx76ji/business_meal_expense/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sx76ji/business_meal_expense/",
-      "author": "/u/Dry_Community5749",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I worked in corporate all my life and moving into small business now. Trying to understand the nuances of small business In corporate, I was given a credit card and there were rules on usage esp meals. Things I could expense were: Having meals with clients/suppliers, etc - This was consider business entertainment meal If I&#39;m travelling, anything outside my office I could expense for personal meals. If I&#39;m taking the team out for lunch, I could expense it If I order food to be delivered to office for the team I could expense it If I&#39;m taking an employee of another team for lunch or my own team member came from another city to meet me, I could expense that. Now it seems, in small business only 1 is considered to be expense? Not sure about 2. And for 3/4/5 I can only expense 50%. Is that right? Edit: I&#39;m not selling anything, I&#39;m not creating a new expense report software to push to small businesses. Have a look at my profile if you are in doubt Edit 2: I&#39;m in the US &#32; submitted by &#32; /u/Dry_Community5749 [link] &#32; [comments]",
-      "published": "2026-04-27T15:32:41+00:00"
-    },
-    {
-      "title": "Does anyone else hate LegalZoom?",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sx4vja/does_anyone_else_hate_legalzoom/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sx4vja/does_anyone_else_hate_legalzoom/",
-      "author": "/u/HeckNo89",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I started my business last July with legal zoom (sole proprietor, electrical contractor) and it seems awesome at first until you have to actually do anything. They didn’t handle any of my state filing like they were paid to do, and anytime I try to use any of the resources promised in my original package it’s just one long time-share spiel that wants to charge me more money to actually do the thing. Every single “free” consultation is just a sales pitch. Is this anyone else’s experience? &#32; submitted by &#32; /u/HeckNo89 [link] &#32; [comments]",
-      "published": "2026-04-27T14:11:47+00:00"
-    },
-    {
-      "title": "struggling to get small handmade business to get visibility on social media :(",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sx1tby/struggling_to_get_small_handmade_business_to_get/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sx1tby/struggling_to_get_small_handmade_business_to_get/",
-      "author": "/u/Dependent_Watch4570",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Hello!! i started a handmade business last year mainly selling jewelry and trinkets (magnets &amp; clocks). which may be a really random combination 😭 but i&#39;m struggling with getting visibility on social media mainly instagram and tiktok.. i&#39;m completely new to this whole business thing and im not the best with algorithm n stuff like that. i&#39;ve been doing pretty well when i vend at in-person markets, but i struggle retaining a solid community of returning customers. i know my stuff is a bit all over the place and i dont exactly have a strong brand identity yet, which i&#39;m trying to work on. My instagram is: https://www.instagram.com/melowisp?igsh=MXM5eTF3bHBzenIwdw%3D%3D&amp;utm_source=qr any advice is appreciated!! Thank u! &#32; submitted by &#32; /u/Dependent_Watch4570 [link] &#32; [comments]",
-      "published": "2026-04-27T12:12:04+00:00"
-    },
-    {
-      "title": "I don't know how to succeed!",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sxk5x5/i_dont_know_how_to_succeed/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sxk5x5/i_dont_know_how_to_succeed/",
-      "author": "/u/Cedarwellness",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I am writing this as I am going to sleep. I made an app called Cedarwellness, Lebanon based that helps connect users and professionals, help users find institutions, and helps them broadcast urgent rewuests such as blood donations or need for unavailable meds. It is not a business in the sense of a business, these services are needed in my country, and as a nurse i firmly believe in what I&#39;m doing because of all the struggles I&#39;ve witnessed first hand, thus all are free! The app is for free! A month of promotion, and i only have a single professional on board, today out of desperation i went door to door to pharmacis near me telling them about it and most sounded very interested... yet more than 12h later and not a single follower on ig nor a single new user! ... I have no idea what I did wrong, and have no idea what to do next! I will maintain this for a single year, may of next year will be the decision to either pull the plug or not. ... Yet I want to fight for something I believe in! Any advice? Any words of encouragement? Any thing that might give me hope? &#32; submitted by &#32; /u/Cedarwellness [link] &#32; [comments]",
-      "published": "2026-04-27T23:19:23+00:00"
-    },
-    {
-      "title": "How do I get more leads?",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sxfjj0/how_do_i_get_more_leads/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sxfjj0/how_do_i_get_more_leads/",
-      "author": "/u/Accurate-Raisin3130",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I recently started a l mowing business in a small but growing city. I somewhat blew up, and have added 2 commercial properties and some residential yards in around a month of business. However, within this month I have plateaued and am not getting those consistent quote requests I used to. Facebook ads and cold texts/emails/calls have become stagnant. Is there any advice to kickstart that initial volume burst I used to have? Or is now the time I need to focus on what I have and growth will gradually show up? Did I just have too much of an initial dopamine hit at the beginning? What are my next steps? &#32; submitted by &#32; /u/Accurate-Raisin3130 [link] &#32; [comments]",
-      "published": "2026-04-27T20:23:18+00:00"
-    },
-    {
-      "title": "Angis list",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sxbfx2/angis_list/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sxbfx2/angis_list/",
-      "author": "/u/PreparationActual656",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Hello, I run a roofing business and was recently pitched on going with Angis list to get clients through there. The guy in the phone said that they changed up all their lead/ contractor models a year ago when they got a new CEO and now apparently contractors are having success. Anyone currently using Angis or noticed a change? I’ve just heard so many horror stories I’d hate to commit to fake leads for a 12 month span &#32; submitted by &#32; /u/PreparationActual656 [link] &#32; [comments]",
-      "published": "2026-04-27T18:00:39+00:00"
-    },
-    {
-      "title": "I stopped trying to get a decision in my follow-ups and it changed the replies I get",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sxb72k/i_stopped_trying_to_get_a_decision_in_my/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sxb72k/i_stopped_trying_to_get_a_decision_in_my/",
-      "author": "/u/beornsco",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I realized something recently about how I follow up after sending quotes. Most of my follow-ups were basically asking for a decision: “Did you decide?” “Are you going ahead?” Which sounds normal, but it also puts the other person in a position where they have to commit or say no. I started testing something different. Instead of asking for a decision, I send something like: “Happy to answer any questions or adjust anything if needed.” It seems to get more replies, probably because it’s easier to respond without having to fully decide yet. Feels like a small shift, but it changes the tone of the whole interaction. Curious if anyone else has noticed something similar. &#32; submitted by &#32; /u/beornsco [link] &#32; [comments]",
-      "published": "2026-04-27T17:52:21+00:00"
-    },
-    {
-      "title": "Outsourced services",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sx8727/outsourced_services/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sx8727/outsourced_services/",
-      "author": "/u/mydxbconsultant",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "With the recent downsizing in UAE I am thinking of starting an outsourced services business in Pakistan where we can outsource depts in your business such as HR, Legal, Accounts, Audit, Tax etc. Being a business owner myself here in UAE I understand the processes and the level of services people expect. I am sure its not a new idea but the cost of talent acquisition is quite high in UAE and thus taking a survey if businesses would be interested. What do you guys think ? &#32; submitted by &#32; /u/mydxbconsultant [link] &#32; [comments]",
-      "published": "2026-04-27T16:08:35+00:00"
-    },
-    {
-      "title": "I need some outside perspective because I’m not sure if I’m overreacting or not.",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sxfxxq/i_need_some_outside_perspective_because_im_not/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sxfxxq/i_need_some_outside_perspective_because_im_not/",
-      "author": "/u/last_recognition_660",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "My parents started a family business in 2023 and I was one of the first employees. I’m 23 now and the longest running worker there. From the beginning I bought into it completely because my dad always told me I was the future of the business. I treated it like something I’d eventually take over. For almost 3 to 4 years I’ve worked harder than anyone there. I’ve taken extra shifts, always made myself available, and eventually moved into a supervisor role. I’ve really put a lot into this. Lately though I’ve lost a lot of motivation. I haven’t gotten a raise this entire time even though the business is doing well. When I bring it up, my dad just compares my pay to something like McDonald’s and shuts the conversation down. It feels dismissive. Another big issue is taxes. Every year I end up owing around 3k and I don’t even have the money saved to cover it. My stepmom handles the financial side and when I try to talk to her about fixing my withholdings or understanding why this keeps happening, she kind of brushes it off or avoids going deeper into it. There are smaller things too that add up. When I submit mileage, especially if it’s a larger amount, I sometimes don’t get reimbursed for months. I’ve even had to go through my dad to get paid. At this point I’ve stopped tracking it because it feels pointless. The taxes situation honestly frustrates me the most. It feels like I’m being set up to struggle financially while also not being paid enough to keep up. I don’t mind working hard, but right now I feel undervalued and stuck. I bought into the idea that this was something I was building toward, but it doesn’t feel like that anymore. Am I overreacting or is this a reasonable way to feel? &#32; submitted by &#32; /u/last_recognition_660 [link] &#32; [comments]",
-      "published": "2026-04-27T20:37:15+00:00"
-    },
-    {
-      "title": "How do you grow a business when you’re \"built for the shop\" and not for social media?",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sxi5kb/how_do_you_grow_a_business_when_youre_built_for/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sxi5kb/how_do_you_grow_a_business_when_youre_built_for/",
-      "author": "/u/ImaginaryJump14",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I’m looking for some honest perspective from other owners who actually work with their hands. By day, I write industrial safety and work procedures (SOPs). By night, I manage rental properties and do my own renovations—everything from pouring concrete to running PEX. I’m a builder. I’m comfortable covered in drywall dust and solving mechanical problems. I recently finished building a diagnostic tool to help people like me—homeowners and landlords—identify repair issues and get step-by-step instructions so they don&#39;t have to bleed money on $300 contractor service calls. Here’s my struggle: I am not a &quot;social media person.&quot; The idea of trying to farm likes, chase algorithms, or spend all day on my phone gives me massive anxiety. I just want to help people solve their repair problems, but I feel like I’m being forced to play a digital game I’m not built for. For those of you who have successful businesses but hate the &quot;influencer&quot; side of things: How did you get your start without living on your phone? Are there ways to get a useful tool out there that don&#39;t involve social media games? I just want to focus on the work, not the likes. Any advice? &#32; submitted by &#32; /u/ImaginaryJump14 [link] &#32; [comments]",
-      "published": "2026-04-27T21:58:39+00:00"
-    },
-    {
-      "title": "Question sale posters",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sxdtuu/question_sale_posters/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sxdtuu/question_sale_posters/",
-      "author": "/u/melancholicplatypus",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Hi all, This might be a very stupid question but I&#39;m struggling with some advertising. I hope this is the right forum, I&#39;m not sure. I run numerous charity shops and I cannot for the life of me think of a solution for the following problem: We need to have more flash sales but only to advertise the flash sale of certain articles and not in every shop location. So for example, one shop might have way too many jeans so we need to create some sort of poster/signage for just that one shop location that there is, for example, -50% on jeans for 2 days. Then in another location we might have too many jackets so we want to advertise -30% in that location. Then we might have -20% on jewelry in another. We already advertise on social media but we&#39;re struggling to get customers to notice sales just from passing the shops. We have so many product categories that I cannot possibly produce a poster for 4 locations for every single product category (we have several types of clothing/kitchen ware/toys/decorations etc.) that could fall into a flash sale. I don&#39;t have a budget for it. I feel like I&#39;m not thinking of a very obvious solution. Any ideas are welcome. Thanks!!! &#32; submitted by &#32; /u/melancholicplatypus [link] &#32; [comments]",
-      "published": "2026-04-27T19:23:46+00:00"
-    },
-    {
-      "title": "Creative business tips",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sx4yx7/creative_business_tips/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sx4yx7/creative_business_tips/",
-      "author": "/u/creampuff89",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Hi! I’m a beginner building a small creative business (sketchbooks, art prints, possibly workshops in the future). I’d love advice from people in similar fields: – How did you grow your customer base early on? – What platforms or strategies worked best (markets, social media, collaborations, etc.)? – What would you focus on first if you were starting again? Thank you! &#32; submitted by &#32; /u/creampuff89 [link] &#32; [comments]",
-      "published": "2026-04-27T14:15:13+00:00"
-    },
-    {
-      "title": "Clothing brand collaboration",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sx46h8/clothing_brand_collaboration/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sx46h8/clothing_brand_collaboration/",
-      "author": "/u/kacpermsi",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Hello, im looking for a shop owner that has a medium sized shop and would be willing to put 30 pieces of my clothes inside the store and im looking for a new ways to contact shops like that. I want to expand to normal shops instead of only online. If anyone is interested or has any tips let me know! &#32; submitted by &#32; /u/kacpermsi [link] &#32; [comments]",
-      "published": "2026-04-27T13:46:17+00:00"
-    },
-    {
-      "title": "SAHM looking to start a small biz - any suggestions?",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sxms64/sahm_looking_to_start_a_small_biz_any_suggestions/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sxms64/sahm_looking_to_start_a_small_biz_any_suggestions/",
-      "author": "/u/Random_witchywoo",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I am a stay at home mom to a medically complex 8 month old and as much as I’d love to return to work, I am not yet ready to trust someone with my child. I’ve dreamed of starting my own business for years and now that I have nothing to lose, it seems like the perfect time! My background is recruiting &amp; HR (for a startup), but I’ve also been an event planner, travel/trade show coordinator and hotel sales manager. The obvious option would be to offer recruitment consulting services, helping small businesses fill openings, audit candidate experiences, put together candidate marketing documents, etc. Other ideas I’m considering, however, are photography (oversaturated), a luxury picnic rental &amp; party planning service (if it did well, expand to outdoor movie night set ups), or a season porch decorating business (1-time set ups as well as subscription to a quarterly porch refresh). I’m all over the place… Thoughts/suggestions/warnings/advice - hit me with it all! &#32; submitted by &#32; /u/Random_witchywoo [link] &#32; [comments]",
-      "published": "2026-04-28T01:13:05+00:00"
-    },
-    {
-      "title": "Question -Are Canadian SMB felling the pain of search shifting to models like ChatGPT, Gemini or similar ?",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sxjzsr/question_are_canadian_smb_felling_the_pain_of/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sxjzsr/question_are_canadian_smb_felling_the_pain_of/",
-      "author": "/u/Character_Bad7873",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Please leave your thoughts Thanks &#32; submitted by &#32; /u/Character_Bad7873 [link] &#32; [comments]",
-      "published": "2026-04-27T23:12:17+00:00"
-    },
-    {
-      "title": "What’s actually working right now for driving repeat customers at small restaurants?",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1sxbp09/whats_actually_working_right_now_for_driving/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1sxbp09/whats_actually_working_right_now_for_driving/",
-      "author": "/u/ProR1-1",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Been working with a small local spot and the biggest challenge hasn’t been getting people to try it once, its to make them consistent, returning customers. Food is good, reviews are solid, people who come in usually like it. But like most places, there’s no real system to stay in front of customers after they leave. We started testing a pretty simple setup: offer something like a free drink next visit tie it to collecting basic contact info follow up later with occasional offers Nothing crazy, but it’s actually been working better than expected so far. The biggest lift seems to come from the follow-up, not the initial offer. We also noticed people are way more likely to engage when there’s something more tangible involved vs just a sign or QR that gets ignored. That said, I’m curious what else people are seeing work right now. For those running smaller/local spots: what’s actually driving repeat visits for you? anything that’s worked long-term vs just short-term promos? are you focusing more on retention or still leaning into acquisition? Trying to figure out what’s actually sustainable vs just testing random stuff &#32; submitted by &#32; /u/ProR1-1 [link] &#32; [comments]",
-      "published": "2026-04-27T18:09:07+00:00"
-    },
-    {
-      "title": "I spend hours every month cleaning bank statements into Excel. Am I the only one?",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1swxpjc/i_spend_hours_every_month_cleaning_bank/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1swxpjc/i_spend_hours_every_month_cleaning_bank/",
-      "author": "/u/Smart-Bathroom-9286",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I spend 2-3 hours every month cleaning bank statements before I can use them in Excel. Different date formats, garbage vendor names, amounts with parentheses... Am I the only one dealing with this? What&#39;s your workflow? &#32; submitted by &#32; /u/Smart-Bathroom-9286 [link] &#32; [comments]",
-      "published": "2026-04-27T08:32:19+00:00"
-    },
-    {
-      "title": "Small digital product shop owners — how much of your traffic comes from marketplace search vs external channels?",
-      "url": "https://www.reddit.com/r/smallbusiness/comments/1swxjwb/small_digital_product_shop_owners_how_much_of/",
-      "permalink": "https://www.reddit.com/r/smallbusiness/comments/1swxjwb/small_digital_product_shop_owners_how_much_of/",
-      "author": "/u/Ready_Extension8881",
-      "subreddit": "smallbusiness",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I run a small digital products shop and I’m experimenting with external traffic (mostly Pinterest) instead of relying only on marketplace search. Early on, I’m noticing impressions but conversion is still inconsistent. For those selling digital products: what % of your traffic comes from marketplace search? how much comes from external channels? what channel surprised you most? Curious what actually compounds over time. &#32; submitted by &#32; /u/Ready_Extension8881 [link] &#32; [comments]",
-      "published": "2026-04-27T08:23:00+00:00"
-    }
-  ]
-}
+Request error: Request failed with status code 429
+✖ Request failed. Check network/API settings and try again.
 - Fetching feeds...
 {
   "source": "github",
@@ -306,60 +26,89 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
   "language": "javascript",
   "items": [
     {
-      "author": "Anil-matcha",
-      "repo": "Open-Generative-AI",
-      "avatar": "https://github.com/Anil-matcha.png",
-      "repo_link": "https://github.com/Anil-matcha/Open-Generative-AI",
-      "desc": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "author": "cloudflare",
+      "repo": "security-audit-skill",
+      "avatar": "https://github.com/cloudflare.png",
+      "repo_link": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "lang": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": 0,
-      "forks": 1692,
-      "added_stars": 3862,
+      "forks": 3054,
+      "added_stars": 16593,
       "builtBy": [
         {
-          "username": "Anil-matcha",
-          "href": "https://github.com/Anil-matcha",
-          "avatar": "https://avatars.githubusercontent.com/u/4326215"
+          "username": "literally-dan",
+          "href": "https://github.com/literally-dan",
+          "avatar": "https://avatars.githubusercontent.com/u/9935415"
         },
         {
-          "username": "claude",
-          "href": "https://github.com/claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847"
+          "username": "CooperSheroy",
+          "href": "https://github.com/CooperSheroy",
+          "avatar": "https://avatars.githubusercontent.com/u/59650384"
         },
         {
-          "username": "jaiprasad04",
-          "href": "https://github.com/jaiprasad04",
-          "avatar": "https://avatars.githubusercontent.com/u/114457757"
-        },
-        {
-          "username": "vadootvpeer",
-          "href": "https://github.com/vadootvpeer",
-          "avatar": "https://avatars.githubusercontent.com/u/64298579"
-        },
-        {
-          "username": "taherfattahi",
-          "href": "https://github.com/taherfattahi",
-          "avatar": "https://avatars.githubusercontent.com/u/14248281"
+          "username": "kennysarnoski-jarvis",
+          "href": "https://github.com/kennysarnoski-jarvis",
+          "avatar": "https://avatars.githubusercontent.com/u/228360615"
         }
       ]
     },
     {
-      "author": "coreyhaines31",
-      "repo": "marketingskills",
-      "avatar": "https://github.com/coreyhaines31.png",
-      "repo_link": "https://github.com/coreyhaines31/marketingskills",
-      "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "author": "withmarbleapp",
+      "repo": "os-taxonomy",
+      "avatar": "https://github.com/withmarbleapp.png",
+      "repo_link": "https://github.com/withmarbleapp/os-taxonomy",
+      "desc": "",
       "lang": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": 0,
-      "forks": 3998,
-      "added_stars": 2729,
+      "forks": 1195,
+      "added_stars": 1405,
       "builtBy": [
         {
-          "username": "coreyhaines31",
-          "href": "https://github.com/coreyhaines31",
-          "avatar": "https://avatars.githubusercontent.com/u/34802794"
+          "username": "guillaumeboniface",
+          "href": "https://github.com/guillaumeboniface",
+          "avatar": "https://avatars.githubusercontent.com/u/2501329"
+        },
+        {
+          "username": "lauramionel",
+          "href": "https://github.com/lauramionel",
+          "avatar": "https://avatars.githubusercontent.com/u/262926223"
+        },
+        {
+          "username": "kevin9327",
+          "href": "https://github.com/kevin9327",
+          "avatar": "https://avatars.githubusercontent.com/u/5299031"
+        },
+        {
+          "username": "Aliciawque",
+          "href": "https://github.com/Aliciawque",
+          "avatar": "https://avatars.githubusercontent.com/u/166712943"
+        },
+        {
+          "username": "ShiroKSH",
+          "href": "https://github.com/ShiroKSH",
+          "avatar": "https://avatars.githubusercontent.com/u/218489957"
+        }
+      ]
+    },
+    {
+      "author": "citrolabs",
+      "repo": "ego-lite",
+      "avatar": "https://github.com/citrolabs.png",
+      "repo_link": "https://github.com/citrolabs/ego-lite",
+      "desc": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "lang": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 0,
+      "forks": 1108,
+      "added_stars": 2034,
+      "builtBy": [
+        {
+          "username": "section9-lab",
+          "href": "https://github.com/section9-lab",
+          "avatar": "https://avatars.githubusercontent.com/u/22140958"
         },
         {
           "username": "claude",
@@ -367,19 +116,170 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
           "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "njcameron",
-          "href": "https://github.com/njcameron",
-          "avatar": "https://avatars.githubusercontent.com/u/1101879"
+          "username": "aute",
+          "href": "https://github.com/aute",
+          "avatar": "https://avatars.githubusercontent.com/u/17873165"
         },
         {
-          "username": "Jiliac",
-          "href": "https://github.com/Jiliac",
-          "avatar": "https://avatars.githubusercontent.com/u/5956866"
+          "username": "WUXM5",
+          "href": "https://github.com/WUXM5",
+          "avatar": "https://avatars.githubusercontent.com/u/77671587"
         },
         {
-          "username": "basseko",
-          "href": "https://github.com/basseko",
-          "avatar": "https://avatars.githubusercontent.com/u/20099808"
+          "username": "joway",
+          "href": "https://github.com/joway",
+          "avatar": "https://avatars.githubusercontent.com/u/8353464"
+        }
+      ]
+    },
+    {
+      "author": "DietrichGebert",
+      "repo": "ponytail",
+      "avatar": "https://github.com/DietrichGebert.png",
+      "repo_link": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 0,
+      "forks": 9703,
+      "added_stars": 9387,
+      "builtBy": [
+        {
+          "username": "DietrichGebert",
+          "href": "https://github.com/DietrichGebert",
+          "avatar": "https://avatars.githubusercontent.com/u/137048761"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "ousamabenyounes",
+          "href": "https://github.com/ousamabenyounes",
+          "avatar": "https://avatars.githubusercontent.com/u/2910651"
+        },
+        {
+          "username": "Lakshya77089",
+          "href": "https://github.com/Lakshya77089",
+          "avatar": "https://avatars.githubusercontent.com/u/169168095"
+        },
+        {
+          "username": "dhedhialy",
+          "href": "https://github.com/dhedhialy",
+          "avatar": "https://avatars.githubusercontent.com/u/91044156"
+        }
+      ]
+    },
+    {
+      "author": "plugin87",
+      "repo": "ux-ui-agent-skills",
+      "avatar": "https://github.com/plugin87.png",
+      "repo_link": "https://github.com/plugin87/ux-ui-agent-skills",
+      "desc": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.",
+      "lang": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 0,
+      "forks": 290,
+      "added_stars": 655,
+      "builtBy": [
+        {
+          "username": "plugin87",
+          "href": "https://github.com/plugin87",
+          "avatar": "https://avatars.githubusercontent.com/u/5790381"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "maybe-aesop",
+          "href": "https://github.com/maybe-aesop",
+          "avatar": "https://avatars.githubusercontent.com/u/280031725"
+        },
+        {
+          "username": "aalvarez-dev",
+          "href": "https://github.com/aalvarez-dev",
+          "avatar": "https://avatars.githubusercontent.com/u/25042790"
+        }
+      ]
+    },
+    {
+      "author": "hmjz100",
+      "repo": "LinkSwift",
+      "avatar": "https://github.com/hmjz100.png",
+      "repo_link": "https://github.com/hmjz100/LinkSwift",
+      "desc": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "lang": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 0,
+      "forks": 2171,
+      "added_stars": 3798,
+      "builtBy": [
+        {
+          "username": "hmjz100",
+          "href": "https://github.com/hmjz100",
+          "avatar": "https://avatars.githubusercontent.com/u/98228280"
+        },
+        {
+          "username": "MisaLiu",
+          "href": "https://github.com/MisaLiu",
+          "avatar": "https://avatars.githubusercontent.com/u/62408957"
+        },
+        {
+          "username": "Night-stars-1",
+          "href": "https://github.com/Night-stars-1",
+          "avatar": "https://avatars.githubusercontent.com/u/99261160"
+        },
+        {
+          "username": "sherlocknieh",
+          "href": "https://github.com/sherlocknieh",
+          "avatar": "https://avatars.githubusercontent.com/u/43476643"
+        },
+        {
+          "username": "DeepslateQAQ",
+          "href": "https://github.com/DeepslateQAQ",
+          "avatar": "https://avatars.githubusercontent.com/u/46892455"
+        }
+      ]
+    },
+    {
+      "author": "xmanrui",
+      "repo": "dsh-im",
+      "avatar": "https://github.com/xmanrui.png",
+      "repo_link": "https://github.com/xmanrui/dsh-im",
+      "desc": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
+      "lang": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 0,
+      "forks": 264,
+      "added_stars": 441,
+      "builtBy": [
+        {
+          "username": "xmanrui",
+          "href": "https://github.com/xmanrui",
+          "avatar": "https://avatars.githubusercontent.com/u/4094054"
+        },
+        {
+          "username": "evanfang0054",
+          "href": "https://github.com/evanfang0054",
+          "avatar": "https://avatars.githubusercontent.com/u/34673339"
+        },
+        {
+          "username": "C3H3-AI",
+          "href": "https://github.com/C3H3-AI",
+          "avatar": "https://avatars.githubusercontent.com/u/256468226"
+        },
+        {
+          "username": "grloper",
+          "href": "https://github.com/grloper",
+          "avatar": "https://avatars.githubusercontent.com/u/72247422"
+        },
+        {
+          "username": "Dong09",
+          "href": "https://github.com/Dong09",
+          "avatar": "https://avatars.githubusercontent.com/u/45942487"
         }
       ]
     },
@@ -388,12 +288,12 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
       "repo": "easy-vibe",
       "avatar": "https://github.com/datawhalechina.png",
       "repo_link": "https://github.com/datawhalechina/easy-vibe",
-      "desc": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+      "desc": "💻 Vibe Coding 101｜Your First Course For AI Product Builders.",
       "lang": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": 0,
-      "forks": 722,
-      "added_stars": 1180,
+      "forks": 1954,
+      "added_stars": 184,
       "builtBy": [
         {
           "username": "sanbuphy",
@@ -401,516 +301,63 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
           "avatar": "https://avatars.githubusercontent.com/u/96160062"
         },
         {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
           "username": "GeoDaoyu",
           "href": "https://github.com/GeoDaoyu",
           "avatar": "https://avatars.githubusercontent.com/u/34641603"
         },
         {
-          "username": "claude",
-          "href": "https://github.com/claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847"
+          "username": "SherryTECNU",
+          "href": "https://github.com/SherryTECNU",
+          "avatar": "https://avatars.githubusercontent.com/u/47715534"
         },
         {
           "username": "1985312383",
           "href": "https://github.com/1985312383",
           "avatar": "https://avatars.githubusercontent.com/u/56398475"
-        },
-        {
-          "username": "SherryTECNU",
-          "href": "https://github.com/SherryTECNU",
-          "avatar": "https://avatars.githubusercontent.com/u/47715534"
         }
       ]
     },
     {
-      "author": "EvoMap",
-      "repo": "evolver",
-      "avatar": "https://github.com/EvoMap.png",
-      "repo_link": "https://github.com/EvoMap/evolver",
-      "desc": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+      "author": "react",
+      "repo": "react",
+      "avatar": "https://github.com/react.png",
+      "repo_link": "https://github.com/react/react",
+      "desc": "The library for web and native user interfaces.",
       "lang": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": 0,
-      "forks": 702,
-      "added_stars": 1075,
+      "forks": 51581,
+      "added_stars": 705,
       "builtBy": [
         {
-          "username": "autogame-17",
-          "href": "https://github.com/autogame-17",
-          "avatar": "https://avatars.githubusercontent.com/u/166480271"
+          "username": "sebmarkbage",
+          "href": "https://github.com/sebmarkbage",
+          "avatar": "https://avatars.githubusercontent.com/u/63648"
         },
         {
-          "username": "cursoragent",
-          "href": "https://github.com/cursoragent",
-          "avatar": "https://avatars.githubusercontent.com/u/199161495"
+          "username": "zpao",
+          "href": "https://github.com/zpao",
+          "avatar": "https://avatars.githubusercontent.com/u/8445"
         },
         {
-          "username": "penggaolai",
-          "href": "https://github.com/penggaolai",
-          "avatar": "https://avatars.githubusercontent.com/u/44097312"
+          "username": "gaearon",
+          "href": "https://github.com/gaearon",
+          "avatar": "https://avatars.githubusercontent.com/u/810438"
         },
         {
-          "username": "onthebigtree",
-          "href": "https://github.com/onthebigtree",
-          "avatar": "https://avatars.githubusercontent.com/u/60813639"
+          "username": "acdlite",
+          "href": "https://github.com/acdlite",
+          "avatar": "https://avatars.githubusercontent.com/u/3624098"
         },
         {
-          "username": "firstdraft-work",
-          "href": "https://github.com/firstdraft-work",
-          "avatar": "https://avatars.githubusercontent.com/u/265695765"
-        }
-      ]
-    },
-    {
-      "author": "HeyPuter",
-      "repo": "puter",
-      "avatar": "https://github.com/HeyPuter.png",
-      "repo_link": "https://github.com/HeyPuter/puter",
-      "desc": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 3691,
-      "added_stars": 233,
-      "builtBy": [
-        {
-          "username": "KernelDeimos",
-          "href": "https://github.com/KernelDeimos",
-          "avatar": "https://avatars.githubusercontent.com/u/7225168"
-        },
-        {
-          "username": "jelveh",
-          "href": "https://github.com/jelveh",
-          "avatar": "https://avatars.githubusercontent.com/u/1715019"
-        },
-        {
-          "username": "Salazareo",
-          "href": "https://github.com/Salazareo",
-          "avatar": "https://avatars.githubusercontent.com/u/25314977"
-        },
-        {
-          "username": "ProgrammerIn-wonderland",
-          "href": "https://github.com/ProgrammerIn-wonderland",
-          "avatar": "https://avatars.githubusercontent.com/u/30693865"
-        },
-        {
-          "username": "AtkinsSJ",
-          "href": "https://github.com/AtkinsSJ",
-          "avatar": "https://avatars.githubusercontent.com/u/222642"
-        }
-      ]
-    },
-    {
-      "author": "decolua",
-      "repo": "9router",
-      "avatar": "https://github.com/decolua.png",
-      "repo_link": "https://github.com/decolua/9router",
-      "desc": "Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 766,
-      "added_stars": 482,
-      "builtBy": [
-        {
-          "username": "anuragg-saxenaa",
-          "href": "https://github.com/anuragg-saxenaa",
-          "avatar": "https://avatars.githubusercontent.com/u/17893081"
-        },
-        {
-          "username": "claude",
-          "href": "https://github.com/claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847"
-        },
-        {
-          "username": "cursoragent",
-          "href": "https://github.com/cursoragent",
-          "avatar": "https://avatars.githubusercontent.com/u/199161495"
-        },
-        {
-          "username": "catalinstanciu",
-          "href": "https://github.com/catalinstanciu",
-          "avatar": "https://avatars.githubusercontent.com/u/5753427"
-        },
-        {
-          "username": "Blade096",
-          "href": "https://github.com/Blade096",
-          "avatar": "https://avatars.githubusercontent.com/u/46746496"
-        }
-      ]
-    },
-    {
-      "author": "LibreSpark",
-      "repo": "LibreTV",
-      "avatar": "https://github.com/LibreSpark.png",
-      "repo_link": "https://github.com/LibreSpark/LibreTV",
-      "desc": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 27176,
-      "added_stars": 113,
-      "builtBy": [
-        {
-          "username": "bestZwei",
-          "href": "https://github.com/bestZwei",
-          "avatar": "https://avatars.githubusercontent.com/u/110226580"
-        },
-        {
-          "username": "senshinya",
-          "href": "https://github.com/senshinya",
-          "avatar": "https://avatars.githubusercontent.com/u/155552943"
-        },
-        {
-          "username": "JohnsonRan",
-          "href": "https://github.com/JohnsonRan",
-          "avatar": "https://avatars.githubusercontent.com/u/89735151"
-        },
-        {
-          "username": "WLongSAMA",
-          "href": "https://github.com/WLongSAMA",
-          "avatar": "https://avatars.githubusercontent.com/u/12743204"
-        }
-      ]
-    },
-    {
-      "author": "Stremio",
-      "repo": "stremio-web",
-      "avatar": "https://github.com/Stremio.png",
-      "repo_link": "https://github.com/Stremio/stremio-web",
-      "desc": "Stremio - Freedom to Stream",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 1162,
-      "added_stars": 48,
-      "builtBy": [
-        {
-          "username": "kKaskak",
-          "href": "https://github.com/kKaskak",
-          "avatar": "https://avatars.githubusercontent.com/u/117831817"
-        },
-        {
-          "username": "nklhtv",
-          "href": "https://github.com/nklhtv",
-          "avatar": "https://avatars.githubusercontent.com/u/5950722"
-        },
-        {
-          "username": "tymmesyde",
-          "href": "https://github.com/tymmesyde",
-          "avatar": "https://avatars.githubusercontent.com/u/7889816"
-        },
-        {
-          "username": "swetlasg",
-          "href": "https://github.com/swetlasg",
-          "avatar": "https://avatars.githubusercontent.com/u/15102316"
-        },
-        {
-          "username": "Botsy",
-          "href": "https://github.com/Botsy",
-          "avatar": "https://avatars.githubusercontent.com/u/10400528"
-        }
-      ]
-    },
-    {
-      "author": "louislam",
-      "repo": "uptime-kuma",
-      "avatar": "https://github.com/louislam.png",
-      "repo_link": "https://github.com/louislam/uptime-kuma",
-      "desc": "A fancy self-hosted monitoring tool",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 7735,
-      "added_stars": 512,
-      "builtBy": [
-        {
-          "username": "louislam",
-          "href": "https://github.com/louislam",
-          "avatar": "https://avatars.githubusercontent.com/u/1336778"
-        },
-        {
-          "username": "CommanderStorm",
-          "href": "https://github.com/CommanderStorm",
-          "avatar": "https://avatars.githubusercontent.com/u/26258709"
-        },
-        {
-          "username": "chakflying",
-          "href": "https://github.com/chakflying",
-          "avatar": "https://avatars.githubusercontent.com/u/3271800"
-        },
-        {
-          "username": "Saibamen",
-          "href": "https://github.com/Saibamen",
-          "avatar": "https://avatars.githubusercontent.com/u/905878"
-        },
-        {
-          "username": "Computroniks",
-          "href": "https://github.com/Computroniks",
-          "avatar": "https://avatars.githubusercontent.com/u/67638596"
-        }
-      ]
-    },
-    {
-      "author": "microsoft",
-      "repo": "power-platform-skills",
-      "avatar": "https://github.com/microsoft.png",
-      "repo_link": "https://github.com/microsoft/power-platform-skills",
-      "desc": "A plugin marketplace for Claude Code/GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 38,
-      "added_stars": 39,
-      "builtBy": [
-        {
-          "username": "priyanshu92",
-          "href": "https://github.com/priyanshu92",
-          "avatar": "https://avatars.githubusercontent.com/u/7589718"
-        },
-        {
-          "username": "claude",
-          "href": "https://github.com/claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847"
-        },
-        {
-          "username": "lesaltzm",
-          "href": "https://github.com/lesaltzm",
-          "avatar": "https://avatars.githubusercontent.com/u/69215460"
-        },
-        {
-          "username": "shivanichander",
-          "href": "https://github.com/shivanichander",
-          "avatar": "https://avatars.githubusercontent.com/u/25564713"
-        }
-      ]
-    },
-    {
-      "author": "jesse-ai",
-      "repo": "jesse",
-      "avatar": "https://github.com/jesse-ai.png",
-      "repo_link": "https://github.com/jesse-ai/jesse",
-      "desc": "An advanced crypto trading bot written in Python",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 1102,
-      "added_stars": 128,
-      "builtBy": [
-        {
-          "username": "saleh-mir",
-          "href": "https://github.com/saleh-mir",
-          "avatar": "https://avatars.githubusercontent.com/u/69156720"
-        },
-        {
-          "username": "cryptocoinserver",
-          "href": "https://github.com/cryptocoinserver",
-          "avatar": "https://avatars.githubusercontent.com/u/16636744"
-        },
-        {
-          "username": "morteza-koohgard",
-          "href": "https://github.com/morteza-koohgard",
-          "avatar": "https://avatars.githubusercontent.com/u/78785107"
-        },
-        {
-          "username": "pyup-bot",
-          "href": "https://github.com/pyup-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/16239342"
-        },
-        {
-          "username": "saleh-old",
-          "href": "https://github.com/saleh-old",
-          "avatar": "https://avatars.githubusercontent.com/u/13378447"
-        }
-      ]
-    },
-    {
-      "author": "jo-inc",
-      "repo": "camofox-browser",
-      "avatar": "https://github.com/jo-inc.png",
-      "repo_link": "https://github.com/jo-inc/camofox-browser",
-      "desc": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 335,
-      "added_stars": 487,
-      "builtBy": [
-        {
-          "username": "skyfallsin",
-          "href": "https://github.com/skyfallsin",
-          "avatar": "https://avatars.githubusercontent.com/u/998"
-        },
-        {
-          "username": "mvanhorn",
-          "href": "https://github.com/mvanhorn",
-          "avatar": "https://avatars.githubusercontent.com/u/455140"
-        },
-        {
-          "username": "company8",
-          "href": "https://github.com/company8",
-          "avatar": "https://avatars.githubusercontent.com/u/135282870"
-        },
-        {
-          "username": "leoneparise",
-          "href": "https://github.com/leoneparise",
-          "avatar": "https://avatars.githubusercontent.com/u/1442927"
-        },
-        {
-          "username": "Microck",
-          "href": "https://github.com/Microck",
-          "avatar": "https://avatars.githubusercontent.com/u/45483921"
-        }
-      ]
-    },
-    {
-      "author": "marktext",
-      "repo": "marktext",
-      "avatar": "https://github.com/marktext.png",
-      "repo_link": "https://github.com/marktext/marktext",
-      "desc": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 4151,
-      "added_stars": 237,
-      "builtBy": [
-        {
-          "username": "Jocs",
-          "href": "https://github.com/Jocs",
-          "avatar": "https://avatars.githubusercontent.com/u/9712830"
-        },
-        {
-          "username": "fxha",
-          "href": "https://github.com/fxha",
-          "avatar": "https://avatars.githubusercontent.com/u/22716132"
-        },
-        {
-          "username": "notAlaanor",
-          "href": "https://github.com/notAlaanor",
-          "avatar": "https://avatars.githubusercontent.com/u/17591936"
-        },
-        {
-          "username": "mdogadailo",
-          "href": "https://github.com/mdogadailo",
-          "avatar": "https://avatars.githubusercontent.com/u/3466287"
-        },
-        {
-          "username": "MrHeer",
-          "href": "https://github.com/MrHeer",
-          "avatar": "https://avatars.githubusercontent.com/u/18595761"
-        }
-      ]
-    },
-    {
-      "author": "SillyTavern",
-      "repo": "SillyTavern",
-      "avatar": "https://github.com/SillyTavern.png",
-      "repo_link": "https://github.com/SillyTavern/SillyTavern",
-      "desc": "LLM Frontend for Power Users.",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 5193,
-      "added_stars": 532,
-      "builtBy": [
-        {
-          "username": "Cohee1207",
-          "href": "https://github.com/Cohee1207",
-          "avatar": "https://avatars.githubusercontent.com/u/18619528"
-        },
-        {
-          "username": "Wolfsblvt",
-          "href": "https://github.com/Wolfsblvt",
-          "avatar": "https://avatars.githubusercontent.com/u/9962104"
-        },
-        {
-          "username": "RossAscends",
-          "href": "https://github.com/RossAscends",
-          "avatar": "https://avatars.githubusercontent.com/u/124905043"
-        },
-        {
-          "username": "LenAnderson",
-          "href": "https://github.com/LenAnderson",
-          "avatar": "https://avatars.githubusercontent.com/u/7149120"
-        },
-        {
-          "username": "valadaptive",
-          "href": "https://github.com/valadaptive",
-          "avatar": "https://avatars.githubusercontent.com/u/79560998"
-        }
-      ]
-    },
-    {
-      "author": "xifangczy",
-      "repo": "cat-catch",
-      "avatar": "https://github.com/xifangczy.png",
-      "repo_link": "https://github.com/xifangczy/cat-catch",
-      "desc": "猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 1694,
-      "added_stars": 178,
-      "builtBy": [
-        {
-          "username": "xifangczy",
-          "href": "https://github.com/xifangczy",
-          "avatar": "https://avatars.githubusercontent.com/u/1239904"
-        },
-        {
-          "username": "Oleada1",
-          "href": "https://github.com/Oleada1",
-          "avatar": "https://avatars.githubusercontent.com/u/26626786"
-        },
-        {
-          "username": "Havokdan",
-          "href": "https://github.com/Havokdan",
-          "avatar": "https://avatars.githubusercontent.com/u/6549729"
-        },
-        {
-          "username": "hmaoraze",
-          "href": "https://github.com/hmaoraze",
-          "avatar": "https://avatars.githubusercontent.com/u/88831788"
-        },
-        {
-          "username": "jetsung",
-          "href": "https://github.com/jetsung",
-          "avatar": "https://avatars.githubusercontent.com/u/149308191"
-        }
-      ]
-    },
-    {
-      "author": "a5c-ai",
-      "repo": "babysitter",
-      "avatar": "https://github.com/a5c-ai.png",
-      "repo_link": "https://github.com/a5c-ai/babysitter",
-      "desc": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration",
-      "lang": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 0,
-      "forks": 40,
-      "added_stars": 90,
-      "builtBy": [
-        {
-          "username": "claude",
-          "href": "https://github.com/claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847"
-        },
-        {
-          "username": "tmuskal",
-          "href": "https://github.com/tmuskal",
-          "avatar": "https://avatars.githubusercontent.com/u/1934369"
-        },
-        {
-          "username": "Benihakak",
-          "href": "https://github.com/Benihakak",
-          "avatar": "https://avatars.githubusercontent.com/u/45761295"
-        },
-        {
-          "username": "MaTriXy",
-          "href": "https://github.com/MaTriXy",
-          "avatar": "https://avatars.githubusercontent.com/u/3080139"
+          "username": "sophiebits",
+          "href": "https://github.com/sophiebits",
+          "avatar": "https://avatars.githubusercontent.com/u/6820"
         }
       ]
     }
@@ -937,278 +384,278 @@ node bin/main.js --json reddit -t startups -s hot ; node bin/main.js --json news
   "items": [
     {
       "title": "Share your startup - quarterly post",
-      "url": "https://www.reddit.com/r/startups/comments/1siohta/share_your_startup_quarterly_post/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1siohta/share_your_startup_quarterly_post/",
+      "url": "https://www.reddit.com/r/startups/comments/1x3dcp4/share_your_startup_quarterly_post/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1x3dcp4/share_your_startup_quarterly_post/",
       "author": "/u/julian88888888",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
       "selftext": "Share Your Startup - Q4 2023 r/startups wants to hear what you&#39;re working on! Tell us about your startup in a comment within this submission. Follow this template: ​ Startup Name / URL Location of Your Headquarters Let people know where you are based for possible local networking with you and to share local resources with you Elevator Pitch/Explainer Video More details: What life cycle stage is your startup at? (reference the stages below) Your role? What goals are you trying to reach this month? How could r/startups help? Do NOT solicit funds publicly--this may be illegal for you to do so Discount for r/startups subscribers? Share how our community can get a discount ​ -------------------------------------------------- ​ Startup Life Cycle Stages (Max Marmer life cycle model for startups as used by Startup Genome and Kauffman Foundation) Discovery Researching the market, the competitors, and the potential users Designing the first iteration of the user experience Working towards problem/solution fit (Market Validation) Building MVP ​ Validation Achieved problem/solution fit (Market Validation) MVP launched Conducting Product Validation Revising/refining user experience based on results of Product Validation tests Refining Product through new Versions (Ver.1+) Working towards product/market fit ​ Efficiency Achieved product/market fit Preparing to begin the scaling process Optimizing the user experience to handle aggressive user growth at scale Optimizing the performance of the product to handle aggressive user growth at scale Optimizing the operational workflows and systems in preparation for scaling Conducting validation tests of scaling strategies ​ Scaling Achieved validation of scaling strategies Achieved an acceptable level of optimization of the operational systems Actively pushing forward with aggressive growth Conducting validation tests to achieve a repeatable sales process at scale ​ Profit Maximization Successfully scaled the business and can now be considered an established company Expanding production and operations in order to increase revenue Optimizing systems to maximize profits ​ Renewal Has achieved near-peak profits Has achieved near-peak optimization of systems Actively seeking to reinvent the company and core products to stay innovative Actively seeking to acquire other companies and technologies to expand market share and relevancy Actively exploring horizontal and vertical expansion to increase prevent the decline of the company &#32; submitted by &#32; /u/julian88888888 [link] &#32; [comments]",
-      "published": "2026-04-11T17:00:47+00:00"
+      "published": "2026-10-11T17:00:21+00:00"
     },
     {
       "title": "[Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
-      "url": "https://www.reddit.com/r/startups/comments/1swsszb/hiringseekingoffering_jobs_cofounders_weekly/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swsszb/hiringseekingoffering_jobs_cofounders_weekly/",
+      "url": "https://www.reddit.com/r/startups/comments/1xfmqw1/hiringseekingoffering_jobs_cofounders_weekly/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xfmqw1/hiringseekingoffering_jobs_cofounders_weekly/",
       "author": "/u/AutoModerator",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
       "selftext": "[Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread This is an experiment. We see there is a demand from the community to: Find Co-Founders Hiring / Seeking Jobs Offering Your Skillset / Looking for Talent Please use the following template: **[SEEKING / HIRING / OFFERING]** (Choose one) **[COFOUNDER / JOB / OFFER]** (Choose one) Company Name: (Optional) Pitch: Preferred Contact Method(s): Link: (Optional) All Other Subreddit Rules Still Apply We understand there will be mild self promotion involved with finding cofounders, recruiting and offering services. If you want to communicate via DM/Chat, put that as the Preferred Contact Method. We don&#39;t need to clutter the thread with lots of &#39;DM me&#39; or &#39;Please DM&#39; comments. Please make sure to follow all of the other rules, especially don&#39;t be rude. Reminder: This is an experiment We may or may not keep posting these. We are looking to improve them. If you have any feedback or suggestions, please share them with the mods via ModMail . &#32; submitted by &#32; /u/AutoModerator [link] &#32; [comments]",
-      "published": "2026-04-27T04:00:47+00:00"
+      "published": "2026-10-26T04:00:52+00:00"
     },
     {
-      "title": "Given the startup ecosystems in Canada, shouldn't there be more home runs? (I will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1sxoqz7/given_the_startup_ecosystems_in_canada_shouldnt/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sxoqz7/given_the_startup_ecosystems_in_canada_shouldnt/",
-      "author": "/u/coolinjapan001",
+      "title": "19 months into running a solo software agency. $3,000 in total revenue. Starting to question how long I can keep going. I will not promote.",
+      "url": "https://www.reddit.com/r/startups/comments/1xghw7q/19_months_into_running_a_solo_software_agency/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xghw7q/19_months_into_running_a_solo_software_agency/",
+      "author": "/u/DjangoDrive",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "Given the countless accelerators in the major cities in the country and at least in Toronto specifically as well, MaRS, the MaRS health innovation conference that just happened, Toronto Tech Week, TechTO and various other innovation /startup conferences, how is it that the country has had so few startups that successfully scaled up to become &quot;big&quot; in the last 15-20 years? &#32; submitted by &#32; /u/coolinjapan001 [link] &#32; [comments]",
-      "published": "2026-04-28T02:39:27+00:00"
+      "selftext": "About 1 year and 7 months ago, I started my journey as a solo developer, hoping to eventually turn it into a sustainable business. Since then, I&#39;ve shipped 9 products, earned roughly $3,000 in total revenue, and still have no MRR. What kept me going was the occasional validation. One product was featured by MacStories, the kind of coverage that could&#39;ve changed an indie developer&#39;s life a few years ago. For me, it barely moved the needle. As revenue wasn&#39;t enough to sustain the business, I turned to freelance and contract work to keep things afloat. I&#39;ve had discussions around $5,000+ contracts, some coming painfully close to closing before falling through. Every time I considered quitting, something gave me hope. Just enough validation to keep going, never enough to make it sustainable. I know I can build and ship software, but financially, I have very little to show for nearly two years of effort. I&#39;ve considered getting a job, but the tech market feels worse than ever, especially without traditional employment experience. I still believe something could click. I&#39;m just not sure how much longer I can afford to keep trying. For those who&#39;ve been here, what eventually changed things? &#32; submitted by &#32; /u/DjangoDrive [link] &#32; [comments]",
+      "published": "2026-10-27T03:26:13+00:00"
     },
     {
-      "title": "Where to find first users and testers? (I will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1sxt83a/where_to_find_first_users_and_testers_i_will_not/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sxt83a/where_to_find_first_users_and_testers_i_will_not/",
-      "author": "/u/Krysza",
+      "title": "ARRlarp - incubator start-up scene - i will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1xgh1l0/arrlarp_incubator_startup_scene_i_will_not_promote/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xgh1l0/arrlarp_incubator_startup_scene_i_will_not_promote/",
+      "author": "/u/openllm",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "Hi everyone. I am helping out a startup with marketing. It is an AI consultant for 3D Printing. We have issues with finding first users. I tried posting on 3Dprint groups but get a lot of hate on AI. The founder said he made research and the product is needed. He got good feedback during Additive Manufacturing forum from 3D print product providers. But I am starting to doubt the idea. Where do you look for testers and first users? Would you recommend anything? Thanks in advance. Good luck with your projects! &#32; submitted by &#32; /u/Krysza [link] &#32; [comments]",
-      "published": "2026-04-28T06:24:00+00:00"
+      "selftext": "I recently had the pleasure of spending two weeks in SF for Tech Week and Disrupt. I got to meet a lot of incredibly bright people and had a lot of fun seeing the startup scene on the ground level. The one thing that I caught wind of was the amount of larping going on from within these &#39;prestigious&#39; incubators. So what are they doing? Well, they basically all sell to each other and then post about it all over X and in their pitch decks flexing their ARR. I buy 30 seats of your SAAS at $25/seat and you buy 10 of my seats at $75/seat. Net result - we just got $9k+ of ARR. Nice! I thought, hey everyone should have access this! Put a credit card in with a spend limit, and do instant swaps of ARR from one business card to another (or many) Anyways, curious what you all think of this activity or the other stuff that people don&#39;t really talk about in the startup world &#32; submitted by &#32; /u/openllm [link] &#32; [comments]",
+      "published": "2026-10-27T02:44:27+00:00"
     },
     {
-      "title": "[i will not promote] Are support tools overkill for early-stage SaaS?",
-      "url": "https://www.reddit.com/r/startups/comments/1sxsd9y/i_will_not_promote_are_support_tools_overkill_for/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sxsd9y/i_will_not_promote_are_support_tools_overkill_for/",
-      "author": "/u/Jash_Kevadiya",
+      "title": "Learning to Swim vs. Taking the Speedboat (i will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1xge6yz/learning_to_swim_vs_taking_the_speedboat_i_will/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xge6yz/learning_to_swim_vs_taking_the_speedboat_i_will/",
+      "author": "/u/otisboykin",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "Feels like most support tools are overkill when you&#39;re just starting out. Tickets, automations, dashboards, pricing… a lot of it doesn’t get used early on. What are you all using in the beginning? Just email? Something custom? Trying to figure out what actually matters vs what’s just noise. &#32; submitted by &#32; /u/Jash_Kevadiya [link] &#32; [comments]",
-      "published": "2026-04-28T05:37:09+00:00"
+      "selftext": "Hey everyone! Although I&#39;ve been involved in software development for a while, I wouldn&#39;t even consider myself a junior developer, since I&#39;ve never had a proper job in the field (apart from a paid, part-time university project). Over the past few months, I&#39;ve been developing a web app and a mobile app. They&#39;re two different products, but they&#39;re complementary to each other. Along the way, I&#39;ve been learning the fundamentals of Flutter, FastAPI, and SQL, as well as software development concepts, particularly those related to mobile development. At this point, I&#39;d estimate the project is around 60–70% complete. However, I&#39;ve built almost everything the old-fashioned way: learning as I go and writing the code myself. My use of AI has been limited to free plans and web-based interfaces. I mainly use AI as a learning tool. I spend a lot of time discussing things with it, and whenever it generates code, I make sure to read, understand, and review everything. At the end of the day, everything goes through my hands. My original plan was to start relying much more heavily on AI after finishing the MVP. However, given how far AI has come, I&#39;m wondering whether I should change my approach now rather than later. On the one hand, I could keep developing the way I have been so far, strengthen my fundamentals, and maintain control over the codebase. On the other hand, I could start using AI tools much more intensively, delegate a significant portion of the implementation, and focus on finishing the product and launching it as soon as possible. I estimate that completing the remaining 30–40% would take me around four months with my current approach. By leveraging AI much more heavily, I might be able to cut that down to just one month. My concern is that by accelerating development this way, I might lose some control over the codebase and miss out on learning fundamentals that I still need to master. What would you do in my position? Would you stick to a more traditional approach until the MVP is finished, or start working much more intensively with AI right now? How would you strike a balance between learning to code properly and taking advantage of tools that can dramatically speed up development? &#32; submitted by &#32; /u/otisboykin [link] &#32; [comments]",
+      "published": "2026-10-27T00:33:07+00:00"
     },
     {
-      "title": "Equity split sanity check [I will not promote a startup today!]",
-      "url": "https://www.reddit.com/r/startups/comments/1sxfkh4/equity_split_sanity_check_i_will_not_promote_a/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sxfkh4/equity_split_sanity_check_i_will_not_promote_a/",
-      "author": "/u/alexandicity",
+      "title": "Distribution-first founders: how do you decide between fixing activation and adding reach? (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1xfx5uu/distributionfirst_founders_how_do_you_decide/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xfx5uu/distributionfirst_founders_how_do_you_decide/",
+      "author": "/u/poppiboi",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "Hello! I wanted to get the community&#39;s opinions on a early-stage equity split, as I&#39;m struggling to work out what is fair. Capital-intensive hardware &amp; software firm in a niche industry. Two participants here: X and Y, both engineers. X incorporated the company 6 months ago. In that time, they have: Identified the market gap and the general solution Found initial customers &amp; got traction with them Set out the technical objective and plan Closed the first fundraising round (enough for the next 18 months of the plan, to get us to a sellable MVP stage) To date, Y&#39;s involvement has been quite limited. Y gave some bits of advice, reviews and some ideas over this period (total time involvement in the order of ~10 hours). All agree that X has put much more in than Y up to now. But equity splits also reflect future work division. X and Y will from now both be contributing their time equally going forward. X will take a minimum wage salary for the first year, while Y will take a near-market-rate salary (due to personal needs). Conventional wisdom is that Y is a &quot;first employee&quot; rather than a &quot;co-founder&quot;, but Y brings critical skills needed to make the company a success. As such, the company wants Y to be well vested and feel motivated to drive the company forward (and, as secondary effect, convince future investors of that). How would you split X and Y&#39;s equity? &#32; submitted by &#32; /u/alexandicity [link] &#32; [comments]",
-      "published": "2026-04-27T20:24:11+00:00"
+      "selftext": "Context: B2B tool, week one after launch. 18 sign-ups, 7 completed setup, 5 used it, 1 came back. Traffic is back to baseline after the launch spike. My first-principles answer is &quot;fix activation first&quot;: every new visitor today leaks at the same step, so reach just makes the leak bigger. The counter-argument I keep hearing is that 18 is too small a sample to optimise a funnel on, and you need volume before the data means anything. For those who&#39;ve been here: which did you do first, and what number told you it was time to switch? &#32; submitted by &#32; /u/poppiboi [link] &#32; [comments]",
+      "published": "2026-10-26T13:42:02+00:00"
     },
     {
-      "title": "Realized I was doing way too many things manually just to feel in control( I will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1sx3s1v/realized_i_was_doing_way_too_many_things_manually/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sx3s1v/realized_i_was_doing_way_too_many_things_manually/",
-      "author": "/u/Southern_Device4454",
+      "title": "Unpopular opinion: most first-time founders raise money too early, and it's the most expensive mistake they make ( i will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1xg4146/unpopular_opinion_most_firsttime_founders_raise/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xg4146/unpopular_opinion_most_firsttime_founders_raise/",
+      "author": "/u/indie_mohit",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "I am a founder of a small brand. Recently noticed how much of my day disappears into tiny repetitive stuff. Updating tracking numbers. Answering basically the same customer email 4 times. Opening the same spreadsheet over and over. Jumping between WhatsApp, email, and supplier chats like a confused air traffic controller. None of it is difficult work. It’s just constant. I think I kept doing everything manually because it made me feel responsible or in control. But honestly I was mostly just exhausting myself. Still trying to figure out what actually needs my attention and what only feels important because I’m used to touching every part of the process. Curisous, what’s one small thing you stopped doing manually that made a surprisingly big difference in your business? &#32; submitted by &#32; /u/Southern_Device4454 [link] &#32; [comments]",
-      "published": "2026-04-27T13:31:19+00:00"
+      "selftext": "I&#39;ve spent 10+ years around fundraising deals, and the pattern repeats: founders raise because it feels like the next step, not because the business needs it yet. Here&#39;s what raising too early usually costs: • You sell 20% of your company when it&#39;s worth the least • You start reporting to investors before you know what works • You feel pressure to spend fast instead of learning fast • Your next round has to justify a valuation you haven&#39;t earned yet Meanwhile, founders who wait until they have real customers and some revenue often raise less, give up less, and negotiate from strength. That doesn&#39;t mean never raise. Some markets reward speed, and capital buys speed. But &quot;everyone else is raising&quot; isn&#39;t a reason. My rule of thumb: raise when money is the only thing standing between you and a clear next milestone. Not before. So, two questions: Founders who raised early: was it worth it, or do you wish you&#39;d waited? Founders who waited: did it make the raise easier? Curious where this community lands. &#32; submitted by &#32; /u/indie_mohit [link] &#32; [comments]",
+      "published": "2026-10-26T17:53:18+00:00"
     },
     {
-      "title": "What I’ve learned watching non-technical founders build with AI (i will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1swsldj/what_ive_learned_watching_nontechnical_founders/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swsldj/what_ive_learned_watching_nontechnical_founders/",
-      "author": "/u/Efficient_Pea_9984",
+      "title": "I built an AI-assisted system that helped me manage up to 16 client accounts at once. I will not promote.",
+      "url": "https://www.reddit.com/r/startups/comments/1xg83hb/i_built_an_aiassisted_system_that_helped_me/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xg83hb/i_built_an_aiassisted_system_that_helped_me/",
+      "author": "/u/caburos",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "After seeing a lot of AI-built apps over the past year, there’s a pattern that keeps showing up. The issue usually isn’t that people can’t build anymore it’s that they try to build everything too early. AI makes it really easy to go from idea → full product in one go. Multiple features, integrations, dashboards… all working (on the surface). But most of the problems later come from that decision. The apps that hold up tend to be the ones where someone focused on one core flow first and made sure it actually worked properly before adding more. The other thing is failure cases. AI almost always builds the “happy path” but real users don’t behave like that. They refresh mid-action, click things twice, leave halfway through. If you don’t think about that early, it comes back later in weird ways. Also, data. This is probably the least visible issue but the most painful one later. A lot of apps store things in whatever format works “for now”, and then once there’s real usage, it gets messy fast. None of this means AI isn’t useful, it’s the opposite. It’s probably the fastest way right now to get something real into users’ hands. But the people who get the most out of it aren’t treating it like magic. They’re just a bit more deliberate about what they build first and how they structure it. Curious if others have seen the same or had different experiences. &#32; submitted by &#32; /u/Efficient_Pea_9984 [link] &#32; [comments]",
-      "published": "2026-04-27T03:50:14+00:00"
+      "selftext": "Long post, because this thing got a little out of hand. TL;DR: I built an email marketing operating system that handles almost the entire workflow, from client onboarding and monthly strategy to drafting, revisions, design handoff, segmentation and scheduling. At one point it helped me manage up to 16 client accounts at the same time while cutting a lot of repetitive operational work. Over time I built an workflow around almost the entire email marketing delivery process. At this point it handles almost everything from onboarding a new client to having approved scheduled campaigns. The only production step that still remains manual is the actual email design, although I’m already working on that. The reason was simple. I was managing a lot of accounts at once and the bottleneck wasn’t writing copy, but keeping all the context, rules, approvals, products, offers, reviews, segments and campaign logic in my head, so I started turning all of that into a system. What the workflow actually does - Client onboarding Scrapes the client website, builds the brand guide, product catalog, current offers, product descriptions, reviews/social proof, links, pricing and other brand-specific knowledge. - Monthly brief I input whatever the client gives me for the month. Detailed brief, a few product priorities, a promotion, launch, or even nothing. - Strategy Checks previous campaigns and performance (connected to ESP), historical angles, subject lines, products, current offers, holidays, seasonal relevance, previous months’ drafts and what has already been pushed recently. - Product + angle selection Chooses products and messaging angles based on historical performance, seasonality, offer relevance, product context and the rest of the monthly campaign plan. - Drafting Creates the monthly email drafts using the strategy, brand guide, product data, offers, real customer reviews and client-specific copy rules. - Client review Exports the drafts into a normal human-readable format for client approval and feedback. - Editor / revisions Takes client comments, changes only what needs changing, and re-checks the updated email against all brand and copy rules. - Design handoff Creates/updates task management system and sends approved copy to the correct designer. - Designed email review Pulls the completed ESP drafts and creates a client-facing table with web-view links for review. - Corrections If the client requests visual changes, the workflow routes the feedback back to the designer through task management system and brings the campaign back into review once completed. - Segmentation + exclusions Applies client-specific audience rules, target segments, engagement windows and exclusions. - Follow-ups, campaign variants or different types of sending Duplicates campaigns when needed, creates follow-up sends and prepares different audience versions. Can send first to the most engaged audience, then progressively broader segments while excluding everyone already targeted in previous tiers. - Scheduling Once approved, schedules the campaigns through the API using the client-specific sending rules. So the actual flow is basically: brief &gt; strategy &gt; drafts &gt; client review &gt; revisions &gt; design &gt; review &gt; corrections &gt; segmentation &gt; scheduling Under the hood this became pretty big. There are a lot of scripts, skills, markdown files, APIs, client-specific rules and handoffs behind it. At some point it stopped feeling like a bunch of automations and started feeling more like an email marketing operating system. Generating copy is easy. The harder part is knowing what was previously sent, what performed, which product makes sense currently, what offer is active, which review supports the message, how the brand talks, who should receive the email, who needs to be excluded, what the client approved and what still needs fixing. The impact on my workload was pretty significant. New client onboarding went from a working day to roughly 30 minutes. Creating around 8 monthly email drafts for an established client went from roughly 3–4 hours to around 20 minutes for the initial draft set. But the biggest result was capacity. At one point I was managing up to 16 client accounts simultaneously, because most of the repetitive operational work was no longer being done manually. For me, the breakthrough was turning a large part of the delivery process into a system. That’s what actually created leverage. I got less repetitive work, more capacity, and fewer things falling through the cracks. &#32; submitted by &#32; /u/caburos [link] &#32; [comments]",
+      "published": "2026-10-26T20:23:16+00:00"
     },
     {
-      "title": "Are AI-generated fake reviews becoming a massive startup problem? I will not promote",
-      "url": "https://www.reddit.com/r/startups/comments/1sx094r/are_aigenerated_fake_reviews_becoming_a_massive/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sx094r/are_aigenerated_fake_reviews_becoming_a_massive/",
-      "author": "/u/No-Tip353",
+      "title": "All users come from SEO, shall i focus on google ads? I will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1xfvyq9/all_users_come_from_seo_shall_i_focus_on_google/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xfvyq9/all_users_come_from_seo_shall_i_focus_on_google/",
+      "author": "/u/PhewYork",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "I’ve been noticing more AI-generated testimonials, fake reviews, and synthetic content being used online and it got me thinking about how startups will deal with this. For early-stage startups, trust is everything. If fake reviews, fake UGC, or AI-generated testimonials become normal, customers might stop trusting smaller brands entirely. I recently came across platforms trying human verification instead of just relying on AI detectors, which seems interesting because most AI detection tools feel inaccurate. Do you think this becomes a real problem in the next few years? How would startups deal with it? &#32; submitted by &#32; /u/No-Tip353 [link] &#32; [comments]",
-      "published": "2026-04-27T10:58:27+00:00"
+      "selftext": "So, i have done previous posts here where i discussed the subscriptions i have to promote my product. I also got a few users from x and linkedin premium i used for networking. Now, I am getting Zero results from Meta ads. All I got something was from SEO for which i used pilotdeck but the problem is it can&#39;t be amplified, spoke to their team but they only provide max 30 human written blogs a month. Shall i hire a freelancer and create bulk pages for SEO? Or if not SEo than what other platform shall I use to run ads? Reddit or linkedin ads. My product is into parenting. &#32; submitted by &#32; /u/PhewYork [link] &#32; [comments]",
+      "published": "2026-10-26T12:52:45+00:00"
     },
     {
-      "title": "Unexpected #1 on Hacker News. What next? I will not promote.",
-      "url": "https://www.reddit.com/r/startups/comments/1swnrhg/unexpected_1_on_hacker_news_what_next_i_will_not/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swnrhg/unexpected_1_on_hacker_news_what_next_i_will_not/",
-      "author": "/u/Used_Accountant_1090",
+      "title": "Registered agent / lawyer recommendations for US incorporation? Are Northwest Registered Agent reliable or a scam? (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1xfza9n/registered_agent_lawyer_recommendations_for_us/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xfza9n/registered_agent_lawyer_recommendations_for_us/",
+      "author": "/u/Historical_Sky1668",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "4 of us ex-HubSpot product and engineering folks have been busy building context graphs for scattered enterprise data. It has proven super hard to sell as the real value of a robust context system is hard to show over simple RAG unless you are operating at a certain scale of real data and complexity. Meanwhile, I (Founder &amp; CEO) built a personal project on the side a few weeks ago because I had been using every agent under the roof in multiple terminal sessions at the same time and was sick of repeating myself to them. I was like &quot;if my agents could just talk to each other&quot; Light bulb and token reset hit and I built myself a Slack like office over a weekend (and a couple of weekdays for the extra polish) where I could get my Claudes, Codexes, Openclaws, local LLMs, all talking to each other in Slack like channels for coding, social content, SEO, etc. while sharing context via a Karpathy-style team wiki they build and maintain, built upon some of our own context architecture. This was surprisingly useful and I immediately saw value from our context infra for multi-agent operations. This was basically the missing usability layer for the infra. I showed this to the team and told them I will just keep this as a side open source project and get some more validation on the approach. So I decided to randomly post about it on ShowHN on Thursday with little hope of getting much from it. The only people I asked to upvote was my team and when they tried, they found that the post was marked dead on arrival, maybe because I had no karma. So, I hopelessly emailed the mods (had no idea if Claude got me the right email address or if rhey even respond), and went on with life. Was on the bus doing daddy duty, taking the kids out on Saturday, when a reply from a Hacker News mod hit my inbox &quot;OK, it&#39;s on the front page now. Good luck with it!&quot; I was confused, so opened ShowHN. Post was visible again and we were #1 on arrival, then still a few hours later, and then still dominating the top spot all of Saturday. 100s of comments on the post and our repo climbed from barely a 90 stars ( a lot of them came from lots of begging and convincing and quid-pro-quo star-for-star conversations) to 500+ stars in a day. I have never seen such hockey stick growth in my life and I don&#39;t know how to react. Yes, it is small and we haven&#39;t pulled an OpenClaw by even a small %, but it is substantial for us right now. After frantically replying to lots of comments on HN and hurriedly trying to fix all the issues in our repo (there are still tons of glaring issues, I feel like an imposter) and checking Discord like a maniac every few minutes to welcome any new community members, I am finally taking a breather, and thinking what&#39;s next. Is this a fluke that just dies off and we fail to do anything about it? Or will we be able to ride the momentum and climb higher and faster to exponential traction and momentum? These are just thoughts in my head and they make me happy, scared, anxious and grateful, all at the same time. &#32; submitted by &#32; /u/Used_Accountant_1090 [link] &#32; [comments]",
-      "published": "2026-04-27T00:01:54+00:00"
+      "selftext": "I’m looking to incorporate an LLC/C-Corp in Delaware/Wyoming. I’m not a resident of the US. I’m looking for a reliable registered agent in the US who can help me with incorporating the company, ensure that I’m upto date with any yearly tax obligations in the US, and where I can use their US business address for my company. I want a service that isn’t crazy expensive, but is reliable and ensures I’m upto date on all my filing/tax obligations. Does anyone have any recommendations? I’ve done a deep dive on Reddit and seen great reviews about Northwest Registered Agent, but the overwhelmingly positive reviews makes me feel like they could be paid reviews? Does anyone have any personal experiences with them - either positive or negative? Or any other recommendations? Also in addition to a registered agent, would you recommend hiring a lawyer/law firm to analyse my company’s tax obligations in the US, or is it not required? Any reasonably priced recommendations for this? &#32; submitted by &#32; /u/Historical_Sky1668 [link] &#32; [comments]",
+      "published": "2026-10-26T15:02:41+00:00"
     },
     {
-      "title": "Do early startups underestimate how much lost momentum kills sales? (I will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1swxpm0/do_early_startups_underestimate_how_much_lost/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swxpm0/do_early_startups_underestimate_how_much_lost/",
-      "author": "/u/DeliciousWin4649",
+      "title": "Solo founder with 230+ paying users and growing. Do I spend the money to hire a developer or keep building it myself? (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1xf170b/solo_founder_with_230_paying_users_and_growing_do/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xf170b/solo_founder_with_230_paying_users_and_growing_do/",
+      "author": "/u/finiac",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "One thing I continue to wonder about is how many of the challenges to selling during the early-stage start-up stage can be attributed to momentum rather than anything else. It’s not necessarily a bad product or bad messaging, but rather too many small breaks in the process, such as responding late, letting follow-ups slide, changing priorities every couple of days, restarting all your outreach efforts completely, and not being in a rhythm long enough to learn from what’s working. It seems that most founders are often quick to assume that the poor results they’re experiencing indicate they need a new sales strategy or maybe an entirely new product, when in reality there may not be any consistent rhythm to build upon in order to create a compounding effect from their efforts. I’m interested in hearing how others think about this: have you ever experienced the situation where the real issue which has been holding back sales was not related to your offer or copy, but rather the stop/start nature of your outreach? &#32; submitted by &#32; /u/DeliciousWin4649 [link] &#32; [comments]",
-      "published": "2026-04-27T08:32:27+00:00"
+      "selftext": "I’m pretty torn on what to do at this point and would appreciate some advice from other founders who’ve been in a similar position. I started a B2B software company almost two years ago. I’m currently the only employee, although I’ve been through about five different employees and contractors along the way. I don’t have a software engineering background, but I’ve basically built the entire product myself, largely using AI. We now have over 230 users in a niche market, solving a real problem with real, paying, recurring customers. It may not sound like a lot but it’s a niche, high dollar value customer base and it’s continuing to grow. It’s entirely possible that we could generate another $500k in revenue over the next six months. But it’s also entirely possible that we only generate $100k. There’s a lot of uncertainty, and that’s part of what’s making this decision difficult. Here’s my dilemma. I want to hire a software developer to take over the development side of things so I can focus on actually growing the business. The problem is that I’ve really struggled to find the right person. In my experience with previous developers and contractors, I’ve often found that it’s easier to just use AI and build things myself rather than explain everything to someone else. But the downside is that doing it myself still takes a tremendous amount of time. On one hand, I desperately want someone to take this work off my plate. On the other hand, if I have to explain exactly how to do everything, I feel like I might as well just do it myself. Part of the challenge is that our software is in the financial services space and requires a significant amount of subject matter expertise. It’s not something where I can just tell a developer, “Hey, go build this feature,” and expect them to figure it out. There’s a lot of domain-specific knowledge involved. I’ve tried just about everything to find someone. I’ve reached out to our users, posted on job boards, tried recruiting through Reddit, and ultimately ended up working with a recruiter. We finally found someone who we think could be a really good fit. The problem is that it’s really expensive and it feels like I’m burning precious capital. Just the recruiter’s fee alone is around $35k, on top of the developer’s salary. I realize that potentially generating $500k in revenue over six months sounds great, but that’s far from guaranteed. If we only generate $100k, suddenly I’ve got a serious cash flow problem, especially after committing to a full-time salary and a $35k recruiting fee. So I’m sitting here trying to figure out whether I should take the financial risk and hire this person, or just keep doing what I’ve been doing and continue building the product myself with AI. The business is working. We have paying customers. There’s clearly demand. But I also know I can’t keep spending all my time developing the software if I want to grow the company. For founders who’ve been in this position, what did you do? At what point did you decide it was worth taking the financial risk to bring on a developer, especially when you were already capable of building the product yourself? Would love to hear from people who’ve actually dealt with this. &#32; submitted by &#32; /u/finiac [link] &#32; [comments]",
+      "published": "2026-10-25T12:32:55+00:00"
     },
     {
-      "title": "Are all startups bound to content creation? (i will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1sx81vq/are_all_startups_bound_to_content_creation_i_will/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sx81vq/are_all_startups_bound_to_content_creation_i_will/",
-      "author": "/u/solo_sun",
+      "title": "Advice Starting Business for High Income Earners (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1xf5mwo/advice_starting_business_for_high_income_earners/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xf5mwo/advice_starting_business_for_high_income_earners/",
+      "author": "/u/Important-Tradition8",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "It seems like no matter the industry/product/business, if you want organic traffic, you have to be a content creator: Newsletters like substack Posting regularly on linkedin/insta/tiktok/etc Writing blog posts Engaging with communities on Slack/X or whatever else It&#39;s not just about posting and commenting but its also about doing it regularly and frequently. This in itself is a full time job and for bootstrapped founders, its extremely resource intensive. It&#39;s also hard to say what the ROI is. Are there strategies or tips that can make it less exhausting and more successful or is this just the name of the game? &#32; submitted by &#32; /u/solo_sun [link] &#32; [comments]",
-      "published": "2026-04-27T16:03:23+00:00"
+      "selftext": "I’m 37 and have had a successful sales career in highly complex enterprise technology within the aerospace sector. I currently work for a large company but I have worked at several small companies, including my last job where I was the first sales person hired and I took it from $7M in revenue to $20M in 24 months, scaling from 8 to 40 employees. I’ve grown my current business from 10M annually to 65M in 6 years. Having worked for both small and large companies and across many industries, I’d consider myself fairly well rounded in experience. That said, I have long considered building a business on the side that would provide a second income stream and also protection (I don’t see many past 50 working in in field), so future proofing my income is the goal. I’m also very oriented towards the service industry that won’t be so easily disrupted by AI (I currently work with AI and I will barf if I hear about another AI startup). I’d want this to grow to something that would afford me true financial independence long term, defined as not having to work and not having to worry. Personally I’ve built up $3M in savings/retirement (I max out everything including a back-door Roth) and my income fluctuates between $400K and $700K per year. I have pretty strong work life balance despite a fair bit of travel (25-50% depending on what’s going on). The reason I bring this up is this is my biggest mental barrier to starting a business is I make really good money now with high quality of life. Looking at dumping another 500-750 hours into a business that might do $250K in revenue at 20% net margin is hard math for me to swallow. But I’m no stranger to 60-80 hour work weeks either. When I look at the numbers of certain businesses, the revenue output is far less per hour compared to what I’m doing today. I understand it could/would grow, but effectively I’d be sacrificing quality of life while simultaneously lowering my output. This is perhaps the most important *metric* I’m measuring as it relates to this decision: output. In 24 months I would need to be producing more output (dollars per hour) than I am right now. On the low end I’m at $260 per hour now. For those reasons above, picking a business/industry and pulling the trigger has been difficult. I need something I can scale part time, where the constraints that would govern the business are things I could mostly handle, and ideally the capital to start is relatively low. While I’ve considered buying businesses as well, I look at debt service and a PG as a possible non-starter that puts at risk my current income and assets. So in short: I have a strong W-2 job I plan to keep, a sales background, and capital to invest, but I won&#39;t risk my retirement savings. I want a scalable business that can eventually run without me and be possibly sold. I would love anyone’s advice or insight as to how to proceed. Questions burning in my head: **Industry and opportunity*\\ * Given my situation, what business would you start or buy today? What overlooked industries are boring but highly profitable? Where would a strong salesperson have an unfair advantage? What industry would you tell me to avoid, and why? **Buy vs. Start*\\ * 5. In my position, would you buy or start, and why? 6. Which path gets to stable cash flow fastest with the least owner time? 7. What makes an acquisition a good turnaround versus a trap? 8. Which path builds more value toward a large exit? **Running it alongside a job*\\ * 9. Has anyone successfully run a business while keeping a demanding job? What made it work? 10. When did you know it was time to hire someone to run it, and what did that cost? Money and downside 11. How do you structure a business so a failure can&#39;t touch personal assets? 12. How much capital and time did it take you to reach break-even? **Blind spots and hindsight*\\ * 13. What do people with great jobs consistently underestimate about starting a business? 14. What would you do differently if you were starting today? 15. What am I not thinking about? 16. Who else should I be talking to? &#32; submitted by &#32; /u/Important-Tradition8 [link] &#32; [comments]",
+      "published": "2026-10-25T15:43:02+00:00"
     },
     {
-      "title": "AI and stock trading I will not promote",
-      "url": "https://www.reddit.com/r/startups/comments/1sxn5wv/ai_and_stock_trading_i_will_not_promote/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sxn5wv/ai_and_stock_trading_i_will_not_promote/",
-      "author": "/u/No_Game_No_Life4",
+      "title": "I will not promote - advice for LLC for non USA resident",
+      "url": "https://www.reddit.com/r/startups/comments/1xffh1p/i_will_not_promote_advice_for_llc_for_non_usa/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xffh1p/i_will_not_promote_advice_for_llc_for_non_usa/",
+      "author": "/u/gengiscol",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "Hello, I am planning to build an AI investing advisor for retail investors. The idea is have AI do a full equity research like you get from the JP morgan or similar investment firms. Then the user can review the plan aprove it or reject it, and then it executes through the connected brokerage. I am a tech person so I don’t really have a idea of what stocks and stuff might looks like but my friend who worked at hedfunds has a really good track record, 268% return in 4 years, and he has his filter and questions that he devoped with his hedge fund boss in his last work. I am just trying to put this into automation using AI, any opinion would be nice. But would you guys use this service? would you want the AI to exectue trade for you? and how much do you think you would pay for this serivice? I just have no idea and genually just trying to learn. Thank you for reading! &#32; submitted by &#32; /u/No_Game_No_Life4 [link] &#32; [comments]",
-      "published": "2026-04-28T01:30:11+00:00"
+      "selftext": "Hi ! I’m doing research on the best company to help me with everything I need for my startup (I’m a soloprenuer) regarding opening a LLC in USA. I’m not looking for funds in a venture capital. Currently I have the following companies in my radar: Globafy Neubase A law firm with presence both in my home country and in USA I’m looking probably to open a Single-Member LLC en Wyoming Any recommendations ? Thanks !! &#32; submitted by &#32; /u/gengiscol [link] &#32; [comments]",
+      "published": "2026-10-25T22:16:14+00:00"
     },
     {
-      "title": "Interview red flag or normal in start up? I will not promote",
-      "url": "https://www.reddit.com/r/startups/comments/1swlxtq/interview_red_flag_or_normal_in_start_up_i_will/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swlxtq/interview_red_flag_or_normal_in_start_up_i_will/",
-      "author": "/u/EngineeringParty59",
+      "title": "Equity free grants for startups? (i will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1xeekb6/equity_free_grants_for_startups_i_will_not_promote/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xeekb6/equity_free_grants_for_startups_i_will_not_promote/",
+      "author": "/u/OkWait1234",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "I applied for a role in a small start up which I thought was cool. Long story short, after the 2nd interview (with CEO, first was pre recorded) he pitched me a made up role. He saw I had specific skills from running my own business. Told me to sleep on it. I was passed to the next round with another employee, who appreciated my expertise, he was 2nd in command I guess. I asked could he share what success would like I the role, how much the company had grown and what the salary range was. He couldn’t share the job spec and was cagey about the company’s worth (equity was part of the comp). He also said he didn’t know the range for pay and only the CEO would know. He obviously liked my interview and he followed up with a take home task for me to do (pretty sure he used AI to write it). They don’t have anyone who has expertise in this area in the company, but essentially the take home project was a full strategy (seemed more like contracted work than an audition). I was also concerned they could essentially just take my strategy and then not offer me a role (they’re trying to do what I’d help with , but without success). The idea was to prepare this then travel 500 odd miles to their office to present it. Given I’d have to take a few days out to prepare then at least 2 days to travel, I asked again about salary and job specs. The reply I was met was along the lines of, if you’re a good fit we’ll discuss salary down the road (I mean I’ve done 3 interviews).I’d have to move for the role. The second problem was I was sent a job spec from the site that had been there before I ever applied, it has some elements of what the ceo pitched me but it’s not the same. Essentially the job spec entails lots of low leverage stuff that can be cheaply outsourced, they wanted strategy and hands on implementing by the same person (it comes back to why what they’re trying to do isn’t working). Seems like a really unique product and an area I know I’d be really good at, but is this just full of red flags? How can I approach this? I have a feeling they think it’s way easier to fill this role than it actually will be. &#32; submitted by &#32; /u/EngineeringParty59 [link] &#32; [comments]",
-      "published": "2026-04-26T22:41:30+00:00"
+      "selftext": "So I have seen many founders on X and some on Reddit claiming that they got several equity free grants for their company not from their university or something but from orgs or global companies? Anybody here had similar experience? If you, did can you please share the process or any experience of yours? Thanks &#32; submitted by &#32; /u/OkWait1234 [link] &#32; [comments]",
+      "published": "2026-10-24T17:29:31+00:00"
     },
     {
-      "title": "what would you name a child of \"Free\" and \"Included\" services \"i will not promote\"",
-      "url": "https://www.reddit.com/r/startups/comments/1sxhys1/what_would_you_name_a_child_of_free_and_included/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sxhys1/what_would_you_name_a_child_of_free_and_included/",
-      "author": "/u/Extension-Tip-159",
+      "title": "[I will not promote] Any \"hidden\" free credits for startups ?",
+      "url": "https://www.reddit.com/r/startups/comments/1xed268/i_will_not_promote_any_hidden_free_credits_for/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xed268/i_will_not_promote_any_hidden_free_credits_for/",
+      "author": "/u/Guitar1367",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "Imagine Free service and Included service happily merried and have a kid, what whoult be its name? I have this dilema, we have some services which are included in a package, so they basically come free. We just don&#39;t like the naming, Neither &quot;Free&quot; nor &quot;Included&quot; seems right. &#32; submitted by &#32; /u/Extension-Tip-159 [link] &#32; [comments]",
-      "published": "2026-04-27T21:51:26+00:00"
+      "selftext": "So I am in an early stage of startup. I got the AWS Activate credits, and I still need some compute power, is there any interesting programs to apply to. I am building a product to run both on cloud and locally. Also, if there are other interesting programs to apply to in any way made to help startups build their MVP ? &#32; submitted by &#32; /u/Guitar1367 [link] &#32; [comments]",
+      "published": "2026-10-24T16:29:04+00:00"
     },
     {
-      "title": "Angels & VCs - is consumer hardware something you'd never invest in? [I will not promote]",
-      "url": "https://www.reddit.com/r/startups/comments/1swpdkw/angels_vcs_is_consumer_hardware_something_youd/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swpdkw/angels_vcs_is_consumer_hardware_something_youd/",
-      "author": "/u/Constant_Fig_232",
+      "title": "I’m a BPT graduate in Pune building healthcare prototypes, but I need a job and don’t know what to do next....I will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1xekdeh/im_a_bpt_graduate_in_pune_building_healthcare/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xekdeh/im_a_bpt_graduate_in_pune_building_healthcare/",
+      "author": "/u/Open_to_work_ai",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "Im curious, is it typically just off limits or is there something that would make you invest in consumer hardware? I feel like no one wants to invest in this space and that everyone would just rather invest in AI/SaaS no matter if some VCs say they invest in all industries. &#32; submitted by &#32; /u/Constant_Fig_232 [link] &#32; [comments]",
-      "published": "2026-04-27T01:17:12+00:00"
+      "selftext": "I have completed my Bachelor of Physiotherapy (BPT) and currently live in Pune, India. My interest goes beyond clinical practice. I like identifying problems in healthcare, understanding clinical workflows, researching solutions, and building tools that can make healthcare professionals’ work easier. Over time, I’ve started building a couple of early-stage healthcare technology prototypes. However, I’m currently short on money, need a stable income, and am struggling to decide what my next step should be. What have I built so far? A home rehabilitation monitoring prototype The idea is to improve communication between physiotherapists and their supervisors during post-operative rehabilitation. The prototype has two views: - Physiotherapist/student view: Records rehabilitation visits, knee range of motion, pain, swelling, walking ability, exercise completion, and warning signs. - Supervisor view: Displays patient progress, highlights potential concerns, and allows the supervising clinician to review cases that may need attention. The broader goal is to reduce scattered documentation and make it easier for clinical teams to follow patients receiving rehabilitation at home. A structured rehabilitation report for surgeons I’ve also created a sample discharge and rehabilitation progress report that could help surgeons understand how their patients are recovering after surgery. Instead of relying only on what a patient remembers or on a collection of separate documents, the report brings together information such as: - Changes in knee range of motion and pain - Walking ability and functional assessments - Recovery milestones - Recorded warning signs - Progress across physiotherapy visits The idea is that a patient could bring this report to a surgeon’s follow-up appointment, giving the surgeon a clearer summary of the rehabilitation information available. I’ve attached screenshots of the prototype and a sample report. These are early demonstrations using fictional patient data, not a clinically validated or deployed product. Here is my actual dilemma. I have completed my degree, I can understand clinical problems, and I enjoy working on healthcare research, documentation, presentations, and product ideas. But building a healthcare product requires time, money, clinical feedback, and eventually proper validation. I cannot keep working on it indefinitely without earning an income. I’m not looking for investors or donations. I need a paid job, preferably in Pune or in a suitable remote role, while figuring out whether these ideas can become viable products. I’m interested in opportunities involving healthcare operations, clinical research support, healthtech product teams, clinical implementation, medical documentation, healthcare content, or other roles where a physiotherapy background is useful. I would appreciate honest advice from founders and people working in healthtech. What should I prioritise right now? Should I find a job in a healthtech company or hospital first and develop the product alongside it? How would you validate these prototypes? Should I speak to surgeons, physiotherapists, hospital administrators, or home healthcare companies first? Which job roles should I realistically target? I have a BPT degree and experience building these prototypes, but I need to understand where I could contribute professionally and earn. What would you do next if you were in my position? Would you continue developing the product, pause development until you have clinical feedback, or take a different approach? I’m trying to avoid making the mistake of spending months building something without confirming that it solves a problem people actually need solved. I would value practical criticism, suggestions about the right first step, and advice on finding paid opportunities in the Indian healthtech ecosystem. Thank you. &#32; submitted by &#32; /u/Open_to_work_ai [link] &#32; [comments]",
+      "published": "2026-10-24T21:27:16+00:00"
     },
     {
-      "title": "Our reps were all telling the product story differently so we gave them one thing to send. \"i will not promote\"",
-      "url": "https://www.reddit.com/r/startups/comments/1swor4z/our_reps_were_all_telling_the_product_story/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swor4z/our_reps_were_all_telling_the_product_story/",
-      "author": "/u/Low-Oil7883",
+      "title": "[I WILL NOT PROMOTE] Looking for co-founder for my prediction website/app (USA based)",
+      "url": "https://www.reddit.com/r/startups/comments/1xeybck/i_will_not_promote_looking_for_cofounder_for_my/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xeybck/i_will_not_promote_looking_for_cofounder_for_my/",
+      "author": "/u/candle_misuser",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "We are still small enough that everyone kind of developed their own way of pitching the product. At first it seemed fine. Then deals got a little more serious and we realized buyers were getting very different versions depending on who they talked to. We kept thinking the answer was better training or cleaner decks, but what actually helped was giving reps one consistent demo experience to send before and after calls. That cleaned up a lot fast. Anyone else run into this once the team started growing? &#32; submitted by &#32; /u/Low-Oil7883 [link] &#32; [comments]",
-      "published": "2026-04-27T00:47:55+00:00"
+      "selftext": "I’ve built a working prototype where people create questions about news, sports, politics, and internet events, then predict the outcomes using free points but targetting south Asian countires. Looking for a US-based cofounder interested in the same to help shape the product and grow an early community. Still early stage, so there’s plenty to build together. (DW I have claude max) DM me if this sounds interesting! &#32; submitted by &#32; /u/candle_misuser [link] &#32; [comments]",
+      "published": "2026-10-25T09:53:23+00:00"
     },
     {
-      "title": "Had my first investor call - cant tell how it went [I will not promote]",
-      "url": "https://www.reddit.com/r/startups/comments/1swpbli/had_my_first_investor_call_cant_tell_how_it_went/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swpbli/had_my_first_investor_call_cant_tell_how_it_went/",
-      "author": "/u/Constant_Fig_232",
+      "title": "Contemplating leaving a successful startup [I will not promote]",
+      "url": "https://www.reddit.com/r/startups/comments/1xdweac/contemplating_leaving_a_successful_startup_i_will/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xdweac/contemplating_leaving_a_successful_startup_i_will/",
+      "author": "/u/masgourii",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "I had an inbound investor call from a US VC firm. The guy reached out to me on linkedin (we&#39;re a canadian company) wanting to learn more about our startup. We&#39;re not raising rn and focused on gaining more traction so we hadnt started reaching out to VCs but took this call cuz why would I reject someone reaching out to me lol. It was our first call and we knew going in we&#39;d probably bomb it but I think it went okay? We definitely rambled more than we should&#39;ve and thought it didnt go too well, but at the end of it, they said they&#39;d reach out to us in 3 months to have another call or we can reach out earlier if we get more traction (we knew rn our traction wasn&#39;t the best). They haven&#39;t ever invested in our space (we&#39;re consumer hardware) so it was interesting seeing they reached out. The guy said he saw my linkedin, looked at my website, thought it was a cool product so wanted to reach out. I&#39;m definitely sad there weren&#39;t more meetings immediately set up. But idk, what are your guys thoughts? Also one of them put a deposit down on our website for our product immediately after the call (he fit our ICP). &#32; submitted by &#32; /u/Constant_Fig_232 [link] &#32; [comments]",
-      "published": "2026-04-27T01:14:43+00:00"
+      "selftext": "I’m a cofounder and the CTO of a startup in a fairly niche B2B sector. We started 5 years ago, and have been bootstrapped this entire time. We’ve grown our customer list pretty effectively and have many leads in the works still. Problem is, I’m super burned out. For 5 years I’ve been putting in 60-70 hour weeks, and it’s really getting to me. To top it off, I feel that my salary is below what I could make as a standard software engineer with my experience. We’ve recently decided to do a proper VC raise, and had a mentorship meeting earlier today to get some guidance. I brought up that one of the things I’d like from the raising capital is to increase my salary, so that I’d be getting market rate. He basically laughed at that idea, and said that there is no respectable VC that would be willing to let a cofounder make market rate pay after only a Series A. So now I feel like I’m working twice the hours of a standard job and making half as much, which has gotten me pretty down. Of note, although we’ve grown our developer team and have 5 devs under me, I still manage the majority of the production workloads. Managing infrastructure, security, architecture, roadmap, etc.. (which is obviously all my responsibility as a CTO). But I want to say that, without any ego, I’m the most valuable asset in the company. To the point that the other cofounders have taken out a keyman insurance policy on me just incase anything happens to me. So now I’m really conflicted. If I leave I feel like the company won’t survive. But at the same time I’m tired of being overworked and underpaid. Lastly, if I do decide to leave I want to do it before any fundraising takes place, as the other thing the mentor has told me is that it’s common for the cofounders to revest half/all of their equity to show they are “all-in”. So if I want to not burn my equity I feel now is the best time to leave. The dead equity might be an issue for fundraising, but worst case they can buy me out maybe? Has anyone been in a similar situation? Any possible advice you can share to help me with this decision. It is five years of building something from scratch, I don’t want to make this decision without taking everything into consideration. &#32; submitted by &#32; /u/masgourii [link] &#32; [comments]",
+      "published": "2026-10-24T01:57:36+00:00"
     },
     {
-      "title": "We cut our free tier down to 2 prompts and got our first annual subscriber the same week. I will not promote.",
-      "url": "https://www.reddit.com/r/startups/comments/1sweqv3/we_cut_our_free_tier_down_to_2_prompts_and_got/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sweqv3/we_cut_our_free_tier_down_to_2_prompts_and_got/",
-      "author": "/u/devreme",
+      "title": "Which idea would you pursue if you wanted a steady, profitable business with the least resistance to success? I will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1xevh1c/which_idea_would_you_pursue_if_you_wanted_a/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xevh1c/which_idea_would_you_pursue_if_you_wanted_a/",
+      "author": "/u/vasaya",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "My co-founder and I have been building a fintech tool for about 6 months. AI stock research for beginners. We had people signing up and using the free tier but nobody was converting. We looked at the sessions and realised people were getting everything they needed without paying. So we cut the free AI prompts to 2. Just enough to see what it does but not enough to rely on it. Within days someone we&#39;ve never spoken to signed up and paid for the full year upfront. The product didn&#39;t change just the access to it. Has anyone else found that being too generous with the free tier was the thing killing conversions? &#32; submitted by &#32; /u/devreme [link] &#32; [comments]",
-      "published": "2026-04-26T18:03:41+00:00"
+      "selftext": "I&#39;m deciding between 3 online marketplace ideas and would appreciate honest feedback on which is most viable and worth pursuing. 1. Event Photography &amp; Videography Marketplace A platform where companies book vetted photographers and videographers for corporate events, conferences and brand activations through predefined packages. The platform earns a commission on each booking. The market is competitive, with low barriers to entry and limited differentiation. 2. Sponsorship &amp; Audience Access Marketplace A platform where brands discover and book sponsorship opportunities across newsletters, digital publications, webinars, coworking spaces, communities, clubs and events. Providers list and fulfil their own opportunities, while the platform takes a 10% commission. Similar platforms exist elsewhere, but I haven&#39;t found a consolidated equivalent in my local market. Demand and market maturity remain uncertain. 3. Clubs &amp; Communities Marketplace A platform where clubs, social groups and community organizers book activities, experiences and venues for their members, from sports sessions and creative workshops to cafés and unique gathering spaces. It also connects communities with brands for sponsorships, product sampling and brand-funded experiences. Revenue comes from booking commissions and sponsorship transactions. Challenges include fragmented supply, small transaction values, competition and the effort required to secure sponsorships. Revenue with 10% booking commission and also from facilitating brand sponsorships. If you were starting from scratch, which would you pursue, and why? Consider profitability, ease of customer acquisition, barriers to entry, revenue potential, repeat demand and the path to building a sustainable business with minimal upfront capital. &#32; submitted by &#32; /u/vasaya [link] &#32; [comments]",
+      "published": "2026-10-25T06:59:35+00:00"
     },
     {
-      "title": "Was working in a agency getting 25% \" I will not promote\"",
-      "url": "https://www.reddit.com/r/startups/comments/1sxaq6v/was_working_in_a_agency_getting_25_i_will_not/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sxaq6v/was_working_in_a_agency_getting_25_i_will_not/",
-      "author": "/u/memayankpal",
+      "title": "I will not promote. How does one get around IP concerns when starting a business after working in industry?",
+      "url": "https://www.reddit.com/r/startups/comments/1xdx9d2/i_will_not_promote_how_does_one_get_around_ip/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xdx9d2/i_will_not_promote_how_does_one_get_around_ip/",
+      "author": "/u/hrrm",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "I was working in a web dev agency remotely, and they were paying me 25% of the project initially as I was doing nothing so I thought of let&#39;s try this and then now I think it&#39;s not fair. Either it should be any small percentage + a salary . So instead of this I was thinking of starting something my own like something to people I can handle the development part and he can handle the sales part. What do you think?? &#32; submitted by &#32; /u/memayankpal [link] &#32; [comments]",
-      "published": "2026-04-27T17:36:19+00:00"
+      "selftext": "Someone who at least claimed to be a millionaire on this sub said the way they did it and perhaps easy way to do it is to work in and industry, find the niche gaps, and then sell a solution to those gaps. I work for a hyperscaler company. A colleague and I have identified a safety gap in the datacenter that we don’t see much discussion about in the industry but appears that it the gap will only get worse with the AI buildout. We worked with a vendor using company money to develop a bandaid solution for one particular datacenter. The thought crossed our minds that why don’t we set up and moonlight an LLC to create a new and improved product with a different vendor and start selling this safety solution to the broader industry. Surely we will have used some qualitative learnings from the work with the previous vendor - learnings that would lead to a new and better idea than the bandaid solution we came up with - but we wouldn’t use any direct IP developed with the vendor during our time at the company. I ran this notion through 2 AI chat bots and both destroyed me, citing legal concerns, conflict of interest etc. They said that even though we wouldn’t use direct IP, because the idea came to us during the normal course of business with our company, and it “relates to the employer’s current business” that our company has the rights to the new product idea we would come up with. Further, they cited concerns about “duty to employer” as we would potentially be selling this product to our own hyperscaler when we have a duty to make the product internally and therefore the company benefit without us taking a cut. Amongst a few other points, NDAs, trade secrets, confidential information - even if all moonlighting activity is performed after work and on weekends. But this got me to beg the question. How does anyone moonlight and then (or) leave industry to start a business selling a solution to a gap they found while in industry if they would have discovered and potentially worked on solutions to the gap while employed. The AI chat bots made it seem like their old employers would all have a right to that IP. Are the chat bots right but over stating the likelihood that an old employer would actually care and sue? &#32; submitted by &#32; /u/hrrm [link] &#32; [comments]",
+      "published": "2026-10-24T02:42:54+00:00"
     },
     {
-      "title": "how is that most billion dollar value startups come from people who went to an Ivy? (I will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1swckyn/how_is_that_most_billion_dollar_value_startups/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swckyn/how_is_that_most_billion_dollar_value_startups/",
-      "author": "/u/Drairo_Kazigumu",
+      "title": "Google Accelerator (UA and Growth) Thoughts? (I WILL NOT PROMOTE)",
+      "url": "https://www.reddit.com/r/startups/comments/1xds28v/google_accelerator_ua_and_growth_thoughts_i_will/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xds28v/google_accelerator_ua_and_growth_thoughts_i_will/",
+      "author": "/u/f-d-t777",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "Is it because they&#39;re exposed to a bunch of people who have all sorts of ideas? How can someone gain access to those kinds of ideas and information (or do you just not)? And if you&#39;re wondering what kind of billion-dollar startups I&#39;m referring to, I&#39;m talking about software startups like Mercor, Kalshi, Cursor, etc. &#32; submitted by &#32; /u/Drairo_Kazigumu [link] &#32; [comments]",
-      "published": "2026-04-26T16:43:28+00:00"
+      "selftext": "Hey, I received an email from someone at Google, and I&#39;m looking at the email. It&#39;s definitely someone from Google. The email address says its google, and the title is Apps, Games, New Business, and Growth Strategy (also LinkedIn looks really good). This person&#39;s email says that they&#39;re part of an accelerator program at Google, helping with paid growth. A little about me: I have an app. It&#39;s a consumer app. It&#39;s not too big, to be honest, but we&#39;re definitely at a point in which we can scale. They were saying that they would give a product specialist, an account management team, and other resources, however the ad spend/budget is on us Has anyone heard of this? Is this worth doing? it seems too good to be true &#32; submitted by &#32; /u/f-d-t777 [link] &#32; [comments]",
+      "published": "2026-10-23T22:29:10+00:00"
     },
     {
-      "title": "How do you manage competitive intel when the AI landscape shifts every week? [I will not promote]",
-      "url": "https://www.reddit.com/r/startups/comments/1swjx4v/how_do_you_manage_competitive_intel_when_the_ai/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swjx4v/how_do_you_manage_competitive_intel_when_the_ai/",
-      "author": "/u/ComputerSciToFinance",
+      "title": "Startup idea: A monitoring platform for solar panels and batteries. Would this actually solve a real problem? [I will not promote]",
+      "url": "https://www.reddit.com/r/startups/comments/1xe5486/startup_idea_a_monitoring_platform_for_solar/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xe5486/startup_idea_a_monitoring_platform_for_solar/",
+      "author": "/u/csm_dev",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "Top AI companies (Anthropic, OpenAI, Google, etc.) are releasing something new every week - some of these releases destroy existing startups, while others open up new opportunities. Meanwhile, there are folks constantly posting on X and stirring up anxiety. Founders - how do you keep up with what&#39;s happening in your domain: how AI is changing it, what your competitors are doing, and what they might do next? &#32; submitted by &#32; /u/ComputerSciToFinance [link] &#32; [comments]",
-      "published": "2026-04-26T21:18:17+00:00"
+      "selftext": "Hey everyone! I&#39;m exploring a startup idea in the solar energy space and would love some honest feedback before building anything. The problem: People and businesses with solar panels and batteries often rely on different apps to monitor their energy production, consumption, and storage. For companies that maintain solar installations, this gets even more complicated. Technicians may need to monitor hundreds of installations across different manufacturers (Huawei, Fronius, SolarEdge, etc.). Sometimes, a solar system starts underperforming without triggering an obvious error. The issue might go unnoticed until the customer complains or someone manually checks the system. The idea: A single platform that connects to existing solar inverters and battery systems and provides: One dashboard to monitor multiple installations, regardless of manufacturer. Automatic detection of unusual drops in solar production. Alerts when something might be wrong, before it becomes a bigger problem. Battery and energy consumption monitoring. Prioritized maintenance alerts so technicians know which installations need attention first. The goal isn&#39;t to replace existing hardware or manufacturer apps, but to bring everything together and make maintenance more proactive. I&#39;d love your thoughts: Does this sound like a real problem worth solving, or are existing solutions already good enough? If you work in solar installation or maintenance, how do you currently monitor your systems? Would companies actually pay for something like this? What&#39;s the biggest flaw you see in this idea? I&#39;m still at the validation stage, so I&#39;m particularly interested in criticism, not just encouragement. Thanks! &#32; submitted by &#32; /u/csm_dev [link] &#32; [comments]",
+      "published": "2026-10-24T10:23:02+00:00"
     },
     {
-      "title": "I'm working on my startup and under what situation one should shut it off if there are cease & desist letters or lawsuits. \"I will not promote\"",
-      "url": "https://www.reddit.com/r/startups/comments/1swqyrv/im_working_on_my_startup_and_under_what_situation/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swqyrv/im_working_on_my_startup_and_under_what_situation/",
-      "author": "/u/Firm_Yogurtcloset102",
+      "title": "I spent months building a platform for beatmakers. Getting the first users is harder than I expected. (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1xdjo5w/i_spent_months_building_a_platform_for_beatmakers/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xdjo5w/i_spent_months_building_a_platform_for_beatmakers/",
+      "author": "/u/PrudentNegotiation99",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "&quot;I will not promote&quot; First time entrepreneur here. I&#39;m building my own startup. There are some grey areas like scraping. For example, LinkedIn vs. hi5 judgement says LinkedIn public facing profile (i.e, info not behind an auth wall) is public and can be scraped. I&#39;m just quoting this as an example.. I might be overthinking. If my startup gets any cease and desist letter or lawsuits, which stage it will trigger shutting down the company. I&#39;m in California, USA. &#32; submitted by &#32; /u/Firm_Yogurtcloset102 [link] &#32; [comments]",
-      "published": "2026-04-27T02:32:05+00:00"
+      "selftext": "I’ve spent the last few months building a website for beatmakers to upload their music, create profiles and get discovered through a leaderboard. I’ve put a lot of time into it. Probably too much, honestly. I’ve spent hours fixing little things, improving the music player, working on the design and adding features. And now that the site is live, I’ve run into a problem I wasn’t really prepared for. There just aren’t many people using it. I’ve been contacting producers on SoundCloud and trying to spread the word, but getting someone to visit the site is one thing. Convincing them to actually upload a beat is another. I think the biggest problem is that nobody really wants to post their music somewhere that doesn’t already have an audience. But without people uploading, it’s pretty hard to build that audience in the first place. And I keep going back to working on the site because, well, that’s the part I know how to do. I’m starting to realize I probably should’ve spent more time finding users before building so much. Has anyone here built something that depends on users creating content? How did you get past that initial stage where everything works, but the platform still feels empty? I’d genuinely like to hear what worked for you, especially if you started with basically no audience. &#32; submitted by &#32; /u/PrudentNegotiation99 [link] &#32; [comments]",
+      "published": "2026-10-23T17:00:58+00:00"
     },
     {
-      "title": "I will not promote: What surprised me building a small public-facing app (tooling sprawl + CSP)",
-      "url": "https://www.reddit.com/r/startups/comments/1swmv9z/i_will_not_promote_what_surprised_me_building_a/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1swmv9z/i_will_not_promote_what_surprised_me_building_a/",
-      "author": "/u/Illustrious-Bag-3445",
+      "title": "Feedback Friday",
+      "url": "https://www.reddit.com/r/startups/comments/1xd4vp1/feedback_friday/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xd4vp1/feedback_friday/",
+      "author": "/u/AutoModerator",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "I built a small side project in the resume space, and I expected the hard part to be feature development. What actually surprised me was everything around “making it production-safe” for public usage. The two biggest lessons: 1) Tooling grows fast (and each tool adds operational overhead) Very quickly I ended up integrating multiple services just to run a reliable app: \\- Sentry for error tracking \\- PostHog for product analytics \\- Resend for email flows \\- plus auth, DB, hosting, etc. Each one solved a real problem, but together they created a lot of integration/maintenance work: \\- env management \\- event consistency across tools \\- debugging across multiple dashboards \\- deciding what actually needs instrumentation vs what is noise 2) Content Security Policy (CSP) was way more complex than expected CSP looked simple at first (“just lock things down”), but in practice it became an iterative process: \\- third-party scripts/styles/connect endpoints \\- nonce/hash handling \\- avoiding overly broad rules while keeping the app functional \\- balancing security with dev velocity I underestimated how much time this would take compared to core product work. Curious how other founders handle this phase: \\- How do you decide which tools are truly essential early on? \\- Do you start strict with CSP from day 1, or tighten gradually? \\- Any heuristics to avoid over-instrumenting too early? &#32; submitted by &#32; /u/Illustrious-Bag-3445 [link] &#32; [comments]",
-      "published": "2026-04-26T23:22:02+00:00"
+      "selftext": "Welcome to this week’s Feedback Thread! Please use this thread appropriately to gather feedback: Feel free to request general feedback or specific feedback in a certain area like user experience, usability, design, landing page(s), or code review You may share surveys You may make an additional request for beta testers Promo codes and affiliates links are ONLY allowed if they are for your product in an effort to incentivize people to give you feedback Please refrain from just posting a link Give OTHERS FEEDBACK and ASK THEM TO RETURN THE FAVOR if you are seeking feedback You must use the template below --this context will improve the quality of feedback you receive &#x200B; Template to Follow for Seeking Feedback: Company Name: URL: Purpose of Startup and Product: Technologies Used: Feedback Requested: Seeking Beta-Testers: [yes/no] (this is optional) Additional Comments: &#x200B; &#x200B; &#x200B; This thread is NOT for: General promotion--YOU MUST use the template and be seeking feedback What all the other recurring threads are for Being a jerk &#x200B; &#x200B; Community Reminders Be kind Be constructive if you share feedback/criticism Follow all of our rules You can view all of our recurring themed threads by using our Menu at the top of the sub. Upvote This For Maximum Visibility! &#32; submitted by &#32; /u/AutoModerator [link] &#32; [comments]",
+      "published": "2026-10-23T05:00:23+00:00"
     },
     {
-      "title": "Elevator Pitch: 5 Seconds to get me intrested in your project. (I will not promote)",
-      "url": "https://www.reddit.com/r/startups/comments/1sx2wc9/elevator_pitch_5_seconds_to_get_me_intrested_in/",
-      "permalink": "https://www.reddit.com/r/startups/comments/1sx2wc9/elevator_pitch_5_seconds_to_get_me_intrested_in/",
-      "author": "/u/JustSomeRandomAI",
+      "title": "Is it unusual for a startup founder to refuse to share approximate runway with a prospective employee? (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1xcm0b4/is_it_unusual_for_a_startup_founder_to_refuse_to/",
+      "permalink": "https://www.reddit.com/r/startups/comments/1xcm0b4/is_it_unusual_for_a_startup_founder_to_refuse_to/",
+      "author": "/u/brysnov07",
       "subreddit": "startups",
       "score": null,
       "num_comments": null,
-      "selftext": "Make your case fast - and I and everyone who sees the post might become your next user. not promoting anything - just here to help out and provide feedback Make your case fast - and I and everyone who sees the post might become your next user. not promoting anything - just here to help out and provide feedback :) _______________________________________________________ _______________________________________________________ &#32; submitted by &#32; /u/JustSomeRandomAI [link] &#32; [comments]",
-      "published": "2026-04-27T12:57:09+00:00"
+      "selftext": "I’m considering returning to an early-stage startup where I previously worked as an engineer. The company has been bringing in new pilots and pursuing contracts, but it’s also preparing to raise its next round. I asked the founder how much runway the company has before the raise, given the new pilots and contracts. He responded that he couldn’t discuss it because it was proprietary, then said they were raising soon. I’ve spoken with founders at other startups who were comfortable sharing approximate runway, so I was surprised by the response. I understand that exact financials can be confidential. I’m not necessarily expecting access to the company’s books, but I’d like to understand the company’s financial position and fundraising timeline before making a career decision. For founders and people who’ve joined early-stage startups: Is it normal to consider approximate runway proprietary, even when speaking with a prospective employee? Would you expect a founder to share a rough estimate or at least explain the fundraising status? What questions would you ask to assess the risk of joining before a raise closes? I’m interested in understanding what’s normal in the startup ecosystem, rather than assuming the response necessarily means something is wrong. &#32; submitted by &#32; /u/brysnov07 [link] &#32; [comments]",
+      "published": "2026-10-22T15:39:21+00:00"
     }
   ]
 }
@@ -1217,417 +664,362 @@ node bin/main.js --json reddit -t startups -s hot ; node bin/main.js --json news
   "source": "hackernews",
   "items": [
     {
-      "by": "StefanBatory",
+      "by": "jonluca",
+      "descendants": 330,
+      "id": 50251344,
+      "kids": [
+        50253739,
+        50252781,
+        50252488,
+        50255087,
+        50254042,
+        50251563,
+        50252463,
+        50254277,
+        50254058,
+        50252374,
+        50251562,
+        50253950,
+        50251399,
+        50251903,
+        50252347,
+        50252275,
+        50252012,
+        50255299,
+        50255055,
+        50254611,
+        50252506,
+        50254323,
+        50255018,
+        50252962,
+        50252478,
+        50252462,
+        50254075,
+        50254235,
+        50252052,
+        50251948,
+        50253817,
+        50252735,
+        50252989,
+        50253187,
+        50253604,
+        50253992,
+        50254313,
+        50253757,
+        50254854,
+        50255088,
+        50254006,
+        50255137,
+        50252522,
+        50255200,
+        50254962,
+        50253419,
+        50253353,
+        50251692,
+        50252784,
+        50252619,
+        50253689,
+        50254028,
+        50252074,
+        50252184,
+        50251758,
+        50253367,
+        50253330,
+        50252278,
+        50252408,
+        50253560,
+        50252248,
+        50253785,
+        50252025,
+        50251731,
+        50255121,
+        50254330,
+        50251845,
+        50252566,
+        50252026,
+        50251595,
+        50252171,
+        50252139,
+        50252319,
+        50251881,
+        50254357
+      ],
+      "score": 747,
+      "text": "Related:<p><i>The Exponential Time Hypothesis Is False [pdf]</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251661\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251661</a>",
+      "time": 1793050528,
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "type": "story",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+    },
+    {
+      "by": "vok",
+      "descendants": 189,
+      "id": 50251661,
+      "kids": [
+        50254012,
+        50252769,
+        50254825,
+        50252720,
+        50252745,
+        50255162,
+        50252756,
+        50253260,
+        50252406,
+        50252501,
+        50254839,
+        50253174,
+        50254341,
+        50254969,
+        50254571,
+        50255260,
+        50253166,
+        50253252,
+        50252818,
+        50254572,
+        50253824,
+        50252562,
+        50252558,
+        50253826,
+        50253109
+      ],
+      "score": 521,
+      "text": "See also: <i>Announcing three new discoveries in mathematics, computer science, and physics</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251344\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251344</a>",
+      "time": 1793051955,
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "type": "story",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf"
+    },
+    {
+      "by": "sgiannopoulos",
+      "descendants": 92,
+      "id": 50245138,
+      "kids": [
+        50248190,
+        50249391,
+        50246122,
+        50245736,
+        50254159,
+        50249172,
+        50247852,
+        50248336,
+        50249762,
+        50253425,
+        50247692,
+        50249429,
+        50248268,
+        50247457,
+        50247507,
+        50249026,
+        50246980,
+        50246314,
+        50247793,
+        50247044
+      ],
+      "score": 651,
+      "time": 1793027519,
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "type": "story",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models"
+    },
+    {
+      "by": "enlyth",
+      "descendants": 218,
+      "id": 50248055,
+      "kids": [
+        50251964,
+        50249343,
+        50250806,
+        50250737,
+        50250562,
+        50249276,
+        50249468,
+        50250998,
+        50249510,
+        50248943,
+        50251775,
+        50252451,
+        50253149,
+        50250809,
+        50253243,
+        50252318,
+        50248994,
+        50249212,
+        50250195,
+        50249495,
+        50253238,
+        50253786,
+        50251140,
+        50250722,
+        50250409,
+        50253291,
+        50252042,
+        50250000,
+        50251482,
+        50249298,
+        50255365,
+        50252836
+      ],
+      "score": 373,
+      "time": 1793037415,
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "type": "story",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/"
+    },
+    {
+      "by": "doener",
       "descendants": 5,
-      "id": 47931035,
+      "id": 50253529,
       "kids": [
-        47931239,
-        47931292,
-        47931211,
-        47931160
+        50255044,
+        50254736,
+        50254669,
+        50253588
       ],
-      "score": 44,
-      "time": 1777357659,
-      "title": "GTFOBins",
+      "score": 68,
+      "time": 1793063704,
+      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
       "type": "story",
-      "url": "https://gtfobins.org/"
+      "url": "https://github.com/otya128/winevdm"
     },
     {
-      "by": "jekude",
-      "descendants": 95,
-      "id": 47927903,
+      "by": "adamnemecek",
+      "descendants": 147,
+      "id": 50248371,
       "kids": [
-        47931253,
-        47930782,
-        47930394,
-        47931275,
-        47930261,
-        47930714,
-        47930744,
-        47929230,
-        47929506,
-        47929169,
-        47930479,
-        47931087,
-        47931174,
-        47928886,
-        47929417,
-        47929046,
-        47928864,
-        47930526,
-        47929889,
-        47928949,
-        47930241,
-        47929317,
-        47928940,
-        47929190,
-        47929189,
-        47929828,
-        47929685,
-        47928917,
-        47928888,
-        47928987,
-        47930230
+        50249708,
+        50249007,
+        50249909,
+        50254373,
+        50249161,
+        50249859,
+        50249301,
+        50252115,
+        50253549,
+        50254580,
+        50253592,
+        50249458,
+        50250533,
+        50249057,
+        50249554,
+        50249115,
+        50251287,
+        50251440,
+        50249873,
+        50249356,
+        50252639,
+        50248835,
+        50249069,
+        50251474,
+        50250602
       ],
-      "score": 293,
-      "time": 1777326948,
-      "title": "Talkie: a 13B vintage language model from 1930",
+      "score": 225,
+      "time": 1793038489,
+      "title": "Type Server Protocol",
       "type": "story",
-      "url": "https://talkie-lm.com/introducing-talkie"
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md"
     },
     {
-      "by": "helsinkiandrew",
-      "descendants": 723,
-      "id": 47921248,
+      "by": "wondersky",
+      "descendants": 38,
+      "id": 50252159,
       "kids": [
-        47923805,
-        47921551,
-        47922120,
-        47922477,
-        47930160,
-        47925421,
-        47922022,
-        47925160,
-        47921511,
-        47926909,
-        47922383,
-        47921995,
-        47925637,
-        47921267,
-        47924759,
-        47925814,
-        47926814,
-        47930909,
-        47923581,
-        47921287,
-        47921840,
-        47921718,
-        47923395,
-        47922446,
-        47922454,
-        47923370,
-        47921772,
-        47921252,
-        47927373,
-        47926220,
-        47921769,
-        47925888,
-        47926174,
-        47929924,
-        47922058,
-        47924679,
-        47925907,
-        47928188,
-        47926708,
-        47924571,
-        47921711,
-        47929738,
-        47929394,
-        47925570,
-        47925286,
-        47922834,
-        47929268,
-        47929683,
-        47921662,
-        47925248,
-        47921886,
-        47923734,
-        47928218,
-        47924193,
-        47924796,
-        47921792,
-        47921854,
-        47926878,
-        47923995,
-        47921270,
-        47921797,
-        47930785,
-        47921285,
-        47929969,
-        47924062,
-        47921816,
-        47924123,
-        47923418,
-        47923649,
-        47921715,
-        47929862,
-        47921832,
-        47923796,
-        47924682,
-        47921499
+        50253748,
+        50252432,
+        50252927,
+        50252267,
+        50254499,
+        50255011,
+        50254449,
+        50254683,
+        50252438,
+        50254223,
+        50253843,
+        50253568,
+        50252800,
+        50255297,
+        50255223,
+        50254740
       ],
-      "score": 847,
-      "text": "Gift Article: <a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-27&#x2F;microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NzI5NjE3MiwiZXhwIjoxNzc3OTAwOTcyLCJhcnRpY2xlSWQiOiJURTVMT0lLSzNOWUkwMCIsImJjb25uZWN0SWQiOiJDN0U3REM1Q0MxRTQ0NzM0QkY2MzYxQjY5QzgxN0UzMyJ9.mkOwEicK1kMLb-h6ZjkN4u-DsF55439rrFad0m1lqZM\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-27&#x2F;microsoft...</a><p><a href=\"https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;next-phase-of-microsoft-partnership&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;next-phase-of-microsoft-partnership...</a><p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;ajassy&#x2F;status&#x2F;2048806022253609115\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;ajassy&#x2F;status&#x2F;2048806022253609115</a>",
-      "time": 1777296162,
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "score": 117,
+      "time": 1793054508,
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
       "type": "story",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai"
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
     },
     {
-      "by": "theogravity",
-      "descendants": 317,
-      "id": 47926861,
+      "by": "majorchord",
+      "descendants": 15,
+      "id": 50253939,
       "kids": [
-        47928794,
-        47931268,
-        47927476,
-        47931278,
-        47927501,
-        47928484,
-        47927626,
-        47931129,
-        47930788,
-        47927696,
-        47928573,
-        47928521,
-        47927622,
-        47928014,
-        47929995,
-        47929441,
-        47931249,
-        47930894,
-        47930456,
-        47928130,
-        47928405,
-        47927599,
-        47927550,
-        47931096,
-        47927649,
-        47930597,
-        47930478,
-        47927625,
-        47927667,
-        47930194,
-        47927578,
-        47930745,
-        47929576,
-        47930457,
-        47927707,
-        47928951,
-        47928665,
-        47927597,
-        47928555,
-        47930253,
-        47928630,
-        47927651,
-        47929805,
-        47927889,
-        47928387,
-        47930879,
-        47929329,
-        47930516,
-        47927702,
-        47928991,
-        47927594,
-        47927887,
-        47927810,
-        47927534,
-        47928509,
-        47928448,
-        47928067,
-        47928091,
-        47931048,
-        47929807,
-        47930365,
-        47929483,
-        47928868,
-        47931119,
-        47928499,
-        47927941,
-        47927789,
-        47928181,
-        47928371,
-        47927711,
-        47928637,
-        47927802,
-        47928783,
-        47929253,
-        47927729,
-        47928778,
-        47929008,
-        47928048,
-        47928319,
-        47927809,
-        47927875,
-        47927933,
-        47928144,
-        47927610,
-        47930847,
-        47929013,
-        47929884,
-        47927631,
-        47927784,
-        47930256,
-        47928223,
-        47928169,
-        47930141,
-        47927742,
-        47928692,
-        47928679,
-        47928570,
-        47930583,
-        47928781,
-        47928154,
-        47928261,
-        47927701,
-        47929453,
-        47929645,
-        47927905,
-        47928746,
-        47930131,
-        47928477,
-        47928465,
-        47928358,
-        47928222,
-        47928096,
-        47927812,
-        47927688,
-        47930359
+        50254511,
+        50254555,
+        50254656,
+        50254457,
+        50254915,
+        50255359,
+        50254956
       ],
-      "score": 474,
-      "time": 1777321473,
-      "title": "Is my blue your blue?",
+      "score": 30,
+      "time": 1793067310,
+      "title": "I still teach OpenGL ES 3.0",
       "type": "story",
-      "url": "https://ismy.blue/"
+      "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html"
     },
     {
-      "by": "luu",
-      "descendants": 2,
-      "id": 47899669,
-      "kids": [
-        47930786
-      ],
-      "score": 52,
-      "time": 1777104979,
-      "title": "Pgrx: Build Postgres Extensions with Rust",
+      "by": "dverlaeckt80",
+      "descendants": 0,
+      "id": 50255177,
+      "score": 3,
+      "time": 1793080943,
+      "title": "Writing about pratt parsing so I remember it",
       "type": "story",
-      "url": "https://github.com/pgcentralfoundation/pgrx"
+      "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html"
     },
     {
-      "by": "blfr",
-      "descendants": 12,
-      "id": 47902269,
+      "by": "edent",
+      "descendants": 96,
+      "id": 50245831,
       "kids": [
-        47929994,
-        47930044,
-        47930503,
-        47931031,
-        47929985,
-        47929973
+        50247477,
+        50246634,
+        50248388,
+        50246941,
+        50248131,
+        50248159,
+        50247871,
+        50246825,
+        50248339,
+        50249850,
+        50246521,
+        50246553,
+        50250676,
+        50252092,
+        50251645,
+        50249507,
+        50249008,
+        50253046,
+        50249843,
+        50249573,
+        50249346,
+        50248663,
+        50251421,
+        50247605,
+        50251843,
+        50252224,
+        50246780,
+        50246650,
+        50252707,
+        50247252,
+        50248380,
+        50254229,
+        50246868,
+        50247508
       ],
-      "score": 100,
-      "time": 1777131714,
-      "title": "Mo RAM, Mo Problems (2025)",
+      "score": 428,
+      "time": 1793029883,
+      "title": "CSS-Tricks has a new owner",
       "type": "story",
-      "url": "https://fabiensanglard.net/curse/"
-    },
-    {
-      "by": "gnabgib",
-      "descendants": 11,
-      "id": 47929035,
-      "kids": [
-        47930850,
-        47930357,
-        47929782,
-        47929926,
-        47931304,
-        47930653
-      ],
-      "score": 99,
-      "time": 1777336324,
-      "title": "High Performance Git",
-      "type": "story",
-      "url": "https://gitperf.com/"
-    },
-    {
-      "by": "gnabgib",
-      "descendants": 66,
-      "id": 47927070,
-      "kids": [
-        47930549,
-        47927632,
-        47927876,
-        47930427,
-        47930278,
-        47927890,
-        47929903,
-        47929681,
-        47928248,
-        47928066
-      ],
-      "score": 146,
-      "time": 1777322656,
-      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
-      "type": "story",
-      "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/"
-    },
-    {
-      "by": "nateb2022",
-      "descendants": 2,
-      "id": 47930170,
-      "kids": [
-        47931280,
-        47930546
-      ],
-      "score": 22,
-      "time": 1777346860,
-      "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
-      "type": "story",
-      "url": "https://technology.robbyant.com/lingbot-map"
-    },
-    {
-      "by": "Oravys",
-      "descendants": 181,
-      "id": 47919630,
-      "kids": [
-        47922388,
-        47919660,
-        47921246,
-        47922503,
-        47921406,
-        47922271,
-        47924381,
-        47928770,
-        47925528,
-        47921768,
-        47921812,
-        47922654,
-        47928246,
-        47923398,
-        47925971,
-        47921543,
-        47924203,
-        47923496,
-        47925195,
-        47923387,
-        47921348,
-        47924022,
-        47926164,
-        47921347,
-        47924108,
-        47921346,
-        47926724,
-        47921460,
-        47922520,
-        47922824,
-        47928739,
-        47928440,
-        47923123,
-        47921463,
-        47922399,
-        47922667,
-        47921646,
-        47930602,
-        47921364,
-        47928192,
-        47924106,
-        47923302
-      ],
-      "score": 510,
-      "time": 1777283830,
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "type": "story",
-      "url": "https://app.oravys.com/blog/mercor-breach-2026"
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/"
     }
   ]
 }
@@ -1638,92 +1030,90 @@ node bin/main.js --json reddit -t startups -s hot ; node bin/main.js --json news
   "tag": null,
   "items": [
     {
-      "title": "Email is crazy",
-      "url": "https://samkhawase.com/blog/email-is-crazy/",
-      "score": 48,
-      "comments": 16,
+      "title": "Shitty Screenshare",
+      "url": "http://shittyscreenshare.com",
+      "score": 16,
+      "comments": 7,
       "tags": [
-        "email",
-        "networking",
-        "security"
-      ],
-      "id": "esrk11"
-    },
-    {
-      "title": "Niri v26.04",
-      "url": "https://github.com/niri-wm/niri/releases/tag/v26.04",
-      "score": 86,
-      "comments": 11,
-      "tags": [
-        "linux",
-        "release",
-        "rust"
-      ],
-      "id": "uf38bg"
-    },
-    {
-      "title": "I won my FOIA against Twelve South to open up the electrical information for the PlugBug 120W",
-      "url": "https://archive.org/details/pb120-us",
-      "score": 22,
-      "comments": 3,
-      "tags": [
-        "hardware",
-        "pdf",
-        "reversing"
-      ],
-      "id": "kxnxyv"
-    },
-    {
-      "title": "\"Why not just use Lean?\"",
-      "url": "https://lawrencecpaulson.github.io/2026/04/23/Why_not_Lean.html",
-      "score": 35,
-      "comments": 4,
-      "tags": [
-        "formalmethods"
-      ],
-      "id": "d27llp"
-    },
-    {
-      "title": "Donating to open source",
-      "url": "https://entropicthoughts.com/open-source-donation",
-      "score": 7,
-      "comments": 1,
-      "tags": [
-        "culture"
-      ],
-      "id": "rmujw3"
-    },
-    {
-      "title": "From Milliseconds to 26 Nanoseconds: How a $20 eBay SFP Module Beat My Entire NTP Setup",
-      "url": "https://austinsnerdythings.com/2026/04/26/ptp-osa5401-26-nanoseconds-raspberry-pi/",
-      "score": 60,
-      "comments": 5,
-      "tags": [
-        "hardware"
-      ],
-      "id": "trap9p"
-    },
-    {
-      "title": "Wasm is not quite a stack machine",
-      "url": "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/",
-      "score": 45,
-      "comments": 18,
-      "tags": [
-        "plt",
-        "wasm"
-      ],
-      "id": "h8hlp7"
-    },
-    {
-      "title": "Lua can be a really cool HTML templating engine",
-      "url": "https://riki.house/lua-html",
-      "score": 100,
-      "comments": 64,
-      "tags": [
-        "lua",
+        "browsers",
         "web"
       ],
-      "id": "ukar7d"
+      "id": "cxxcik"
+    },
+    {
+      "title": "CSS-Tricks has a new owner",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "score": 60,
+      "comments": 2,
+      "tags": [
+        "web"
+      ],
+      "id": "6ntoqr"
+    },
+    {
+      "title": "Websites Should Be Printable",
+      "url": "https://brennenputh.me/blog/printable-websites/",
+      "score": 68,
+      "comments": 17,
+      "tags": [
+        "css",
+        "web"
+      ],
+      "id": "olnqh2"
+    },
+    {
+      "title": "Why is it so expensive to send an email?",
+      "url": "https://evancz.dev/why-is-it-so-expensive-to-send-an-email",
+      "score": 51,
+      "comments": 29,
+      "tags": [
+        "email"
+      ],
+      "id": "ryjnyi"
+    },
+    {
+      "title": "A faster way to compute signed 64-bit floor division by constants",
+      "url": "https://www.benjoffe.com/fast-floordiv",
+      "score": 23,
+      "comments": 4,
+      "tags": [
+        "c++",
+        "performance"
+      ],
+      "id": "o5to4p"
+    },
+    {
+      "title": "Gram 3.4.0 released",
+      "url": "https://gram-editor.com/posts/release-3.4.0/",
+      "score": 58,
+      "comments": 11,
+      "tags": [
+        "editors",
+        "release"
+      ],
+      "id": "p9obkt"
+    },
+    {
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "score": 34,
+      "comments": 1,
+      "tags": [
+        "historical",
+        "windows"
+      ],
+      "id": "rwubks"
+    },
+    {
+      "title": "About the compromised eMudhra intermediate CAs",
+      "url": "https://support.apple.com/en-us/149555",
+      "score": 51,
+      "comments": 32,
+      "tags": [
+        "mac",
+        "security"
+      ],
+      "id": "xzp4m0"
     }
   ]
 }
@@ -1747,41 +1137,362 @@ node bin/main.js --json github -s monthly -l python ; node bin/main.js --json gi
   "language": "python",
   "items": [
     {
-      "author": "NousResearch",
-      "repo": "hermes-agent",
-      "avatar": "https://github.com/NousResearch.png",
-      "repo_link": "https://github.com/NousResearch/hermes-agent",
-      "desc": "The agent that grows with you",
+      "author": "debpalash",
+      "repo": "VoiceStudio",
+      "avatar": "https://github.com/debpalash.png",
+      "repo_link": "https://github.com/debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "lang": "Python",
       "languageColor": "#3572A5",
       "stars": 0,
-      "forks": 18050,
-      "added_stars": 106290,
+      "forks": 9902,
+      "added_stars": 53014,
       "builtBy": [
         {
-          "username": "teknium1",
-          "href": "https://github.com/teknium1",
-          "avatar": "https://avatars.githubusercontent.com/u/127238744"
-        },
-        {
-          "username": "OutThisLife",
-          "href": "https://github.com/OutThisLife",
-          "avatar": "https://avatars.githubusercontent.com/u/770929"
-        },
-        {
-          "username": "0xbyt4",
-          "href": "https://github.com/0xbyt4",
-          "avatar": "https://avatars.githubusercontent.com/u/35742124"
-        },
-        {
-          "username": "kshitijk4poor",
-          "href": "https://github.com/kshitijk4poor",
-          "avatar": "https://avatars.githubusercontent.com/u/82637225"
+          "username": "debpalash",
+          "href": "https://github.com/debpalash",
+          "avatar": "https://avatars.githubusercontent.com/u/4178343"
         },
         {
           "username": "claude",
           "href": "https://github.com/claude",
           "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "velixio",
+          "href": "https://github.com/velixio",
+          "avatar": "https://avatars.githubusercontent.com/u/270455167"
+        },
+        {
+          "username": "kevin9327",
+          "href": "https://github.com/kevin9327",
+          "avatar": "https://avatars.githubusercontent.com/u/5299031"
+        },
+        {
+          "username": "jaketame",
+          "href": "https://github.com/jaketame",
+          "avatar": "https://avatars.githubusercontent.com/u/1787973"
+        }
+      ]
+    },
+    {
+      "author": "anthropics",
+      "repo": "knowledge-work-plugins",
+      "avatar": "https://github.com/anthropics.png",
+      "repo_link": "https://github.com/anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 3662,
+      "added_stars": 7617,
+      "builtBy": [
+        {
+          "username": "jordanecker-ant",
+          "href": "https://github.com/jordanecker-ant",
+          "avatar": "https://avatars.githubusercontent.com/u/305637556"
+        },
+        {
+          "username": "bryan-anthropic",
+          "href": "https://github.com/bryan-anthropic",
+          "avatar": "https://avatars.githubusercontent.com/u/238056179"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "mattpic-ant",
+          "href": "https://github.com/mattpic-ant",
+          "avatar": "https://avatars.githubusercontent.com/u/227474486"
+        }
+      ]
+    },
+    {
+      "author": "anthropics",
+      "repo": "claude-plugins-official",
+      "avatar": "https://github.com/anthropics.png",
+      "repo_link": "https://github.com/anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 4677,
+      "added_stars": 7876,
+      "builtBy": [
+        {
+          "username": "jordanecker-ant",
+          "href": "https://github.com/jordanecker-ant",
+          "avatar": "https://avatars.githubusercontent.com/u/305637556"
+        },
+        {
+          "username": "bryan-anthropic",
+          "href": "https://github.com/bryan-anthropic",
+          "avatar": "https://avatars.githubusercontent.com/u/238056179"
+        },
+        {
+          "username": "mhegazy",
+          "href": "https://github.com/mhegazy",
+          "avatar": "https://avatars.githubusercontent.com/u/8000722"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        }
+      ]
+    },
+    {
+      "author": "earthtojake",
+      "repo": "text-to-cad",
+      "avatar": "https://github.com/earthtojake.png",
+      "repo_link": "https://github.com/earthtojake/text-to-cad",
+      "desc": "Give your agent CAD superpowers.",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 2268,
+      "added_stars": 7011,
+      "builtBy": [
+        {
+          "username": "earthtojake",
+          "href": "https://github.com/earthtojake",
+          "avatar": "https://avatars.githubusercontent.com/u/10742417"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "warun7",
+          "href": "https://github.com/warun7",
+          "avatar": "https://avatars.githubusercontent.com/u/143688508"
+        }
+      ]
+    },
+    {
+      "author": "Panniantong",
+      "repo": "Agent-Reach",
+      "avatar": "https://github.com/Panniantong.png",
+      "repo_link": "https://github.com/Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 9231,
+      "added_stars": 18035,
+      "builtBy": [
+        {
+          "username": "Panniantong",
+          "href": "https://github.com/Panniantong",
+          "avatar": "https://avatars.githubusercontent.com/u/73925474"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "LohseZSai",
+          "href": "https://github.com/LohseZSai",
+          "avatar": "https://avatars.githubusercontent.com/u/116092574"
+        },
+        {
+          "username": "nyxst4ck",
+          "href": "https://github.com/nyxst4ck",
+          "avatar": "https://avatars.githubusercontent.com/u/289980115"
+        },
+        {
+          "username": "ricardolaurito",
+          "href": "https://github.com/ricardolaurito",
+          "avatar": "https://avatars.githubusercontent.com/u/75488296"
+        }
+      ]
+    },
+    {
+      "author": "VectifyAI",
+      "repo": "PageIndex",
+      "avatar": "https://github.com/VectifyAI.png",
+      "repo_link": "https://github.com/VectifyAI/PageIndex",
+      "desc": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 3432,
+      "added_stars": 4054,
+      "builtBy": [
+        {
+          "username": "rejojer",
+          "href": "https://github.com/rejojer",
+          "avatar": "https://avatars.githubusercontent.com/u/8255061"
+        },
+        {
+          "username": "zmtomorrow",
+          "href": "https://github.com/zmtomorrow",
+          "avatar": "https://avatars.githubusercontent.com/u/13518252"
+        },
+        {
+          "username": "BukeLy",
+          "href": "https://github.com/BukeLy",
+          "avatar": "https://avatars.githubusercontent.com/u/19304666"
+        },
+        {
+          "username": "S3DFX-CYBER",
+          "href": "https://github.com/S3DFX-CYBER",
+          "avatar": "https://avatars.githubusercontent.com/u/213652949"
+        },
+        {
+          "username": "noobakong",
+          "href": "https://github.com/noobakong",
+          "avatar": "https://avatars.githubusercontent.com/u/34873469"
+        }
+      ]
+    },
+    {
+      "author": "rohitg00",
+      "repo": "ai-engineering-from-scratch",
+      "avatar": "https://github.com/rohitg00.png",
+      "repo_link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 13055,
+      "added_stars": 16611,
+      "builtBy": [
+        {
+          "username": "rohitg00",
+          "href": "https://github.com/rohitg00",
+          "avatar": "https://avatars.githubusercontent.com/u/48523873"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "abhinav-m22",
+          "href": "https://github.com/abhinav-m22",
+          "avatar": "https://avatars.githubusercontent.com/u/113239388"
+        },
+        {
+          "username": "jkhandebharad",
+          "href": "https://github.com/jkhandebharad",
+          "avatar": "https://avatars.githubusercontent.com/u/177315487"
+        }
+      ]
+    },
+    {
+      "author": "HKUDS",
+      "repo": "CLI-Anything",
+      "avatar": "https://github.com/HKUDS.png",
+      "repo_link": "https://github.com/HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 5154,
+      "added_stars": 6869,
+      "builtBy": [
+        {
+          "username": "yuh-yang",
+          "href": "https://github.com/yuh-yang",
+          "avatar": "https://avatars.githubusercontent.com/u/43330997"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "AiMiDi",
+          "href": "https://github.com/AiMiDi",
+          "avatar": "https://avatars.githubusercontent.com/u/76622021"
+        },
+        {
+          "username": "omerarslan0",
+          "href": "https://github.com/omerarslan0",
+          "avatar": "https://avatars.githubusercontent.com/u/76780961"
+        },
+        {
+          "username": "hito0512",
+          "href": "https://github.com/hito0512",
+          "avatar": "https://avatars.githubusercontent.com/u/26110883"
+        }
+      ]
+    },
+    {
+      "author": "TencentCloud",
+      "repo": "Octop",
+      "avatar": "https://github.com/TencentCloud.png",
+      "repo_link": "https://github.com/TencentCloud/Octop",
+      "desc": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 1435,
+      "added_stars": 6198,
+      "builtBy": [
+        {
+          "username": "jubaoliang-tencent",
+          "href": "https://github.com/jubaoliang-tencent",
+          "avatar": "https://avatars.githubusercontent.com/u/309035352"
+        },
+        {
+          "username": "jubaoliang",
+          "href": "https://github.com/jubaoliang",
+          "avatar": "https://avatars.githubusercontent.com/u/222386738"
+        },
+        {
+          "username": "cursoragent",
+          "href": "https://github.com/cursoragent",
+          "avatar": "https://avatars.githubusercontent.com/u/199161495"
+        },
+        {
+          "username": "Bosheng0422",
+          "href": "https://github.com/Bosheng0422",
+          "avatar": "https://avatars.githubusercontent.com/u/67680641"
+        },
+        {
+          "username": "liukewia",
+          "href": "https://github.com/liukewia",
+          "avatar": "https://avatars.githubusercontent.com/u/50489030"
+        }
+      ]
+    },
+    {
+      "author": "wshobson",
+      "repo": "agents",
+      "avatar": "https://github.com/wshobson.png",
+      "repo_link": "https://github.com/wshobson/agents",
+      "desc": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 4435,
+      "added_stars": 1897,
+      "builtBy": [
+        {
+          "username": "wshobson",
+          "href": "https://github.com/wshobson",
+          "avatar": "https://avatars.githubusercontent.com/u/553618"
+        },
+        {
+          "username": "web-flow",
+          "href": "https://github.com/web-flow",
+          "avatar": "https://avatars.githubusercontent.com/u/19864447"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "jau123",
+          "href": "https://github.com/jau123",
+          "avatar": "https://avatars.githubusercontent.com/u/130447398"
         }
       ]
     },
@@ -1794,8 +1505,8 @@ node bin/main.js --json github -s monthly -l python ; node bin/main.js --json gi
       "lang": "Python",
       "languageColor": "#3572A5",
       "stars": 0,
-      "forks": 3853,
-      "added_stars": 10523,
+      "forks": 7248,
+      "added_stars": 4567,
       "builtBy": [
         {
           "username": "shiyu-coder",
@@ -1825,21 +1536,21 @@ node bin/main.js --json github -s monthly -l python ; node bin/main.js --json gi
       ]
     },
     {
-      "author": "Fincept-Corporation",
-      "repo": "FinceptTerminal",
-      "avatar": "https://github.com/Fincept-Corporation.png",
-      "repo_link": "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "author": "calesthio",
+      "repo": "OpenMontage",
+      "avatar": "https://github.com/calesthio.png",
+      "repo_link": "https://github.com/calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "lang": "Python",
       "languageColor": "#3572A5",
       "stars": 0,
-      "forks": 2243,
-      "added_stars": 13159,
+      "forks": 9399,
+      "added_stars": 11153,
       "builtBy": [
         {
-          "username": "tilakpatel22",
-          "href": "https://github.com/tilakpatel22",
-          "avatar": "https://avatars.githubusercontent.com/u/66294702"
+          "username": "calesthio",
+          "href": "https://github.com/calesthio",
+          "avatar": "https://avatars.githubusercontent.com/u/213189893"
         },
         {
           "username": "claude",
@@ -1847,87 +1558,97 @@ node bin/main.js --json github -s monthly -l python ; node bin/main.js --json gi
           "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "Jaimin-ptl07",
-          "href": "https://github.com/Jaimin-ptl07",
-          "avatar": "https://avatars.githubusercontent.com/u/92565248"
+          "username": "0xDevNinja",
+          "href": "https://github.com/0xDevNinja",
+          "avatar": "https://avatars.githubusercontent.com/u/102245100"
         },
         {
-          "username": "rudrasheth",
-          "href": "https://github.com/rudrasheth",
-          "avatar": "https://avatars.githubusercontent.com/u/170165924"
+          "username": "rudycelekli",
+          "href": "https://github.com/rudycelekli",
+          "avatar": "https://avatars.githubusercontent.com/u/47457359"
+        },
+        {
+          "username": "yiyabo",
+          "href": "https://github.com/yiyabo",
+          "avatar": "https://avatars.githubusercontent.com/u/129351686"
         }
       ]
     },
     {
-      "author": "luongnv89",
-      "repo": "claude-howto",
-      "avatar": "https://github.com/luongnv89.png",
-      "repo_link": "https://github.com/luongnv89/claude-howto",
-      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "author": "lightseekorg",
+      "repo": "tokenspeed",
+      "avatar": "https://github.com/lightseekorg.png",
+      "repo_link": "https://github.com/lightseekorg/tokenspeed",
+      "desc": "TokenSpeed is a speed-of-light LLM inference engine.",
       "lang": "Python",
       "languageColor": "#3572A5",
       "stars": 0,
-      "forks": 3631,
-      "added_stars": 27117,
+      "forks": 384,
+      "added_stars": 633,
       "builtBy": [
         {
-          "username": "luongnv89",
-          "href": "https://github.com/luongnv89",
-          "avatar": "https://avatars.githubusercontent.com/u/3288457"
+          "username": "lightseek-bot",
+          "href": "https://github.com/lightseek-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/243258330"
         },
         {
-          "username": "claude",
-          "href": "https://github.com/claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847"
+          "username": "antiagainst",
+          "href": "https://github.com/antiagainst",
+          "avatar": "https://avatars.githubusercontent.com/u/487928"
         },
         {
-          "username": "edocltd",
-          "href": "https://github.com/edocltd",
-          "avatar": "https://avatars.githubusercontent.com/u/258913972"
+          "username": "nperrin-fr",
+          "href": "https://github.com/nperrin-fr",
+          "avatar": "https://avatars.githubusercontent.com/u/297528256"
         },
         {
-          "username": "toanalien",
-          "href": "https://github.com/toanalien",
-          "avatar": "https://avatars.githubusercontent.com/u/5405744"
+          "username": "longcat-ia-team",
+          "href": "https://github.com/longcat-ia-team",
+          "avatar": "https://avatars.githubusercontent.com/u/312376714"
         },
         {
-          "username": "xiaolai",
-          "href": "https://github.com/xiaolai",
-          "avatar": "https://avatars.githubusercontent.com/u/152970"
+          "username": "borontion",
+          "href": "https://github.com/borontion",
+          "avatar": "https://avatars.githubusercontent.com/u/25846776"
         }
       ]
     },
     {
-      "author": "HKUDS",
-      "repo": "DeepTutor",
-      "avatar": "https://github.com/HKUDS.png",
-      "repo_link": "https://github.com/HKUDS/DeepTutor",
-      "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "author": "AstrBotDevs",
+      "repo": "AstrBot",
+      "avatar": "https://github.com/AstrBotDevs.png",
+      "repo_link": "https://github.com/AstrBotDevs/AstrBot",
+      "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "lang": "Python",
       "languageColor": "#3572A5",
       "stars": 0,
-      "forks": 2974,
-      "added_stars": 11444,
+      "forks": 3225,
+      "added_stars": 2947,
       "builtBy": [
         {
-          "username": "pancacake",
-          "href": "https://github.com/pancacake",
-          "avatar": "https://avatars.githubusercontent.com/u/150592536"
+          "username": "Soulter",
+          "href": "https://github.com/Soulter",
+          "avatar": "https://avatars.githubusercontent.com/u/37870767"
         },
         {
-          "username": "tusharkhatriofficial",
-          "href": "https://github.com/tusharkhatriofficial",
-          "avatar": "https://avatars.githubusercontent.com/u/64004539"
+          "username": "Raven95676",
+          "href": "https://github.com/Raven95676",
+          "avatar": "https://avatars.githubusercontent.com/u/176760093"
         },
         {
-          "username": "scrrlt",
-          "href": "https://github.com/scrrlt",
-          "avatar": "https://avatars.githubusercontent.com/u/235653744"
+          "username": "RC-CHN",
+          "href": "https://github.com/RC-CHN",
+          "avatar": "https://avatars.githubusercontent.com/u/67079377"
         },
         {
-          "username": "RinZ27",
-          "href": "https://github.com/RinZ27",
-          "avatar": "https://avatars.githubusercontent.com/u/222222878"
+          "username": "zouyonghe",
+          "href": "https://github.com/zouyonghe",
+          "avatar": "https://avatars.githubusercontent.com/u/62183434"
+        },
+        {
+          "username": "LIghtJUNction",
+          "href": "https://github.com/LIghtJUNction",
+          "avatar": "https://avatars.githubusercontent.com/u/106986785"
         }
       ]
     },
@@ -1936,12 +1657,12 @@ node bin/main.js --json github -s monthly -l python ; node bin/main.js --json gi
       "repo": "free-claude-code",
       "avatar": "https://github.com/Alishahryar1.png",
       "repo_link": "https://github.com/Alishahryar1/free-claude-code",
-      "desc": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "desc": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "lang": "Python",
       "languageColor": "#3572A5",
       "stars": 0,
-      "forks": 2322,
-      "added_stars": 14253,
+      "forks": 9988,
+      "added_stars": 8374,
       "builtBy": [
         {
           "username": "Alishahryar1",
@@ -1959,140 +1680,96 @@ node bin/main.js --json github -s monthly -l python ; node bin/main.js --json gi
           "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "rishiskhare",
-          "href": "https://github.com/rishiskhare",
-          "avatar": "https://avatars.githubusercontent.com/u/30673002"
+          "username": "Tanishq-1",
+          "href": "https://github.com/Tanishq-1",
+          "avatar": "https://avatars.githubusercontent.com/u/49880456"
         }
       ]
     },
     {
-      "author": "microsoft",
-      "repo": "markitdown",
-      "avatar": "https://github.com/microsoft.png",
-      "repo_link": "https://github.com/microsoft/markitdown",
-      "desc": "Python tool for converting files and office documents to Markdown.",
+      "author": "tile-ai",
+      "repo": "tilelang",
+      "avatar": "https://github.com/tile-ai.png",
+      "repo_link": "https://github.com/tile-ai/tilelang",
+      "desc": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "lang": "Python",
       "languageColor": "#3572A5",
       "stars": 0,
-      "forks": 7771,
-      "added_stars": 25592,
+      "forks": 928,
+      "added_stars": 1332,
       "builtBy": [
         {
-          "username": "afourney",
-          "href": "https://github.com/afourney",
-          "avatar": "https://avatars.githubusercontent.com/u/4017093"
+          "username": "LeiWang1999",
+          "href": "https://github.com/LeiWang1999",
+          "avatar": "https://avatars.githubusercontent.com/u/34334180"
         },
         {
-          "username": "gagb",
-          "href": "https://github.com/gagb",
-          "avatar": "https://avatars.githubusercontent.com/u/13227607"
+          "username": "chengyupku",
+          "href": "https://github.com/chengyupku",
+          "avatar": "https://avatars.githubusercontent.com/u/54519279"
         },
         {
-          "username": "sugatoray",
-          "href": "https://github.com/sugatoray",
-          "avatar": "https://avatars.githubusercontent.com/u/10201242"
+          "username": "SiriusNEO",
+          "href": "https://github.com/SiriusNEO",
+          "avatar": "https://avatars.githubusercontent.com/u/41781658"
         },
         {
-          "username": "PetrAPConsulting",
-          "href": "https://github.com/PetrAPConsulting",
-          "avatar": "https://avatars.githubusercontent.com/u/173082609"
+          "username": "Rachmanino",
+          "href": "https://github.com/Rachmanino",
+          "avatar": "https://avatars.githubusercontent.com/u/109033598"
         },
         {
-          "username": "l-lumin",
-          "href": "https://github.com/l-lumin",
-          "avatar": "https://avatars.githubusercontent.com/u/71011125"
+          "username": "xwhzz",
+          "href": "https://github.com/xwhzz",
+          "avatar": "https://avatars.githubusercontent.com/u/132904306"
         }
       ]
     },
     {
-      "author": "lsdefine",
-      "repo": "GenericAgent",
-      "avatar": "https://github.com/lsdefine.png",
-      "repo_link": "https://github.com/lsdefine/GenericAgent",
-      "desc": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "author": "fastapi",
+      "repo": "fastapi",
+      "avatar": "https://github.com/fastapi.png",
+      "repo_link": "https://github.com/fastapi/fastapi",
+      "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "lang": "Python",
       "languageColor": "#3572A5",
       "stars": 0,
-      "forks": 902,
-      "added_stars": 6876,
+      "forks": 10133,
+      "added_stars": 1961,
       "builtBy": [
         {
-          "username": "lsdefine",
-          "href": "https://github.com/lsdefine",
-          "avatar": "https://avatars.githubusercontent.com/u/3377819"
+          "username": "tiangolo",
+          "href": "https://github.com/tiangolo",
+          "avatar": "https://avatars.githubusercontent.com/u/1326112"
         },
         {
-          "username": "ViviqwerAsd",
-          "href": "https://github.com/ViviqwerAsd",
-          "avatar": "https://avatars.githubusercontent.com/u/90703326"
-        },
-        {
-          "username": "shenhao-stu",
-          "href": "https://github.com/shenhao-stu",
-          "avatar": "https://avatars.githubusercontent.com/u/65658684"
-        },
-        {
-          "username": "JinyiHan99",
-          "href": "https://github.com/JinyiHan99",
-          "avatar": "https://avatars.githubusercontent.com/u/154297799"
-        },
-        {
-          "username": "wjl2023",
-          "href": "https://github.com/wjl2023",
-          "avatar": "https://avatars.githubusercontent.com/u/126332148"
+          "username": "YuriiMotov",
+          "href": "https://github.com/YuriiMotov",
+          "avatar": "https://avatars.githubusercontent.com/u/109919500"
         }
       ]
     },
     {
-      "author": "microsoft",
-      "repo": "VibeVoice",
-      "avatar": "https://github.com/microsoft.png",
-      "repo_link": "https://github.com/microsoft/VibeVoice",
-      "desc": "Open-Source Frontier Voice AI",
+      "author": "ahujasid",
+      "repo": "mcp-for-blender",
+      "avatar": "https://github.com/ahujasid.png",
+      "repo_link": "https://github.com/ahujasid/mcp-for-blender",
+      "desc": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
       "lang": "Python",
       "languageColor": "#3572A5",
       "stars": 0,
-      "forks": 4916,
-      "added_stars": 18317,
+      "forks": 2939,
+      "added_stars": 3124,
       "builtBy": [
         {
-          "username": "YaoyaoChang",
-          "href": "https://github.com/YaoyaoChang",
-          "avatar": "https://avatars.githubusercontent.com/u/20237658"
+          "username": "ahujasid",
+          "href": "https://github.com/ahujasid",
+          "avatar": "https://avatars.githubusercontent.com/u/11807284"
         },
         {
-          "username": "MSLDCherryPick",
-          "href": "https://github.com/MSLDCherryPick",
-          "avatar": "https://avatars.githubusercontent.com/u/173002764"
-        },
-        {
-          "username": "pengzhiliang",
-          "href": "https://github.com/pengzhiliang",
-          "avatar": "https://avatars.githubusercontent.com/u/26346329"
-        },
-        {
-          "username": "jsoref",
-          "href": "https://github.com/jsoref",
-          "avatar": "https://avatars.githubusercontent.com/u/2119212"
-        }
-      ]
-    },
-    {
-      "author": "hugohe3",
-      "repo": "ppt-master",
-      "avatar": "https://github.com/hugohe3.png",
-      "repo_link": "https://github.com/hugohe3/ppt-master",
-      "desc": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed · by Hugo He",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 970,
-      "added_stars": 5540,
-      "builtBy": [
-        {
-          "username": "hugohe3",
-          "href": "https://github.com/hugohe3",
-          "avatar": "https://avatars.githubusercontent.com/u/188330578"
+          "username": "ElgoogUdiab",
+          "href": "https://github.com/ElgoogUdiab",
+          "avatar": "https://avatars.githubusercontent.com/u/28426666"
         },
         {
           "username": "claude",
@@ -2100,384 +1777,38 @@ node bin/main.js --json github -s monthly -l python ; node bin/main.js --json gi
           "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "shandianchengzi",
-          "href": "https://github.com/shandianchengzi",
-          "avatar": "https://avatars.githubusercontent.com/u/58585665"
+          "username": "siddikisahil47",
+          "href": "https://github.com/siddikisahil47",
+          "avatar": "https://avatars.githubusercontent.com/u/134954614"
         },
         {
-          "username": "scientificworld",
-          "href": "https://github.com/scientificworld",
-          "avatar": "https://avatars.githubusercontent.com/u/30764166"
-        },
-        {
-          "username": "ximiximi423",
-          "href": "https://github.com/ximiximi423",
-          "avatar": "https://avatars.githubusercontent.com/u/217722657"
+          "username": "harrywang",
+          "href": "https://github.com/harrywang",
+          "avatar": "https://avatars.githubusercontent.com/u/595772"
         }
       ]
     },
     {
-      "author": "google-research",
-      "repo": "timesfm",
-      "avatar": "https://github.com/google-research.png",
-      "repo_link": "https://github.com/google-research/timesfm",
-      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "author": "HunxByts",
+      "repo": "GhostTrack",
+      "avatar": "https://github.com/HunxByts.png",
+      "repo_link": "https://github.com/HunxByts/GhostTrack",
+      "desc": "Useful tool to track location or mobile number",
       "lang": "Python",
       "languageColor": "#3572A5",
       "stars": 0,
-      "forks": 1821,
-      "added_stars": 8665,
+      "forks": 2731,
+      "added_stars": 4976,
       "builtBy": [
         {
-          "username": "rajatsen91",
-          "href": "https://github.com/rajatsen91",
-          "avatar": "https://avatars.githubusercontent.com/u/8039264"
+          "username": "HunxByts",
+          "href": "https://github.com/HunxByts",
+          "avatar": "https://avatars.githubusercontent.com/u/130666567"
         },
         {
-          "username": "siriuz42",
-          "href": "https://github.com/siriuz42",
-          "avatar": "https://avatars.githubusercontent.com/u/5073569"
-        },
-        {
-          "username": "misha-chertushkin",
-          "href": "https://github.com/misha-chertushkin",
-          "avatar": "https://avatars.githubusercontent.com/u/151166456"
-        },
-        {
-          "username": "darkpowerxo",
-          "href": "https://github.com/darkpowerxo",
-          "avatar": "https://avatars.githubusercontent.com/u/1857776"
-        },
-        {
-          "username": "JustinGuese",
-          "href": "https://github.com/JustinGuese",
-          "avatar": "https://avatars.githubusercontent.com/u/9588843"
-        }
-      ]
-    },
-    {
-      "author": "virattt",
-      "repo": "ai-hedge-fund",
-      "avatar": "https://github.com/virattt.png",
-      "repo_link": "https://github.com/virattt/ai-hedge-fund",
-      "desc": "An AI Hedge Fund Team",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 10024,
-      "added_stars": 8132,
-      "builtBy": [
-        {
-          "username": "virattt",
-          "href": "https://github.com/virattt",
-          "avatar": "https://avatars.githubusercontent.com/u/901795"
-        },
-        {
-          "username": "arsaboo",
-          "href": "https://github.com/arsaboo",
-          "avatar": "https://avatars.githubusercontent.com/u/18319734"
-        },
-        {
-          "username": "KittatamSaisaard",
-          "href": "https://github.com/KittatamSaisaard",
-          "avatar": "https://avatars.githubusercontent.com/u/50354903"
-        },
-        {
-          "username": "jsemldonado",
-          "href": "https://github.com/jsemldonado",
-          "avatar": "https://avatars.githubusercontent.com/u/172995042"
-        },
-        {
-          "username": "ak4631",
-          "href": "https://github.com/ak4631",
-          "avatar": "https://avatars.githubusercontent.com/u/132299371"
-        }
-      ]
-    },
-    {
-      "author": "onyx-dot-app",
-      "repo": "onyx",
-      "avatar": "https://github.com/onyx-dot-app.png",
-      "repo_link": "https://github.com/onyx-dot-app/onyx",
-      "desc": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 3835,
-      "added_stars": 9960,
-      "builtBy": [
-        {
-          "username": "Weves",
-          "href": "https://github.com/Weves",
-          "avatar": "https://avatars.githubusercontent.com/u/25087905"
-        },
-        {
-          "username": "yuhongsun96",
-          "href": "https://github.com/yuhongsun96",
-          "avatar": "https://avatars.githubusercontent.com/u/32520769"
-        },
-        {
-          "username": "pablonyx",
-          "href": "https://github.com/pablonyx",
-          "avatar": "https://avatars.githubusercontent.com/u/171597620"
-        },
-        {
-          "username": "jmelahman",
-          "href": "https://github.com/jmelahman",
-          "avatar": "https://avatars.githubusercontent.com/u/23436978"
-        }
-      ]
-    },
-    {
-      "author": "AIDC-AI",
-      "repo": "Pixelle-Video",
-      "avatar": "https://github.com/AIDC-AI.png",
-      "repo_link": "https://github.com/AIDC-AI/Pixelle-Video",
-      "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 1166,
-      "added_stars": 3822,
-      "builtBy": [
-        {
-          "username": "puke3615",
-          "href": "https://github.com/puke3615",
-          "avatar": "https://avatars.githubusercontent.com/u/9640444"
-        },
-        {
-          "username": "lltt90511",
-          "href": "https://github.com/lltt90511",
-          "avatar": "https://avatars.githubusercontent.com/u/17017736"
-        },
-        {
-          "username": "AuroraChloe",
-          "href": "https://github.com/AuroraChloe",
-          "avatar": "https://avatars.githubusercontent.com/u/139871909"
-        },
-        {
-          "username": "xianshi-yyds",
-          "href": "https://github.com/xianshi-yyds",
-          "avatar": "https://avatars.githubusercontent.com/u/150135158"
-        },
-        {
-          "username": "strict235",
-          "href": "https://github.com/strict235",
-          "avatar": "https://avatars.githubusercontent.com/u/196629462"
-        }
-      ]
-    },
-    {
-      "author": "sherlock-project",
-      "repo": "sherlock",
-      "avatar": "https://github.com/sherlock-project.png",
-      "repo_link": "https://github.com/sherlock-project/sherlock",
-      "desc": "Hunt down social media accounts by username across social networks",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 9630,
-      "added_stars": 8639,
-      "builtBy": [
-        {
-          "username": "sdushantha",
-          "href": "https://github.com/sdushantha",
-          "avatar": "https://avatars.githubusercontent.com/u/27065646"
-        },
-        {
-          "username": "hoadlck",
-          "href": "https://github.com/hoadlck",
-          "avatar": "https://avatars.githubusercontent.com/u/1666888"
-        },
-        {
-          "username": "ppfeister",
-          "href": "https://github.com/ppfeister",
-          "avatar": "https://avatars.githubusercontent.com/u/33327613"
-        },
-        {
-          "username": "TheYahya",
-          "href": "https://github.com/TheYahya",
-          "avatar": "https://avatars.githubusercontent.com/u/15307244"
-        },
-        {
-          "username": "Czechball",
-          "href": "https://github.com/Czechball",
-          "avatar": "https://avatars.githubusercontent.com/u/13371865"
-        }
-      ]
-    },
-    {
-      "author": "alirezarezvani",
-      "repo": "claude-skills",
-      "avatar": "https://github.com/alirezarezvani.png",
-      "repo_link": "https://github.com/alirezarezvani/claude-skills",
-      "desc": "232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 1716,
-      "added_stars": 5654,
-      "builtBy": [
-        {
-          "username": "alirezarezvani",
-          "href": "https://github.com/alirezarezvani",
-          "avatar": "https://avatars.githubusercontent.com/u/5697919"
-        },
-        {
-          "username": "claude",
-          "href": "https://github.com/claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847"
-        },
-        {
-          "username": "olgasafonova",
-          "href": "https://github.com/olgasafonova",
-          "avatar": "https://avatars.githubusercontent.com/u/23409189"
-        },
-        {
-          "username": "fernandezbaptiste",
-          "href": "https://github.com/fernandezbaptiste",
-          "avatar": "https://avatars.githubusercontent.com/u/83458751"
-        },
-        {
-          "username": "ikala-shawn",
-          "href": "https://github.com/ikala-shawn",
-          "avatar": "https://avatars.githubusercontent.com/u/111341595"
-        }
-      ]
-    },
-    {
-      "author": "plastic-labs",
-      "repo": "honcho",
-      "avatar": "https://github.com/plastic-labs.png",
-      "repo_link": "https://github.com/plastic-labs/honcho",
-      "desc": "Memory library for building stateful agents",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 339,
-      "added_stars": 1832,
-      "builtBy": [
-        {
-          "username": "VVoruganti",
-          "href": "https://github.com/VVoruganti",
-          "avatar": "https://avatars.githubusercontent.com/u/13438633"
-        },
-        {
-          "username": "dr-frmr",
-          "href": "https://github.com/dr-frmr",
-          "avatar": "https://avatars.githubusercontent.com/u/93405247"
-        },
-        {
-          "username": "Rajat-Ahuja1997",
-          "href": "https://github.com/Rajat-Ahuja1997",
-          "avatar": "https://avatars.githubusercontent.com/u/16487421"
-        },
-        {
-          "username": "vintrocode",
-          "href": "https://github.com/vintrocode",
-          "avatar": "https://avatars.githubusercontent.com/u/77507980"
-        },
-        {
-          "username": "ajspig",
-          "href": "https://github.com/ajspig",
-          "avatar": "https://avatars.githubusercontent.com/u/46900795"
-        }
-      ]
-    },
-    {
-      "author": "HKUDS",
-      "repo": "RAG-Anything",
-      "avatar": "https://github.com/HKUDS.png",
-      "repo_link": "https://github.com/HKUDS/RAG-Anything",
-      "desc": "\"RAG-Anything: All-in-One RAG Framework\"",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 2183,
-      "added_stars": 4390,
-      "builtBy": [
-        {
-          "username": "LarFii",
-          "href": "https://github.com/LarFii",
-          "avatar": "https://avatars.githubusercontent.com/u/49157727"
-        },
-        {
-          "username": "Jah-yee",
-          "href": "https://github.com/Jah-yee",
-          "avatar": "https://avatars.githubusercontent.com/u/166608075"
-        },
-        {
-          "username": "chaohuang-ai",
-          "href": "https://github.com/chaohuang-ai",
-          "avatar": "https://avatars.githubusercontent.com/u/204865953"
-        },
-        {
-          "username": "LaansDole",
-          "href": "https://github.com/LaansDole",
-          "avatar": "https://avatars.githubusercontent.com/u/85084360"
-        },
-        {
-          "username": "hzywhite",
-          "href": "https://github.com/hzywhite",
-          "avatar": "https://avatars.githubusercontent.com/u/53216231"
-        }
-      ]
-    },
-    {
-      "author": "sansan0",
-      "repo": "TrendRadar",
-      "avatar": "https://github.com/sansan0.png",
-      "repo_link": "https://github.com/sansan0/TrendRadar",
-      "desc": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 23899,
-      "added_stars": 6043,
-      "builtBy": [
-        {
-          "username": "actions-user",
-          "href": "https://github.com/actions-user",
-          "avatar": "https://avatars.githubusercontent.com/u/65916846"
-        },
-        {
-          "username": "sansan0",
-          "href": "https://github.com/sansan0",
-          "avatar": "https://avatars.githubusercontent.com/u/77180927"
-        },
-        {
-          "username": "bing-h",
-          "href": "https://github.com/bing-h",
-          "avatar": "https://avatars.githubusercontent.com/u/9867881"
-        },
-        {
-          "username": "wtychn",
-          "href": "https://github.com/wtychn",
-          "avatar": "https://avatars.githubusercontent.com/u/48308484"
-        }
-      ]
-    },
-    {
-      "author": "microsoft",
-      "repo": "apm",
-      "avatar": "https://github.com/microsoft.png",
-      "repo_link": "https://github.com/microsoft/apm",
-      "desc": "Agent Package Manager",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 148,
-      "added_stars": 1325,
-      "builtBy": [
-        {
-          "username": "danielmeppiel",
-          "href": "https://github.com/danielmeppiel",
-          "avatar": "https://avatars.githubusercontent.com/u/51440732"
-        },
-        {
-          "username": "sergio-sisternes-epam",
-          "href": "https://github.com/sergio-sisternes-epam",
-          "avatar": "https://avatars.githubusercontent.com/u/207026618"
+          "username": "bakaemon",
+          "href": "https://github.com/bakaemon",
+          "avatar": "https://avatars.githubusercontent.com/u/69375806"
         }
       ]
     }
@@ -2490,21 +1821,31 @@ node bin/main.js --json github -s monthly -l python ; node bin/main.js --json gi
   "language": "typescript",
   "items": [
     {
-      "author": "Yeachan-Heo",
-      "repo": "oh-my-codex",
-      "avatar": "https://github.com/Yeachan-Heo.png",
-      "repo_link": "https://github.com/Yeachan-Heo/oh-my-codex",
-      "desc": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "author": "heygen-com",
+      "repo": "hyperframes",
+      "avatar": "https://github.com/heygen-com.png",
+      "repo_link": "https://github.com/heygen-com/hyperframes",
+      "desc": "Write HTML. Render video. Built for agents.",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 0,
-      "forks": 2171,
-      "added_stars": 23773,
+      "forks": 6640,
+      "added_stars": 19856,
       "builtBy": [
         {
-          "username": "Yeachan-Heo",
-          "href": "https://github.com/Yeachan-Heo",
-          "avatar": "https://avatars.githubusercontent.com/u/54757707"
+          "username": "miguel-heygen",
+          "href": "https://github.com/miguel-heygen",
+          "avatar": "https://avatars.githubusercontent.com/u/229591595"
+        },
+        {
+          "username": "vanceingalls",
+          "href": "https://github.com/vanceingalls",
+          "avatar": "https://avatars.githubusercontent.com/u/337856"
+        },
+        {
+          "username": "jrusso1020",
+          "href": "https://github.com/jrusso1020",
+          "avatar": "https://avatars.githubusercontent.com/u/7664106"
         },
         {
           "username": "claude",
@@ -2512,194 +1853,9 @@ node bin/main.js --json github -s monthly -l python ; node bin/main.js --json gi
           "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "HaD0Yun",
-          "href": "https://github.com/HaD0Yun",
-          "avatar": "https://avatars.githubusercontent.com/u/102889891"
-        },
-        {
-          "username": "Oxidane-bot",
-          "href": "https://github.com/Oxidane-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/73341858"
-        }
-      ]
-    },
-    {
-      "author": "siddharthvaddem",
-      "repo": "openscreen",
-      "avatar": "https://github.com/siddharthvaddem.png",
-      "repo_link": "https://github.com/siddharthvaddem/openscreen",
-      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-      "lang": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 0,
-      "forks": 2235,
-      "added_stars": 24316,
-      "builtBy": [
-        {
-          "username": "siddharthvaddem",
-          "href": "https://github.com/siddharthvaddem",
-          "avatar": "https://avatars.githubusercontent.com/u/70214527"
-        },
-        {
-          "username": "FabLrc",
-          "href": "https://github.com/FabLrc",
-          "avatar": "https://avatars.githubusercontent.com/u/86679051"
-        },
-        {
-          "username": "Enriquefft",
-          "href": "https://github.com/Enriquefft",
-          "avatar": "https://avatars.githubusercontent.com/u/60308719"
-        },
-        {
-          "username": "imAaryash",
-          "href": "https://github.com/imAaryash",
-          "avatar": "https://avatars.githubusercontent.com/u/91302334"
-        },
-        {
-          "username": "EtienneLescot",
-          "href": "https://github.com/EtienneLescot",
-          "avatar": "https://avatars.githubusercontent.com/u/215859519"
-        }
-      ]
-    },
-    {
-      "author": "coleam00",
-      "repo": "Archon",
-      "avatar": "https://github.com/coleam00.png",
-      "repo_link": "https://github.com/coleam00/Archon",
-      "desc": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-      "lang": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 0,
-      "forks": 3073,
-      "added_stars": 6196,
-      "builtBy": [
-        {
-          "username": "Wirasm",
-          "href": "https://github.com/Wirasm",
-          "avatar": "https://avatars.githubusercontent.com/u/152263317"
-        },
-        {
-          "username": "coleam00",
-          "href": "https://github.com/coleam00",
-          "avatar": "https://avatars.githubusercontent.com/u/47287758"
-        },
-        {
-          "username": "claude",
-          "href": "https://github.com/claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847"
-        },
-        {
-          "username": "leex279",
-          "href": "https://github.com/leex279",
-          "avatar": "https://avatars.githubusercontent.com/u/6664492"
-        }
-      ]
-    },
-    {
-      "author": "thedotmack",
-      "repo": "claude-mem",
-      "avatar": "https://github.com/thedotmack.png",
-      "repo_link": "https://github.com/thedotmack/claude-mem",
-      "desc": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "lang": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 0,
-      "forks": 5865,
-      "added_stars": 27414,
-      "builtBy": [
-        {
-          "username": "thedotmack",
-          "href": "https://github.com/thedotmack",
-          "avatar": "https://avatars.githubusercontent.com/u/683968"
-        },
-        {
-          "username": "claude",
-          "href": "https://github.com/claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847"
-        },
-        {
-          "username": "ousamabenyounes",
-          "href": "https://github.com/ousamabenyounes",
-          "avatar": "https://avatars.githubusercontent.com/u/2910651"
-        },
-        {
-          "username": "rodboev",
-          "href": "https://github.com/rodboev",
-          "avatar": "https://avatars.githubusercontent.com/u/106971"
-        }
-      ]
-    },
-    {
-      "author": "vas3k",
-      "repo": "TaxHacker",
-      "avatar": "https://github.com/vas3k.png",
-      "repo_link": "https://github.com/vas3k/TaxHacker",
-      "desc": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
-      "lang": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 0,
-      "forks": 851,
-      "added_stars": 2924,
-      "builtBy": [
-        {
-          "username": "vas3k",
-          "href": "https://github.com/vas3k",
-          "avatar": "https://avatars.githubusercontent.com/u/176344"
-        },
-        {
-          "username": "H1D",
-          "href": "https://github.com/H1D",
-          "avatar": "https://avatars.githubusercontent.com/u/697625"
-        },
-        {
-          "username": "danfimov",
-          "href": "https://github.com/danfimov",
-          "avatar": "https://avatars.githubusercontent.com/u/32870032"
-        },
-        {
-          "username": "deepakdroi",
-          "href": "https://github.com/deepakdroi",
-          "avatar": "https://avatars.githubusercontent.com/u/46590050"
-        },
-        {
-          "username": "mmplisskin",
-          "href": "https://github.com/mmplisskin",
-          "avatar": "https://avatars.githubusercontent.com/u/7832832"
-        }
-      ]
-    },
-    {
-      "author": "diegosouzapw",
-      "repo": "OmniRoute",
-      "avatar": "https://github.com/diegosouzapw.png",
-      "repo_link": "https://github.com/diegosouzapw/OmniRoute",
-      "desc": "OmniRoute is an AI gateway for multi-provider LLMs: an OpenAI-compatible endpoint with smart routing, load balancing, retries, and fallbacks. Add policies, rate limits, caching, and observability for reliable, cost-aware inference.",
-      "lang": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 0,
-      "forks": 583,
-      "added_stars": 2291,
-      "builtBy": [
-        {
-          "username": "diegosouzapw",
-          "href": "https://github.com/diegosouzapw",
-          "avatar": "https://avatars.githubusercontent.com/u/8016841"
-        },
-        {
-          "username": "rdself",
-          "href": "https://github.com/rdself",
-          "avatar": "https://avatars.githubusercontent.com/u/55005611"
-        },
-        {
-          "username": "christopher-s",
-          "href": "https://github.com/christopher-s",
-          "avatar": "https://avatars.githubusercontent.com/u/3751981"
-        },
-        {
-          "username": "oyi77",
-          "href": "https://github.com/oyi77",
-          "avatar": "https://avatars.githubusercontent.com/u/14921983"
+          "username": "ukimsanov",
+          "href": "https://github.com/ukimsanov",
+          "avatar": "https://avatars.githubusercontent.com/u/165517112"
         }
       ]
     },
@@ -2708,12 +1864,12 @@ node bin/main.js --json github -s monthly -l python ; node bin/main.js --json gi
       "repo": "context-mode",
       "avatar": "https://github.com/mksglu.png",
       "repo_link": "https://github.com/mksglu/context-mode",
-      "desc": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 0,
-      "forks": 743,
-      "added_stars": 4666,
+      "forks": 2248,
+      "added_stars": 8483,
       "builtBy": [
         {
           "username": "mksglu",
@@ -2731,28 +1887,77 @@ node bin/main.js --json github -s monthly -l python ; node bin/main.js --json gi
           "avatar": "https://avatars.githubusercontent.com/u/380338"
         },
         {
-          "username": "rjkaes",
-          "href": "https://github.com/rjkaes",
-          "avatar": "https://avatars.githubusercontent.com/u/128173"
+          "username": "ousamabenyounes",
+          "href": "https://github.com/ousamabenyounes",
+          "avatar": "https://avatars.githubusercontent.com/u/2910651"
         }
       ]
     },
     {
-      "author": "YishenTu",
-      "repo": "claudian",
-      "avatar": "https://github.com/YishenTu.png",
-      "repo_link": "https://github.com/YishenTu/claudian",
-      "desc": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "author": "cursor",
+      "repo": "plugins",
+      "avatar": "https://github.com/cursor.png",
+      "repo_link": "https://github.com/cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 0,
-      "forks": 575,
-      "added_stars": 4144,
+      "forks": 1429,
+      "added_stars": 5517,
       "builtBy": [
         {
-          "username": "YishenTu",
-          "href": "https://github.com/YishenTu",
-          "avatar": "https://avatars.githubusercontent.com/u/134207149"
+          "username": "cursoragent",
+          "href": "https://github.com/cursoragent",
+          "avatar": "https://avatars.githubusercontent.com/u/199161495"
+        },
+        {
+          "username": "poteto",
+          "href": "https://github.com/poteto",
+          "avatar": "https://avatars.githubusercontent.com/u/1390709"
+        },
+        {
+          "username": "minupalaniappan",
+          "href": "https://github.com/minupalaniappan",
+          "avatar": "https://avatars.githubusercontent.com/u/2145689"
+        },
+        {
+          "username": "ericzakariasson",
+          "href": "https://github.com/ericzakariasson",
+          "avatar": "https://avatars.githubusercontent.com/u/25622412"
+        },
+        {
+          "username": "roshansada",
+          "href": "https://github.com/roshansada",
+          "avatar": "https://avatars.githubusercontent.com/u/930790"
+        }
+      ]
+    },
+    {
+      "author": "paperclipai",
+      "repo": "paperclip",
+      "avatar": "https://github.com/paperclipai.png",
+      "repo_link": "https://github.com/paperclipai/paperclip",
+      "desc": "The open-source app everyone uses to manage agents at work",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 17873,
+      "added_stars": 21863,
+      "builtBy": [
+        {
+          "username": "cryppadotta",
+          "href": "https://github.com/cryppadotta",
+          "avatar": "https://avatars.githubusercontent.com/u/34892728"
+        },
+        {
+          "username": "Paperclip-Paperclip",
+          "href": "https://github.com/Paperclip-Paperclip",
+          "avatar": "https://avatars.githubusercontent.com/u/271391591"
+        },
+        {
+          "username": "devinfoley",
+          "href": "https://github.com/devinfoley",
+          "avatar": "https://avatars.githubusercontent.com/u/139239"
         },
         {
           "username": "claude",
@@ -2760,209 +1965,671 @@ node bin/main.js --json github -s monthly -l python ; node bin/main.js --json gi
           "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "summerKK",
-          "href": "https://github.com/summerKK",
-          "avatar": "https://avatars.githubusercontent.com/u/19187969"
-        },
-        {
-          "username": "AlexSuprun",
-          "href": "https://github.com/AlexSuprun",
-          "avatar": "https://avatars.githubusercontent.com/u/3644296"
+          "username": "nickyleach",
+          "href": "https://github.com/nickyleach",
+          "avatar": "https://avatars.githubusercontent.com/u/331803"
         }
       ]
     },
     {
-      "author": "open-metadata",
-      "repo": "OpenMetadata",
-      "avatar": "https://github.com/open-metadata.png",
-      "repo_link": "https://github.com/open-metadata/OpenMetadata",
-      "desc": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+      "author": "thedotmack",
+      "repo": "claude-mem",
+      "avatar": "https://github.com/thedotmack.png",
+      "repo_link": "https://github.com/thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 0,
-      "forks": 2058,
-      "added_stars": 4694,
+      "forks": 9135,
+      "added_stars": 9085,
       "builtBy": [
         {
-          "username": "pmbrull",
-          "href": "https://github.com/pmbrull",
-          "avatar": "https://avatars.githubusercontent.com/u/35870520"
+          "username": "thedotmack",
+          "href": "https://github.com/thedotmack",
+          "avatar": "https://avatars.githubusercontent.com/u/683968"
         },
         {
-          "username": "harshach",
-          "href": "https://github.com/harshach",
-          "avatar": "https://avatars.githubusercontent.com/u/38649"
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "ShaileshParmar11",
-          "href": "https://github.com/ShaileshParmar11",
-          "avatar": "https://avatars.githubusercontent.com/u/71748675"
+          "username": "rudycelekli",
+          "href": "https://github.com/rudycelekli",
+          "avatar": "https://avatars.githubusercontent.com/u/47457359"
         },
         {
-          "username": "chirag-madlani",
-          "href": "https://github.com/chirag-madlani",
-          "avatar": "https://avatars.githubusercontent.com/u/12962843"
+          "username": "cursoragent",
+          "href": "https://github.com/cursoragent",
+          "avatar": "https://avatars.githubusercontent.com/u/199161495"
         },
         {
-          "username": "Sachin-chaurasiya",
-          "href": "https://github.com/Sachin-chaurasiya",
-          "avatar": "https://avatars.githubusercontent.com/u/59080942"
+          "username": "rodboev",
+          "href": "https://github.com/rodboev",
+          "avatar": "https://avatars.githubusercontent.com/u/106971"
         }
       ]
     },
     {
-      "author": "hicccc77",
-      "repo": "WeFlow",
-      "avatar": "https://github.com/hicccc77.png",
-      "repo_link": "https://github.com/hicccc77/WeFlow",
-      "desc": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用",
+      "author": "tashfeenahmed",
+      "repo": "freellmapi",
+      "avatar": "https://github.com/tashfeenahmed.png",
+      "repo_link": "https://github.com/tashfeenahmed/freellmapi",
+      "desc": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 0,
-      "forks": 2155,
-      "added_stars": 3044,
+      "forks": 5717,
+      "added_stars": 13270,
       "builtBy": [
         {
-          "username": "hicccc77",
-          "href": "https://github.com/hicccc77",
-          "avatar": "https://avatars.githubusercontent.com/u/98377878"
+          "username": "tashfeenahmed",
+          "href": "https://github.com/tashfeenahmed",
+          "avatar": "https://avatars.githubusercontent.com/u/9307356"
         },
         {
-          "username": "xunchahaha",
-          "href": "https://github.com/xunchahaha",
-          "avatar": "https://avatars.githubusercontent.com/u/102988462"
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "aits2026",
-          "href": "https://github.com/aits2026",
-          "avatar": "https://avatars.githubusercontent.com/u/263311168"
+          "username": "suantea",
+          "href": "https://github.com/suantea",
+          "avatar": "https://avatars.githubusercontent.com/u/108558399"
         },
         {
-          "username": "Jasonzhu1207",
-          "href": "https://github.com/Jasonzhu1207",
-          "avatar": "https://avatars.githubusercontent.com/u/159670257"
+          "username": "tashdroid",
+          "href": "https://github.com/tashdroid",
+          "avatar": "https://avatars.githubusercontent.com/u/319142293"
         },
         {
-          "username": "H3CoF6",
-          "href": "https://github.com/H3CoF6",
-          "avatar": "https://avatars.githubusercontent.com/u/190114211"
+          "username": "OhOkThisIsFine",
+          "href": "https://github.com/OhOkThisIsFine",
+          "avatar": "https://avatars.githubusercontent.com/u/102485413"
         }
       ]
     },
     {
-      "author": "QwenLM",
-      "repo": "qwen-code",
-      "avatar": "https://github.com/QwenLM.png",
-      "repo_link": "https://github.com/QwenLM/qwen-code",
-      "desc": "An open-source AI agent that lives in your terminal.",
+      "author": "pingdotgg",
+      "repo": "t3code",
+      "avatar": "https://github.com/pingdotgg.png",
+      "repo_link": "https://github.com/pingdotgg/t3code",
+      "desc": "",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 0,
-      "forks": 2299,
-      "added_stars": 3068,
+      "forks": 8173,
+      "added_stars": 6921,
       "builtBy": [
         {
-          "username": "tanzhenxin",
-          "href": "https://github.com/tanzhenxin",
-          "avatar": "https://avatars.githubusercontent.com/u/480123"
+          "username": "juliusmarminge",
+          "href": "https://github.com/juliusmarminge",
+          "avatar": "https://avatars.githubusercontent.com/u/51714798"
         },
         {
-          "username": "qwencoder",
-          "href": "https://github.com/qwencoder",
-          "avatar": "https://avatars.githubusercontent.com/u/224605497"
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "yiliang114",
-          "href": "https://github.com/yiliang114",
-          "avatar": "https://avatars.githubusercontent.com/u/11473889"
+          "username": "t3dotgg",
+          "href": "https://github.com/t3dotgg",
+          "avatar": "https://avatars.githubusercontent.com/u/6751787"
         },
         {
-          "username": "Mingholy",
-          "href": "https://github.com/Mingholy",
-          "avatar": "https://avatars.githubusercontent.com/u/14246397"
+          "username": "codex",
+          "href": "https://github.com/codex",
+          "avatar": "https://avatars.githubusercontent.com/u/267193182"
         },
         {
-          "username": "LaZzyMan",
-          "href": "https://github.com/LaZzyMan",
-          "avatar": "https://avatars.githubusercontent.com/u/23273105"
+          "username": "maria-rcks",
+          "href": "https://github.com/maria-rcks",
+          "avatar": "https://avatars.githubusercontent.com/u/254055478"
         }
       ]
     },
     {
-      "author": "clash-verge-rev",
-      "repo": "clash-verge-rev",
-      "avatar": "https://github.com/clash-verge-rev.png",
-      "repo_link": "https://github.com/clash-verge-rev/clash-verge-rev",
-      "desc": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+      "author": "supabase",
+      "repo": "supabase",
+      "avatar": "https://github.com/supabase.png",
+      "repo_link": "https://github.com/supabase/supabase",
+      "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 0,
-      "forks": 8340,
-      "added_stars": 8577,
+      "forks": 16309,
+      "added_stars": 3505,
       "builtBy": [
         {
-          "username": "zzzgydi",
-          "href": "https://github.com/zzzgydi",
-          "avatar": "https://avatars.githubusercontent.com/u/27361820"
+          "username": "joshenlim",
+          "href": "https://github.com/joshenlim",
+          "avatar": "https://avatars.githubusercontent.com/u/19742402"
         },
         {
-          "username": "Tunglies",
-          "href": "https://github.com/Tunglies",
-          "avatar": "https://avatars.githubusercontent.com/u/77394545"
+          "username": "kiwicopple",
+          "href": "https://github.com/kiwicopple",
+          "avatar": "https://avatars.githubusercontent.com/u/10214025"
         },
         {
-          "username": "MystiPanda",
-          "href": "https://github.com/MystiPanda",
-          "avatar": "https://avatars.githubusercontent.com/u/152463842"
+          "username": "MildTomato",
+          "href": "https://github.com/MildTomato",
+          "avatar": "https://avatars.githubusercontent.com/u/8291514"
         },
         {
-          "username": "wonfen",
-          "href": "https://github.com/wonfen",
-          "avatar": "https://avatars.githubusercontent.com/u/96291150"
+          "username": "saltcod",
+          "href": "https://github.com/saltcod",
+          "avatar": "https://avatars.githubusercontent.com/u/105593"
         },
         {
-          "username": "huzibaca",
-          "href": "https://github.com/huzibaca",
-          "avatar": "https://avatars.githubusercontent.com/u/179569293"
+          "username": "alaister",
+          "href": "https://github.com/alaister",
+          "avatar": "https://avatars.githubusercontent.com/u/10985857"
         }
       ]
     },
     {
-      "author": "sparkjsdev",
-      "repo": "spark",
-      "avatar": "https://github.com/sparkjsdev.png",
-      "repo_link": "https://github.com/sparkjsdev/spark",
-      "desc": "✨ An advanced 3D Gaussian Splatting renderer for THREE.js",
+      "author": "vercel-labs",
+      "repo": "skills",
+      "avatar": "https://github.com/vercel-labs.png",
+      "repo_link": "https://github.com/vercel-labs/skills",
+      "desc": "The open agent skills tool - npx skills",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 0,
-      "forks": 286,
-      "added_stars": 789,
+      "forks": 3163,
+      "added_stars": 4297,
       "builtBy": [
         {
-          "username": "dmarcos",
-          "href": "https://github.com/dmarcos",
-          "avatar": "https://avatars.githubusercontent.com/u/39342"
+          "username": "quuu",
+          "href": "https://github.com/quuu",
+          "avatar": "https://avatars.githubusercontent.com/u/32676955"
         },
         {
-          "username": "asundqui",
-          "href": "https://github.com/asundqui",
-          "avatar": "https://avatars.githubusercontent.com/u/1168753"
+          "username": "huozhi",
+          "href": "https://github.com/huozhi",
+          "avatar": "https://avatars.githubusercontent.com/u/4800338"
         },
         {
-          "username": "mrxz",
-          "href": "https://github.com/mrxz",
-          "avatar": "https://avatars.githubusercontent.com/u/8823461"
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "alex-mcneilly",
-          "href": "https://github.com/alex-mcneilly",
-          "avatar": "https://avatars.githubusercontent.com/u/115044628"
+          "username": "jonathanhefner",
+          "href": "https://github.com/jonathanhefner",
+          "avatar": "https://avatars.githubusercontent.com/u/771968"
+        }
+      ]
+    },
+    {
+      "author": "remotion-dev",
+      "repo": "remotion",
+      "avatar": "https://github.com/remotion-dev.png",
+      "repo_link": "https://github.com/remotion-dev/remotion",
+      "desc": "🎥 Make videos programmatically with React",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 5507,
+      "added_stars": 7468,
+      "builtBy": [
+        {
+          "username": "JonnyBurger",
+          "href": "https://github.com/JonnyBurger",
+          "avatar": "https://avatars.githubusercontent.com/u/1629785"
         },
         {
-          "username": "feiss",
-          "href": "https://github.com/feiss",
-          "avatar": "https://avatars.githubusercontent.com/u/359872"
+          "username": "samohovets",
+          "href": "https://github.com/samohovets",
+          "avatar": "https://avatars.githubusercontent.com/u/24735429"
+        },
+        {
+          "username": "patsalv",
+          "href": "https://github.com/patsalv",
+          "avatar": "https://avatars.githubusercontent.com/u/89481679"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        }
+      ]
+    },
+    {
+      "author": "stablyai",
+      "repo": "orca",
+      "avatar": "https://github.com/stablyai.png",
+      "repo_link": "https://github.com/stablyai/orca",
+      "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 6770,
+      "added_stars": 28711,
+      "builtBy": [
+        {
+          "username": "nwparker",
+          "href": "https://github.com/nwparker",
+          "avatar": "https://avatars.githubusercontent.com/u/4138956"
+        },
+        {
+          "username": "brennanb2025",
+          "href": "https://github.com/brennanb2025",
+          "avatar": "https://avatars.githubusercontent.com/u/79079362"
+        },
+        {
+          "username": "Jinwoo-H",
+          "href": "https://github.com/Jinwoo-H",
+          "avatar": "https://avatars.githubusercontent.com/u/73622457"
+        },
+        {
+          "username": "AmethystLiang",
+          "href": "https://github.com/AmethystLiang",
+          "avatar": "https://avatars.githubusercontent.com/u/6427696"
+        },
+        {
+          "username": "orca-ide",
+          "href": "https://github.com/orca-ide",
+          "avatar": "https://avatars.githubusercontent.com/u/277417572"
+        }
+      ]
+    },
+    {
+      "author": "Effect-TS",
+      "repo": "effect",
+      "avatar": "https://github.com/Effect-TS.png",
+      "repo_link": "https://github.com/Effect-TS/effect",
+      "desc": "Build production-ready applications in TypeScript",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 879,
+      "added_stars": 1224,
+      "builtBy": [
+        {
+          "username": "tim-smart",
+          "href": "https://github.com/tim-smart",
+          "avatar": "https://avatars.githubusercontent.com/u/40680"
+        },
+        {
+          "username": "mikearnaldi",
+          "href": "https://github.com/mikearnaldi",
+          "avatar": "https://avatars.githubusercontent.com/u/24249610"
+        },
+        {
+          "username": "gcanti",
+          "href": "https://github.com/gcanti",
+          "avatar": "https://avatars.githubusercontent.com/u/878912"
+        },
+        {
+          "username": "fubhy",
+          "href": "https://github.com/fubhy",
+          "avatar": "https://avatars.githubusercontent.com/u/1172528"
+        }
+      ]
+    },
+    {
+      "author": "ruvnet",
+      "repo": "ruflo",
+      "avatar": "https://github.com/ruvnet.png",
+      "repo_link": "https://github.com/ruvnet/ruflo",
+      "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 9349,
+      "added_stars": 6557,
+      "builtBy": [
+        {
+          "username": "ruvnet",
+          "href": "https://github.com/ruvnet",
+          "avatar": "https://avatars.githubusercontent.com/u/2934394"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "rudycelekli",
+          "href": "https://github.com/rudycelekli",
+          "avatar": "https://avatars.githubusercontent.com/u/47457359"
+        },
+        {
+          "username": "proffesor-for-testing",
+          "href": "https://github.com/proffesor-for-testing",
+          "avatar": "https://avatars.githubusercontent.com/u/214853444"
+        }
+      ]
+    },
+    {
+      "author": "elie222",
+      "repo": "rakazo",
+      "avatar": "https://github.com/elie222.png",
+      "repo_link": "https://github.com/elie222/rakazo",
+      "desc": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 1053,
+      "added_stars": 2979,
+      "builtBy": [
+        {
+          "username": "elie222",
+          "href": "https://github.com/elie222",
+          "avatar": "https://avatars.githubusercontent.com/u/3090527"
+        },
+        {
+          "username": "cursoragent",
+          "href": "https://github.com/cursoragent",
+          "avatar": "https://avatars.githubusercontent.com/u/199161495"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "ald3b",
+          "href": "https://github.com/ald3b",
+          "avatar": "https://avatars.githubusercontent.com/u/3642270"
+        },
+        {
+          "username": "fetw882",
+          "href": "https://github.com/fetw882",
+          "avatar": "https://avatars.githubusercontent.com/u/121428752"
+        }
+      ]
+    },
+    {
+      "author": "LibreSpark",
+      "repo": "LibreTV",
+      "avatar": "https://github.com/LibreSpark.png",
+      "repo_link": "https://github.com/LibreSpark/LibreTV",
+      "desc": "一分钟搭建影视站，支持Docker等部署方式",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 30188,
+      "added_stars": 8340,
+      "builtBy": [
+        {
+          "username": "bestZwei",
+          "href": "https://github.com/bestZwei",
+          "avatar": "https://avatars.githubusercontent.com/u/110226580"
+        },
+        {
+          "username": "senshinya",
+          "href": "https://github.com/senshinya",
+          "avatar": "https://avatars.githubusercontent.com/u/155552943"
+        },
+        {
+          "username": "JohnsonRan",
+          "href": "https://github.com/JohnsonRan",
+          "avatar": "https://avatars.githubusercontent.com/u/89735151"
+        },
+        {
+          "username": "WLongSAMA",
+          "href": "https://github.com/WLongSAMA",
+          "avatar": "https://avatars.githubusercontent.com/u/12743204"
+        }
+      ]
+    },
+    {
+      "author": "anomalyco",
+      "repo": "opencode",
+      "avatar": "https://github.com/anomalyco.png",
+      "repo_link": "https://github.com/anomalyco/opencode",
+      "desc": "The open source coding agent.",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 29711,
+      "added_stars": 13188,
+      "builtBy": [
+        {
+          "username": "thdxr",
+          "href": "https://github.com/thdxr",
+          "avatar": "https://avatars.githubusercontent.com/u/826656"
+        },
+        {
+          "username": "rekram1-node",
+          "href": "https://github.com/rekram1-node",
+          "avatar": "https://avatars.githubusercontent.com/u/63023139"
+        },
+        {
+          "username": "adamdotdevin",
+          "href": "https://github.com/adamdotdevin",
+          "avatar": "https://avatars.githubusercontent.com/u/2363879"
+        },
+        {
+          "username": "kitlangton",
+          "href": "https://github.com/kitlangton",
+          "avatar": "https://avatars.githubusercontent.com/u/7587245"
+        }
+      ]
+    },
+    {
+      "author": "Renhuai123",
+      "repo": "ziwei-doushu",
+      "avatar": "https://github.com/Renhuai123.png",
+      "repo_link": "https://github.com/Renhuai123/ziwei-doushu",
+      "desc": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 1672,
+      "added_stars": 4055,
+      "builtBy": [
+        {
+          "username": "Renhuai123",
+          "href": "https://github.com/Renhuai123",
+          "avatar": "https://avatars.githubusercontent.com/u/91890238"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "Renhuai",
+          "href": "https://github.com/Renhuai",
+          "avatar": "https://avatars.githubusercontent.com/u/108378938"
+        },
+        {
+          "username": "sakura168899-debug",
+          "href": "https://github.com/sakura168899-debug",
+          "avatar": "https://avatars.githubusercontent.com/u/289346330"
+        }
+      ]
+    },
+    {
+      "author": "Vincentwei1021",
+      "repo": "video-shotcraft",
+      "avatar": "https://github.com/Vincentwei1021.png",
+      "repo_link": "https://github.com/Vincentwei1021/video-shotcraft",
+      "desc": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 1278,
+      "added_stars": 4231,
+      "builtBy": [
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "Vincentwei1021",
+          "href": "https://github.com/Vincentwei1021",
+          "avatar": "https://avatars.githubusercontent.com/u/18239147"
+        },
+        {
+          "username": "skyzhao1223",
+          "href": "https://github.com/skyzhao1223",
+          "avatar": "https://avatars.githubusercontent.com/u/15373810"
+        },
+        {
+          "username": "sarff0",
+          "href": "https://github.com/sarff0",
+          "avatar": "https://avatars.githubusercontent.com/u/255364023"
+        },
+        {
+          "username": "xiaolai",
+          "href": "https://github.com/xiaolai",
+          "avatar": "https://avatars.githubusercontent.com/u/152970"
+        }
+      ]
+    },
+    {
+      "author": "ranxianglei",
+      "repo": "billion-context",
+      "avatar": "https://github.com/ranxianglei.png",
+      "repo_link": "https://github.com/ranxianglei/billion-context",
+      "desc": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 252,
+      "added_stars": 2662,
+      "builtBy": [
+        {
+          "username": "ranxianglei",
+          "href": "https://github.com/ranxianglei",
+          "avatar": "https://avatars.githubusercontent.com/u/12445698"
+        },
+        {
+          "username": "YunzhouLi-hub",
+          "href": "https://github.com/YunzhouLi-hub",
+          "avatar": "https://avatars.githubusercontent.com/u/154221037"
+        },
+        {
+          "username": "yanhuojiyusheng",
+          "href": "https://github.com/yanhuojiyusheng",
+          "avatar": "https://avatars.githubusercontent.com/u/98598692"
+        },
+        {
+          "username": "yingzhongshuoqi",
+          "href": "https://github.com/yingzhongshuoqi",
+          "avatar": "https://avatars.githubusercontent.com/u/187964595"
+        }
+      ]
+    },
+    {
+      "author": "thesysdev",
+      "repo": "openui",
+      "avatar": "https://github.com/thesysdev.png",
+      "repo_link": "https://github.com/thesysdev/openui",
+      "desc": "The Open Standard for Generative UI",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 933,
+      "added_stars": 4358,
+      "builtBy": [
+        {
+          "username": "i-subham23",
+          "href": "https://github.com/i-subham23",
+          "avatar": "https://avatars.githubusercontent.com/u/173032156"
+        },
+        {
+          "username": "AbhinRustagi",
+          "href": "https://github.com/AbhinRustagi",
+          "avatar": "https://avatars.githubusercontent.com/u/55152006"
+        },
+        {
+          "username": "ankit-thesys",
+          "href": "https://github.com/ankit-thesys",
+          "avatar": "https://avatars.githubusercontent.com/u/173031316"
+        },
+        {
+          "username": "abhithesys",
+          "href": "https://github.com/abhithesys",
+          "avatar": "https://avatars.githubusercontent.com/u/157345590"
+        },
+        {
+          "username": "zahlekhan",
+          "href": "https://github.com/zahlekhan",
+          "avatar": "https://avatars.githubusercontent.com/u/27266434"
+        }
+      ]
+    },
+    {
+      "author": "google-gemini",
+      "repo": "gemini-cli",
+      "avatar": "https://github.com/google-gemini.png",
+      "repo_link": "https://github.com/google-gemini/gemini-cli",
+      "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 14850,
+      "added_stars": 1759,
+      "builtBy": [
+        {
+          "username": "scidomino",
+          "href": "https://github.com/scidomino",
+          "avatar": "https://avatars.githubusercontent.com/u/13950003"
+        },
+        {
+          "username": "jacob314",
+          "href": "https://github.com/jacob314",
+          "avatar": "https://avatars.githubusercontent.com/u/1226812"
+        },
+        {
+          "username": "NTaylorMullen",
+          "href": "https://github.com/NTaylorMullen",
+          "avatar": "https://avatars.githubusercontent.com/u/2008729"
+        },
+        {
+          "username": "abhipatel12",
+          "href": "https://github.com/abhipatel12",
+          "avatar": "https://avatars.githubusercontent.com/u/43648792"
+        },
+        {
+          "username": "SandyTao520",
+          "href": "https://github.com/SandyTao520",
+          "avatar": "https://avatars.githubusercontent.com/u/12478482"
+        }
+      ]
+    },
+    {
+      "author": "makecindy",
+      "repo": "cindy",
+      "avatar": "https://github.com/makecindy.png",
+      "repo_link": "https://github.com/makecindy/cindy",
+      "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 823,
+      "added_stars": 3336,
+      "builtBy": [
+        {
+          "username": "dashhuang",
+          "href": "https://github.com/dashhuang",
+          "avatar": "https://avatars.githubusercontent.com/u/125997726"
+        },
+        {
+          "username": "zqchris",
+          "href": "https://github.com/zqchris",
+          "avatar": "https://avatars.githubusercontent.com/u/4436110"
+        },
+        {
+          "username": "MagicLizi",
+          "href": "https://github.com/MagicLizi",
+          "avatar": "https://avatars.githubusercontent.com/u/17176223"
+        },
+        {
+          "username": "DavidShenXD",
+          "href": "https://github.com/DavidShenXD",
+          "avatar": "https://avatars.githubusercontent.com/u/290921921"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
         }
       ]
     }
@@ -2975,104 +2642,104 @@ node bin/main.js --json github -s monthly -l python ; node bin/main.js --json gi
   "sort": "top",
   "items": [
     {
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine! $2,850 in Prizes Across 21 Winners.",
+      "description": "Week 4 of our Hacktoberfest DEV Challenges starts today, and it's our final challenge of the series!...",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-2850-in-prizes-across-21-3cho",
+      "tags": "devchallenge, hf26challenge, hacktoberfest, ai",
+      "reactions": 39,
+      "comments": 6,
+      "reading_time": 7,
+      "author": "heyitsjem"
+    },
+    {
+      "title": "Why bloc.add(...) Isn't What You Think: Synchronous Event Fast-Paths and 0ms Form Bindings",
+      "description": "Why classic BLoC's StreamController forces an asynchronous microtask tax, how BlocSignal executes synchronous event handlers inline on the exact same call stack, and why this is the only way to build 120 FPS Generative UI form bindings.",
+      "url": "https://dev.to/gde/why-blocadd-isnt-what-you-think-synchronous-event-fast-paths-and-0ms-form-bindings-6o",
+      "tags": "flutter, dart, architecture, statemanagement",
+      "reactions": 9,
+      "comments": 4,
+      "reading_time": 10,
+      "author": "randalschwartz"
+    },
+    {
+      "title": "Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+      "url": "https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0",
+      "tags": "devchallenge, hf26challenge, gemma, tabpfn",
+      "reactions": 17,
+      "comments": 14,
+      "reading_time": 6,
+      "author": "khushighosh"
+    },
+    {
       "title": "Meme Monday",
       "description": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "url": "https://dev.to/ben/meme-monday-98e",
-      "tags": "discuss, jokes, watercooler",
-      "reactions": 21,
-      "comments": 20,
+      "url": "https://dev.to/ben/meme-monday-18k",
+      "tags": "discuss, watercooler, jokes",
+      "reactions": 25,
+      "comments": 18,
       "reading_time": 1,
       "author": "ben"
     },
     {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "description": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl",
-      "tags": "top7, discuss",
-      "reactions": 39,
-      "comments": 5,
+      "title": "🐾 DEV Pet Corner #3: Show Us Your Pets!",
+      "description": "TL;DR  DEV Pet Corner is back for another Sunday! It's a weekly series where we take a little break...",
+      "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-3-show-us-your-pets-35n",
+      "tags": "discuss, community, watercooler, pets",
+      "reactions": 57,
+      "comments": 9,
       "reading_time": 3,
-      "author": "jess"
+      "author": "hemapriya_kanagala"
     },
     {
-      "title": "Fine-Tune Any HuggingFace Model like Gemma on TPUs with TorchAX",
-      "description": "Learn how to fine-tune PyTorch HuggingFace models on Google TPUs using torchax and LoRA — no JAX rewrite needed. Includes evaluation, save/reload, and a Colab notebook.",
-      "url": "https://dev.to/gde/fine-tune-any-huggingface-model-like-gemma-on-tpus-with-torchax-5g21",
-      "tags": "machinelearning, pytorch, python, tutorial",
+      "title": "Inference on Google Cloud: Precision, Memory and Capacity on TPU, from v5e to Ironwood",
+      "description": "The companion to the talk: what the number format, memory bandwidth, slice shape and capacity rules do to Gemma 4 on Cloud TPU v5e and v6e, against the L4, Blackwell, MI300X and Inferentia, with the cost of each.",
+      "url": "https://dev.to/gde/inference-on-google-cloud-precision-memory-and-capacity-on-tpu-from-v5e-to-ironwood-5dlf",
+      "tags": "googlecloud, tpu, machinelearning, gemma",
       "reactions": 8,
-      "comments": 0,
-      "reading_time": 11,
-      "author": "ahmed_elnaggar"
-    },
-    {
-      "title": "What was your win this week!?",
-      "description": "👋👋👋👋  Looking back on your week -- what was something you're proud of?  All wins count -- big or...",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-8ep",
-      "tags": "discuss, weeklyretro",
-      "reactions": 52,
-      "comments": 86,
-      "reading_time": 1,
-      "author": "jess"
-    },
-    {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
-      "tags": "ai, agents, development, workspace",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 5,
-      "author": "feloy"
-    },
-    {
-      "title": "How to Remove Console.log from React Native Production Builds",
-      "description": "When building React Native apps, console.log is your best friend during development. But leaving it...",
-      "url": "https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d",
-      "tags": "reactnative, typescript, performance, mobile",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 2,
-      "author": "neeraj1005"
-    },
-    {
-      "title": "ChatGPT 5.4 v/s Claude Opus 4.6: Which Model Should You use?",
-      "description": "GPT-5.4 wins on cost efficiency, native computer use, and speed for high-throughput pipelines. Claude...",
-      "url": "https://dev.to/devashishmamgain/chatgpt-54-vs-claude-opus-46-which-model-should-you-use-oln",
-      "tags": "ai, chatgpt, claude, llm",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 10,
-      "author": "devashishmamgain"
-    },
-    {
-      "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
-      "description": "I spent some time this weekend noodling around with Github Copilot, using the copilot-cli tool.  A...",
-      "url": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
-      "tags": "ai, programming, githubcopilot",
-      "reactions": 3,
-      "comments": 0,
-      "reading_time": 5,
-      "author": "drhyde"
-    },
-    {
-      "title": "Codemod for ignoring lint errors",
-      "description": "Meet my new codemod, ignore-lint-errors. It helps us ignore lint errors from eslint, stylelint, and...",
-      "url": "https://dev.to/ijlee2/codemod-for-ignoring-lint-errors-2j3g",
-      "tags": "javascript, ember, showdev, opensource",
-      "reactions": 0,
       "comments": 1,
-      "reading_time": 2,
-      "author": "ijlee2"
+      "reading_time": 14,
+      "author": "xbill"
     },
     {
-      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
-      "description": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.",
-      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
-      "tags": "backend, architecture",
-      "reactions": 0,
+      "title": "Don't Be a Proxy Between Me and Your AI",
+      "description": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
+      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
+      "tags": "ai, discuss, career, programming",
+      "reactions": 138,
+      "comments": 91,
+      "reading_time": 7,
+      "author": "adamthedeveloper"
+    },
+    {
+      "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
+      "description": "Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...",
+      "url": "https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa",
+      "tags": "community, discuss, showdev, writing",
+      "reactions": 224,
+      "comments": 125,
+      "reading_time": 25,
+      "author": "georgekobaidze"
+    },
+    {
+      "title": "Postmortem: The Tuesday Our AI Bill Had No Owner",
+      "description": "I've read a lot of postmortems. The best ones aren't about blame. They're about the gap between what...",
+      "url": "https://dev.to/gde/postmortem-the-tuesday-our-ai-bill-had-no-owner-34pd",
+      "tags": "discuss, vertexai, sre, ai",
+      "reactions": 14,
+      "comments": 10,
+      "reading_time": 14,
+      "author": "karthidec"
+    },
+    {
+      "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
+      "description": "Automate root-cause incident triage on GKE by combining Gemini 4 Argon multi-step reasoning with the GKE Model Context Protocol server.",
+      "url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb",
+      "tags": "kubernetes, ai, gke, googlecloud",
+      "reactions": 5,
       "comments": 0,
-      "reading_time": 5,
-      "author": "toybz"
+      "reading_time": 8,
+      "author": "olivi-eh"
     }
   ]
 }
@@ -3097,125 +2764,109 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
   "sort": "top",
   "items": [
     {
-      "title": "What It Actually Feels Like to Build Something You're Proud Of",
-      "description": "Nobody talks about the emotional side of shipping. Let's fix that.     There's a specific kind of...",
-      "url": "https://dev.to/_boweii/what-it-actually-feels-like-to-build-something-youre-proud-of-35mi",
-      "tags": "career, webdev, beginners, productivity",
-      "reactions": 4,
-      "comments": 0,
-      "reading_time": 6,
-      "author": "_boweii"
-    },
-    {
-      "title": "GitHub Copilot Switches to Usage-Based Billing on June 1. The Token Tab Came Due.",
-      "description": "Microsoft announced Copilot Pro is still $10 per month, but $10 now buys $10 in AI credits, and a single Opus agent session can consume that. Here is what your real bill looks like.",
-      "url": "https://dev.to/thegdsks/github-copilot-switches-to-usage-based-billing-on-june-1-the-token-tab-came-due-3h6c",
-      "tags": "ai, webdev, devtools, productivity",
-      "reactions": 4,
-      "comments": 0,
-      "reading_time": 6,
-      "author": "thegdsks"
-    },
-    {
-      "title": "How to Stop Your GitHub Issues From Becoming a Graveyard",
-      "description": "How to use automated scanning tools like ClawSweeper to clean up stale GitHub issues and PRs that pile up in every active repository.",
-      "url": "https://dev.to/alanwest/how-to-stop-your-github-issues-from-becoming-a-graveyard-1mbn",
-      "tags": "github, opensource, automation, productivity",
+      "title": "I built a free AirDrop alternative in one HTML file with WebRTC and PeerJS",
+      "description": "I kept emailing screenshots to myself to move them from my laptop to my phone, so I built this. Open...",
+      "url": "https://dev.to/hasssaaan/i-built-a-free-airdrop-alternative-in-one-html-file-with-webrtc-and-peerjs-1e92",
+      "tags": "webdev, productivity, opensource, automation",
       "reactions": 1,
+      "comments": 2,
+      "reading_time": 1,
+      "author": "hasssaaan"
+    },
+    {
+      "title": "Seven months of coding agents: what $28,335 actually bought",
+      "description": "201,473 tool calls across five agent harnesses, and 0.7% of them ran while I slept. What the spend, the interrupts and the 15-actions-per-turn leash say about staying in the loop.",
+      "url": "https://dev.to/chiragagg5k/seven-months-of-coding-agents-what-28335-actually-bought-1ka3",
+      "tags": "ai, productivity, claude, codex",
+      "reactions": 0,
+      "comments": 0,
+      "reading_time": 5,
+      "author": "chiragagg5k"
+    },
+    {
+      "title": "What are your goals for the week? #202",
+      "description": "What are your goals for the week?    What are you building this week? What do you want to...",
+      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-202-3g6a",
+      "tags": "career, discuss, productivity, sideprojects",
+      "reactions": 0,
+      "comments": 0,
+      "reading_time": 1,
+      "author": "jarvisscript"
+    },
+    {
+      "title": "Stop Waiting for Your Coding Agent to Finish. Interrupting Early Is the Skill",
+      "description": "Fire a prompt, check back in 20 minutes, and you've deferred the fix until it's expensive. Claude Code's own guide says course-correct early and often.",
+      "url": "https://dev.to/gabrielanhaia/stop-waiting-for-your-coding-agent-to-finish-interrupting-early-is-the-skill-47hp",
+      "tags": "ai, productivity, devtools, discuss",
+      "reactions": 1,
+      "comments": 0,
+      "reading_time": 7,
+      "author": "gabrielanhaia"
+    },
+    {
+      "title": "Who left this note for your AI agent? (A 2-minute check for Codex and Claude Code users)",
+      "description": "A web page can save an AGENTS.md into your Downloads folder without a single click. Your coding agent...",
+      "url": "https://dev.to/thereleasedesk/who-left-this-note-for-your-ai-agent-a-2-minute-check-for-codex-and-claude-code-users-458f",
+      "tags": "security, ai, webdev, productivity",
+      "reactions": 0,
       "comments": 1,
       "reading_time": 5,
-      "author": "alanwest"
+      "author": "thereleasedesk"
     },
     {
-      "title": "PostSathi - I got tired of making daily posts for my business… so I built a simple solution",
-      "description": "Hey everyone,  Not sure if this is the right place, but I wanted to share something I’ve been working...",
-      "url": "https://dev.to/realtechno_lab/postsathi-i-got-tired-of-making-daily-posts-for-my-business-so-i-built-a-simple-solution-35p0",
-      "tags": "productivity, showdev, sideprojects, socialmedia",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 2,
-      "author": "realtechno_lab"
-    },
-    {
-      "title": "Keeping You in the Driver's Seat and AI as the Copilot",
-      "description": "Last week I attended NDC Sydney, a large global tech conference aimed at software developers. The...",
-      "url": "https://dev.to/liatmoss/keeping-you-in-the-drivers-seat-and-ai-as-the-copilot-1oc8",
-      "tags": "ai, programming, productivity, learning",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 3,
-      "author": "liatmoss"
-    },
-    {
-      "title": "I Built a Neural Memory Layer for a Voice AI Assistant: Embeddings + Vector Search + Activity Neurons",
-      "description": "My voice AI asked me for the third time whether Sylvie was my sister or my mother.  That's when I...",
-      "url": "https://dev.to/tamsiv/i-built-a-neural-memory-layer-for-a-voice-ai-assistant-embeddings-vector-search-activity-4ebh",
-      "tags": "ai, productivity, react, buildinpublic",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 4,
-      "author": "tamsiv"
-    },
-    {
-      "title": "Vibe Coding in Production: How to Ship AI-Generated Code Responsibly",
-      "description": "Notes from a recent developer conference from AWS and Anthropic — practical wisdom for engineers...",
-      "url": "https://dev.to/gurjeet333/vibe-coding-in-production-how-to-ship-ai-generated-code-responsibly-174m",
-      "tags": "ai, coding, productivity, softwareengineering",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 8,
-      "author": "gurjeet333"
-    },
-    {
-      "title": "Debugging Without Despair: A Systematic Approach for Normal Humans",
-      "description": "You've been staring at the same error for 90 minutes. You've added 14 console.log statements. You've...",
-      "url": "https://dev.to/ajay_mudettula/debugging-without-despair-a-systematic-approach-for-normal-humans-1ha3",
-      "tags": "ai, webdev, productivity, programming",
+      "title": "Define Done as a Command",
+      "description": "Every plan should carry the exact command that proves the work is finished, a dependency...",
+      "url": "https://dev.to/r3dtuxedo/define-done-as-a-command-1bda",
+      "tags": "ai, productivity, codereview, programming",
       "reactions": 1,
-      "comments": 0,
-      "reading_time": 3,
-      "author": "ajay_mudettula"
+      "comments": 1,
+      "reading_time": 11,
+      "author": "r3dtuxedo"
     },
     {
-      "title": "Your AI is swinging at nothing — 6 cognitive firewalls that cut my prod bugs by 87%",
-      "description": "Two features shipped, two broke production, same root cause every time: Claude agreed with me when I was wrong. Here's the 6-layer firewall system I built — and the numbers after 6 weeks.",
-      "url": "https://dev.to/thestack_ai/your-ai-is-swinging-at-nothing-6-cognitive-firewalls-that-cut-my-prod-bugs-by-87-1fgk",
-      "tags": "ai, claude, productivity, opensource",
+      "title": "\"Any Update?\" We Read 2,398 GitHub Issues to See Who Gets an Answer",
+      "description": "Every year, about 100,000 new GitHub issues get a comment asking \"any update?\". That is roughly 280 a...",
+      "url": "https://dev.to/cevahir/any-update-we-read-2398-github-issues-to-see-who-gets-an-answer-2g2g",
+      "tags": "github, opensource, productivity, discuss",
       "reactions": 0,
       "comments": 0,
-      "reading_time": 10,
-      "author": "thestack_ai"
+      "reading_time": 7,
+      "author": "cevahir"
     },
     {
-      "title": "Building an AI-Powered Pipeline Auditor with Snowflake's Cortex Code Agent SDK",
-      "description": "TL;DR: I built an app that audits data pipelines using AI agent sessions. It analyzes tasks,...",
-      "url": "https://dev.to/snowflake/building-an-ai-powered-pipeline-auditor-with-snowflakes-cortex-code-agent-sdk-nmf",
-      "tags": "ai, productivity, dataengineering, snowflake",
+      "title": "AI Says My Project Will Take 2 Months. Then Builds It in a Week.",
+      "description": "I noticed something strange about AI project planning.  Ask AI to create a development plan for a...",
+      "url": "https://dev.to/ihssmaheel/ai-says-my-project-will-take-2-months-then-builds-it-in-a-week-1if7",
+      "tags": "ai, webdev, programming, productivity",
       "reactions": 1,
       "comments": 0,
       "reading_time": 2,
-      "author": "iamontheinet"
+      "author": "ihssmaheel"
+    },
+    {
+      "title": "I’m building Prism AI: a local-first research and writing workspace for Windows",
+      "description": "Your research. Your ideas. Your AI.  Hi DEV! I’m the creator of Prism AI, an early-stage research and...",
+      "url": "https://dev.to/prismaidev/im-building-prism-ai-a-local-first-research-and-writing-workspace-for-windows-3d61",
+      "tags": "showdev, ai, opensource, productivity",
+      "reactions": 1,
+      "comments": 1,
+      "reading_time": 2,
+      "author": "prismaidev"
+    },
+    {
+      "title": "I built an oracle that refuses to answer",
+      "description": "A 4B decision model on a Mac Mini, and the 30 lines of UI that make it honest.  Ask a chatbot \"should...",
+      "url": "https://dev.to/harishkotra/i-built-an-oracle-that-refuses-to-answer-2ka4",
+      "tags": "ai, programming, productivity, dailybuild2026",
+      "reactions": 0,
+      "comments": 0,
+      "reading_time": 7,
+      "author": "harishkotra"
     }
   ]
 }
 - Fetching feeds...
-{
-  "source": "reddit",
-  "topic": "freelance",
-  "sort": "top",
-  "items": [
-    {
-      "title": "Is it okay to ask for a contract after I started work?",
-      "url": "https://i.redd.it/wn6ii5qqfrxg1.jpeg",
-      "permalink": "https://www.reddit.com/r/freelance/comments/1sx8v2m/is_it_okay_to_ask_for_a_contract_after_i_started/",
-      "author": "/u/Aur0ha",
-      "subreddit": "freelance",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Boss missed payday and told me he’s busy and to be patient. I’m getting $100 a week, do you think it’s okay to ask for a contract to enforce payday? &#32; submitted by &#32; /u/Aur0ha [link] &#32; [comments]",
-      "published": "2026-04-27T16:31:57+00:00"
-    }
-  ]
-}
+Request error: Request failed with status code 429
+✖ Request failed. Check network/API settings and try again.
 ```
 
