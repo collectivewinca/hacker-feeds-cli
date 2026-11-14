@@ -1,6 +1,6 @@
 # Hacker Feeds Outcomes - Solo Developers
 
-Generated on: 2026-04-28 07:11:52 UTC
+Generated on: 2026-11-14 06:23:13 UTC
 
 Runtime note: executed with NODE_OPTIONS=--require /tmp/hf-polyfill.js
 
@@ -23,60 +23,21 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
   "language": "typescript",
   "items": [
     {
-      "author": "zilliztech",
-      "repo": "claude-context",
-      "avatar": "https://github.com/zilliztech.png",
-      "repo_link": "https://github.com/zilliztech/claude-context",
-      "desc": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "author": "milind-soni",
+      "repo": "OpenMausBot",
+      "avatar": "https://github.com/milind-soni.png",
+      "repo_link": "https://github.com/milind-soni/OpenMausBot",
+      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 0,
-      "forks": 750,
-      "added_stars": 3725,
+      "forks": 3102,
+      "added_stars": 7763,
       "builtBy": [
         {
-          "username": "zc277584121",
-          "href": "https://github.com/zc277584121",
-          "avatar": "https://avatars.githubusercontent.com/u/17022025"
-        },
-        {
-          "username": "Shawnzheng011019",
-          "href": "https://github.com/Shawnzheng011019",
-          "avatar": "https://avatars.githubusercontent.com/u/88486803"
-        },
-        {
-          "username": "codingjaguar",
-          "href": "https://github.com/codingjaguar",
-          "avatar": "https://avatars.githubusercontent.com/u/7064054"
-        },
-        {
-          "username": "mvanhorn",
-          "href": "https://github.com/mvanhorn",
-          "avatar": "https://avatars.githubusercontent.com/u/455140"
-        },
-        {
-          "username": "jaxkodex",
-          "href": "https://github.com/jaxkodex",
-          "avatar": "https://avatars.githubusercontent.com/u/2271391"
-        }
-      ]
-    },
-    {
-      "author": "mksglu",
-      "repo": "context-mode",
-      "avatar": "https://github.com/mksglu.png",
-      "repo_link": "https://github.com/mksglu/context-mode",
-      "desc": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
-      "lang": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 0,
-      "forks": 743,
-      "added_stars": 2346,
-      "builtBy": [
-        {
-          "username": "mksglu",
-          "href": "https://github.com/mksglu",
-          "avatar": "https://avatars.githubusercontent.com/u/6067714"
+          "username": "milind-soni",
+          "href": "https://github.com/milind-soni",
+          "avatar": "https://avatars.githubusercontent.com/u/46266943"
         },
         {
           "username": "claude",
@@ -84,160 +45,38 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
           "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "ipedro",
-          "href": "https://github.com/ipedro",
-          "avatar": "https://avatars.githubusercontent.com/u/380338"
+          "username": "aivsomkar",
+          "href": "https://github.com/aivsomkar",
+          "avatar": "https://avatars.githubusercontent.com/u/255997030"
         },
         {
-          "username": "rjkaes",
-          "href": "https://github.com/rjkaes",
-          "avatar": "https://avatars.githubusercontent.com/u/128173"
+          "username": "AdityaUmale",
+          "href": "https://github.com/AdityaUmale",
+          "avatar": "https://avatars.githubusercontent.com/u/146627237"
+        },
+        {
+          "username": "robinsonnblack",
+          "href": "https://github.com/robinsonnblack",
+          "avatar": "https://avatars.githubusercontent.com/u/331326017"
         }
       ]
     },
     {
-      "author": "thunderbird",
-      "repo": "thunderbolt",
-      "avatar": "https://github.com/thunderbird.png",
-      "repo_link": "https://github.com/thunderbird/thunderbolt",
-      "desc": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "author": "lobehub",
+      "repo": "lobehub",
+      "avatar": "https://github.com/lobehub.png",
+      "repo_link": "https://github.com/lobehub/lobehub",
+      "desc": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 0,
-      "forks": 281,
-      "added_stars": 1675,
+      "forks": 16302,
+      "added_stars": 1126,
       "builtBy": [
         {
-          "username": "cjroth",
-          "href": "https://github.com/cjroth",
-          "avatar": "https://avatars.githubusercontent.com/u/582130"
-        },
-        {
-          "username": "raivieiraadriano92",
-          "href": "https://github.com/raivieiraadriano92",
-          "avatar": "https://avatars.githubusercontent.com/u/14861463"
-        },
-        {
-          "username": "ital0",
-          "href": "https://github.com/ital0",
-          "avatar": "https://avatars.githubusercontent.com/u/5700402"
-        },
-        {
-          "username": "darkbanjo",
-          "href": "https://github.com/darkbanjo",
-          "avatar": "https://avatars.githubusercontent.com/u/75756250"
-        },
-        {
-          "username": "arienemaiara",
-          "href": "https://github.com/arienemaiara",
-          "avatar": "https://avatars.githubusercontent.com/u/5312296"
-        }
-      ]
-    },
-    {
-      "author": "multica-ai",
-      "repo": "multica",
-      "avatar": "https://github.com/multica-ai.png",
-      "repo_link": "https://github.com/multica-ai/multica",
-      "desc": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "lang": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 0,
-      "forks": 2700,
-      "added_stars": 4532,
-      "builtBy": [
-        {
-          "username": "claude",
-          "href": "https://github.com/claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847"
-        },
-        {
-          "username": "forrestchang",
-          "href": "https://github.com/forrestchang",
-          "avatar": "https://avatars.githubusercontent.com/u/7857126"
-        },
-        {
-          "username": "NevilleQingNY",
-          "href": "https://github.com/NevilleQingNY",
-          "avatar": "https://avatars.githubusercontent.com/u/145280634"
-        },
-        {
-          "username": "Bohan-J",
-          "href": "https://github.com/Bohan-J",
-          "avatar": "https://avatars.githubusercontent.com/u/52446949"
-        },
-        {
-          "username": "ldnvnbl",
-          "href": "https://github.com/ldnvnbl",
-          "avatar": "https://avatars.githubusercontent.com/u/3798479"
-        }
-      ]
-    },
-    {
-      "author": "langfuse",
-      "repo": "langfuse",
-      "avatar": "https://github.com/langfuse.png",
-      "repo_link": "https://github.com/langfuse/langfuse",
-      "desc": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
-      "lang": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 0,
-      "forks": 2652,
-      "added_stars": 987,
-      "builtBy": [
-        {
-          "username": "marcklingen",
-          "href": "https://github.com/marcklingen",
-          "avatar": "https://avatars.githubusercontent.com/u/2834609"
-        },
-        {
-          "username": "maxdeichmann",
-          "href": "https://github.com/maxdeichmann",
-          "avatar": "https://avatars.githubusercontent.com/u/17686849"
-        },
-        {
-          "username": "Steffen911",
-          "href": "https://github.com/Steffen911",
-          "avatar": "https://avatars.githubusercontent.com/u/14163614"
-        },
-        {
-          "username": "marliessophie",
-          "href": "https://github.com/marliessophie",
-          "avatar": "https://avatars.githubusercontent.com/u/74332854"
-        },
-        {
-          "username": "nimarb",
-          "href": "https://github.com/nimarb",
-          "avatar": "https://avatars.githubusercontent.com/u/246059"
-        }
-      ]
-    },
-    {
-      "author": "CherryHQ",
-      "repo": "cherry-studio",
-      "avatar": "https://github.com/CherryHQ.png",
-      "repo_link": "https://github.com/CherryHQ/cherry-studio",
-      "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "lang": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 0,
-      "forks": 4235,
-      "added_stars": 729,
-      "builtBy": [
-        {
-          "username": "kangfenmao",
-          "href": "https://github.com/kangfenmao",
-          "avatar": "https://avatars.githubusercontent.com/u/8253512"
-        },
-        {
-          "username": "EurFelux",
-          "href": "https://github.com/EurFelux",
-          "avatar": "https://avatars.githubusercontent.com/u/59059173"
-        },
-        {
-          "username": "DeJeune",
-          "href": "https://github.com/DeJeune",
-          "avatar": "https://avatars.githubusercontent.com/u/67425183"
+          "username": "arvinxx",
+          "href": "https://github.com/arvinxx",
+          "avatar": "https://avatars.githubusercontent.com/u/28616219"
         },
         {
           "username": "claude",
@@ -245,28 +84,67 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
           "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "alephpiece",
-          "href": "https://github.com/alephpiece",
-          "avatar": "https://avatars.githubusercontent.com/u/22237751"
+          "username": "semantic-release-bot",
+          "href": "https://github.com/semantic-release-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/32174276"
+        },
+        {
+          "username": "tjx666",
+          "href": "https://github.com/tjx666",
+          "avatar": "https://avatars.githubusercontent.com/u/41773861"
         }
       ]
     },
     {
-      "author": "jamiepine",
-      "repo": "voicebox",
-      "avatar": "https://github.com/jamiepine.png",
-      "repo_link": "https://github.com/jamiepine/voicebox",
-      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "author": "openai",
+      "repo": "codex-security",
+      "avatar": "https://github.com/openai.png",
+      "repo_link": "https://github.com/openai/codex-security",
+      "desc": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 0,
-      "forks": 2809,
-      "added_stars": 2123,
+      "forks": 1027,
+      "added_stars": 1712,
       "builtBy": [
         {
-          "username": "jamiepine",
-          "href": "https://github.com/jamiepine",
-          "avatar": "https://avatars.githubusercontent.com/u/32987599"
+          "username": "mldangelo-oai",
+          "href": "https://github.com/mldangelo-oai",
+          "avatar": "https://avatars.githubusercontent.com/u/269034524"
+        },
+        {
+          "username": "codex",
+          "href": "https://github.com/codex",
+          "avatar": "https://avatars.githubusercontent.com/u/267193182"
+        },
+        {
+          "username": "ianw-oai",
+          "href": "https://github.com/ianw-oai",
+          "avatar": "https://avatars.githubusercontent.com/u/269041055"
+        },
+        {
+          "username": "kmbroai",
+          "href": "https://github.com/kmbroai",
+          "avatar": "https://avatars.githubusercontent.com/u/272643392"
+        }
+      ]
+    },
+    {
+      "author": "CopilotKit",
+      "repo": "OpenBot",
+      "avatar": "https://github.com/CopilotKit.png",
+      "repo_link": "https://github.com/CopilotKit/OpenBot",
+      "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 1491,
+      "added_stars": 1774,
+      "builtBy": [
+        {
+          "username": "davidmckayv",
+          "href": "https://github.com/davidmckayv",
+          "avatar": "https://avatars.githubusercontent.com/u/1574202"
         },
         {
           "username": "claude",
@@ -274,77 +152,116 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
           "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "tomasmach",
-          "href": "https://github.com/tomasmach",
-          "avatar": "https://avatars.githubusercontent.com/u/52257177"
+          "username": "kevin9327",
+          "href": "https://github.com/kevin9327",
+          "avatar": "https://avatars.githubusercontent.com/u/5299031"
         },
         {
-          "username": "mvanhorn",
-          "href": "https://github.com/mvanhorn",
-          "avatar": "https://avatars.githubusercontent.com/u/455140"
+          "username": "guidovizoso",
+          "href": "https://github.com/guidovizoso",
+          "avatar": "https://avatars.githubusercontent.com/u/27702539"
         },
         {
-          "username": "selop",
-          "href": "https://github.com/selop",
-          "avatar": "https://avatars.githubusercontent.com/u/5173254"
+          "username": "Ayush7614",
+          "href": "https://github.com/Ayush7614",
+          "avatar": "https://avatars.githubusercontent.com/u/67006255"
         }
       ]
     },
     {
-      "author": "badlogic",
-      "repo": "pi-mono",
-      "avatar": "https://github.com/badlogic.png",
-      "repo_link": "https://github.com/badlogic/pi-mono",
-      "desc": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "author": "immich-app",
+      "repo": "immich",
+      "avatar": "https://github.com/immich-app.png",
+      "repo_link": "https://github.com/immich-app/immich",
+      "desc": "High performance self-hosted photo and video management solution.",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 0,
-      "forks": 4882,
-      "added_stars": 3727,
+      "forks": 7593,
+      "added_stars": 747,
       "builtBy": [
+        {
+          "username": "alextran1502",
+          "href": "https://github.com/alextran1502",
+          "avatar": "https://avatars.githubusercontent.com/u/27055614"
+        },
+        {
+          "username": "jrasm91",
+          "href": "https://github.com/jrasm91",
+          "avatar": "https://avatars.githubusercontent.com/u/4334196"
+        },
+        {
+          "username": "danieldietzler",
+          "href": "https://github.com/danieldietzler",
+          "avatar": "https://avatars.githubusercontent.com/u/36593685"
+        },
+        {
+          "username": "shenlong-tanwen",
+          "href": "https://github.com/shenlong-tanwen",
+          "avatar": "https://avatars.githubusercontent.com/u/139912620"
+        }
+      ]
+    },
+    {
+      "author": "can1357",
+      "repo": "oh-my-pi",
+      "avatar": "https://github.com/can1357.png",
+      "repo_link": "https://github.com/can1357/oh-my-pi",
+      "desc": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 4451,
+      "added_stars": 973,
+      "builtBy": [
+        {
+          "username": "can1357",
+          "href": "https://github.com/can1357",
+          "avatar": "https://avatars.githubusercontent.com/u/11807264"
+        },
+        {
+          "username": "roboomp",
+          "href": "https://github.com/roboomp",
+          "avatar": "https://avatars.githubusercontent.com/u/284758152"
+        },
         {
           "username": "badlogic",
           "href": "https://github.com/badlogic",
           "avatar": "https://avatars.githubusercontent.com/u/514052"
         },
         {
-          "username": "hjanuschka",
-          "href": "https://github.com/hjanuschka",
-          "avatar": "https://avatars.githubusercontent.com/u/2891702"
+          "username": "H4vC",
+          "href": "https://github.com/H4vC",
+          "avatar": "https://avatars.githubusercontent.com/u/10531428"
         },
         {
-          "username": "mitsuhiko",
-          "href": "https://github.com/mitsuhiko",
-          "avatar": "https://avatars.githubusercontent.com/u/7396"
-        },
-        {
-          "username": "aliou",
-          "href": "https://github.com/aliou",
-          "avatar": "https://avatars.githubusercontent.com/u/980367"
+          "username": "will-bogusz",
+          "href": "https://github.com/will-bogusz",
+          "avatar": "https://avatars.githubusercontent.com/u/24197106"
         }
       ]
     },
     {
-      "author": "mnfst",
-      "repo": "manifest",
-      "avatar": "https://github.com/mnfst.png",
-      "repo_link": "https://github.com/mnfst/manifest",
-      "desc": "Smart Model Routing for Personal AI Agents. Cut Costs up to 70% 🦞👧🦚",
+      "author": "every-app",
+      "repo": "open-seo",
+      "avatar": "https://github.com/every-app.png",
+      "repo_link": "https://github.com/every-app/open-seo",
+      "desc": "Open source alternative to Semrush and Ahrefs",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 0,
-      "forks": 331,
-      "added_stars": 430,
+      "forks": 3869,
+      "added_stars": 1012,
       "builtBy": [
         {
-          "username": "brunobuddy",
-          "href": "https://github.com/brunobuddy",
-          "avatar": "https://avatars.githubusercontent.com/u/6626184"
+          "username": "bensenescu",
+          "href": "https://github.com/bensenescu",
+          "avatar": "https://avatars.githubusercontent.com/u/44480372"
         },
         {
-          "username": "SebConejo",
-          "href": "https://github.com/SebConejo",
-          "avatar": "https://avatars.githubusercontent.com/u/11723962"
+          "username": "carterwsmith",
+          "href": "https://github.com/carterwsmith",
+          "avatar": "https://avatars.githubusercontent.com/u/51297686"
         },
         {
           "username": "claude",
@@ -352,184 +269,305 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
           "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "guillaumegay13",
-          "href": "https://github.com/guillaumegay13",
-          "avatar": "https://avatars.githubusercontent.com/u/141296636"
+          "username": "jeremypenguin-max",
+          "href": "https://github.com/jeremypenguin-max",
+          "avatar": "https://avatars.githubusercontent.com/u/287046313"
         }
       ]
     },
     {
-      "author": "playcanvas",
-      "repo": "supersplat",
-      "avatar": "https://github.com/playcanvas.png",
-      "repo_link": "https://github.com/playcanvas/supersplat",
-      "desc": "3D Gaussian Splat Editor",
+      "author": "ranxianglei",
+      "repo": "billion-context",
+      "avatar": "https://github.com/ranxianglei.png",
+      "repo_link": "https://github.com/ranxianglei/billion-context",
+      "desc": "A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough), billion-context is all you need .",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 0,
-      "forks": 585,
-      "added_stars": 468,
+      "forks": 602,
+      "added_stars": 3008,
       "builtBy": [
         {
-          "username": "slimbuck",
-          "href": "https://github.com/slimbuck",
-          "avatar": "https://avatars.githubusercontent.com/u/11276292"
+          "username": "ranxianglei",
+          "href": "https://github.com/ranxianglei",
+          "avatar": "https://avatars.githubusercontent.com/u/12445698"
         },
         {
-          "username": "willeastcott",
-          "href": "https://github.com/willeastcott",
-          "avatar": "https://avatars.githubusercontent.com/u/697563"
+          "username": "Afloat16",
+          "href": "https://github.com/Afloat16",
+          "avatar": "https://avatars.githubusercontent.com/u/132809511"
         },
         {
-          "username": "simonbethke",
-          "href": "https://github.com/simonbethke",
-          "avatar": "https://avatars.githubusercontent.com/u/11922599"
+          "username": "YunzhouLi-hub",
+          "href": "https://github.com/YunzhouLi-hub",
+          "avatar": "https://avatars.githubusercontent.com/u/154221037"
+        },
+        {
+          "username": "z0d0dOr",
+          "href": "https://github.com/z0d0dOr",
+          "avatar": "https://avatars.githubusercontent.com/u/128966342"
+        }
+      ]
+    },
+    {
+      "author": "backnotprop",
+      "repo": "plannotator",
+      "avatar": "https://github.com/backnotprop.png",
+      "repo_link": "https://github.com/backnotprop/plannotator",
+      "desc": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 791,
+      "added_stars": 511,
+      "builtBy": [
+        {
+          "username": "backnotprop",
+          "href": "https://github.com/backnotprop",
+          "avatar": "https://avatars.githubusercontent.com/u/7244317"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "utpalsinghdev",
+          "href": "https://github.com/utpalsinghdev",
+          "avatar": "https://avatars.githubusercontent.com/u/110197373"
+        },
+        {
+          "username": "leoreisdias",
+          "href": "https://github.com/leoreisdias",
+          "avatar": "https://avatars.githubusercontent.com/u/47978193"
+        },
+        {
+          "username": "uvw",
+          "href": "https://github.com/uvw",
+          "avatar": "https://avatars.githubusercontent.com/u/1078682"
+        }
+      ]
+    },
+    {
+      "author": "humanlayer",
+      "repo": "skills",
+      "avatar": "https://github.com/humanlayer.png",
+      "repo_link": "https://github.com/humanlayer/skills",
+      "desc": "",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 205,
+      "added_stars": 138,
+      "builtBy": [
+        {
+          "username": "dexhorthy",
+          "href": "https://github.com/dexhorthy",
+          "avatar": "https://avatars.githubusercontent.com/u/3730605"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "K-Mistele",
+          "href": "https://github.com/K-Mistele",
+          "avatar": "https://avatars.githubusercontent.com/u/18430555"
+        },
+        {
+          "username": "LuisGot",
+          "href": "https://github.com/LuisGot",
+          "avatar": "https://avatars.githubusercontent.com/u/161772233"
+        }
+      ]
+    },
+    {
+      "author": "getpaseo",
+      "repo": "paseo",
+      "avatar": "https://github.com/getpaseo.png",
+      "repo_link": "https://github.com/getpaseo/paseo",
+      "desc": "Orchestrate multiple coding agents from desktop and mobile",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 2949,
+      "added_stars": 743,
+      "builtBy": [
+        {
+          "username": "boudra",
+          "href": "https://github.com/boudra",
+          "avatar": "https://avatars.githubusercontent.com/u/711886"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "cleiter",
+          "href": "https://github.com/cleiter",
+          "avatar": "https://avatars.githubusercontent.com/u/135764"
+        }
+      ]
+    },
+    {
+      "author": "meta",
+      "repo": "astryx",
+      "avatar": "https://github.com/meta.png",
+      "repo_link": "https://github.com/meta/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 2137,
+      "added_stars": 13375,
+      "builtBy": [
+        {
+          "username": "cixzhang",
+          "href": "https://github.com/cixzhang",
+          "avatar": "https://avatars.githubusercontent.com/u/2781099"
+        },
+        {
+          "username": "rubyycheung",
+          "href": "https://github.com/rubyycheung",
+          "avatar": "https://avatars.githubusercontent.com/u/254546175"
+        },
+        {
+          "username": "josephfarina",
+          "href": "https://github.com/josephfarina",
+          "avatar": "https://avatars.githubusercontent.com/u/17398284"
+        },
+        {
+          "username": "vjeux",
+          "href": "https://github.com/vjeux",
+          "avatar": "https://avatars.githubusercontent.com/u/197597"
+        }
+      ]
+    },
+    {
+      "author": "GoogleChrome",
+      "repo": "modern-web-guidance-src",
+      "avatar": "https://github.com/GoogleChrome.png",
+      "repo_link": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "desc": "Keep your coding agent up to date with the latest web best practices",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 277,
+      "added_stars": 3377,
+      "builtBy": [
+        {
+          "username": "paulirish",
+          "href": "https://github.com/paulirish",
+          "avatar": "https://avatars.githubusercontent.com/u/39191"
+        },
+        {
+          "username": "rviscomi",
+          "href": "https://github.com/rviscomi",
+          "avatar": "https://avatars.githubusercontent.com/u/1120896"
+        },
+        {
+          "username": "micahjo7",
+          "href": "https://github.com/micahjo7",
+          "avatar": "https://avatars.githubusercontent.com/u/126118814"
+        },
+        {
+          "username": "LeaVerou",
+          "href": "https://github.com/LeaVerou",
+          "avatar": "https://avatars.githubusercontent.com/u/175836"
+        }
+      ]
+    },
+    {
+      "author": "elie222",
+      "repo": "rakazo",
+      "avatar": "https://github.com/elie222.png",
+      "repo_link": "https://github.com/elie222/rakazo",
+      "desc": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "lang": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 0,
+      "forks": 1498,
+      "added_stars": 975,
+      "builtBy": [
+        {
+          "username": "elie222",
+          "href": "https://github.com/elie222",
+          "avatar": "https://avatars.githubusercontent.com/u/3090527"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
           "username": "cursoragent",
           "href": "https://github.com/cursoragent",
           "avatar": "https://avatars.githubusercontent.com/u/199161495"
+        },
+        {
+          "username": "zicochaos",
+          "href": "https://github.com/zicochaos",
+          "avatar": "https://avatars.githubusercontent.com/u/23367003"
+        },
+        {
+          "username": "yxr-2025",
+          "href": "https://github.com/yxr-2025",
+          "avatar": "https://avatars.githubusercontent.com/u/226968270"
         }
       ]
     },
     {
-      "author": "gitroomhq",
-      "repo": "postiz-app",
-      "avatar": "https://github.com/gitroomhq.png",
-      "repo_link": "https://github.com/gitroomhq/postiz-app",
-      "desc": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "author": "nightly-labs",
+      "repo": "openbot",
+      "avatar": "https://github.com/nightly-labs.png",
+      "repo_link": "https://github.com/nightly-labs/openbot",
+      "desc": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 0,
-      "forks": 5360,
-      "added_stars": 580,
+      "forks": 763,
+      "added_stars": 1509,
       "builtBy": [
         {
-          "username": "nevo-david",
-          "href": "https://github.com/nevo-david",
-          "avatar": "https://avatars.githubusercontent.com/u/100117126"
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "egelhaus",
-          "href": "https://github.com/egelhaus",
-          "avatar": "https://avatars.githubusercontent.com/u/156946629"
+          "username": "NorbertBodziony",
+          "href": "https://github.com/NorbertBodziony",
+          "avatar": "https://avatars.githubusercontent.com/u/38857779"
         },
         {
-          "username": "jamesread",
-          "href": "https://github.com/jamesread",
-          "avatar": "https://avatars.githubusercontent.com/u/2025715"
+          "username": "Sniezka1927",
+          "href": "https://github.com/Sniezka1927",
+          "avatar": "https://avatars.githubusercontent.com/u/48182795"
         },
         {
-          "username": "jonathan-irvin",
-          "href": "https://github.com/jonathan-irvin",
-          "avatar": "https://avatars.githubusercontent.com/u/2481437"
-        },
-        {
-          "username": "weblate",
-          "href": "https://github.com/weblate",
-          "avatar": "https://avatars.githubusercontent.com/u/1607653"
+          "username": "nrb-dev",
+          "href": "https://github.com/nrb-dev",
+          "avatar": "https://avatars.githubusercontent.com/u/90916274"
         }
       ]
     },
     {
-      "author": "n8n-io",
-      "repo": "n8n",
-      "avatar": "https://github.com/n8n-io.png",
-      "repo_link": "https://github.com/n8n-io/n8n",
-      "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "author": "pingdotgg",
+      "repo": "t3code",
+      "avatar": "https://github.com/pingdotgg.png",
+      "repo_link": "https://github.com/pingdotgg/t3code",
+      "desc": "The best way to control Claude Code, Codex and more from any computer or phone",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 0,
-      "forks": 57183,
-      "added_stars": 1197,
+      "forks": 10830,
+      "added_stars": 10130,
       "builtBy": [
         {
-          "username": "janober",
-          "href": "https://github.com/janober",
-          "avatar": "https://avatars.githubusercontent.com/u/6249596"
-        },
-        {
-          "username": "ivov",
-          "href": "https://github.com/ivov",
-          "avatar": "https://avatars.githubusercontent.com/u/44588767"
-        },
-        {
-          "username": "netroy",
-          "href": "https://github.com/netroy",
-          "avatar": "https://avatars.githubusercontent.com/u/196144"
-        },
-        {
-          "username": "RicardoE105",
-          "href": "https://github.com/RicardoE105",
-          "avatar": "https://avatars.githubusercontent.com/u/16496553"
-        },
-        {
-          "username": "michael-radency",
-          "href": "https://github.com/michael-radency",
-          "avatar": "https://avatars.githubusercontent.com/u/88898367"
-        }
-      ]
-    },
-    {
-      "author": "EvolutionAPI",
-      "repo": "evolution-api",
-      "avatar": "https://github.com/EvolutionAPI.png",
-      "repo_link": "https://github.com/EvolutionAPI/evolution-api",
-      "desc": "Evolution API is an open-source WhatsApp integration API",
-      "lang": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 0,
-      "forks": 6141,
-      "added_stars": 110,
-      "builtBy": [
-        {
-          "username": "DavidsonGomes",
-          "href": "https://github.com/DavidsonGomes",
-          "avatar": "https://avatars.githubusercontent.com/u/24706726"
-        },
-        {
-          "username": "dgcode-tec",
-          "href": "https://github.com/dgcode-tec",
-          "avatar": "https://avatars.githubusercontent.com/u/135461850"
-        },
-        {
-          "username": "judsonjuniorr",
-          "href": "https://github.com/judsonjuniorr",
-          "avatar": "https://avatars.githubusercontent.com/u/44608323"
-        },
-        {
-          "username": "KokeroO",
-          "href": "https://github.com/KokeroO",
-          "avatar": "https://avatars.githubusercontent.com/u/29261763"
-        },
-        {
-          "username": "jaison-x",
-          "href": "https://github.com/jaison-x",
-          "avatar": "https://avatars.githubusercontent.com/u/5599142"
-        }
-      ]
-    },
-    {
-      "author": "KeygraphHQ",
-      "repo": "shannon",
-      "avatar": "https://github.com/KeygraphHQ.png",
-      "repo_link": "https://github.com/KeygraphHQ/shannon",
-      "desc": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-      "lang": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 0,
-      "forks": 4542,
-      "added_stars": 1976,
-      "builtBy": [
-        {
-          "username": "ajmallesh",
-          "href": "https://github.com/ajmallesh",
-          "avatar": "https://avatars.githubusercontent.com/u/178829317"
-        },
-        {
-          "username": "ezl-keygraph",
-          "href": "https://github.com/ezl-keygraph",
-          "avatar": "https://avatars.githubusercontent.com/u/252853768"
+          "username": "juliusmarminge",
+          "href": "https://github.com/juliusmarminge",
+          "avatar": "https://avatars.githubusercontent.com/u/51714798"
         },
         {
           "username": "claude",
@@ -537,375 +575,61 @@ echo '[info] Product Hunt skipped: HF_PRODUCTHUNT_TOKEN is not set' ; node bin/m
           "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "keygraphVarun",
-          "href": "https://github.com/keygraphVarun",
-          "avatar": "https://avatars.githubusercontent.com/u/182007681"
+          "username": "maria-rcks",
+          "href": "https://github.com/maria-rcks",
+          "avatar": "https://avatars.githubusercontent.com/u/254055478"
         },
         {
-          "username": "Khaushik-keygraph",
-          "href": "https://github.com/Khaushik-keygraph",
-          "avatar": "https://avatars.githubusercontent.com/u/197124057"
+          "username": "t3dotgg",
+          "href": "https://github.com/t3dotgg",
+          "avatar": "https://avatars.githubusercontent.com/u/6751787"
+        },
+        {
+          "username": "codex",
+          "href": "https://github.com/codex",
+          "avatar": "https://avatars.githubusercontent.com/u/267193182"
         }
       ]
     },
     {
-      "author": "siyuan-note",
-      "repo": "siyuan",
-      "avatar": "https://github.com/siyuan-note.png",
-      "repo_link": "https://github.com/siyuan-note/siyuan",
-      "desc": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+      "author": "garrytan",
+      "repo": "gbrain",
+      "avatar": "https://github.com/garrytan.png",
+      "repo_link": "https://github.com/garrytan/gbrain",
+      "desc": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
       "lang": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 0,
-      "forks": 2730,
-      "added_stars": 249,
+      "forks": 4908,
+      "added_stars": 1307,
       "builtBy": [
         {
-          "username": "Vanessa219",
-          "href": "https://github.com/Vanessa219",
-          "avatar": "https://avatars.githubusercontent.com/u/970828"
+          "username": "garrytan",
+          "href": "https://github.com/garrytan",
+          "avatar": "https://avatars.githubusercontent.com/u/19957"
         },
         {
-          "username": "88250",
-          "href": "https://github.com/88250",
-          "avatar": "https://avatars.githubusercontent.com/u/873584"
+          "username": "time-attack",
+          "href": "https://github.com/time-attack",
+          "avatar": "https://avatars.githubusercontent.com/u/89218912"
         },
         {
-          "username": "TCOTC",
-          "href": "https://github.com/TCOTC",
-          "avatar": "https://avatars.githubusercontent.com/u/78434827"
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "Zuoqiu-Yingyi",
-          "href": "https://github.com/Zuoqiu-Yingyi",
-          "avatar": "https://avatars.githubusercontent.com/u/49649786"
-        }
-      ]
-    },
-    {
-      "author": "open-metadata",
-      "repo": "OpenMetadata",
-      "avatar": "https://github.com/open-metadata.png",
-      "repo_link": "https://github.com/open-metadata/OpenMetadata",
-      "desc": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
-      "lang": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 0,
-      "forks": 2058,
-      "added_stars": 2499,
-      "builtBy": [
-        {
-          "username": "pmbrull",
-          "href": "https://github.com/pmbrull",
-          "avatar": "https://avatars.githubusercontent.com/u/35870520"
-        },
-        {
-          "username": "harshach",
-          "href": "https://github.com/harshach",
-          "avatar": "https://avatars.githubusercontent.com/u/38649"
-        },
-        {
-          "username": "ShaileshParmar11",
-          "href": "https://github.com/ShaileshParmar11",
-          "avatar": "https://avatars.githubusercontent.com/u/71748675"
-        },
-        {
-          "username": "chirag-madlani",
-          "href": "https://github.com/chirag-madlani",
-          "avatar": "https://avatars.githubusercontent.com/u/12962843"
-        },
-        {
-          "username": "Sachin-chaurasiya",
-          "href": "https://github.com/Sachin-chaurasiya",
-          "avatar": "https://avatars.githubusercontent.com/u/59080942"
+          "username": "Masashi-Ono0611",
+          "href": "https://github.com/Masashi-Ono0611",
+          "avatar": "https://avatars.githubusercontent.com/u/98894508"
         }
       ]
     }
   ]
 }
 - Fetching feeds...
-{
-  "source": "reddit",
-  "topic": "webdev",
-  "sort": "top",
-  "items": [
-    {
-      "title": "Agentic Coding is a Trap | Remaining vigilant about cognitive debt and atrophy",
-      "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sx3ygy/agentic_coding_is_a_trap_remaining_vigilant_about/",
-      "author": "/u/creaturefeature16",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/creaturefeature16 [link] &#32; [comments]",
-      "published": "2026-04-27T13:37:56+00:00"
-    },
-    {
-      "title": "What’s the most overhyped trend in modern web design right now?",
-      "url": "https://www.reddit.com/r/webdev/comments/1sx2417/whats_the_most_overhyped_trend_in_modern_web/",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sx2417/whats_the_most_overhyped_trend_in_modern_web/",
-      "author": "/u/Afsheen_dev",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "We’ve gone through glassmorphism, neumorphism, excessive animations, and scroll-heavy storytelling. Lately even AI-generated UI styles and ultra-minimal “clean” layouts are everywhere. Some of it looks great at first glance but adds little value. What’s a design trend you think is all style and no real substance? &#32; submitted by &#32; /u/Afsheen_dev [link] &#32; [comments]",
-      "published": "2026-04-27T12:24:45+00:00"
-    },
-    {
-      "title": "two types of clients in development are keeping me busy in 2026 and both think what they need is simple",
-      "url": "https://www.reddit.com/r/webdev/comments/1swxnhi/two_types_of_clients_in_development_are_keeping/",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1swxnhi/two_types_of_clients_in_development_are_keeping/",
-      "author": "/u/Academic_Flamingo302",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "every project falls into one of two buckets. bucket one: the indian startup founder comes in with a vibe coded app. it works. genuinely, it works, users are on it, sometimes there is even revenue. they are proud of it and they should be, getting to that point without a technical background is not nothing. then they want to add a payment gateway. or an API integration. or user roles. &quot;everything is already built so it should be easy right, just adding something on top&quot; open the codebase. one file. six thousand lines. no separation of concerns. state managed in ways that made sense to whoever was prompting at 2am. the payment gateway integration requires touching seventeen different places because nothing is modular. adding user roles means the entire auth logic needs to be rewritten because it was not designed with that in mind. explaining this to the client is its own skill. they built something real. i am not dismissing that. but &quot;just adding&quot; to a vibe coded codebase is sometimes harder than starting clean. bucket two: the US based client different problem entirely. we built their site. good build. clean code. they were happy. then they came back because their competitor, objectively worse site, was showing up in AI recommendations for their category and theirs was not. they wanted to know what we did wrong. we had not done anything wrong by the standards we were building to six months ago. but their competitor had all their key content in plain semantic HTML on initial load. ours had content in javascript rendered components. parser hits the page, reads whatever is in the document on first parse, moves on. the good stuff never gets read. we sorted it last year. restructured the document layer without touching the visual design. they show up in AI recommendations now. it is fine. but both of these things are now part of every project conversation whether we planned for them or not. anyway. it is monday. there is a new client in the inbox who wants to &quot;just add&quot; something. the estimate is going to hurt them. such is life. &#32; submitted by &#32; /u/Academic_Flamingo302 [link] &#32; [comments]",
-      "published": "2026-04-27T08:29:04+00:00"
-    },
-    {
-      "title": "Can someone explain to me why the font is rendered in this way in safari?",
-      "url": "https://i.redd.it/2dlbp28fwrxg1.jpeg",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sxbl7d/can_someone_explain_to_me_why_the_font_is/",
-      "author": "/u/princessinsomnia",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/princessinsomnia [link] &#32; [comments]",
-      "published": "2026-04-27T18:05:27+00:00"
-    },
-    {
-      "title": "Crazy story: ImgBB added JXL support just three days after I requested it",
-      "url": "https://i.redd.it/0urvsfaadsxg1.png",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sxecve/crazy_story_imgbb_added_jxl_support_just_three/",
-      "author": "/u/anestling",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "And here&#39;s probably the first ever JXL image: ibb.co/qYhKZSVP (a 1893 byte &quot;screenshot&quot; of Volcov Commander running in MS-DOS). &#32; submitted by &#32; /u/anestling [link] &#32; [comments]",
-      "published": "2026-04-27T19:42:32+00:00"
-    },
-    {
-      "title": "Vultr blocks legitimate payments and suspends accounts. Doesnot even blink before deactivating users invited as devs, managers.",
-      "url": "https://www.reddit.com/r/webdev/comments/1sx8t4i/vultr_blocks_legitimate_payments_and_suspends/",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sx8t4i/vultr_blocks_legitimate_payments_and_suspends/",
-      "author": "/u/Future_Carpenter_910",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Due to what i faced today, I don&#39;t recommend Vultr at all. Please read this: I run a software company and of course I manage cloud infrastructure for clients on Vultr as an authorised invited manager. Basically each client has his account as administrator, and they add my account to their org as manager. But one of my client had his payment delayed due to card limits, their account had a warning on suspension, and it affected my personal account as well. Mine also got deactivated/suspended. I also got &quot;you need to pay $75 amount&quot; warning on my account so i tried to pay that amount from my account using paypal, card, alipay, but it denies me every time saying &quot;this paypal account is used by other vultr account&quot;. Now my account is deactivated, my other clients will face side-effects as well as i can&#39;t dig into their cloud services without their admin accounts and i am sure it will flag my device fingerprint and hurt their account. And Yes sir, that other vultr account that uses the paypal account is my account that is invited to this client&#39;s org. This got escalated like &quot;Your client&#39;s account hasn&#39;t paid, you pay it personally, but you can&#39;t use the paypal or card linked to your account even if it&#39;s you paying as a invited manager. If you don&#39;t pay for their expense, your account will get disabled as well. The payment method you will use must be unique every time for every linked org&quot;. I never faced this on OVH, Digitalocean, linode, aws. Now my personal account is deactivated as well. What kind of shitty policy is this? Why don&#39;t they just keep the money and shut up and let users do their regular work with servers? Please share if you have similar experiences with other cloud providers. &#32; submitted by &#32; /u/Future_Carpenter_910 [link] &#32; [comments]",
-      "published": "2026-04-27T16:30:00+00:00"
-    },
-    {
-      "title": "What’s a tool or abstraction you regret adopting too early?",
-      "url": "https://www.reddit.com/r/webdev/comments/1sxcihu/whats_a_tool_or_abstraction_you_regret_adopting/",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sxcihu/whats_a_tool_or_abstraction_you_regret_adopting/",
-      "author": "/u/TariqKhalaf",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Curious how others have navigated this. Over the years I’ve jumped on a few tools/frameworks that felt like “the future” at the time, but ended up adding more complexity than value for my actual projects For me, it’s usually abstractions that promise cleaner architecture or better scalability, but in practice introduce indirection that makes onboarding harder and debugging slower. Sometimes the ecosystem just wasn’t mature yet, other times I didn’t really need the extra layer at all I’ve started leaning more toward boring, well-understood solutions unless there’s a clear, immediate benefit. But I still worry about missing out on tools that could genuinely improve workflow if adopted at the right time. So I’m wondering: What’s something you adopted early that you later rolled back or stopped using? Was it the tool itself, or how/when you applied it? Do you have a personal rule now for deciding when to adopt something new vs sticking with the basics? Would be interesting to hear both frontend and backend perspectives here. &#32; submitted by &#32; /u/TariqKhalaf [link] &#32; [comments]",
-      "published": "2026-04-27T18:38:05+00:00"
-    },
-    {
-      "title": "PyPI supply chain compromise via GitHub Actions → elementary-data backdoored with .pth infostealer (exec on interpreter startup)",
-      "url": "https://thecybersecguru.com/news/elementary-data-pypi-hack-infostealer/",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sxr5o6/pypi_supply_chain_compromise_via_github_actions/",
-      "author": "/u/raptorhunter22",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "A recent supply chain attack targeted the elementary-data Python package on PyPI, where an attacker exploited a GitHub Actions script injection vulnerability to abuse the repository’s GITHUB_TOKEN and push a forged release without modifying the main branch. The malicious version (0.23.3) was published to PyPI and container registries, embedding a .pth file that executes automatically whenever the Python interpreter starts—no explicit import required. The payload was obfuscated (base64-encoded) and designed to quietly run in any environment that installed the compromised package, effectively turning routine dependency installs into remote code execution. This incident stands out because it bypassed traditional trust signals by leveraging the legitimate CI/CD pipeline rather than typosquatting or rogue packages, and it also affected unpinned Docker pulls that defaulted to latest. &#32; submitted by &#32; /u/raptorhunter22 [link] &#32; [comments]",
-      "published": "2026-04-28T04:33:11+00:00"
-    },
-    {
-      "title": "How to make Laspass ignore certain Input fields [html, css]?",
-      "url": "https://www.reddit.com/r/webdev/comments/1sxevg0/how_to_make_laspass_ignore_certain_input_fields/",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sxevg0/how_to_make_laspass_ignore_certain_input_fields/",
-      "author": "/u/TheConceptBoy",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I&#39;m working on a web-tool - drawing / story boarding app. I placed a few input elements - range and number input and Lastpass went bonkers assuming these were username and password fields. I know - &quot;Two input tags near each other? Not on my watch&quot; - LastPass probably. Anyways. is there a way to hint lastpass to ignore these tags? I tried: autocomplete=&quot;off&quot; data-1p-ignore data-bwignore data-lpignore=&quot;true&quot; data-form-type=&quot;other&quot;autocomplete=&quot;off&quot; data-1p-ignore data-bwignore data-lpignore=&quot;true&quot; data-form-type=&quot;other&quot; based on this post: https://www.stefanjudis.com/snippets/turn-off-password-managers/ but it did not work. &#32; submitted by &#32; /u/TheConceptBoy [link] &#32; [comments]",
-      "published": "2026-04-27T20:00:17+00:00"
-    },
-    {
-      "title": "Visual, step-by-step explainers for how the web actually works.",
-      "url": "https://toolkit.whysonil.dev/how-it-works/",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sx66st/visual_stepbystep_explainers_for_how_the_web/",
-      "author": "/u/nulless",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Includes: DNS HTTPS (TLS handshake) caching + CDNs load balancing Much easier to follow than static docs. https://toolkit.whysonil.dev/how-it-works/ &#32; submitted by &#32; /u/nulless [link] &#32; [comments]",
-      "published": "2026-04-27T14:58:27+00:00"
-    },
-    {
-      "title": "anyone else had a rough time testing datadog api integrations?",
-      "url": "https://www.reddit.com/r/webdev/comments/1sxl1vg/anyone_else_had_a_rough_time_testing_datadog_api/",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sxl1vg/anyone_else_had_a_rough_time_testing_datadog_api/",
-      "author": "/u/Striking_Weird_8540",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "i have been testing an integration that pulls logs/instrumentions metrics and incidents from datadog. the api itself is fine but getting to the point where you can actually test anything is painful. we need two keys for them to test api key and application key, each with different permission scopes, and you can&#39;t get either without a paid account. free trial wants a credit card and installs an agent on your infra. all that just to check if my code handles their pagination format correctly. when i started looking at github issues and it&#39;s the same pain everywhere. people running into auth scope mismatches, incident state transitions not working how the docs describe, monitors returning different shapes depending on the type. tbh i don&#39;t even need real data. i just need some fake responses that match the actual shape — what does a monitor with no tags look like, what happens when you create an incident and immediately query it, does the status actually transition the way the docs say it does. anyone integrating with datadog found a decent workflow for this? or do you just eat the setup cost and test against your real org? &#32; submitted by &#32; /u/Striking_Weird_8540 [link] &#32; [comments]",
-      "published": "2026-04-27T23:57:14+00:00"
-    },
-    {
-      "title": "How to make an element extend to the bottom of the screen, regardless of its content?",
-      "url": "https://www.reddit.com/r/webdev/comments/1sxie1g/how_to_make_an_element_extend_to_the_bottom_of/",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sxie1g/how_to_make_an_element_extend_to_the_bottom_of/",
-      "author": "/u/ThrowAway237s",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Is there any way to make the bottom cell of the table in this demo extend until the bottom of the screen, regardless of how much it contains? One possible way would be to &quot;cheat&quot; using JavaScript by detecting the screen height and setting the table to that height whenever the screen height changes. But is there any way to accomplish this using bare HTML and CSS? &lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Strict//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd&quot;&gt; &lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; xml:lang=&quot;en&quot; style=&quot;height:100%;&quot;&gt; &lt;head&gt; &lt;title&gt;Variable height demo&lt;/title&gt; &lt;style type=&quot;text/css&quot;&gt; body { background-color: #222; color:#ccc; font-family: sans-serif; } &lt;/style&gt; &lt;/head&gt; &lt;body style=&quot;height:100%; margin:0;&quot;&gt; &lt;table style=&quot;width: 100%; height:100%; table-layout: fixed;&quot; border=&quot;1&quot;&gt; &lt;tr style=&quot;height:50px;&quot;&gt; &lt;th&gt;Fixed-height row&lt;/th&gt; &lt;/tr&gt; &lt;tr style=&quot;height:100%;&quot;&gt; &lt;td style=&quot;overflow-y: scroll; vertical-align:top;&quot;&gt; &lt;ul&gt; &lt;li&gt;Scrollable list&lt;/li&gt; &lt;li&gt;Scrollable list&lt;/li&gt; &lt;li&gt;Scrollable list&lt;/li&gt; &lt;li&gt;Scrollable list&lt;/li&gt; &lt;li&gt;Scrollable list&lt;/li&gt; &lt;li&gt;Scrollable list&lt;/li&gt; &lt;li&gt;Scrollable list&lt;/li&gt; &lt;li&gt;Scrollable list&lt;/li&gt; &lt;li&gt;Scrollable list&lt;/li&gt; &lt;li&gt;Scrollable list&lt;/li&gt; &lt;li&gt;Scrollable list&lt;/li&gt; &lt;li&gt;Scrollable list&lt;/li&gt; &lt;li&gt;Scrollable list&lt;/li&gt; &lt;li&gt;Scrollable list&lt;/li&gt; &lt;li&gt;Scrollable list&lt;/li&gt; &lt;li&gt;Scrollable list&lt;/li&gt; &lt;li&gt;Scrollable list&lt;/li&gt; &lt;li&gt;Scrollable list&lt;/li&gt; &lt;/ul&gt; &lt;/td&gt; &lt;/tr&gt; &lt;/table&gt; &lt;/body&gt; &lt;/html&gt; &#32; submitted by &#32; /u/ThrowAway237s [link] &#32; [comments]",
-      "published": "2026-04-27T22:07:43+00:00"
-    },
-    {
-      "title": "Which early decisions in a web project tend to have the biggest long-term impact?",
-      "url": "https://www.reddit.com/r/webdev/comments/1sxtw2m/which_early_decisions_in_a_web_project_tend_to/",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sxtw2m/which_early_decisions_in_a_web_project_tend_to/",
-      "author": "/u/Gullible_Prior9448",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "In my experience, things like structure and data flow become hard to change later. What decisions have mattered most in your projects? &#32; submitted by &#32; /u/Gullible_Prior9448 [link] &#32; [comments]",
-      "published": "2026-04-28T07:01:49+00:00"
-    },
-    {
-      "title": "Automating nicely displayed events from Google Calendar/forms on Cascade webpage without the need to click on event?",
-      "url": "https://i.redd.it/6vezcrdnerxg1.jpeg",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sx8owf/automating_nicely_displayed_events_from_google/",
-      "author": "/u/PeaBandJ",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Hi all, I&#39;m currently working on god awful Cascade here at my job, and our website has two calendars for events (both of which I have to update the Google Calendar for) And we also have a weekly newsletter that I use Google Calendar for using Styled Calendars to put on Cascade as the &quot;schedule for the week&quot;. Of course this is 1,000% easier that I don&#39;t have to touch the newsletter template anymore since it&#39;s automatically updated. However, every event has it&#39;s own webpage, in classic table fashion, with the SAME information I put on all two webpages and the email I send out with the reader. Having a styled calendar is not enough information/looks good for each event since there is no title, speaker, or abstract of course, and you have to click on each event to see the information. I&#39;m including an example of what the pages currently look like now. Does anyone know of a way I can auto force it to fill out the information in the layout from Google Calendar or even the email I send out? Some website similar to Styled Calendars maybe, that looks a little better for the public. I&#39;m tired of having to do this weekly, when it&#39;s the same information everywhere, I&#39;m too busy for this to be a main job, but it&#39;s needed for stuff like grant funding/having a past title list. I will also have to stay away from AI, so please don&#39;t suggest it. Thank you for your help! &#32; submitted by &#32; /u/PeaBandJ [link] &#32; [comments]",
-      "published": "2026-04-27T16:25:50+00:00"
-    },
-    {
-      "title": "Was Postman down again?",
-      "url": "https://www.reddit.com/r/webdev/comments/1swztuk/was_postman_down_again/",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1swztuk/was_postman_down_again/",
-      "author": "/u/Successful_Bowl2564",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "What are you guys mostly switching too. &#32; submitted by &#32; /u/Successful_Bowl2564 [link] &#32; [comments]",
-      "published": "2026-04-27T10:36:00+00:00"
-    },
-    {
-      "title": "Looking for developer communities to join",
-      "url": "https://www.reddit.com/r/webdev/comments/1sx6khk/looking_for_developer_communities_to_join/",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sx6khk/looking_for_developer_communities_to_join/",
-      "author": "/u/riti_rathod",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I’m looking to join some active and helpful communities where I can learn, share knowledge, and connect with others. I’m especially interested in platforms similar to Reddit (discussion-based communities), but I’m also open to Discord servers, forums, or any other groups you’ve found valuable. I’d really appreciate your suggestions! &#32; submitted by &#32; /u/riti_rathod [link] &#32; [comments]",
-      "published": "2026-04-27T15:11:29+00:00"
-    },
-    {
-      "title": "Working around incomplete `webNavigation.transitionType` support in Safari and Firefox extensions",
-      "url": "https://i.redd.it/syqi83bhgpxg1.png",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1swz3v1/working_around_incomplete/",
-      "author": "/u/rxliuli",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I&#39;m building a translation browser extension. One requirement: when the user reloads a page, stop translating; but when they click a link or use back/forward, keep translating on the new page. The natural fit is webNavigation.onCommitted with transitionType and transitionQualifiers : ts browser.webNavigation.onCommitted.addListener((details) =&gt; { if (details.frameId !== 0) return const isForwardBack = (details as any).transitionQualifiers?.includes(&#39;forward_back&#39;) if (!isForwardBack &amp;&amp; details.transitionType === &#39;reload&#39;) { setTabTranslatingLang(details.tabId, null) } }) Works fine on Chrome. On Safari, the API exists but several properties just aren&#39;t there. Checked MDN and the compatibility story is rougher than I expected — Safari is missing a lot, and Firefox isn&#39;t great here either. transitionQualifiers and transitionType are both unsupported on Safari and Firefox for Android. Ended up working around it with webNavigation.onDOMContentLoaded plus an injected script that reads performance.getEntriesByType(&#39;navigation&#39;) : ts try { const [result] = await browser.scripting.executeScript({ target: { tabId: details.tabId }, func: () =&gt; (performance.getEntriesByType(&#39;navigation&#39;) as PerformanceNavigationTiming[])[0]?.type, }) if (result?.result === &#39;reload&#39;) { await setTabTranslatingLang(details.tabId, null) return } } catch { // scripting may fail on restricted pages; skip reload check } Trade-off: I can no longer distinguish between typed URLs and link clicks, but for this use case it doesn&#39;t matter — I only need to detect reloads. Compatibility table for reference: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/webNavigation/onCommitted#browser_compatibility Anyone found a cleaner approach? Or is dropping these features on non-Chromium browsers just the standard playbook now? &#32; submitted by &#32; /u/rxliuli [link] &#32; [comments]",
-      "published": "2026-04-27T09:56:09+00:00"
-    },
-    {
-      "title": "Production lessons from building AI agents into a web app",
-      "url": "https://www.reddit.com/r/webdev/comments/1sxfd27/production_lessons_from_building_ai_agents_into_a/",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sxfd27/production_lessons_from_building_ai_agents_into_a/",
-      "author": "/u/middlerange",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "At this point we have rebuilt our AI agent implementation 4 times from scratch. Wrote up on the architecture that we finally feel good about and the tradeoffs here: https://userorbit.com/blog/how-to-build-production-grade-ai-agents Curious how others are handling tool permissions and undo for agents that can mutate product state. &#32; submitted by &#32; /u/middlerange [link] &#32; [comments]",
-      "published": "2026-04-27T20:17:06+00:00"
-    },
-    {
-      "title": "View transitions look great on mobile but terrible on desktop: is it okay if I disable them just for the latter?",
-      "url": "https://www.reddit.com/r/webdev/comments/1sxdfzi/view_transitions_look_great_on_mobile_but/",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sxdfzi/view_transitions_look_great_on_mobile_but/",
-      "author": "/u/Wise_Stick9613",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I&#39;m experimenting with the View Transition API on a personal project. I&#39;ve managed to replicate the iOS and Android animations quite well, and everything looks great; it really feels like a native app. However, on the desktop, they look terrible and out of place, so I was wondering, is it okay to enable them only on mobile? I&#39;m asking this question because when I look for JavaScript solutions to detect a mobile device, they all seem like ugly hacks: if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){ // mobile device } Is there an elegant way to do this? &#32; submitted by &#32; /u/Wise_Stick9613 [link] &#32; [comments]",
-      "published": "2026-04-27T19:10:23+00:00"
-    },
-    {
-      "title": "BEM Styling Convention Newbie",
-      "url": "https://www.reddit.com/r/webdev/comments/1swyeq9/bem_styling_convention_newbie/",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1swyeq9/bem_styling_convention_newbie/",
-      "author": "/u/Wotsits1984",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Having recently inherited a bit of a mess in a legacy systems, I&#39;ve recently started using BEM to clen up it&#39;s styling. The more I use it, the more I enjoy the principles of it hoever I&#39;ve found pure BEM a bit of a challenge at times. I&#39;ve supplemented it with a few alterations and it got me wondering what any other BEM users have done. My alterations: Perhaps wrongly, I started off very pure (don&#39;t judge me). I would create a &quot;.p&quot; class and apply that to all my &lt;p&gt; elements. I stopped doing this very early on, and now I set global styles against HTML elements which are overridden by BEM classes. I use utility classes to modify instead of modifiers. This means that the same utility class can be used instead of rewriting the same modifier logic against every B-E combination. Imagine a &quot;.page-title&quot; and &quot;.main-paragraph&quot;. If I want a &quot;text-align: center&quot; modifier on each, in true BEM, I would create &quot;.page-title--centered&quot; and &quot;.main-paragraph--centered&quot;. Instead, I create &quot;.centered&quot; and apply that as a second class to both elements. I&#39;m interested to know what other BEM users have done with a view to improving my own BEM workflows. TIA Simon &#32; submitted by &#32; /u/Wotsits1984 [link] &#32; [comments]",
-      "published": "2026-04-27T09:15:13+00:00"
-    },
-    {
-      "title": "Lightport – AI gateway that makes LLM providers OpenAI-compatible",
-      "url": "https://github.com/glama-ai/lightport",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sxodbh/lightport_ai_gateway_that_makes_llm_providers/",
-      "author": "/u/punkpeye",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "We are making Lightport open-source – it&#39;s the AI gateway that&#39;s been powering Glama AI Gateway. GitHub: https://github.com/glama-ai/lightport Why? We&#39;re going all-in on the MCP ecosystem – it&#39;s what we&#39;re best at. Open-sourcing the gateway is both a thank-you to the community that helped us grow and a way to keep us focused. The short backstory: Lightport began as a fork of Portkey. We needed a way to make various LLM providers OpenAI-compatible, and Portkey provided a solid foundation. But it also came with many higher-level features (guardrails, billing, etc.) that we didn&#39;t think belonged at this layer – and that made it hard to iterate on provider compatibility. So we slimmed it down, fixed bugs, added integration tests for 80+ providers, and shaped it into one thing: a reliable, lightweight layer that makes any LLM provider OpenAI-compatible. What&#39;s next: More modules will follow – guardrails, billing, retries, telemetry – each open-sourced as standalone middleware. We&#39;ll continue to maintain Lightport in the open, with a focus on OpenAI compatibility across LLM providers. For Glama users: The Glama AI gateway will continue to function as a privacy-first gateway, but we will support only a curated set of providers (OpenAI, Anthropic, Google, Grok, Groq, DeepSeek, Alibaba, Moonshot, and a few others). For everything else, OpenRouter is a great alternative. Try it, break it, build with it. I can&#39;t wait to see what you make. &#32; submitted by &#32; /u/punkpeye [link] &#32; [comments]",
-      "published": "2026-04-28T02:22:33+00:00"
-    },
-    {
-      "title": "Beyond the Chatbot Multi-AI Agentic system with Proxima",
-      "url": "https://www.reddit.com/r/webdev/comments/1sxawhg/beyond_the_chatbot_multiai_agentic_system_with/",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sxawhg/beyond_the_chatbot_multiai_agentic_system_with/",
-      "author": "/u/Personal_Offer1551",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I’ve been experimenting with agentic workflows lately, but the API costs for running multiple models Claude + GPT + Gemini + Perplexity) simultaneously were getting ridiculous. Also, most single-model prompts kept failing on complex architecture because there was no &quot;second opinion&quot; or verification. I spent few months building Proxima . It’s an open-source local server that connects your active browser providers to your IDE via MCP or RestAPI. What it actually does differently: Multi-Model Synergy: Instead of trusting one AI, I built a debate tool. You can make Claude and GPT argue over a technical decision in your terminal. Usually, the &quot;winner&quot; of that debate produces much cleaner code. Agentic Verification: I added a verify tool where one model writes the logic and another audits it, giving a confidence score. It’s been a lifesaver for catching hallucinated library methods before they hit my codebase. No API Keys: It uses a native provider engine to stream responses directly from the sessions you&#39;re already logged into. Deep Context Fixing: You can pipe build errors directly from the terminal: npm run build 2&gt;&amp;1 | proxima fix. It looks at the whole context to suggest a fix rather than just guessing. It’s got about 45+ tools for everything from security audits to building modular blueprints. I built it for my own workflow because I wanted a &quot;team of AIs&quot; rather than just a agent. It’s all on GitHub and runs locally on localhost:3210. If you’re into MCP or looking for a way to use multiple AIs without the API tax, check it out. Github: https://github.com/Zen4-bit/Proxima &#32; submitted by &#32; /u/Personal_Offer1551 [link] &#32; [comments]",
-      "published": "2026-04-27T17:42:23+00:00"
-    },
-    {
-      "title": "Glyphborn — Language Learning as a Roguelike",
-      "url": "https://www.reddit.com/r/webdev/comments/1sxcsrq/glyphborn_language_learning_as_a_roguelike/",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sxcsrq/glyphborn_language_learning_as_a_roguelike/",
-      "author": "/u/Remohw",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Glyphborn — Language Learning as a Roguelike I built a roguelike where language is the magic system. It&#39;s open source, half-finished, and I&#39;d love help breaking it. The problem Three years of streaks, flashcards, and very polite owls have given me roughly the vocabulary of a tired toddler. I love learning languages. I hate every app that&#39;s tried to teach me one. So I built the thing I actually wanted to play. What it is Glyphborn is a browser roguelike where every enemy on the floor is a real word in the language you&#39;re learning. The fire elemental is 火. To kill it, you decode it. Get the quiz right — the door opens. Master a glyph, and the next time it appears on a tile, it shows up dim and weak. Spaced repetition, but with a sword. The architecture The LLM is the Dungeon Master. One Claude call at the start of a run generates the entire dungeon — floors, enemies, quizzes calibrated to your level, a boss riddle, and a merchant who insists on haggling in Mandarin. Then the game runs fully offline. Adding a new language is basically: drop some seed words in a file, let Claude do the worldbuilding. Adding Russian took an afternoon. Adding Arabic took an afternoon and a small existential crisis about right-to-left text. The honest part It&#39;s not finished. The Arabic still has rough edges. The mobile controls technically work, in the way a folding chair technically works. There&#39;s a TODO list I refuse to look at directly. I&#39;m publishing it anyway — because the alternative is polishing it forever in private and never showing anyone. Why I want collaborators The languages I most want to add are ones I don&#39;t speak well enough to seed alone. The community-runs system is already wired: anyone can publish a generated bundle to the shared library. It&#39;s only as good as the people uploading. If you&#39;re a language learner, a teacher, a gamedev person, or someone who&#39;s looked at a Duolingo streak and felt absolutely nothing — please come help. For devs Stack: React 19 + TypeScript (strict), Vite, Zustand, HTML5 Canvas No game framework — handwritten FOV and scanlines No Math.random() — every run is seeded for replays and deterministic tests Auth/sync: Supabase (optional cloud sync) LLM: Anthropic Onboarding: there&#39;s a CLAUDE.md that explains the rules so you don&#39;t have to spelunk ⭐ the repo, open an issue, fork it and break it. I&#39;ll be in the issues, gently apologising. https://github.com/sullytobias/GLYPHBORN (The REPO) https://sullytobias.github.io/GLYPHBORN/ (The APP) &#32; submitted by &#32; /u/Remohw [link] &#32; [comments]",
-      "published": "2026-04-27T18:48:02+00:00"
-    },
-    {
-      "title": "Genuinely starting to get bored of my portfolio, i am in dire need for advice.",
-      "url": "http://www.kitmane.com",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sx6g54/genuinely_starting_to_get_bored_of_my_portfolio_i/",
-      "author": "/u/ismailkit",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Not an ad to my services although the site advertises my services, i built this a year ago, i was hyped about threejs and took time to learn both 3d and threejs for a single globe animation i was fantasizing about for years, then i made it... A year later it started looking like the most mid portfolio out there, i am a UX developer, a portfolio is representation of my work. &#32; submitted by &#32; /u/ismailkit [link] &#32; [comments]",
-      "published": "2026-04-27T15:07:21+00:00"
-    },
-    {
-      "title": "Getting started with freelancing landing pages and simple static sites",
-      "url": "https://www.reddit.com/r/webdev/comments/1sx56ue/getting_started_with_freelancing_landing_pages/",
-      "permalink": "https://www.reddit.com/r/webdev/comments/1sx56ue/getting_started_with_freelancing_landing_pages/",
-      "author": "/u/Dtarvin",
-      "subreddit": "webdev",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I hope I’m not breaking the rules. I’m trying to be specific with my questions. If I am breaking the rules with this post, I would appreciate suggestions on making my questions specific enough to be allowed on here. I am an Associate Software Engineer full-time and instructor part-time. I have taught Web Development for a few years as a second job. However, I have never actually done web development for actual clients before. The teaching job is now on hold while the nonprofit running it reorients itself. So I would like to start doing freelance web development work in the meantime. I want to start off simple with some basic landing pages and simple static sites. So my first question is, in this day and age, what types of clients would still benefit from landing pages and simple static sites? Or does everything need to be interactive now? Second question: for local work (not Upwork, etc), what is a good way to find clients? With my full-time job I don’t know that I would be able to attend networking events, and past experience with those when I did other types of work seemed to never really produce leads anyway. Participants never really gave each other work. So how else would you find clients? Third question: should I make pages from scratch, or should I take advantage of something like Wix to start with and customize? It seems many freelancers use Wix or similar website building resources. But how do you explain that use to a client without having them thinking they could have just created something Wix themselves? Fourth question: how much should one charge for a simple landing site or a simple five page static site? &#32; submitted by &#32; /u/Dtarvin [link] &#32; [comments]",
-      "published": "2026-04-27T14:22:47+00:00"
-    }
-  ]
-}
+Request error: Request failed with status code 429
+✖ Request failed. Check network/API settings and try again.
 ```
 
 ## 2. Monthly Stack Trends
@@ -926,420 +650,16 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
   "language": "go",
   "items": [
     {
-      "author": "Wei-Shaw",
-      "repo": "sub2api",
-      "avatar": "https://github.com/Wei-Shaw.png",
-      "repo_link": "https://github.com/Wei-Shaw/sub2api",
-      "desc": "Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "lang": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 0,
-      "forks": 2867,
-      "added_stars": 7435,
-      "builtBy": [
-        {
-          "username": "Wei-Shaw",
-          "href": "https://github.com/Wei-Shaw",
-          "avatar": "https://avatars.githubusercontent.com/u/26101719"
-        },
-        {
-          "username": "IanShaw027",
-          "href": "https://github.com/IanShaw027",
-          "avatar": "https://avatars.githubusercontent.com/u/131567472"
-        },
-        {
-          "username": "touwaeriol",
-          "href": "https://github.com/touwaeriol",
-          "avatar": "https://avatars.githubusercontent.com/u/52620633"
-        },
-        {
-          "username": "claude",
-          "href": "https://github.com/claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847"
-        },
-        {
-          "username": "slovx2",
-          "href": "https://github.com/slovx2",
-          "avatar": "https://avatars.githubusercontent.com/u/2713715"
-        }
-      ]
-    },
-    {
-      "author": "harness",
-      "repo": "harness",
-      "avatar": "https://github.com/harness.png",
-      "repo_link": "https://github.com/harness/harness",
-      "desc": "Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
-      "lang": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 0,
-      "forks": 3064,
-      "added_stars": 1550,
-      "builtBy": [
-        {
-          "username": "johannesHarness",
-          "href": "https://github.com/johannesHarness",
-          "avatar": "https://avatars.githubusercontent.com/u/98799615"
-        },
-        {
-          "username": "marko-gacesa",
-          "href": "https://github.com/marko-gacesa",
-          "avatar": "https://avatars.githubusercontent.com/u/1862257"
-        },
-        {
-          "username": "cjlee01",
-          "href": "https://github.com/cjlee01",
-          "avatar": "https://avatars.githubusercontent.com/u/92757601"
-        },
-        {
-          "username": "shivanand-harness",
-          "href": "https://github.com/shivanand-harness",
-          "avatar": "https://avatars.githubusercontent.com/u/148759765"
-        },
-        {
-          "username": "tan-nhu",
-          "href": "https://github.com/tan-nhu",
-          "avatar": "https://avatars.githubusercontent.com/u/29714664"
-        }
-      ]
-    },
-    {
-      "author": "QuantumNous",
-      "repo": "new-api",
-      "avatar": "https://github.com/QuantumNous.png",
-      "repo_link": "https://github.com/QuantumNous/new-api",
-      "desc": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
-      "lang": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 0,
-      "forks": 6234,
-      "added_stars": 6083,
-      "builtBy": [
-        {
-          "username": "Calcium-Ion",
-          "href": "https://github.com/Calcium-Ion",
-          "avatar": "https://avatars.githubusercontent.com/u/61247483"
-        },
-        {
-          "username": "seefs001",
-          "href": "https://github.com/seefs001",
-          "avatar": "https://avatars.githubusercontent.com/u/40468931"
-        },
-        {
-          "username": "t0ng7u",
-          "href": "https://github.com/t0ng7u",
-          "avatar": "https://avatars.githubusercontent.com/u/133845290"
-        },
-        {
-          "username": "songquanpeng",
-          "href": "https://github.com/songquanpeng",
-          "avatar": "https://avatars.githubusercontent.com/u/39998050"
-        }
-      ]
-    },
-    {
-      "author": "steipete",
-      "repo": "wacli",
-      "avatar": "https://github.com/steipete.png",
-      "repo_link": "https://github.com/steipete/wacli",
-      "desc": "WhatsApp CLI",
-      "lang": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 0,
-      "forks": 250,
-      "added_stars": 1456,
-      "builtBy": [
-        {
-          "username": "steipete",
-          "href": "https://github.com/steipete",
-          "avatar": "https://avatars.githubusercontent.com/u/58493"
-        },
-        {
-          "username": "draix",
-          "href": "https://github.com/draix",
-          "avatar": "https://avatars.githubusercontent.com/u/270983"
-        },
-        {
-          "username": "dinakars777",
-          "href": "https://github.com/dinakars777",
-          "avatar": "https://avatars.githubusercontent.com/u/250428393"
-        },
-        {
-          "username": "shaun0927",
-          "href": "https://github.com/shaun0927",
-          "avatar": "https://avatars.githubusercontent.com/u/70629228"
-        },
-        {
-          "username": "plattenschieber",
-          "href": "https://github.com/plattenschieber",
-          "avatar": "https://avatars.githubusercontent.com/u/1213794"
-        }
-      ]
-    },
-    {
-      "author": "Gentleman-Programming",
-      "repo": "gentle-ai",
-      "avatar": "https://github.com/Gentleman-Programming.png",
-      "repo_link": "https://github.com/Gentleman-Programming/gentle-ai",
-      "desc": "",
-      "lang": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 0,
-      "forks": 301,
-      "added_stars": 1361,
-      "builtBy": [
-        {
-          "username": "Alan-TheGentleman",
-          "href": "https://github.com/Alan-TheGentleman",
-          "avatar": "https://avatars.githubusercontent.com/u/6935240"
-        },
-        {
-          "username": "tonyblu331",
-          "href": "https://github.com/tonyblu331",
-          "avatar": "https://avatars.githubusercontent.com/u/16378197"
-        },
-        {
-          "username": "IrrealV",
-          "href": "https://github.com/IrrealV",
-          "avatar": "https://avatars.githubusercontent.com/u/56964704"
-        },
-        {
-          "username": "claude",
-          "href": "https://github.com/claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847"
-        },
-        {
-          "username": "Tech-Codde",
-          "href": "https://github.com/Tech-Codde",
-          "avatar": "https://avatars.githubusercontent.com/u/77520396"
-        }
-      ]
-    },
-    {
-      "author": "maximhq",
-      "repo": "bifrost",
-      "avatar": "https://github.com/maximhq.png",
-      "repo_link": "https://github.com/maximhq/bifrost",
-      "desc": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
-      "lang": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 0,
-      "forks": 518,
-      "added_stars": 1120,
-      "builtBy": [
-        {
-          "username": "akshaydeo",
-          "href": "https://github.com/akshaydeo",
-          "avatar": "https://avatars.githubusercontent.com/u/1050029"
-        },
-        {
-          "username": "Pratham-Mishra04",
-          "href": "https://github.com/Pratham-Mishra04",
-          "avatar": "https://avatars.githubusercontent.com/u/99235987"
-        },
-        {
-          "username": "TejasGhatte",
-          "href": "https://github.com/TejasGhatte",
-          "avatar": "https://avatars.githubusercontent.com/u/64637256"
-        },
-        {
-          "username": "impoiler",
-          "href": "https://github.com/impoiler",
-          "avatar": "https://avatars.githubusercontent.com/u/83772622"
-        }
-      ]
-    },
-    {
-      "author": "chenhg5",
-      "repo": "cc-connect",
-      "avatar": "https://github.com/chenhg5.png",
-      "repo_link": "https://github.com/chenhg5/cc-connect",
-      "desc": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
-      "lang": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 0,
-      "forks": 610,
-      "added_stars": 3196,
-      "builtBy": [
-        {
-          "username": "claude",
-          "href": "https://github.com/claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847"
-        },
-        {
-          "username": "chenhg5",
-          "href": "https://github.com/chenhg5",
-          "avatar": "https://avatars.githubusercontent.com/u/4344486"
-        },
-        {
-          "username": "kevinWangSheng",
-          "href": "https://github.com/kevinWangSheng",
-          "avatar": "https://avatars.githubusercontent.com/u/118158941"
-        },
-        {
-          "username": "q107580018",
-          "href": "https://github.com/q107580018",
-          "avatar": "https://avatars.githubusercontent.com/u/44695873"
-        },
-        {
-          "username": "xxb",
-          "href": "https://github.com/xxb",
-          "avatar": "https://avatars.githubusercontent.com/u/1808765"
-        }
-      ]
-    },
-    {
-      "author": "mostlygeek",
-      "repo": "llama-swap",
-      "avatar": "https://github.com/mostlygeek.png",
-      "repo_link": "https://github.com/mostlygeek/llama-swap",
-      "desc": "Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc",
-      "lang": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 0,
-      "forks": 290,
-      "added_stars": 767,
-      "builtBy": [
-        {
-          "username": "mostlygeek",
-          "href": "https://github.com/mostlygeek",
-          "avatar": "https://avatars.githubusercontent.com/u/83972"
-        },
-        {
-          "username": "claude",
-          "href": "https://github.com/claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847"
-        },
-        {
-          "username": "ryan-steed-usa",
-          "href": "https://github.com/ryan-steed-usa",
-          "avatar": "https://avatars.githubusercontent.com/u/240190636"
-        },
-        {
-          "username": "shirayu",
-          "href": "https://github.com/shirayu",
-          "avatar": "https://avatars.githubusercontent.com/u/963961"
-        },
-        {
-          "username": "Thammachart",
-          "href": "https://github.com/Thammachart",
-          "avatar": "https://avatars.githubusercontent.com/u/1731496"
-        }
-      ]
-    },
-    {
-      "author": "XTLS",
-      "repo": "Xray-core",
-      "avatar": "https://github.com/XTLS.png",
-      "repo_link": "https://github.com/XTLS/Xray-core",
-      "desc": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
-      "lang": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 0,
-      "forks": 5274,
-      "added_stars": 1768,
-      "builtBy": [
-        {
-          "username": "RPRX",
-          "href": "https://github.com/RPRX",
-          "avatar": "https://avatars.githubusercontent.com/u/63339210"
-        },
-        {
-          "username": "yuhan6665",
-          "href": "https://github.com/yuhan6665",
-          "avatar": "https://avatars.githubusercontent.com/u/1588741"
-        },
-        {
-          "username": "Fangliding",
-          "href": "https://github.com/Fangliding",
-          "avatar": "https://avatars.githubusercontent.com/u/45535409"
-        },
-        {
-          "username": "mmmray",
-          "href": "https://github.com/mmmray",
-          "avatar": "https://avatars.githubusercontent.com/u/142015632"
-        }
-      ]
-    },
-    {
-      "author": "googleapis",
-      "repo": "mcp-toolbox",
-      "avatar": "https://github.com/googleapis.png",
-      "repo_link": "https://github.com/googleapis/mcp-toolbox",
-      "desc": "MCP Toolbox for Databases is an open source MCP server for databases.",
-      "lang": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 0,
-      "forks": 1486,
-      "added_stars": 1330,
-      "builtBy": [
-        {
-          "username": "Yuan325",
-          "href": "https://github.com/Yuan325",
-          "avatar": "https://avatars.githubusercontent.com/u/45984206"
-        },
-        {
-          "username": "twishabansal",
-          "href": "https://github.com/twishabansal",
-          "avatar": "https://avatars.githubusercontent.com/u/58483338"
-        },
-        {
-          "username": "duwenxin99",
-          "href": "https://github.com/duwenxin99",
-          "avatar": "https://avatars.githubusercontent.com/u/117315983"
-        },
-        {
-          "username": "averikitsch",
-          "href": "https://github.com/averikitsch",
-          "avatar": "https://avatars.githubusercontent.com/u/6519888"
-        }
-      ]
-    },
-    {
-      "author": "SagerNet",
-      "repo": "sing-box",
-      "avatar": "https://github.com/SagerNet.png",
-      "repo_link": "https://github.com/SagerNet/sing-box",
-      "desc": "The universal proxy platform",
-      "lang": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 0,
-      "forks": 3910,
-      "added_stars": 1498,
-      "builtBy": [
-        {
-          "username": "nekohasekai",
-          "href": "https://github.com/nekohasekai",
-          "avatar": "https://avatars.githubusercontent.com/u/56506714"
-        },
-        {
-          "username": "dyhkwong",
-          "href": "https://github.com/dyhkwong",
-          "avatar": "https://avatars.githubusercontent.com/u/50692134"
-        },
-        {
-          "username": "H1JK",
-          "href": "https://github.com/H1JK",
-          "avatar": "https://avatars.githubusercontent.com/u/106379370"
-        },
-        {
-          "username": "arm64v8a",
-          "href": "https://github.com/arm64v8a",
-          "avatar": "https://avatars.githubusercontent.com/u/48624112"
-        }
-      ]
-    },
-    {
       "author": "ollama",
       "repo": "ollama",
       "avatar": "https://github.com/ollama.png",
       "repo_link": "https://github.com/ollama/ollama",
-      "desc": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "desc": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "lang": "Go",
       "languageColor": "#00ADD8",
       "stars": 0,
-      "forks": 15846,
-      "added_stars": 4615,
+      "forks": 19075,
+      "added_stars": 4827,
       "builtBy": [
         {
           "username": "mxyng",
@@ -1347,14 +667,14 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
           "avatar": "https://avatars.githubusercontent.com/u/2372640"
         },
         {
-          "username": "jmorganca",
-          "href": "https://github.com/jmorganca",
-          "avatar": "https://avatars.githubusercontent.com/u/251292"
-        },
-        {
           "username": "dhiltgen",
           "href": "https://github.com/dhiltgen",
           "avatar": "https://avatars.githubusercontent.com/u/4033016"
+        },
+        {
+          "username": "jmorganca",
+          "href": "https://github.com/jmorganca",
+          "avatar": "https://avatars.githubusercontent.com/u/251292"
         },
         {
           "username": "BruceMacD",
@@ -1369,221 +689,723 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       ]
     },
     {
-      "author": "henrygd",
-      "repo": "beszel",
-      "avatar": "https://github.com/henrygd.png",
-      "repo_link": "https://github.com/henrygd/beszel",
-      "desc": "Lightweight server monitoring with historical data, docker stats, and alerts.",
+      "author": "prometheus",
+      "repo": "prometheus",
+      "avatar": "https://github.com/prometheus.png",
+      "repo_link": "https://github.com/prometheus/prometheus",
+      "desc": "The Prometheus monitoring system and time series database.",
       "lang": "Go",
       "languageColor": "#00ADD8",
       "stars": 0,
-      "forks": 753,
-      "added_stars": 1227,
+      "forks": 11021,
+      "added_stars": 1535,
       "builtBy": [
         {
-          "username": "henrygd",
-          "href": "https://github.com/henrygd",
-          "avatar": "https://avatars.githubusercontent.com/u/8519632"
+          "username": "fabxc",
+          "href": "https://github.com/fabxc",
+          "avatar": "https://avatars.githubusercontent.com/u/4948210"
         },
         {
-          "username": "svenvg93",
-          "href": "https://github.com/svenvg93",
-          "avatar": "https://avatars.githubusercontent.com/u/4511676"
+          "username": "juliusv",
+          "href": "https://github.com/juliusv",
+          "avatar": "https://avatars.githubusercontent.com/u/538008"
         },
         {
-          "username": "a-mnich",
-          "href": "https://github.com/a-mnich",
-          "avatar": "https://avatars.githubusercontent.com/u/56564725"
+          "username": "beorn7",
+          "href": "https://github.com/beorn7",
+          "avatar": "https://avatars.githubusercontent.com/u/5609886"
         },
         {
-          "username": "stanol",
-          "href": "https://github.com/stanol",
-          "avatar": "https://avatars.githubusercontent.com/u/27770896"
-        },
-        {
-          "username": "arsfy",
-          "href": "https://github.com/arsfy",
-          "avatar": "https://avatars.githubusercontent.com/u/93700457"
+          "username": "bboreham",
+          "href": "https://github.com/bboreham",
+          "avatar": "https://avatars.githubusercontent.com/u/8125524"
         }
       ]
     },
     {
-      "author": "masterking32",
-      "repo": "MasterDnsVPN",
-      "avatar": "https://github.com/masterking32.png",
-      "repo_link": "https://github.com/masterking32/MasterDnsVPN",
-      "desc": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "author": "docker",
+      "repo": "compose",
+      "avatar": "https://github.com/docker.png",
+      "repo_link": "https://github.com/docker/compose",
+      "desc": "Define and run multi-container applications with Docker",
       "lang": "Go",
       "languageColor": "#00ADD8",
       "stars": 0,
-      "forks": 93,
-      "added_stars": 833,
+      "forks": 5943,
+      "added_stars": 652,
       "builtBy": [
         {
-          "username": "masterking32",
-          "href": "https://github.com/masterking32",
-          "avatar": "https://avatars.githubusercontent.com/u/1076030"
+          "username": "ndeloof",
+          "href": "https://github.com/ndeloof",
+          "avatar": "https://avatars.githubusercontent.com/u/132757"
         },
         {
-          "username": "abolix",
-          "href": "https://github.com/abolix",
-          "avatar": "https://avatars.githubusercontent.com/u/20380298"
+          "username": "glours",
+          "href": "https://github.com/glours",
+          "avatar": "https://avatars.githubusercontent.com/u/705411"
         },
         {
-          "username": "PentSec",
-          "href": "https://github.com/PentSec",
-          "avatar": "https://avatars.githubusercontent.com/u/11955573"
+          "username": "gtardif",
+          "href": "https://github.com/gtardif",
+          "avatar": "https://avatars.githubusercontent.com/u/437958"
         },
         {
-          "username": "MahdiMirzadeh",
-          "href": "https://github.com/MahdiMirzadeh",
-          "avatar": "https://avatars.githubusercontent.com/u/63877463"
-        },
-        {
-          "username": "typerhack",
-          "href": "https://github.com/typerhack",
-          "avatar": "https://avatars.githubusercontent.com/u/22979706"
+          "username": "rumpl",
+          "href": "https://github.com/rumpl",
+          "avatar": "https://avatars.githubusercontent.com/u/99933"
         }
       ]
     },
     {
-      "author": "evcc-io",
-      "repo": "evcc",
-      "avatar": "https://github.com/evcc-io.png",
-      "repo_link": "https://github.com/evcc-io/evcc",
-      "desc": "solar charging ☀️🚘",
+      "author": "netbirdio",
+      "repo": "netbird",
+      "avatar": "https://github.com/netbirdio.png",
+      "repo_link": "https://github.com/netbirdio/netbird",
+      "desc": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
       "lang": "Go",
       "languageColor": "#00ADD8",
       "stars": 0,
-      "forks": 1295,
-      "added_stars": 205,
+      "forks": 1858,
+      "added_stars": 1124,
       "builtBy": [
         {
-          "username": "andig",
-          "href": "https://github.com/andig",
-          "avatar": "https://avatars.githubusercontent.com/u/184815"
+          "username": "mlsmaycon",
+          "href": "https://github.com/mlsmaycon",
+          "avatar": "https://avatars.githubusercontent.com/u/7747744"
         },
         {
-          "username": "naltatis",
-          "href": "https://github.com/naltatis",
-          "avatar": "https://avatars.githubusercontent.com/u/152287"
+          "username": "pascal-fischer",
+          "href": "https://github.com/pascal-fischer",
+          "avatar": "https://avatars.githubusercontent.com/u/32096965"
         },
         {
-          "username": "premultiply",
-          "href": "https://github.com/premultiply",
-          "avatar": "https://avatars.githubusercontent.com/u/4681172"
+          "username": "lixmal",
+          "href": "https://github.com/lixmal",
+          "avatar": "https://avatars.githubusercontent.com/u/17948409"
         },
         {
-          "username": "weblate",
-          "href": "https://github.com/weblate",
-          "avatar": "https://avatars.githubusercontent.com/u/1607653"
+          "username": "braginini",
+          "href": "https://github.com/braginini",
+          "avatar": "https://avatars.githubusercontent.com/u/700848"
         },
         {
-          "username": "DerAndereAndi",
-          "href": "https://github.com/DerAndereAndi",
-          "avatar": "https://avatars.githubusercontent.com/u/42185"
+          "username": "pappz",
+          "href": "https://github.com/pappz",
+          "avatar": "https://avatars.githubusercontent.com/u/7756831"
         }
       ]
     },
     {
-      "author": "syncthing",
-      "repo": "syncthing",
-      "avatar": "https://github.com/syncthing.png",
-      "repo_link": "https://github.com/syncthing/syncthing",
-      "desc": "Open Source Continuous File Synchronization",
+      "author": "moby",
+      "repo": "moby",
+      "avatar": "https://github.com/moby.png",
+      "repo_link": "https://github.com/moby/moby",
+      "desc": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "lang": "Go",
       "languageColor": "#00ADD8",
       "stars": 0,
-      "forks": 5128,
-      "added_stars": 2136,
+      "forks": 19308,
+      "added_stars": 445,
       "builtBy": [
         {
-          "username": "calmh",
-          "href": "https://github.com/calmh",
-          "avatar": "https://avatars.githubusercontent.com/u/125426"
+          "username": "thaJeztah",
+          "href": "https://github.com/thaJeztah",
+          "avatar": "https://avatars.githubusercontent.com/u/1804568"
         },
         {
-          "username": "AudriusButkevicius",
-          "href": "https://github.com/AudriusButkevicius",
-          "avatar": "https://avatars.githubusercontent.com/u/1144861"
+          "username": "vvoland",
+          "href": "https://github.com/vvoland",
+          "avatar": "https://avatars.githubusercontent.com/u/5046555"
         },
         {
-          "username": "imsodin",
-          "href": "https://github.com/imsodin",
-          "avatar": "https://avatars.githubusercontent.com/u/15955093"
+          "username": "cpuguy83",
+          "href": "https://github.com/cpuguy83",
+          "avatar": "https://avatars.githubusercontent.com/u/799078"
         },
         {
-          "username": "st-release",
-          "href": "https://github.com/st-release",
-          "avatar": "https://avatars.githubusercontent.com/u/14043830"
+          "username": "crosbymichael",
+          "href": "https://github.com/crosbymichael",
+          "avatar": "https://avatars.githubusercontent.com/u/749551"
         },
         {
-          "username": "tomasz1986",
-          "href": "https://github.com/tomasz1986",
-          "avatar": "https://avatars.githubusercontent.com/u/5626656"
+          "username": "vdemeester",
+          "href": "https://github.com/vdemeester",
+          "avatar": "https://avatars.githubusercontent.com/u/6508"
         }
       ]
     },
     {
-      "author": "versity",
-      "repo": "versitygw",
-      "avatar": "https://github.com/versity.png",
-      "repo_link": "https://github.com/versity/versitygw",
-      "desc": "A simple to deploy but feature rich S3 object storage server for your filesystem",
+      "author": "gosom",
+      "repo": "google-maps-scraper",
+      "avatar": "https://github.com/gosom.png",
+      "repo_link": "https://github.com/gosom/google-maps-scraper",
+      "desc": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "lang": "Go",
       "languageColor": "#00ADD8",
       "stars": 0,
-      "forks": 247,
-      "added_stars": 964,
+      "forks": 1266,
+      "added_stars": 1618,
       "builtBy": [
         {
-          "username": "benmcclelland",
-          "href": "https://github.com/benmcclelland",
-          "avatar": "https://avatars.githubusercontent.com/u/2184287"
+          "username": "gosom",
+          "href": "https://github.com/gosom",
+          "avatar": "https://avatars.githubusercontent.com/u/454718"
         },
         {
-          "username": "mlt180",
-          "href": "https://github.com/mlt180",
-          "avatar": "https://avatars.githubusercontent.com/u/62040422"
+          "username": "dredozubov",
+          "href": "https://github.com/dredozubov",
+          "avatar": "https://avatars.githubusercontent.com/u/131368"
         },
         {
-          "username": "niksis02",
-          "href": "https://github.com/niksis02",
-          "avatar": "https://avatars.githubusercontent.com/u/82755277"
+          "username": "sbOogway",
+          "href": "https://github.com/sbOogway",
+          "avatar": "https://avatars.githubusercontent.com/u/92176188"
         },
         {
-          "username": "lrm25",
-          "href": "https://github.com/lrm25",
-          "avatar": "https://avatars.githubusercontent.com/u/19983726"
+          "username": "fidalgo",
+          "href": "https://github.com/fidalgo",
+          "avatar": "https://avatars.githubusercontent.com/u/22743"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
         }
       ]
     },
     {
-      "author": "anchore",
-      "repo": "syft",
-      "avatar": "https://github.com/anchore.png",
-      "repo_link": "https://github.com/anchore/syft",
-      "desc": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "author": "argoproj",
+      "repo": "argo-cd",
+      "avatar": "https://github.com/argoproj.png",
+      "repo_link": "https://github.com/argoproj/argo-cd",
+      "desc": "Declarative Continuous Deployment for Kubernetes",
       "lang": "Go",
       "languageColor": "#00ADD8",
       "stars": 0,
-      "forks": 845,
-      "added_stars": 248,
+      "forks": 8139,
+      "added_stars": 253,
       "builtBy": [
         {
-          "username": "wagoodman",
-          "href": "https://github.com/wagoodman",
-          "avatar": "https://avatars.githubusercontent.com/u/590471"
+          "username": "alexmt",
+          "href": "https://github.com/alexmt",
+          "avatar": "https://avatars.githubusercontent.com/u/426437"
         },
         {
-          "username": "spiffcs",
-          "href": "https://github.com/spiffcs",
-          "avatar": "https://avatars.githubusercontent.com/u/32073428"
+          "username": "crenshaw-dev",
+          "href": "https://github.com/crenshaw-dev",
+          "avatar": "https://avatars.githubusercontent.com/u/350466"
         },
         {
-          "username": "kzantow",
-          "href": "https://github.com/kzantow",
-          "avatar": "https://avatars.githubusercontent.com/u/3009477"
+          "username": "jannfis",
+          "href": "https://github.com/jannfis",
+          "avatar": "https://avatars.githubusercontent.com/u/3942683"
+        },
+        {
+          "username": "jessesuen",
+          "href": "https://github.com/jessesuen",
+          "avatar": "https://avatars.githubusercontent.com/u/12677113"
+        }
+      ]
+    },
+    {
+      "author": "rclone",
+      "repo": "rclone",
+      "avatar": "https://github.com/rclone.png",
+      "repo_link": "https://github.com/rclone/rclone",
+      "desc": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "lang": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 0,
+      "forks": 5693,
+      "added_stars": 839,
+      "builtBy": [
+        {
+          "username": "ncw",
+          "href": "https://github.com/ncw",
+          "avatar": "https://avatars.githubusercontent.com/u/536803"
+        },
+        {
+          "username": "albertony",
+          "href": "https://github.com/albertony",
+          "avatar": "https://avatars.githubusercontent.com/u/12441419"
+        },
+        {
+          "username": "nielash",
+          "href": "https://github.com/nielash",
+          "avatar": "https://avatars.githubusercontent.com/u/31582349"
+        },
+        {
+          "username": "ivandeex",
+          "href": "https://github.com/ivandeex",
+          "avatar": "https://avatars.githubusercontent.com/u/9028053"
+        },
+        {
+          "username": "B4dM4n",
+          "href": "https://github.com/B4dM4n",
+          "avatar": "https://avatars.githubusercontent.com/u/448169"
+        }
+      ]
+    },
+    {
+      "author": "gitleaks",
+      "repo": "gitleaks",
+      "avatar": "https://github.com/gitleaks.png",
+      "repo_link": "https://github.com/gitleaks/gitleaks",
+      "desc": "Find secrets with Gitleaks 🔑",
+      "lang": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 0,
+      "forks": 2373,
+      "added_stars": 1164,
+      "builtBy": [
+        {
+          "username": "zricethezav",
+          "href": "https://github.com/zricethezav",
+          "avatar": "https://avatars.githubusercontent.com/u/15034943"
+        },
+        {
+          "username": "rgmz",
+          "href": "https://github.com/rgmz",
+          "avatar": "https://avatars.githubusercontent.com/u/32133502"
+        },
+        {
+          "username": "w0rmr1d3r",
+          "href": "https://github.com/w0rmr1d3r",
+          "avatar": "https://avatars.githubusercontent.com/u/20722014"
+        },
+        {
+          "username": "bryanbeverly",
+          "href": "https://github.com/bryanbeverly",
+          "avatar": "https://avatars.githubusercontent.com/u/1050885"
+        },
+        {
+          "username": "petegallagher",
+          "href": "https://github.com/petegallagher",
+          "avatar": "https://avatars.githubusercontent.com/u/688331"
+        }
+      ]
+    },
+    {
+      "author": "VictoriaMetrics",
+      "repo": "VictoriaMetrics",
+      "avatar": "https://github.com/VictoriaMetrics.png",
+      "repo_link": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "desc": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "lang": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 0,
+      "forks": 1810,
+      "added_stars": 284,
+      "builtBy": [
+        {
+          "username": "valyala",
+          "href": "https://github.com/valyala",
+          "avatar": "https://avatars.githubusercontent.com/u/283442"
+        },
+        {
+          "username": "hagen1778",
+          "href": "https://github.com/hagen1778",
+          "avatar": "https://avatars.githubusercontent.com/u/2902918"
+        },
+        {
+          "username": "f41gh7",
+          "href": "https://github.com/f41gh7",
+          "avatar": "https://avatars.githubusercontent.com/u/18450869"
+        },
+        {
+          "username": "makasim",
+          "href": "https://github.com/makasim",
+          "avatar": "https://avatars.githubusercontent.com/u/143206"
+        },
+        {
+          "username": "zekker6",
+          "href": "https://github.com/zekker6",
+          "avatar": "https://avatars.githubusercontent.com/u/1367798"
+        }
+      ]
+    },
+    {
+      "author": "Asymptote-Labs",
+      "repo": "agent-beacon",
+      "avatar": "https://github.com/Asymptote-Labs.png",
+      "repo_link": "https://github.com/Asymptote-Labs/agent-beacon",
+      "desc": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
+      "lang": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 0,
+      "forks": 304,
+      "added_stars": 1647,
+      "builtBy": [
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "jqdsouza",
+          "href": "https://github.com/jqdsouza",
+          "avatar": "https://avatars.githubusercontent.com/u/13512741"
+        },
+        {
+          "username": "shukieshah",
+          "href": "https://github.com/shukieshah",
+          "avatar": "https://avatars.githubusercontent.com/u/21977216"
+        },
+        {
+          "username": "cursoragent",
+          "href": "https://github.com/cursoragent",
+          "avatar": "https://avatars.githubusercontent.com/u/199161495"
+        },
+        {
+          "username": "kyle-elliott-asymptote",
+          "href": "https://github.com/kyle-elliott-asymptote",
+          "avatar": "https://avatars.githubusercontent.com/u/337744697"
+        }
+      ]
+    },
+    {
+      "author": "aquasecurity",
+      "repo": "trivy",
+      "avatar": "https://github.com/aquasecurity.png",
+      "repo_link": "https://github.com/aquasecurity/trivy",
+      "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "lang": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 0,
+      "forks": 872,
+      "added_stars": 958,
+      "builtBy": [
+        {
+          "username": "knqyf263",
+          "href": "https://github.com/knqyf263",
+          "avatar": "https://avatars.githubusercontent.com/u/2253692"
+        },
+        {
+          "username": "DmitriyLewen",
+          "href": "https://github.com/DmitriyLewen",
+          "avatar": "https://avatars.githubusercontent.com/u/91113035"
+        },
+        {
+          "username": "nikpivkin",
+          "href": "https://github.com/nikpivkin",
+          "avatar": "https://avatars.githubusercontent.com/u/100182843"
+        },
+        {
+          "username": "simar7",
+          "href": "https://github.com/simar7",
+          "avatar": "https://avatars.githubusercontent.com/u/1254783"
+        }
+      ]
+    },
+    {
+      "author": "opensandbox-group",
+      "repo": "OpenSandbox",
+      "avatar": "https://github.com/opensandbox-group.png",
+      "repo_link": "https://github.com/opensandbox-group/OpenSandbox",
+      "desc": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+      "lang": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 0,
+      "forks": 1643,
+      "added_stars": 1480,
+      "builtBy": [
+        {
+          "username": "Pangjiping",
+          "href": "https://github.com/Pangjiping",
+          "avatar": "https://avatars.githubusercontent.com/u/62273713"
+        },
+        {
+          "username": "ninan-nn",
+          "href": "https://github.com/ninan-nn",
+          "avatar": "https://avatars.githubusercontent.com/u/249928781"
+        },
+        {
+          "username": "hittyt",
+          "href": "https://github.com/hittyt",
+          "avatar": "https://avatars.githubusercontent.com/u/1870207"
+        },
+        {
+          "username": "hpliStartAgain",
+          "href": "https://github.com/hpliStartAgain",
+          "avatar": "https://avatars.githubusercontent.com/u/118508408"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        }
+      ]
+    },
+    {
+      "author": "istio",
+      "repo": "istio",
+      "avatar": "https://github.com/istio.png",
+      "repo_link": "https://github.com/istio/istio",
+      "desc": "Connect, secure, control, and observe services.",
+      "lang": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 0,
+      "forks": 8443,
+      "added_stars": 100,
+      "builtBy": [
+        {
+          "username": "istio-testing",
+          "href": "https://github.com/istio-testing",
+          "avatar": "https://avatars.githubusercontent.com/u/25311884"
+        },
+        {
+          "username": "howardjohn",
+          "href": "https://github.com/howardjohn",
+          "avatar": "https://avatars.githubusercontent.com/u/623453"
+        },
+        {
+          "username": "hzxuzhonghu",
+          "href": "https://github.com/hzxuzhonghu",
+          "avatar": "https://avatars.githubusercontent.com/u/13374016"
+        },
+        {
+          "username": "ramaraochavali",
+          "href": "https://github.com/ramaraochavali",
+          "avatar": "https://avatars.githubusercontent.com/u/17204904"
+        },
+        {
+          "username": "kyessenov",
+          "href": "https://github.com/kyessenov",
+          "avatar": "https://avatars.githubusercontent.com/u/9537734"
+        }
+      ]
+    },
+    {
+      "author": "go-gitea",
+      "repo": "gitea",
+      "avatar": "https://github.com/go-gitea.png",
+      "repo_link": "https://github.com/go-gitea/gitea",
+      "desc": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "lang": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 0,
+      "forks": 7391,
+      "added_stars": 726,
+      "builtBy": [
+        {
+          "username": "lunny",
+          "href": "https://github.com/lunny",
+          "avatar": "https://avatars.githubusercontent.com/u/81045"
+        },
+        {
+          "username": "wxiaoguang",
+          "href": "https://github.com/wxiaoguang",
+          "avatar": "https://avatars.githubusercontent.com/u/2114189"
+        },
+        {
+          "username": "unknwon",
+          "href": "https://github.com/unknwon",
+          "avatar": "https://avatars.githubusercontent.com/u/2946214"
+        },
+        {
+          "username": "GiteaBot",
+          "href": "https://github.com/GiteaBot",
+          "avatar": "https://avatars.githubusercontent.com/u/24582011"
+        },
+        {
+          "username": "silverwind",
+          "href": "https://github.com/silverwind",
+          "avatar": "https://avatars.githubusercontent.com/u/115237"
+        }
+      ]
+    },
+    {
+      "author": "etcd-io",
+      "repo": "etcd",
+      "avatar": "https://github.com/etcd-io.png",
+      "repo_link": "https://github.com/etcd-io/etcd",
+      "desc": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "lang": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 0,
+      "forks": 10598,
+      "added_stars": 541,
+      "builtBy": [
+        {
+          "username": "gyuho",
+          "href": "https://github.com/gyuho",
+          "avatar": "https://avatars.githubusercontent.com/u/6799218"
+        },
+        {
+          "username": "ahrtr",
+          "href": "https://github.com/ahrtr",
+          "avatar": "https://avatars.githubusercontent.com/u/30739825"
+        },
+        {
+          "username": "xiang90",
+          "href": "https://github.com/xiang90",
+          "avatar": "https://avatars.githubusercontent.com/u/4479947"
+        },
+        {
+          "username": "serathius",
+          "href": "https://github.com/serathius",
+          "avatar": "https://avatars.githubusercontent.com/u/5873433"
+        },
+        {
+          "username": "yichengq",
+          "href": "https://github.com/yichengq",
+          "avatar": "https://avatars.githubusercontent.com/u/2976232"
+        }
+      ]
+    },
+    {
+      "author": "tailscale",
+      "repo": "tailscale",
+      "avatar": "https://github.com/tailscale.png",
+      "repo_link": "https://github.com/tailscale/tailscale",
+      "desc": "The easiest, most secure way to use WireGuard and 2FA.",
+      "lang": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 0,
+      "forks": 3481,
+      "added_stars": 1722,
+      "builtBy": [
+        {
+          "username": "bradfitz",
+          "href": "https://github.com/bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621"
+        },
+        {
+          "username": "danderson",
+          "href": "https://github.com/danderson",
+          "avatar": "https://avatars.githubusercontent.com/u/1918"
+        },
+        {
+          "username": "josharian",
+          "href": "https://github.com/josharian",
+          "avatar": "https://avatars.githubusercontent.com/u/67496"
+        },
+        {
+          "username": "raggi",
+          "href": "https://github.com/raggi",
+          "avatar": "https://avatars.githubusercontent.com/u/348"
+        },
+        {
+          "username": "andrew-d",
+          "href": "https://github.com/andrew-d",
+          "avatar": "https://avatars.githubusercontent.com/u/1079173"
+        }
+      ]
+    },
+    {
+      "author": "php",
+      "repo": "frankenphp",
+      "avatar": "https://github.com/php.png",
+      "repo_link": "https://github.com/php/frankenphp",
+      "desc": "🧟 The modern PHP app server",
+      "lang": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 0,
+      "forks": 515,
+      "added_stars": 147,
+      "builtBy": [
+        {
+          "username": "dunglas",
+          "href": "https://github.com/dunglas",
+          "avatar": "https://avatars.githubusercontent.com/u/57224"
+        },
+        {
+          "username": "henderkes",
+          "href": "https://github.com/henderkes",
+          "avatar": "https://avatars.githubusercontent.com/u/7896469"
+        },
+        {
+          "username": "alexandre-daubois",
+          "href": "https://github.com/alexandre-daubois",
+          "avatar": "https://avatars.githubusercontent.com/u/2144837"
+        },
+        {
+          "username": "AlliBalliBaba",
+          "href": "https://github.com/AlliBalliBaba",
+          "avatar": "https://avatars.githubusercontent.com/u/45872305"
+        },
+        {
+          "username": "withinboredom",
+          "href": "https://github.com/withinboredom",
+          "avatar": "https://avatars.githubusercontent.com/u/1883296"
+        }
+      ]
+    },
+    {
+      "author": "superplanehq",
+      "repo": "superplane",
+      "avatar": "https://github.com/superplanehq.png",
+      "repo_link": "https://github.com/superplanehq/superplane",
+      "desc": "Open source factory for one-shot engineering",
+      "lang": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 0,
+      "forks": 708,
+      "added_stars": 2521,
+      "builtBy": [
+        {
+          "username": "forestileao",
+          "href": "https://github.com/forestileao",
+          "avatar": "https://avatars.githubusercontent.com/u/60622592"
+        },
+        {
+          "username": "shiroyasha",
+          "href": "https://github.com/shiroyasha",
+          "avatar": "https://avatars.githubusercontent.com/u/1779493"
+        },
+        {
+          "username": "cursoragent",
+          "href": "https://github.com/cursoragent",
+          "avatar": "https://avatars.githubusercontent.com/u/199161495"
+        },
+        {
+          "username": "lucaspin",
+          "href": "https://github.com/lucaspin",
+          "avatar": "https://avatars.githubusercontent.com/u/12387728"
+        },
+        {
+          "username": "superplaneagent",
+          "href": "https://github.com/superplaneagent",
+          "avatar": "https://avatars.githubusercontent.com/u/307978323"
+        }
+      ]
+    },
+    {
+      "author": "traefik",
+      "repo": "traefik",
+      "avatar": "https://github.com/traefik.png",
+      "repo_link": "https://github.com/traefik/traefik",
+      "desc": "The Cloud Native Application Proxy",
+      "lang": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 0,
+      "forks": 6315,
+      "added_stars": 510,
+      "builtBy": [
+        {
+          "username": "ldez",
+          "href": "https://github.com/ldez",
+          "avatar": "https://avatars.githubusercontent.com/u/5674651"
+        },
+        {
+          "username": "emilevauge",
+          "href": "https://github.com/emilevauge",
+          "avatar": "https://avatars.githubusercontent.com/u/6207234"
+        },
+        {
+          "username": "rtribotte",
+          "href": "https://github.com/rtribotte",
+          "avatar": "https://avatars.githubusercontent.com/u/13045437"
+        },
+        {
+          "username": "kevinpollet",
+          "href": "https://github.com/kevinpollet",
+          "avatar": "https://avatars.githubusercontent.com/u/299142"
+        },
+        {
+          "username": "mmatur",
+          "href": "https://github.com/mmatur",
+          "avatar": "https://avatars.githubusercontent.com/u/1776972"
         }
       ]
     }
@@ -1596,36 +1418,211 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
   "language": "python",
   "items": [
     {
-      "author": "NousResearch",
-      "repo": "hermes-agent",
-      "avatar": "https://github.com/NousResearch.png",
-      "repo_link": "https://github.com/NousResearch/hermes-agent",
-      "desc": "The agent that grows with you",
+      "author": "HKUDS",
+      "repo": "DeepTutor",
+      "avatar": "https://github.com/HKUDS.png",
+      "repo_link": "https://github.com/HKUDS/DeepTutor",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "lang": "Python",
       "languageColor": "#3572A5",
       "stars": 0,
-      "forks": 18050,
-      "added_stars": 106290,
+      "forks": 7161,
+      "added_stars": 17913,
       "builtBy": [
         {
-          "username": "teknium1",
-          "href": "https://github.com/teknium1",
-          "avatar": "https://avatars.githubusercontent.com/u/127238744"
+          "username": "pancacake",
+          "href": "https://github.com/pancacake",
+          "avatar": "https://avatars.githubusercontent.com/u/150592536"
         },
         {
-          "username": "OutThisLife",
-          "href": "https://github.com/OutThisLife",
-          "avatar": "https://avatars.githubusercontent.com/u/770929"
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "0xbyt4",
-          "href": "https://github.com/0xbyt4",
-          "avatar": "https://avatars.githubusercontent.com/u/35742124"
+          "username": "Pinkllow",
+          "href": "https://github.com/Pinkllow",
+          "avatar": "https://avatars.githubusercontent.com/u/272976591"
         },
         {
-          "username": "kshitijk4poor",
-          "href": "https://github.com/kshitijk4poor",
-          "avatar": "https://avatars.githubusercontent.com/u/82637225"
+          "username": "evan188199-tech",
+          "href": "https://github.com/evan188199-tech",
+          "avatar": "https://avatars.githubusercontent.com/u/238371241"
+        }
+      ]
+    },
+    {
+      "author": "anthropics",
+      "repo": "skills",
+      "avatar": "https://github.com/anthropics.png",
+      "repo_link": "https://github.com/anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 22850,
+      "added_stars": 13734,
+      "builtBy": [
+        {
+          "username": "rlancemartin",
+          "href": "https://github.com/rlancemartin",
+          "avatar": "https://avatars.githubusercontent.com/u/122662504"
+        },
+        {
+          "username": "klazuka",
+          "href": "https://github.com/klazuka",
+          "avatar": "https://avatars.githubusercontent.com/u/84525"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "cj-ant",
+          "href": "https://github.com/cj-ant",
+          "avatar": "https://avatars.githubusercontent.com/u/286490957"
+        },
+        {
+          "username": "ericharmeling",
+          "href": "https://github.com/ericharmeling",
+          "avatar": "https://avatars.githubusercontent.com/u/27286675"
+        }
+      ]
+    },
+    {
+      "author": "AgriciDaniel",
+      "repo": "claude-seo",
+      "avatar": "https://github.com/AgriciDaniel.png",
+      "repo_link": "https://github.com/AgriciDaniel/claude-seo",
+      "desc": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 3705,
+      "added_stars": 10190,
+      "builtBy": [
+        {
+          "username": "AgriciDaniel",
+          "href": "https://github.com/AgriciDaniel",
+          "avatar": "https://avatars.githubusercontent.com/u/223140489"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "rudycelekli",
+          "href": "https://github.com/rudycelekli",
+          "avatar": "https://avatars.githubusercontent.com/u/47457359"
+        },
+        {
+          "username": "Nordalux",
+          "href": "https://github.com/Nordalux",
+          "avatar": "https://avatars.githubusercontent.com/u/129338099"
+        }
+      ]
+    },
+    {
+      "author": "debpalash",
+      "repo": "VoiceStudio",
+      "avatar": "https://github.com/debpalash.png",
+      "repo_link": "https://github.com/debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 12204,
+      "added_stars": 48848,
+      "builtBy": [
+        {
+          "username": "debpalash",
+          "href": "https://github.com/debpalash",
+          "avatar": "https://avatars.githubusercontent.com/u/4178343"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "velixio",
+          "href": "https://github.com/velixio",
+          "avatar": "https://avatars.githubusercontent.com/u/270455167"
+        },
+        {
+          "username": "kevin9327",
+          "href": "https://github.com/kevin9327",
+          "avatar": "https://avatars.githubusercontent.com/u/5299031"
+        },
+        {
+          "username": "rudycelekli",
+          "href": "https://github.com/rudycelekli",
+          "avatar": "https://avatars.githubusercontent.com/u/47457359"
+        }
+      ]
+    },
+    {
+      "author": "anthropics",
+      "repo": "knowledge-work-plugins",
+      "avatar": "https://github.com/anthropics.png",
+      "repo_link": "https://github.com/anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 3950,
+      "added_stars": 6311,
+      "builtBy": [
+        {
+          "username": "jordanecker-ant",
+          "href": "https://github.com/jordanecker-ant",
+          "avatar": "https://avatars.githubusercontent.com/u/305637556"
+        },
+        {
+          "username": "bryan-anthropic",
+          "href": "https://github.com/bryan-anthropic",
+          "avatar": "https://avatars.githubusercontent.com/u/238056179"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "mattpic-ant",
+          "href": "https://github.com/mattpic-ant",
+          "avatar": "https://avatars.githubusercontent.com/u/227474486"
+        }
+      ]
+    },
+    {
+      "author": "anthropics",
+      "repo": "claude-plugins-official",
+      "avatar": "https://github.com/anthropics.png",
+      "repo_link": "https://github.com/anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 4901,
+      "added_stars": 9580,
+      "builtBy": [
+        {
+          "username": "mhegazy",
+          "href": "https://github.com/mhegazy",
+          "avatar": "https://avatars.githubusercontent.com/u/8000722"
+        },
+        {
+          "username": "jordanecker-ant",
+          "href": "https://github.com/jordanecker-ant",
+          "avatar": "https://avatars.githubusercontent.com/u/305637556"
+        },
+        {
+          "username": "bryan-anthropic",
+          "href": "https://github.com/bryan-anthropic",
+          "avatar": "https://avatars.githubusercontent.com/u/238056179"
         },
         {
           "username": "claude",
@@ -1635,60 +1632,104 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       ]
     },
     {
-      "author": "shiyu-coder",
-      "repo": "Kronos",
-      "avatar": "https://github.com/shiyu-coder.png",
-      "repo_link": "https://github.com/shiyu-coder/Kronos",
-      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "author": "AstrBotDevs",
+      "repo": "AstrBot",
+      "avatar": "https://github.com/AstrBotDevs.png",
+      "repo_link": "https://github.com/AstrBotDevs/AstrBot",
+      "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "lang": "Python",
       "languageColor": "#3572A5",
       "stars": 0,
-      "forks": 3853,
-      "added_stars": 10523,
+      "forks": 3562,
+      "added_stars": 5279,
       "builtBy": [
         {
-          "username": "shiyu-coder",
-          "href": "https://github.com/shiyu-coder",
-          "avatar": "https://avatars.githubusercontent.com/u/65760973"
+          "username": "Soulter",
+          "href": "https://github.com/Soulter",
+          "avatar": "https://avatars.githubusercontent.com/u/37870767"
         },
         {
-          "username": "Luciferbobo",
-          "href": "https://github.com/Luciferbobo",
-          "avatar": "https://avatars.githubusercontent.com/u/54936491"
+          "username": "Raven95676",
+          "href": "https://github.com/Raven95676",
+          "avatar": "https://avatars.githubusercontent.com/u/176760093"
         },
         {
-          "username": "CharlesJ-ABu",
-          "href": "https://github.com/CharlesJ-ABu",
-          "avatar": "https://avatars.githubusercontent.com/u/18326516"
+          "username": "RC-CHN",
+          "href": "https://github.com/RC-CHN",
+          "avatar": "https://avatars.githubusercontent.com/u/67079377"
         },
         {
-          "username": "AnMakc",
-          "href": "https://github.com/AnMakc",
-          "avatar": "https://avatars.githubusercontent.com/u/1777564"
+          "username": "zouyonghe",
+          "href": "https://github.com/zouyonghe",
+          "avatar": "https://avatars.githubusercontent.com/u/62183434"
         },
         {
-          "username": "randyy179",
-          "href": "https://github.com/randyy179",
-          "avatar": "https://avatars.githubusercontent.com/u/129808685"
+          "username": "anka-afk",
+          "href": "https://github.com/anka-afk",
+          "avatar": "https://avatars.githubusercontent.com/u/110004162"
         }
       ]
     },
     {
-      "author": "Fincept-Corporation",
-      "repo": "FinceptTerminal",
-      "avatar": "https://github.com/Fincept-Corporation.png",
-      "repo_link": "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "author": "D4Vinci",
+      "repo": "Scrapling",
+      "avatar": "https://github.com/D4Vinci.png",
+      "repo_link": "https://github.com/D4Vinci/Scrapling",
+      "desc": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "lang": "Python",
       "languageColor": "#3572A5",
       "stars": 0,
-      "forks": 2243,
-      "added_stars": 13159,
+      "forks": 10680,
+      "added_stars": 15639,
       "builtBy": [
         {
-          "username": "tilakpatel22",
-          "href": "https://github.com/tilakpatel22",
-          "avatar": "https://avatars.githubusercontent.com/u/66294702"
+          "username": "D4Vinci",
+          "href": "https://github.com/D4Vinci",
+          "avatar": "https://avatars.githubusercontent.com/u/20604835"
+        },
+        {
+          "username": "yetval",
+          "href": "https://github.com/yetval",
+          "avatar": "https://avatars.githubusercontent.com/u/102706514"
+        },
+        {
+          "username": "AbdullahY36",
+          "href": "https://github.com/AbdullahY36",
+          "avatar": "https://avatars.githubusercontent.com/u/52079299"
+        },
+        {
+          "username": "SulimanAbdulrazzaq",
+          "href": "https://github.com/SulimanAbdulrazzaq",
+          "avatar": "https://avatars.githubusercontent.com/u/144490671"
+        },
+        {
+          "username": "codex",
+          "href": "https://github.com/codex",
+          "avatar": "https://avatars.githubusercontent.com/u/267193182"
+        }
+      ]
+    },
+    {
+      "author": "NVIDIA",
+      "repo": "SkillSpector",
+      "avatar": "https://github.com/NVIDIA.png",
+      "repo_link": "https://github.com/NVIDIA/SkillSpector",
+      "desc": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 2300,
+      "added_stars": 5808,
+      "builtBy": [
+        {
+          "username": "yashrajp22",
+          "href": "https://github.com/yashrajp22",
+          "avatar": "https://avatars.githubusercontent.com/u/282666402"
+        },
+        {
+          "username": "rng1995",
+          "href": "https://github.com/rng1995",
+          "avatar": "https://avatars.githubusercontent.com/u/32655573"
         },
         {
           "username": "claude",
@@ -1696,14 +1737,252 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
           "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "Jaimin-ptl07",
-          "href": "https://github.com/Jaimin-ptl07",
-          "avatar": "https://avatars.githubusercontent.com/u/92565248"
+          "username": "keshprad",
+          "href": "https://github.com/keshprad",
+          "avatar": "https://avatars.githubusercontent.com/u/32313895"
+        }
+      ]
+    },
+    {
+      "author": "666ghj",
+      "repo": "MiroFish",
+      "avatar": "https://github.com/666ghj.png",
+      "repo_link": "https://github.com/666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 12975,
+      "added_stars": 6983,
+      "builtBy": [
+        {
+          "username": "666ghj",
+          "href": "https://github.com/666ghj",
+          "avatar": "https://avatars.githubusercontent.com/u/110395318"
         },
         {
-          "username": "rudrasheth",
-          "href": "https://github.com/rudrasheth",
-          "avatar": "https://avatars.githubusercontent.com/u/170165924"
+          "username": "Ghostubborn",
+          "href": "https://github.com/Ghostubborn",
+          "avatar": "https://avatars.githubusercontent.com/u/15389158"
+        },
+        {
+          "username": "harshitanand",
+          "href": "https://github.com/harshitanand",
+          "avatar": "https://avatars.githubusercontent.com/u/8389627"
+        }
+      ]
+    },
+    {
+      "author": "fastapi",
+      "repo": "fastapi",
+      "avatar": "https://github.com/fastapi.png",
+      "repo_link": "https://github.com/fastapi/fastapi",
+      "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 10248,
+      "added_stars": 2627,
+      "builtBy": [
+        {
+          "username": "tiangolo",
+          "href": "https://github.com/tiangolo",
+          "avatar": "https://avatars.githubusercontent.com/u/1326112"
+        },
+        {
+          "username": "YuriiMotov",
+          "href": "https://github.com/YuriiMotov",
+          "avatar": "https://avatars.githubusercontent.com/u/109919500"
+        }
+      ]
+    },
+    {
+      "author": "The-PR-Agent",
+      "repo": "pr-agent",
+      "avatar": "https://github.com/The-PR-Agent.png",
+      "repo_link": "https://github.com/The-PR-Agent/pr-agent",
+      "desc": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 2193,
+      "added_stars": 2776,
+      "builtBy": [
+        {
+          "username": "mrT23",
+          "href": "https://github.com/mrT23",
+          "avatar": "https://avatars.githubusercontent.com/u/21198860"
+        },
+        {
+          "username": "PeterDaveHello",
+          "href": "https://github.com/PeterDaveHello",
+          "avatar": "https://avatars.githubusercontent.com/u/3691490"
+        },
+        {
+          "username": "IsmaelMartinez",
+          "href": "https://github.com/IsmaelMartinez",
+          "avatar": "https://avatars.githubusercontent.com/u/430992"
+        },
+        {
+          "username": "okotek",
+          "href": "https://github.com/okotek",
+          "avatar": "https://avatars.githubusercontent.com/u/4869233"
+        }
+      ]
+    },
+    {
+      "author": "HKUDS",
+      "repo": "CLI-Anything",
+      "avatar": "https://github.com/HKUDS.png",
+      "repo_link": "https://github.com/HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 5286,
+      "added_stars": 6843,
+      "builtBy": [
+        {
+          "username": "yuh-yang",
+          "href": "https://github.com/yuh-yang",
+          "avatar": "https://avatars.githubusercontent.com/u/43330997"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "AiMiDi",
+          "href": "https://github.com/AiMiDi",
+          "avatar": "https://avatars.githubusercontent.com/u/76622021"
+        },
+        {
+          "username": "omerarslan0",
+          "href": "https://github.com/omerarslan0",
+          "avatar": "https://avatars.githubusercontent.com/u/76780961"
+        },
+        {
+          "username": "hito0512",
+          "href": "https://github.com/hito0512",
+          "avatar": "https://avatars.githubusercontent.com/u/26110883"
+        }
+      ]
+    },
+    {
+      "author": "ahujasid",
+      "repo": "mcp-for-blender",
+      "avatar": "https://github.com/ahujasid.png",
+      "repo_link": "https://github.com/ahujasid/mcp-for-blender",
+      "desc": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 3128,
+      "added_stars": 3770,
+      "builtBy": [
+        {
+          "username": "ahujasid",
+          "href": "https://github.com/ahujasid",
+          "avatar": "https://avatars.githubusercontent.com/u/11807284"
+        },
+        {
+          "username": "ElgoogUdiab",
+          "href": "https://github.com/ElgoogUdiab",
+          "avatar": "https://avatars.githubusercontent.com/u/28426666"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "siddikisahil47",
+          "href": "https://github.com/siddikisahil47",
+          "avatar": "https://avatars.githubusercontent.com/u/134954614"
+        },
+        {
+          "username": "cursoragent",
+          "href": "https://github.com/cursoragent",
+          "avatar": "https://avatars.githubusercontent.com/u/199161495"
+        }
+      ]
+    },
+    {
+      "author": "harry0703",
+      "repo": "MoneyPrinterTurbo",
+      "avatar": "https://github.com/harry0703.png",
+      "repo_link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 22950,
+      "added_stars": 13471,
+      "builtBy": [
+        {
+          "username": "harry0703",
+          "href": "https://github.com/harry0703",
+          "avatar": "https://avatars.githubusercontent.com/u/4928832"
+        },
+        {
+          "username": "rudycelekli",
+          "href": "https://github.com/rudycelekli",
+          "avatar": "https://avatars.githubusercontent.com/u/47457359"
+        },
+        {
+          "username": "claude",
+          "href": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847"
+        },
+        {
+          "username": "c020627",
+          "href": "https://github.com/c020627",
+          "avatar": "https://avatars.githubusercontent.com/u/251123242"
+        },
+        {
+          "username": "tanishqbaweja",
+          "href": "https://github.com/tanishqbaweja",
+          "avatar": "https://avatars.githubusercontent.com/u/74068132"
+        }
+      ]
+    },
+    {
+      "author": "Comfy-Org",
+      "repo": "ComfyUI",
+      "avatar": "https://github.com/Comfy-Org.png",
+      "repo_link": "https://github.com/Comfy-Org/ComfyUI",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "lang": "Python",
+      "languageColor": "#3572A5",
+      "stars": 0,
+      "forks": 17496,
+      "added_stars": 9850,
+      "builtBy": [
+        {
+          "username": "comfyanonymous",
+          "href": "https://github.com/comfyanonymous",
+          "avatar": "https://avatars.githubusercontent.com/u/121283862"
+        },
+        {
+          "username": "bigcat88",
+          "href": "https://github.com/bigcat88",
+          "avatar": "https://avatars.githubusercontent.com/u/13381981"
+        },
+        {
+          "username": "pythongosssss",
+          "href": "https://github.com/pythongosssss",
+          "avatar": "https://avatars.githubusercontent.com/u/125205205"
+        },
+        {
+          "username": "comfyui-wiki",
+          "href": "https://github.com/comfyui-wiki",
+          "avatar": "https://avatars.githubusercontent.com/u/192523189"
+        },
+        {
+          "username": "rattus128",
+          "href": "https://github.com/rattus128",
+          "avatar": "https://avatars.githubusercontent.com/u/46076784"
         }
       ]
     },
@@ -1716,8 +1995,8 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
       "lang": "Python",
       "languageColor": "#3572A5",
       "stars": 0,
-      "forks": 3631,
-      "added_stars": 27117,
+      "forks": 5745,
+      "added_stars": 5483,
       "builtBy": [
         {
           "username": "luongnv89",
@@ -1740,67 +2019,28 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
           "avatar": "https://avatars.githubusercontent.com/u/5405744"
         },
         {
-          "username": "xiaolai",
-          "href": "https://github.com/xiaolai",
-          "avatar": "https://avatars.githubusercontent.com/u/152970"
+          "username": "lzw-git-all",
+          "href": "https://github.com/lzw-git-all",
+          "avatar": "https://avatars.githubusercontent.com/u/271938013"
         }
       ]
     },
     {
-      "author": "HKUDS",
-      "repo": "DeepTutor",
-      "avatar": "https://github.com/HKUDS.png",
-      "repo_link": "https://github.com/HKUDS/DeepTutor",
-      "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "author": "earthtojake",
+      "repo": "text-to-cad",
+      "avatar": "https://github.com/earthtojake.png",
+      "repo_link": "https://github.com/earthtojake/text-to-cad",
+      "desc": "Design physical products with AI",
       "lang": "Python",
       "languageColor": "#3572A5",
       "stars": 0,
-      "forks": 2974,
-      "added_stars": 11444,
+      "forks": 2497,
+      "added_stars": 6489,
       "builtBy": [
         {
-          "username": "pancacake",
-          "href": "https://github.com/pancacake",
-          "avatar": "https://avatars.githubusercontent.com/u/150592536"
-        },
-        {
-          "username": "tusharkhatriofficial",
-          "href": "https://github.com/tusharkhatriofficial",
-          "avatar": "https://avatars.githubusercontent.com/u/64004539"
-        },
-        {
-          "username": "scrrlt",
-          "href": "https://github.com/scrrlt",
-          "avatar": "https://avatars.githubusercontent.com/u/235653744"
-        },
-        {
-          "username": "RinZ27",
-          "href": "https://github.com/RinZ27",
-          "avatar": "https://avatars.githubusercontent.com/u/222222878"
-        }
-      ]
-    },
-    {
-      "author": "Alishahryar1",
-      "repo": "free-claude-code",
-      "avatar": "https://github.com/Alishahryar1.png",
-      "repo_link": "https://github.com/Alishahryar1/free-claude-code",
-      "desc": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 2322,
-      "added_stars": 14253,
-      "builtBy": [
-        {
-          "username": "Alishahryar1",
-          "href": "https://github.com/Alishahryar1",
-          "avatar": "https://avatars.githubusercontent.com/u/20476625"
-        },
-        {
-          "username": "cursoragent",
-          "href": "https://github.com/cursoragent",
-          "avatar": "https://avatars.githubusercontent.com/u/199161495"
+          "username": "earthtojake",
+          "href": "https://github.com/earthtojake",
+          "avatar": "https://avatars.githubusercontent.com/u/10742417"
         },
         {
           "username": "claude",
@@ -1808,525 +2048,82 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
           "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "rishiskhare",
-          "href": "https://github.com/rishiskhare",
-          "avatar": "https://avatars.githubusercontent.com/u/30673002"
+          "username": "warun7",
+          "href": "https://github.com/warun7",
+          "avatar": "https://avatars.githubusercontent.com/u/143688508"
         }
       ]
     },
     {
-      "author": "microsoft",
-      "repo": "markitdown",
-      "avatar": "https://github.com/microsoft.png",
-      "repo_link": "https://github.com/microsoft/markitdown",
-      "desc": "Python tool for converting files and office documents to Markdown.",
+      "author": "pandas-dev",
+      "repo": "pandas",
+      "avatar": "https://github.com/pandas-dev.png",
+      "repo_link": "https://github.com/pandas-dev/pandas",
+      "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
       "lang": "Python",
       "languageColor": "#3572A5",
       "stars": 0,
-      "forks": 7771,
-      "added_stars": 25592,
+      "forks": 20737,
+      "added_stars": 1069,
       "builtBy": [
         {
-          "username": "afourney",
-          "href": "https://github.com/afourney",
-          "avatar": "https://avatars.githubusercontent.com/u/4017093"
+          "username": "jbrockmendel",
+          "href": "https://github.com/jbrockmendel",
+          "avatar": "https://avatars.githubusercontent.com/u/8078968"
         },
         {
-          "username": "gagb",
-          "href": "https://github.com/gagb",
-          "avatar": "https://avatars.githubusercontent.com/u/13227607"
+          "username": "jreback",
+          "href": "https://github.com/jreback",
+          "avatar": "https://avatars.githubusercontent.com/u/953992"
         },
         {
-          "username": "sugatoray",
-          "href": "https://github.com/sugatoray",
-          "avatar": "https://avatars.githubusercontent.com/u/10201242"
+          "username": "wesm",
+          "href": "https://github.com/wesm",
+          "avatar": "https://avatars.githubusercontent.com/u/329591"
         },
         {
-          "username": "PetrAPConsulting",
-          "href": "https://github.com/PetrAPConsulting",
-          "avatar": "https://avatars.githubusercontent.com/u/173082609"
+          "username": "mroeschke",
+          "href": "https://github.com/mroeschke",
+          "avatar": "https://avatars.githubusercontent.com/u/10647082"
         },
         {
-          "username": "l-lumin",
-          "href": "https://github.com/l-lumin",
-          "avatar": "https://avatars.githubusercontent.com/u/71011125"
+          "username": "jorisvandenbossche",
+          "href": "https://github.com/jorisvandenbossche",
+          "avatar": "https://avatars.githubusercontent.com/u/1020496"
         }
       ]
     },
     {
-      "author": "lsdefine",
-      "repo": "GenericAgent",
-      "avatar": "https://github.com/lsdefine.png",
-      "repo_link": "https://github.com/lsdefine/GenericAgent",
-      "desc": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "author": "elayadesign",
+      "repo": "ai-design-skills",
+      "avatar": "https://github.com/elayadesign.png",
+      "repo_link": "https://github.com/elayadesign/ai-design-skills",
+      "desc": "",
       "lang": "Python",
       "languageColor": "#3572A5",
       "stars": 0,
-      "forks": 902,
-      "added_stars": 6876,
+      "forks": 1188,
+      "added_stars": 12943,
       "builtBy": [
-        {
-          "username": "lsdefine",
-          "href": "https://github.com/lsdefine",
-          "avatar": "https://avatars.githubusercontent.com/u/3377819"
-        },
-        {
-          "username": "ViviqwerAsd",
-          "href": "https://github.com/ViviqwerAsd",
-          "avatar": "https://avatars.githubusercontent.com/u/90703326"
-        },
-        {
-          "username": "shenhao-stu",
-          "href": "https://github.com/shenhao-stu",
-          "avatar": "https://avatars.githubusercontent.com/u/65658684"
-        },
-        {
-          "username": "JinyiHan99",
-          "href": "https://github.com/JinyiHan99",
-          "avatar": "https://avatars.githubusercontent.com/u/154297799"
-        },
-        {
-          "username": "wjl2023",
-          "href": "https://github.com/wjl2023",
-          "avatar": "https://avatars.githubusercontent.com/u/126332148"
-        }
-      ]
-    },
-    {
-      "author": "microsoft",
-      "repo": "VibeVoice",
-      "avatar": "https://github.com/microsoft.png",
-      "repo_link": "https://github.com/microsoft/VibeVoice",
-      "desc": "Open-Source Frontier Voice AI",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 4916,
-      "added_stars": 18317,
-      "builtBy": [
-        {
-          "username": "YaoyaoChang",
-          "href": "https://github.com/YaoyaoChang",
-          "avatar": "https://avatars.githubusercontent.com/u/20237658"
-        },
-        {
-          "username": "MSLDCherryPick",
-          "href": "https://github.com/MSLDCherryPick",
-          "avatar": "https://avatars.githubusercontent.com/u/173002764"
-        },
-        {
-          "username": "pengzhiliang",
-          "href": "https://github.com/pengzhiliang",
-          "avatar": "https://avatars.githubusercontent.com/u/26346329"
-        },
-        {
-          "username": "jsoref",
-          "href": "https://github.com/jsoref",
-          "avatar": "https://avatars.githubusercontent.com/u/2119212"
-        }
-      ]
-    },
-    {
-      "author": "hugohe3",
-      "repo": "ppt-master",
-      "avatar": "https://github.com/hugohe3.png",
-      "repo_link": "https://github.com/hugohe3/ppt-master",
-      "desc": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed · by Hugo He",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 970,
-      "added_stars": 5540,
-      "builtBy": [
-        {
-          "username": "hugohe3",
-          "href": "https://github.com/hugohe3",
-          "avatar": "https://avatars.githubusercontent.com/u/188330578"
-        },
         {
           "username": "claude",
           "href": "https://github.com/claude",
           "avatar": "https://avatars.githubusercontent.com/u/81847"
         },
         {
-          "username": "shandianchengzi",
-          "href": "https://github.com/shandianchengzi",
-          "avatar": "https://avatars.githubusercontent.com/u/58585665"
+          "username": "elayadesign",
+          "href": "https://github.com/elayadesign",
+          "avatar": "https://avatars.githubusercontent.com/u/218383883"
         },
         {
-          "username": "scientificworld",
-          "href": "https://github.com/scientificworld",
-          "avatar": "https://avatars.githubusercontent.com/u/30764166"
+          "username": "kachar",
+          "href": "https://github.com/kachar",
+          "avatar": "https://avatars.githubusercontent.com/u/893608"
         },
         {
-          "username": "ximiximi423",
-          "href": "https://github.com/ximiximi423",
-          "avatar": "https://avatars.githubusercontent.com/u/217722657"
-        }
-      ]
-    },
-    {
-      "author": "google-research",
-      "repo": "timesfm",
-      "avatar": "https://github.com/google-research.png",
-      "repo_link": "https://github.com/google-research/timesfm",
-      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 1821,
-      "added_stars": 8665,
-      "builtBy": [
-        {
-          "username": "rajatsen91",
-          "href": "https://github.com/rajatsen91",
-          "avatar": "https://avatars.githubusercontent.com/u/8039264"
-        },
-        {
-          "username": "siriuz42",
-          "href": "https://github.com/siriuz42",
-          "avatar": "https://avatars.githubusercontent.com/u/5073569"
-        },
-        {
-          "username": "misha-chertushkin",
-          "href": "https://github.com/misha-chertushkin",
-          "avatar": "https://avatars.githubusercontent.com/u/151166456"
-        },
-        {
-          "username": "darkpowerxo",
-          "href": "https://github.com/darkpowerxo",
-          "avatar": "https://avatars.githubusercontent.com/u/1857776"
-        },
-        {
-          "username": "JustinGuese",
-          "href": "https://github.com/JustinGuese",
-          "avatar": "https://avatars.githubusercontent.com/u/9588843"
-        }
-      ]
-    },
-    {
-      "author": "virattt",
-      "repo": "ai-hedge-fund",
-      "avatar": "https://github.com/virattt.png",
-      "repo_link": "https://github.com/virattt/ai-hedge-fund",
-      "desc": "An AI Hedge Fund Team",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 10024,
-      "added_stars": 8132,
-      "builtBy": [
-        {
-          "username": "virattt",
-          "href": "https://github.com/virattt",
-          "avatar": "https://avatars.githubusercontent.com/u/901795"
-        },
-        {
-          "username": "arsaboo",
-          "href": "https://github.com/arsaboo",
-          "avatar": "https://avatars.githubusercontent.com/u/18319734"
-        },
-        {
-          "username": "KittatamSaisaard",
-          "href": "https://github.com/KittatamSaisaard",
-          "avatar": "https://avatars.githubusercontent.com/u/50354903"
-        },
-        {
-          "username": "jsemldonado",
-          "href": "https://github.com/jsemldonado",
-          "avatar": "https://avatars.githubusercontent.com/u/172995042"
-        },
-        {
-          "username": "ak4631",
-          "href": "https://github.com/ak4631",
-          "avatar": "https://avatars.githubusercontent.com/u/132299371"
-        }
-      ]
-    },
-    {
-      "author": "onyx-dot-app",
-      "repo": "onyx",
-      "avatar": "https://github.com/onyx-dot-app.png",
-      "repo_link": "https://github.com/onyx-dot-app/onyx",
-      "desc": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 3835,
-      "added_stars": 9960,
-      "builtBy": [
-        {
-          "username": "Weves",
-          "href": "https://github.com/Weves",
-          "avatar": "https://avatars.githubusercontent.com/u/25087905"
-        },
-        {
-          "username": "yuhongsun96",
-          "href": "https://github.com/yuhongsun96",
-          "avatar": "https://avatars.githubusercontent.com/u/32520769"
-        },
-        {
-          "username": "pablonyx",
-          "href": "https://github.com/pablonyx",
-          "avatar": "https://avatars.githubusercontent.com/u/171597620"
-        },
-        {
-          "username": "jmelahman",
-          "href": "https://github.com/jmelahman",
-          "avatar": "https://avatars.githubusercontent.com/u/23436978"
-        }
-      ]
-    },
-    {
-      "author": "AIDC-AI",
-      "repo": "Pixelle-Video",
-      "avatar": "https://github.com/AIDC-AI.png",
-      "repo_link": "https://github.com/AIDC-AI/Pixelle-Video",
-      "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 1166,
-      "added_stars": 3822,
-      "builtBy": [
-        {
-          "username": "puke3615",
-          "href": "https://github.com/puke3615",
-          "avatar": "https://avatars.githubusercontent.com/u/9640444"
-        },
-        {
-          "username": "lltt90511",
-          "href": "https://github.com/lltt90511",
-          "avatar": "https://avatars.githubusercontent.com/u/17017736"
-        },
-        {
-          "username": "AuroraChloe",
-          "href": "https://github.com/AuroraChloe",
-          "avatar": "https://avatars.githubusercontent.com/u/139871909"
-        },
-        {
-          "username": "xianshi-yyds",
-          "href": "https://github.com/xianshi-yyds",
-          "avatar": "https://avatars.githubusercontent.com/u/150135158"
-        },
-        {
-          "username": "strict235",
-          "href": "https://github.com/strict235",
-          "avatar": "https://avatars.githubusercontent.com/u/196629462"
-        }
-      ]
-    },
-    {
-      "author": "sherlock-project",
-      "repo": "sherlock",
-      "avatar": "https://github.com/sherlock-project.png",
-      "repo_link": "https://github.com/sherlock-project/sherlock",
-      "desc": "Hunt down social media accounts by username across social networks",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 9630,
-      "added_stars": 8639,
-      "builtBy": [
-        {
-          "username": "sdushantha",
-          "href": "https://github.com/sdushantha",
-          "avatar": "https://avatars.githubusercontent.com/u/27065646"
-        },
-        {
-          "username": "hoadlck",
-          "href": "https://github.com/hoadlck",
-          "avatar": "https://avatars.githubusercontent.com/u/1666888"
-        },
-        {
-          "username": "ppfeister",
-          "href": "https://github.com/ppfeister",
-          "avatar": "https://avatars.githubusercontent.com/u/33327613"
-        },
-        {
-          "username": "TheYahya",
-          "href": "https://github.com/TheYahya",
-          "avatar": "https://avatars.githubusercontent.com/u/15307244"
-        },
-        {
-          "username": "Czechball",
-          "href": "https://github.com/Czechball",
-          "avatar": "https://avatars.githubusercontent.com/u/13371865"
-        }
-      ]
-    },
-    {
-      "author": "alirezarezvani",
-      "repo": "claude-skills",
-      "avatar": "https://github.com/alirezarezvani.png",
-      "repo_link": "https://github.com/alirezarezvani/claude-skills",
-      "desc": "232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 1716,
-      "added_stars": 5654,
-      "builtBy": [
-        {
-          "username": "alirezarezvani",
-          "href": "https://github.com/alirezarezvani",
-          "avatar": "https://avatars.githubusercontent.com/u/5697919"
-        },
-        {
-          "username": "claude",
-          "href": "https://github.com/claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847"
-        },
-        {
-          "username": "olgasafonova",
-          "href": "https://github.com/olgasafonova",
-          "avatar": "https://avatars.githubusercontent.com/u/23409189"
-        },
-        {
-          "username": "fernandezbaptiste",
-          "href": "https://github.com/fernandezbaptiste",
-          "avatar": "https://avatars.githubusercontent.com/u/83458751"
-        },
-        {
-          "username": "ikala-shawn",
-          "href": "https://github.com/ikala-shawn",
-          "avatar": "https://avatars.githubusercontent.com/u/111341595"
-        }
-      ]
-    },
-    {
-      "author": "plastic-labs",
-      "repo": "honcho",
-      "avatar": "https://github.com/plastic-labs.png",
-      "repo_link": "https://github.com/plastic-labs/honcho",
-      "desc": "Memory library for building stateful agents",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 339,
-      "added_stars": 1832,
-      "builtBy": [
-        {
-          "username": "VVoruganti",
-          "href": "https://github.com/VVoruganti",
-          "avatar": "https://avatars.githubusercontent.com/u/13438633"
-        },
-        {
-          "username": "dr-frmr",
-          "href": "https://github.com/dr-frmr",
-          "avatar": "https://avatars.githubusercontent.com/u/93405247"
-        },
-        {
-          "username": "Rajat-Ahuja1997",
-          "href": "https://github.com/Rajat-Ahuja1997",
-          "avatar": "https://avatars.githubusercontent.com/u/16487421"
-        },
-        {
-          "username": "vintrocode",
-          "href": "https://github.com/vintrocode",
-          "avatar": "https://avatars.githubusercontent.com/u/77507980"
-        },
-        {
-          "username": "ajspig",
-          "href": "https://github.com/ajspig",
-          "avatar": "https://avatars.githubusercontent.com/u/46900795"
-        }
-      ]
-    },
-    {
-      "author": "HKUDS",
-      "repo": "RAG-Anything",
-      "avatar": "https://github.com/HKUDS.png",
-      "repo_link": "https://github.com/HKUDS/RAG-Anything",
-      "desc": "\"RAG-Anything: All-in-One RAG Framework\"",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 2183,
-      "added_stars": 4390,
-      "builtBy": [
-        {
-          "username": "LarFii",
-          "href": "https://github.com/LarFii",
-          "avatar": "https://avatars.githubusercontent.com/u/49157727"
-        },
-        {
-          "username": "Jah-yee",
-          "href": "https://github.com/Jah-yee",
-          "avatar": "https://avatars.githubusercontent.com/u/166608075"
-        },
-        {
-          "username": "chaohuang-ai",
-          "href": "https://github.com/chaohuang-ai",
-          "avatar": "https://avatars.githubusercontent.com/u/204865953"
-        },
-        {
-          "username": "LaansDole",
-          "href": "https://github.com/LaansDole",
-          "avatar": "https://avatars.githubusercontent.com/u/85084360"
-        },
-        {
-          "username": "hzywhite",
-          "href": "https://github.com/hzywhite",
-          "avatar": "https://avatars.githubusercontent.com/u/53216231"
-        }
-      ]
-    },
-    {
-      "author": "sansan0",
-      "repo": "TrendRadar",
-      "avatar": "https://github.com/sansan0.png",
-      "repo_link": "https://github.com/sansan0/TrendRadar",
-      "desc": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 23899,
-      "added_stars": 6043,
-      "builtBy": [
-        {
-          "username": "actions-user",
-          "href": "https://github.com/actions-user",
-          "avatar": "https://avatars.githubusercontent.com/u/65916846"
-        },
-        {
-          "username": "sansan0",
-          "href": "https://github.com/sansan0",
-          "avatar": "https://avatars.githubusercontent.com/u/77180927"
-        },
-        {
-          "username": "bing-h",
-          "href": "https://github.com/bing-h",
-          "avatar": "https://avatars.githubusercontent.com/u/9867881"
-        },
-        {
-          "username": "wtychn",
-          "href": "https://github.com/wtychn",
-          "avatar": "https://avatars.githubusercontent.com/u/48308484"
-        }
-      ]
-    },
-    {
-      "author": "microsoft",
-      "repo": "apm",
-      "avatar": "https://github.com/microsoft.png",
-      "repo_link": "https://github.com/microsoft/apm",
-      "desc": "Agent Package Manager",
-      "lang": "Python",
-      "languageColor": "#3572A5",
-      "stars": 0,
-      "forks": 148,
-      "added_stars": 1325,
-      "builtBy": [
-        {
-          "username": "danielmeppiel",
-          "href": "https://github.com/danielmeppiel",
-          "avatar": "https://avatars.githubusercontent.com/u/51440732"
-        },
-        {
-          "username": "sergio-sisternes-epam",
-          "href": "https://github.com/sergio-sisternes-epam",
-          "avatar": "https://avatars.githubusercontent.com/u/207026618"
+          "username": "devluiscavalcante",
+          "href": "https://github.com/devluiscavalcante",
+          "avatar": "https://avatars.githubusercontent.com/u/113953786"
         }
       ]
     }
@@ -2338,74 +2135,74 @@ node bin/main.js --json github -s monthly -l go ; node bin/main.js --json github
   "sort": "latest",
   "items": [
     {
-      "title": "Three Ways to Convert JSON to TypeScript. Only One Is Deterministic.",
-      "url": "https://aralroca.hashnode.dev/three-ways-to-convert-json-to-typescript-only-one-is-deterministic",
+      "title": "Dual JWT Authentication: Security, Redis, and Trade-Offs",
+      "url": "https://www.jstools.space/blog/dual-jwt-authentication/",
       "upvotes": "1",
       "comments": "0",
-      "created": "2026-04-27T22:03:24.000Z"
+      "created": "2026-11-07T23:57:17.000Z"
     },
     {
-      "title": "One PR to a parser unlocked prerendering in Brisa",
-      "url": "https://aralroca.hashnode.dev/one-pr-to-a-parser-unlocked-prerendering-in-brisa",
+      "title": "pathmask matches relative paths against patterns in the syntax of .gitignore",
+      "url": "https://github.com/webdiscus/pathmask",
+      "upvotes": "1",
+      "comments": "0",
+      "created": "2026-11-07T17:59:41.000Z"
+    },
+    {
+      "title": "Announcing Parcel 3 Alpha",
+      "url": "https://v3.parceljs.org/blog/v3-alpha/?ck_subscriber_id=2125261785",
       "upvotes": "1",
       "comments": "1",
-      "created": "2026-04-23T20:40:05.000Z"
+      "created": "2026-11-06T22:46:50.000Z"
     },
     {
-      "title": "Honker - PosgtreSQL style NOTIFY/LISTEN with SQLite (Node/Bun Libraries)",
-      "url": "https://github.com/russellromney/honker",
-      "upvotes": "1",
-      "comments": "1",
-      "created": "2026-04-23T16:03:07.000Z"
-    },
-    {
-      "title": "A Powerful Node.JS CLI Time Tracker",
-      "url": "https://datsusara.hashnode.dev/a-powerful-node-js-cli-time-tracker",
-      "upvotes": "1",
-      "comments": "1",
-      "created": "2026-04-23T08:04:17.000Z"
-    },
-    {
-      "title": "Getting started with antivirus scanning in Node.js (5 minutes)",
-      "url": "https://pompelmi.app/blog/nodejs-antivirus-getting-started.html",
-      "upvotes": "1",
-      "comments": "1",
-      "created": "2026-04-21T07:52:34.000Z"
-    },
-    {
-      "title": "WebBlackbox - A flight recorder and time-travel debugger for web apps",
-      "url": "https://github.com/webllm/webblackbox",
+      "title": "Goyangi: watch what Claude Code is doing, live: every step, tool call, subagent, token and cost in a side panel",
+      "url": "https://github.com/netil/goyangi",
       "upvotes": "2",
       "comments": "0",
-      "created": "2026-04-20T16:18:41.000Z"
+      "created": "2026-11-05T12:48:22.000Z"
     },
     {
-      "title": "Why I don't chain everything in JavaScript anymore",
-      "url": "https://allthingssmitty.com/2026/04/20/why-i-dont-chain-everything-in-javascript-anymore/",
-      "upvotes": "1",
-      "comments": "1",
-      "created": "2026-04-20T12:58:41.000Z"
-    },
-    {
-      "title": "I got tired of wiring the same caching stack every project, so I built LayerCache",
-      "url": "https://dev.to/flyingsquirrel0419/i-got-tired-of-wiring-the-same-caching-stack-every-project-so-i-built-layercache-52e2",
+      "title": "We Migrated 10,144 Tests from Jest to Vitest in 3 Weeks: The Honest, AI-Assisted Truth",
+      "url": "https://dev.to/subito/we-migrated-10144-tests-from-jest-to-vitest-in-3-weeks-the-honest-ai-assisted-truth-527",
       "upvotes": "2",
       "comments": "0",
-      "created": "2026-04-19T17:20:09.000Z"
+      "created": "2026-11-02T11:41:57.000Z"
     },
     {
-      "title": "Letting Product Teams Own SVG Icons (Without Code Changes)",
-      "url": "https://dev.to/subito/letting-product-teams-own-svg-icons-without-code-changes-5hll",
-      "upvotes": "2",
-      "comments": "2",
-      "created": "2026-04-15T05:20:29.000Z"
-    },
-    {
-      "title": "New Vue UI components from SVAR: 30+ controls, edit forms, and filtering widgets",
-      "url": "https://svar.dev/blog/svar-vue-components-released/",
+      "title": "Repo-Atlas - Any GitHub user’s work, mapped and clustered, with stale favorites flagged.",
+      "url": "https://github.com/evoluteur/repo-atlas",
       "upvotes": "1",
       "comments": "0",
-      "created": "2026-04-13T13:48:02.000Z"
+      "created": "2026-10-22T01:27:11.000Z"
+    },
+    {
+      "title": "EchoJS Meta: I'm Going Home",
+      "url": "text://Hi all, I know I've been pretty absent the past few months.  I've been in two separate extended hospital stays over the past few months.  I'm going home now and looking forward to getting more involved again. \n\nAside, if anyone has it knows of open, real developer positions in the US for fully remote work, please reach out. \n\ntracker1 at Gmail.",
+      "upvotes": "5",
+      "comments": "3",
+      "created": "2026-10-21T21:56:10.000Z"
+    },
+    {
+      "title": "SVAR Gantt v2.8 for React, Svelte, Vue: upgraded scheduling engine & live updates",
+      "url": "https://svar.dev/blog/svar-gantt-2-8-released/",
+      "upvotes": "1",
+      "comments": "0",
+      "created": "2026-10-21T08:31:06.000Z"
+    },
+    {
+      "title": "Vovk.ts – Turn Next.js route handlers into MCP tools and typed clients",
+      "url": "https://vovk.dev",
+      "upvotes": "1",
+      "comments": "0",
+      "created": "2026-10-20T19:29:00.000Z"
+    },
+    {
+      "title": "Full port of CossUI components to Svelte",
+      "url": "https://cossui-svelte.com/",
+      "upvotes": "2",
+      "comments": "0",
+      "created": "2026-10-20T17:00:56.000Z"
     }
   ]
 }
@@ -2429,104 +2226,104 @@ node bin/main.js --json devto -s top -c 10 ; node bin/main.js --json lobsters -s
   "sort": "top",
   "items": [
     {
-      "title": "Meme Monday",
-      "description": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "url": "https://dev.to/ben/meme-monday-98e",
-      "tags": "discuss, jokes, watercooler",
-      "reactions": 21,
-      "comments": 20,
-      "reading_time": 1,
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
+      "description": "The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...",
+      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok",
+      "tags": "devchallenge, hf26challenge, hacktoberfest, ai",
+      "reactions": 71,
+      "comments": 34,
+      "reading_time": 4,
+      "author": "heyitsjem"
+    },
+    {
+      "title": "Long Live Rails",
+      "description": "When DHH took the stage at Rails World 2026 and talked openly about going \"pencils down\" on...",
+      "url": "https://dev.to/ben/long-live-rails-3p21",
+      "tags": "rails, ruby, rust, ai",
+      "reactions": 120,
+      "comments": 18,
+      "reading_time": 5,
       "author": "ben"
     },
     {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "description": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl",
-      "tags": "top7, discuss",
-      "reactions": 39,
-      "comments": 5,
-      "reading_time": 3,
-      "author": "jess"
+      "title": "Ultimate AI Roast! 😂😹",
+      "description": "I asked my favorite AI to Roast me. Thanks @trickell for this idea.   You need to try this with your...",
+      "url": "https://dev.to/annavi11arrea1/ultimate-ai-roast-168b",
+      "tags": "ai, webdev, claude, cli",
+      "reactions": 61,
+      "comments": 22,
+      "reading_time": 4,
+      "author": "annavi11arrea1"
     },
     {
-      "title": "Fine-Tune Any HuggingFace Model like Gemma on TPUs with TorchAX",
-      "description": "Learn how to fine-tune PyTorch HuggingFace models on Google TPUs using torchax and LoRA — no JAX rewrite needed. Includes evaluation, save/reload, and a Colab notebook.",
-      "url": "https://dev.to/gde/fine-tune-any-huggingface-model-like-gemma-on-tpus-with-torchax-5g21",
-      "tags": "machinelearning, pytorch, python, tutorial",
+      "title": "Can't Beat Free: Gemma 4 31B on AMD Token Lab, with a Local Chat Page and an ADK Agent",
+      "description": "AMD Token Lab is a free OpenAI-compatible API on AMD GPUs that comes with the AMD AI Developer Program. How to sign up, a local chat page that keeps the key off the browser, a terminal client, and a small ADK agent that calls Gemma 4 31B through it.",
+      "url": "https://dev.to/gde/cant-beat-free-gemma-4-31b-on-amd-token-lab-with-a-local-chat-page-and-an-adk-agent-c5b",
+      "tags": "gemma, amd, adk, ai",
+      "reactions": 19,
+      "comments": 12,
+      "reading_time": 9,
+      "author": "xbill"
+    },
+    {
+      "title": "Six Serving Engines on Four Accelerators: Gemma 4 E2B on an RTX 3050, a T4, an L4 and a TPU v5e",
+      "description": "The same Gemma 4 E2B, prompts, load sweep and GSM8K and BFCL questions through the same serving engines on an 8 GB RTX 3050, a Tesla T4, an NVIDIA L4 and one TPU v5e chip. Answers hold on every chip; vLLM with its drafter leads on all three GPUs, and SGLang-JAX leads on the TPU.",
+      "url": "https://dev.to/gde/six-serving-engines-on-four-accelerators-gemma-4-e2b-on-an-rtx-3050-a-t4-an-l4-and-a-tpu-v5e-1a0e",
+      "tags": "gemma, vllm, nvidia, tpu",
+      "reactions": 14,
+      "comments": 1,
+      "reading_time": 11,
+      "author": "xbill"
+    },
+    {
+      "title": "Scope WebMCP Tools to the Open React Workflow",
+      "description": "On the Events list, the browser discovered zero WebMCP tools. Opening an event draft exposed four....",
+      "url": "https://dev.to/gde/scope-webmcp-tools-to-the-open-react-workflow-262o",
+      "tags": "typescript, webmcp, webdev, react",
+      "reactions": 18,
+      "comments": 3,
+      "reading_time": 4,
+      "author": "raju_dandigam"
+    },
+    {
+      "title": "Make the most of your hackathon",
+      "description": "Every time I attend a conference like AI Engineer Code Summit, I wish I had a space to try what I...",
+      "url": "https://dev.to/thisisryanswift/make-the-most-of-your-hackathon-3914",
+      "tags": "aie, hackathon",
       "reactions": 8,
       "comments": 0,
-      "reading_time": 11,
-      "author": "ahmed_elnaggar"
-    },
-    {
-      "title": "What was your win this week!?",
-      "description": "👋👋👋👋  Looking back on your week -- what was something you're proud of?  All wins count -- big or...",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-8ep",
-      "tags": "discuss, weeklyretro",
-      "reactions": 52,
-      "comments": 86,
-      "reading_time": 1,
-      "author": "jess"
-    },
-    {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
-      "tags": "ai, agents, development, workspace",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 5,
-      "author": "feloy"
-    },
-    {
-      "title": "How to Remove Console.log from React Native Production Builds",
-      "description": "When building React Native apps, console.log is your best friend during development. But leaving it...",
-      "url": "https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d",
-      "tags": "reactnative, typescript, performance, mobile",
-      "reactions": 0,
-      "comments": 0,
       "reading_time": 2,
-      "author": "neeraj1005"
+      "author": "thisisryanswift"
     },
     {
-      "title": "ChatGPT 5.4 v/s Claude Opus 4.6: Which Model Should You use?",
-      "description": "GPT-5.4 wins on cost efficiency, native computer use, and speed for high-throughput pipelines. Claude...",
-      "url": "https://dev.to/devashishmamgain/chatgpt-54-vs-claude-opus-46-which-model-should-you-use-oln",
-      "tags": "ai, chatgpt, claude, llm",
-      "reactions": 0,
+      "title": "Keeping a software factory stable at 1,000 PRs a week",
+      "description": "By Zejiang (Joe) Guo, Bolin Chen, and Zezhen Xu. Originally published on Kiro on October 26,...",
+      "url": "https://dev.to/dailycontext/keeping-a-software-factory-stable-at-1000-prs-a-week-363j",
+      "tags": "agents, automation, devops, softwareengineering",
+      "reactions": 2,
+      "comments": 1,
+      "reading_time": 14,
+      "author": "iamwhatever"
+    },
+    {
+      "title": "From Prompt to Production: Building a Serverless Cloud Pipeline with Google Antigravity",
+      "description": "If you've watched an AI coding agent build a to-do app in two minutes, you've probably asked yourself...",
+      "url": "https://dev.to/gdg/from-prompt-to-production-building-a-serverless-cloud-pipeline-with-google-antigravity-264l",
+      "tags": "ai, googlecloud, serverless, tutorial",
+      "reactions": 8,
       "comments": 0,
       "reading_time": 10,
-      "author": "devashishmamgain"
+      "author": "duffigoogle"
     },
     {
-      "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
-      "description": "I spent some time this weekend noodling around with Github Copilot, using the copilot-cli tool.  A...",
-      "url": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
-      "tags": "ai, programming, githubcopilot",
-      "reactions": 3,
+      "title": "️🎞️ What is native multimodality?",
+      "description": "🍿 Just a moment #01    Did you know there are three tokenizers involved when Gemini...",
+      "url": "https://dev.to/googlecloud/what-is-native-multimodality-3091",
+      "tags": "llm, machinelearning, videos, justamoment",
+      "reactions": 5,
       "comments": 0,
-      "reading_time": 5,
-      "author": "drhyde"
-    },
-    {
-      "title": "Codemod for ignoring lint errors",
-      "description": "Meet my new codemod, ignore-lint-errors. It helps us ignore lint errors from eslint, stylelint, and...",
-      "url": "https://dev.to/ijlee2/codemod-for-ignoring-lint-errors-2j3g",
-      "tags": "javascript, ember, showdev, opensource",
-      "reactions": 0,
-      "comments": 1,
-      "reading_time": 2,
-      "author": "ijlee2"
-    },
-    {
-      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
-      "description": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.",
-      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
-      "tags": "backend, architecture",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 5,
-      "author": "toybz"
+      "reading_time": 1,
+      "author": "picardparis"
     }
   ]
 }
@@ -2537,115 +2334,112 @@ node bin/main.js --json devto -s top -c 10 ; node bin/main.js --json lobsters -s
   "tag": null,
   "items": [
     {
-      "title": "GTFOBins",
-      "url": "https://gtfobins.org/",
+      "title": "What happened to 3com?",
+      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "score": 2,
+      "comments": 0,
+      "tags": [
+        "hardware",
+        "historical",
+        "retrocomputing"
+      ],
+      "id": "pgmw6b"
+    },
+    {
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
       "score": 1,
       "comments": 0,
       "tags": [
-        "security"
+        "ai"
       ],
-      "id": "5wj0a2"
+      "id": "0aungk"
     },
     {
-      "title": "Donating to open source",
-      "url": "https://entropicthoughts.com/open-source-donation",
-      "score": 7,
-      "comments": 1,
-      "tags": [
-        "culture"
-      ],
-      "id": "rmujw3"
-    },
-    {
-      "title": "How I Broke the Anti-Bot Behind Nike, Kick, and Twitch",
-      "url": "https://emro.cat/blog/how-i-broke-the-anti-bot-behind-nike-kick-and-twitch/",
-      "score": 7,
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "score": 0,
       "comments": 0,
       "tags": [
-        "javascript",
-        "reversing",
-        "rust"
+        "ai"
       ],
-      "id": "jpohft"
+      "id": "u2h9as"
     },
     {
-      "title": "Fix Your Game's Input Latency",
-      "url": "https://www.youtube.com/watch?v=EM9utsGhaYs",
-      "score": 7,
-      "comments": 0,
-      "tags": [
-        "games",
-        "graphics",
-        "video"
-      ],
-      "id": "uy7ynl"
-    },
-    {
-      "title": "What Happens When You Build an Inode-Style Vector in Rust",
-      "url": "https://sot.dev/inode-style-vector-in-rust.html",
+      "title": "Writing a DSL for high performance parallel programming in OxCaml",
+      "url": "https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/",
       "score": 1,
       "comments": 0,
       "tags": [
         "performance",
-        "rust"
+        "plt"
       ],
-      "id": "bzlbzs"
+      "id": "kh9fri"
     },
     {
-      "title": "Compu-Global-Hyper-Mega-Net: A Retro Internet for Retro Computers (LFNW 2026)",
-      "url": "https://www.youtube.com/watch?v=cSJsGNIDjtc",
-      "score": 5,
+      "title": "Someone's impersonating this blog",
+      "url": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
+      "score": 15,
       "comments": 0,
       "tags": [
-        "networking",
-        "retrocomputing",
-        "video"
-      ],
-      "id": "hphnx4"
-    },
-    {
-      "title": "Using Rust to Build a $1 Handheld Gaming Console",
-      "url": "https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/",
-      "score": 9,
-      "comments": 1,
-      "tags": [
-        "rust"
-      ],
-      "id": "jl0d5b"
-    },
-    {
-      "title": "What's new in pip 26.1 - lockfiles and dependency cooldowns",
-      "url": "https://ichard26.github.io/blog/2026/04/whats-new-in-pip-26.1/",
-      "score": 9,
-      "comments": 0,
-      "tags": [
-        "python",
-        "release",
         "security"
       ],
-      "id": "w2oiaq"
+      "id": "wqml56"
     },
     {
-      "title": "Rick and Morty Tried to Warn Us About Agentic AI",
-      "url": "https://jadarma.github.io/blog/posts/2026/04/rick-and-morty-tried-to-warn-us-about-agentic-ai/",
-      "score": -1,
-      "comments": 2,
+      "title": "Don't bother patching: multiple remote code execution vulnerabilities in Danfoss AK-SM800A",
+      "url": "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a",
+      "score": 4,
+      "comments": 1,
       "tags": [
-        "satire",
-        "vibecoding"
+        "linux",
+        "security"
       ],
-      "id": "9xqbzk"
+      "id": "rpd05t"
     },
     {
-      "title": "The woes of sanitizing SVGs",
-      "url": "https://muffin.ink/blog/scratch-svg-sanitization/",
-      "score": 5,
-      "comments": 3,
+      "title": "Kildall's algorithm",
+      "url": "https://bike.github.io/posts/kildall.html",
+      "score": 9,
+      "comments": 0,
       "tags": [
-        "security",
+        "compilers",
+        "lisp"
+      ],
+      "id": "1nmzz6"
+    },
+    {
+      "title": "Pointer Provenance in Rust vs C++",
+      "url": "https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/",
+      "score": 9,
+      "comments": 0,
+      "tags": [
+        "c++",
+        "rust"
+      ],
+      "id": "xmtjzq"
+    },
+    {
+      "title": "Link Previews and You",
+      "url": "https://sable.moe/en/blog/link-previews-and-you/",
+      "score": 11,
+      "comments": 4,
+      "tags": [
+        "privacy",
         "web"
       ],
-      "id": "foxx1z"
+      "id": "0rmq2f"
+    },
+    {
+      "title": "Fixing a WebKit bug to see if promises are made of train tracks",
+      "url": "https://alistair.sh/thenables",
+      "score": 15,
+      "comments": 2,
+      "tags": [
+        "browsers",
+        "javascript"
+      ],
+      "id": "yxvn7j"
     }
   ]
 }
@@ -2654,417 +2448,523 @@ node bin/main.js --json devto -s top -c 10 ; node bin/main.js --json lobsters -s
   "source": "hackernews",
   "items": [
     {
-      "by": "StefanBatory",
-      "descendants": 5,
-      "id": 47931035,
+      "by": "cobychapple",
+      "descendants": 28,
+      "id": 50493062,
       "kids": [
-        47931239,
-        47931292,
-        47931211,
-        47931160
+        50494080,
+        50493523,
+        50493873,
+        50493787,
+        50494350,
+        50494448,
+        50494332,
+        50494309,
+        50493892,
+        50493697
       ],
-      "score": 44,
-      "time": 1777357659,
-      "title": "GTFOBins",
+      "score": 140,
+      "time": 1794623309,
+      "title": "Ggml v1.0.0",
       "type": "story",
-      "url": "https://gtfobins.org/"
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
     },
     {
-      "by": "jekude",
-      "descendants": 95,
-      "id": 47927903,
+      "by": "speckx",
+      "descendants": 149,
+      "id": 50493251,
       "kids": [
-        47931253,
-        47930782,
-        47930394,
-        47931275,
-        47930261,
-        47930714,
-        47930744,
-        47929230,
-        47929506,
-        47929169,
-        47930479,
-        47931087,
-        47931174,
-        47928886,
-        47929417,
-        47929046,
-        47928864,
-        47930526,
-        47929889,
-        47928949,
-        47930241,
-        47929317,
-        47928940,
-        47929190,
-        47929189,
-        47929828,
-        47929685,
-        47928917,
-        47928888,
-        47928987,
-        47930230
+        50494181,
+        50493598,
+        50494233,
+        50493773,
+        50494487,
+        50494429,
+        50493975,
+        50493945,
+        50493591,
+        50493861,
+        50494148,
+        50494467,
+        50494117,
+        50494515,
+        50494242,
+        50493560,
+        50494272,
+        50494346,
+        50494266,
+        50493839,
+        50493954,
+        50494104,
+        50493711,
+        50494443,
+        50494186,
+        50494198,
+        50493805,
+        50494333,
+        50494212,
+        50494158,
+        50493924,
+        50494000,
+        50494038,
+        50493467,
+        50493896,
+        50493871,
+        50494364
       ],
-      "score": 293,
-      "time": 1777326948,
-      "title": "Talkie: a 13B vintage language model from 1930",
+      "score": 294,
+      "time": 1794624779,
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
       "type": "story",
-      "url": "https://talkie-lm.com/introducing-talkie"
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
     },
     {
-      "by": "helsinkiandrew",
-      "descendants": 723,
-      "id": 47921248,
+      "by": "zulln",
+      "descendants": 1131,
+      "id": 50489641,
       "kids": [
-        47923805,
-        47921551,
-        47922120,
-        47922477,
-        47930160,
-        47925421,
-        47922022,
-        47925160,
-        47921511,
-        47926909,
-        47922383,
-        47921995,
-        47925637,
-        47921267,
-        47924759,
-        47925814,
-        47926814,
-        47930909,
-        47923581,
-        47921287,
-        47921840,
-        47921718,
-        47923395,
-        47922446,
-        47922454,
-        47923370,
-        47921772,
-        47921252,
-        47927373,
-        47926220,
-        47921769,
-        47925888,
-        47926174,
-        47929924,
-        47922058,
-        47924679,
-        47925907,
-        47928188,
-        47926708,
-        47924571,
-        47921711,
-        47929738,
-        47929394,
-        47925570,
-        47925286,
-        47922834,
-        47929268,
-        47929683,
-        47921662,
-        47925248,
-        47921886,
-        47923734,
-        47928218,
-        47924193,
-        47924796,
-        47921792,
-        47921854,
-        47926878,
-        47923995,
-        47921270,
-        47921797,
-        47930785,
-        47921285,
-        47929969,
-        47924062,
-        47921816,
-        47924123,
-        47923418,
-        47923649,
-        47921715,
-        47929862,
-        47921832,
-        47923796,
-        47924682,
-        47921499
+        50493456,
+        50491855,
+        50490819,
+        50492971,
+        50490711,
+        50490420,
+        50490698,
+        50490016,
+        50492603,
+        50490285,
+        50489883,
+        50490091,
+        50490095,
+        50490935,
+        50489849,
+        50491813,
+        50493385,
+        50490219,
+        50490211,
+        50492807,
+        50492746,
+        50490300,
+        50492068,
+        50492640,
+        50494178,
+        50491265,
+        50493367,
+        50490696,
+        50489908,
+        50492343,
+        50490071,
+        50490049,
+        50492619,
+        50493408,
+        50490241,
+        50490402,
+        50493849,
+        50491165,
+        50491167,
+        50490471,
+        50493226,
+        50492988,
+        50490432,
+        50491687,
+        50493196,
+        50493878,
+        50492092,
+        50494162,
+        50490635,
+        50490110,
+        50491017,
+        50490026,
+        50493397,
+        50491369,
+        50491039,
+        50492147,
+        50490079,
+        50490893,
+        50492372,
+        50490725,
+        50491069,
+        50490993,
+        50491012,
+        50493035,
+        50489861,
+        50491897,
+        50493104,
+        50490055,
+        50492998,
+        50490435,
+        50492724,
+        50491546,
+        50491601,
+        50491728,
+        50491342,
+        50490308,
+        50489997,
+        50490869,
+        50490043,
+        50492209,
+        50492276,
+        50491438,
+        50491693,
+        50491525,
+        50492483,
+        50490827,
+        50492020,
+        50490536,
+        50490681,
+        50490454,
+        50492607,
+        50491018,
+        50492578,
+        50491887,
+        50489950,
+        50490327,
+        50490680,
+        50491481,
+        50489707,
+        50490316,
+        50491180,
+        50490677,
+        50490704,
+        50491425,
+        50492903,
+        50490354,
+        50489879,
+        50493393,
+        50491163,
+        50490250,
+        50491314,
+        50490555,
+        50490679,
+        50490627,
+        50490487,
+        50490062,
+        50489885,
+        50492916,
+        50492155,
+        50491013,
+        50490876,
+        50489926,
+        50489982,
+        50489910,
+        50490194,
+        50492904,
+        50492703,
+        50490491,
+        50490449,
+        50492795,
+        50490744,
+        50492925,
+        50490917,
+        50492901,
+        50492762,
+        50492841,
+        50490385,
+        50493349,
+        50493597,
+        50492669,
+        50490503,
+        50492992,
+        50493054,
+        50492834,
+        50492421,
+        50493228,
+        50490137,
+        50491608,
+        50493949,
+        50492049,
+        50492996,
+        50490953,
+        50491913,
+        50489932,
+        50491480,
+        50490988,
+        50491319,
+        50492311,
+        50490654,
+        50494112,
+        50491323,
+        50490092,
+        50491162,
+        50490714,
+        50492582,
+        50491663,
+        50489944,
+        50492667,
+        50492906,
+        50491468,
+        50490186,
+        50491121,
+        50490418,
+        50491457,
+        50492424,
+        50490284,
+        50490705,
+        50490409,
+        50491950,
+        50490273,
+        50492663,
+        50493260,
+        50491519,
+        50490554,
+        50491286,
+        50490898,
+        50492957,
+        50490683,
+        50492781,
+        50489984,
+        50492401,
+        50493136,
+        50492138,
+        50490720,
+        50491630,
+        50491612,
+        50491441,
+        50491056,
+        50490923,
+        50490403,
+        50491351,
+        50490997,
+        50490692,
+        50490648,
+        50491957,
+        50491032,
+        50490999,
+        50491263,
+        50490970,
+        50490567,
+        50491148,
+        50490425,
+        50492211,
+        50490375,
+        50492363,
+        50491931,
+        50492426,
+        50489996,
+        50491188,
+        50490585,
+        50491214,
+        50491141,
+        50493201,
+        50490077,
+        50489940,
+        50490820,
+        50493050,
+        50489823,
+        50490193,
+        50490133,
+        50491147,
+        50492709,
+        50490562,
+        50493051,
+        50489942,
+        50493022,
+        50490441,
+        50490975,
+        50490369,
+        50492017,
+        50491547
       ],
-      "score": 847,
-      "text": "Gift Article: <a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-27&#x2F;microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NzI5NjE3MiwiZXhwIjoxNzc3OTAwOTcyLCJhcnRpY2xlSWQiOiJURTVMT0lLSzNOWUkwMCIsImJjb25uZWN0SWQiOiJDN0U3REM1Q0MxRTQ0NzM0QkY2MzYxQjY5QzgxN0UzMyJ9.mkOwEicK1kMLb-h6ZjkN4u-DsF55439rrFad0m1lqZM\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-27&#x2F;microsoft...</a><p><a href=\"https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;next-phase-of-microsoft-partnership&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;next-phase-of-microsoft-partnership...</a><p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;ajassy&#x2F;status&#x2F;2048806022253609115\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;ajassy&#x2F;status&#x2F;2048806022253609115</a>",
-      "time": 1777296162,
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "score": 1468,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.fly.faa.gov&#x2F;adv&#x2F;adv_otherdis?adv_date=11132026&amp;advn=111\" rel=\"nofollow\">https:&#x2F;&#x2F;www.fly.faa.gov&#x2F;adv&#x2F;adv_otherdis?adv_date=11132026&amp;a...</a><p><a href=\"https:&#x2F;&#x2F;www.fly.faa.gov&#x2F;adv&#x2F;adv_otherdis?adv_date=11142026&amp;advn=5\" rel=\"nofollow\">https:&#x2F;&#x2F;www.fly.faa.gov&#x2F;adv&#x2F;adv_otherdis?adv_date=11142026&amp;a...</a><p><a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;live&#x2F;2026&#x2F;11&#x2F;13&#x2F;us&#x2F;ground-stop-nationwide-flights-faa&#x2F;d2ae2ce1-ac6b-59ad-ad8d-daef4e181b34\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;live&#x2F;2026&#x2F;11&#x2F;13&#x2F;us&#x2F;ground-stop-natio...</a>",
+      "time": 1794603953,
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
       "type": "story",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai"
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
     },
     {
-      "by": "theogravity",
-      "descendants": 317,
-      "id": 47926861,
+      "by": "vinhnx",
+      "descendants": 81,
+      "id": 50491423,
       "kids": [
-        47928794,
-        47931268,
-        47927476,
-        47931278,
-        47927501,
-        47928484,
-        47927626,
-        47931129,
-        47930788,
-        47927696,
-        47928573,
-        47928521,
-        47927622,
-        47928014,
-        47929995,
-        47929441,
-        47931249,
-        47930894,
-        47930456,
-        47928130,
-        47928405,
-        47927599,
-        47927550,
-        47931096,
-        47927649,
-        47930597,
-        47930478,
-        47927625,
-        47927667,
-        47930194,
-        47927578,
-        47930745,
-        47929576,
-        47930457,
-        47927707,
-        47928951,
-        47928665,
-        47927597,
-        47928555,
-        47930253,
-        47928630,
-        47927651,
-        47929805,
-        47927889,
-        47928387,
-        47930879,
-        47929329,
-        47930516,
-        47927702,
-        47928991,
-        47927594,
-        47927887,
-        47927810,
-        47927534,
-        47928509,
-        47928448,
-        47928067,
-        47928091,
-        47931048,
-        47929807,
-        47930365,
-        47929483,
-        47928868,
-        47931119,
-        47928499,
-        47927941,
-        47927789,
-        47928181,
-        47928371,
-        47927711,
-        47928637,
-        47927802,
-        47928783,
-        47929253,
-        47927729,
-        47928778,
-        47929008,
-        47928048,
-        47928319,
-        47927809,
-        47927875,
-        47927933,
-        47928144,
-        47927610,
-        47930847,
-        47929013,
-        47929884,
-        47927631,
-        47927784,
-        47930256,
-        47928223,
-        47928169,
-        47930141,
-        47927742,
-        47928692,
-        47928679,
-        47928570,
-        47930583,
-        47928781,
-        47928154,
-        47928261,
-        47927701,
-        47929453,
-        47929645,
-        47927905,
-        47928746,
-        47930131,
-        47928477,
-        47928465,
-        47928358,
-        47928222,
-        47928096,
-        47927812,
-        47927688,
-        47930359
+        50491778,
+        50491720,
+        50492598,
+        50493761,
+        50493939,
+        50491626,
+        50494493,
+        50492587,
+        50493473,
+        50491642,
+        50493993,
+        50491858,
+        50492462,
+        50492673,
+        50494041,
+        50493702,
+        50492857,
+        50493328,
+        50492386,
+        50493428,
+        50493180,
+        50493319,
+        50492263,
+        50491755,
+        50493290,
+        50494143,
+        50493340,
+        50491727
       ],
-      "score": 474,
-      "time": 1777321473,
-      "title": "Is my blue your blue?",
+      "score": 177,
+      "time": 1794611200,
+      "title": "Terminal borders that don't cost a cell",
       "type": "story",
-      "url": "https://ismy.blue/"
+      "url": "https://www.joshka.net/cell-borders/"
     },
     {
-      "by": "luu",
-      "descendants": 2,
-      "id": 47899669,
+      "by": "Retro_Dev",
+      "descendants": 13,
+      "id": 50491980,
       "kids": [
-        47930786
+        50494524,
+        50493948,
+        50493615,
+        50494294,
+        50494089,
+        50493318,
+        50493020,
+        50493573
       ],
-      "score": 52,
-      "time": 1777104979,
-      "title": "Pgrx: Build Postgres Extensions with Rust",
+      "score": 84,
+      "time": 1794614764,
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
       "type": "story",
-      "url": "https://github.com/pgcentralfoundation/pgrx"
+      "url": "https://unsloth.ai/docs/models/qwen3.8"
     },
     {
-      "by": "blfr",
-      "descendants": 12,
-      "id": 47902269,
-      "kids": [
-        47929994,
-        47930044,
-        47930503,
-        47931031,
-        47929985,
-        47929973
-      ],
-      "score": 100,
-      "time": 1777131714,
-      "title": "Mo RAM, Mo Problems (2025)",
-      "type": "story",
-      "url": "https://fabiensanglard.net/curse/"
-    },
-    {
-      "by": "gnabgib",
+      "by": "gvsi",
       "descendants": 11,
-      "id": 47929035,
+      "id": 50491545,
       "kids": [
-        47930850,
-        47930357,
-        47929782,
-        47929926,
-        47931304,
-        47930653
+        50492774,
+        50492661,
+        50493215,
+        50493454,
+        50492496,
+        50492566
       ],
-      "score": 99,
-      "time": 1777336324,
-      "title": "High Performance Git",
+      "score": 106,
+      "time": 1794611859,
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
       "type": "story",
-      "url": "https://gitperf.com/"
+      "url": "https://grounds.top/"
     },
     {
-      "by": "gnabgib",
-      "descendants": 66,
-      "id": 47927070,
+      "by": "gvieri",
+      "descendants": 58,
+      "id": 50491830,
       "kids": [
-        47930549,
-        47927632,
-        47927876,
-        47930427,
-        47930278,
-        47927890,
-        47929903,
-        47929681,
-        47928248,
-        47928066
+        50492650,
+        50492199,
+        50493103,
+        50493145,
+        50493323,
+        50493057,
+        50493572,
+        50493320,
+        50492888,
+        50491917,
+        50492824,
+        50492306,
+        50492351,
+        50493122,
+        50492563,
+        50493822,
+        50493047,
+        50492174,
+        50492159
       ],
-      "score": 146,
-      "time": 1777322656,
-      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+      "score": 107,
+      "time": 1794613739,
+      "title": "What Happened to 3Com?",
       "type": "story",
-      "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/"
+      "url": "https://dfarq.homeip.net/what-happened-to-3com/"
     },
     {
-      "by": "nateb2022",
-      "descendants": 2,
-      "id": 47930170,
+      "by": "mmaunder",
+      "descendants": 56,
+      "id": 50490593,
       "kids": [
-        47931280,
-        47930546
+        50491176,
+        50491296,
+        50491113,
+        50491869,
+        50493630,
+        50491221,
+        50491177,
+        50491745,
+        50491149,
+        50490987,
+        50491996,
+        50491023,
+        50492425,
+        50491689,
+        50491977,
+        50491416,
+        50490972
       ],
-      "score": 22,
-      "time": 1777346860,
-      "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
+      "score": 246,
+      "time": 1794607464,
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
       "type": "story",
-      "url": "https://technology.robbyant.com/lingbot-map"
+      "url": "https://orcasairband.com/"
     },
     {
-      "by": "Oravys",
-      "descendants": 181,
-      "id": 47919630,
+      "by": "simonebrunozzi",
+      "descendants": 137,
+      "id": 50488325,
       "kids": [
-        47922388,
-        47919660,
-        47921246,
-        47922503,
-        47921406,
-        47922271,
-        47924381,
-        47928770,
-        47925528,
-        47921768,
-        47921812,
-        47922654,
-        47928246,
-        47923398,
-        47925971,
-        47921543,
-        47924203,
-        47923496,
-        47925195,
-        47923387,
-        47921348,
-        47924022,
-        47926164,
-        47921347,
-        47924108,
-        47921346,
-        47926724,
-        47921460,
-        47922520,
-        47922824,
-        47928739,
-        47928440,
-        47923123,
-        47921463,
-        47922399,
-        47922667,
-        47921646,
-        47930602,
-        47921364,
-        47928192,
-        47924106,
-        47923302
+        50488801,
+        50488870,
+        50488608,
+        50488747,
+        50489042,
+        50488748,
+        50493227,
+        50489151,
+        50489162,
+        50490114,
+        50489221,
+        50488832,
+        50489424,
+        50489625,
+        50492589,
+        50491982,
+        50491047,
+        50490192,
+        50492122,
+        50488678,
+        50490522,
+        50490948,
+        50489561,
+        50489071,
+        50489330,
+        50489337
       ],
-      "score": 510,
-      "time": 1777283830,
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "score": 214,
+      "time": 1794597242,
+      "title": "FM-1 Workbench",
       "type": "story",
-      "url": "https://app.oravys.com/blog/mercor-breach-2026"
+      "url": "https://open.m-vave.com/fm1-workbench"
+    },
+    {
+      "by": "gumby",
+      "descendants": 26,
+      "id": 50488470,
+      "kids": [
+        50489327,
+        50491235,
+        50489925,
+        50494384,
+        50489842,
+        50489022
+      ],
+      "score": 170,
+      "time": 1794597921,
+      "title": "Found: A protein that drives ageing without unleashing inflammation",
+      "type": "story",
+      "url": "https://www.nature.com/articles/d41586-026-03638-3"
     }
   ]
 }
@@ -3082,211 +2982,8 @@ node bin/main.js --json reddit -t programming -s top ; node bin/main.js --json d
 **Output:**
 ```text
 - Fetching feeds...
-{
-  "source": "reddit",
-  "topic": "programming",
-  "sort": "top",
-  "items": [
-    {
-      "title": "First time using the MareNostrum V Supercomputer, writeup of what actually surprised me coming from cloud",
-      "url": "https://towardsdatascience.com/what-it-actually-takes-to-run-code-on-200me-supercomputer/",
-      "permalink": "https://www.reddit.com/r/programming/comments/1swwo7h/first_time_using_the_marenostrum_v_supercomputer/",
-      "author": "/u/Georgiou1226",
-      "subreddit": "programming",
-      "score": null,
-      "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/Georgiou1226 [link] &#32; [comments]",
-      "published": "2026-04-27T07:30:07+00:00"
-    },
-    {
-      "title": "Box to save memory in Rust",
-      "url": "https://dystroy.org/blog/box-to-save-memory/",
-      "permalink": "https://www.reddit.com/r/programming/comments/1swzugs/box_to_save_memory_in_rust/",
-      "author": "/u/BlondieCoder",
-      "subreddit": "programming",
-      "score": null,
-      "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/BlondieCoder [link] &#32; [comments]",
-      "published": "2026-04-27T10:36:55+00:00"
-    },
-    {
-      "title": "The fastest Linux timestamps",
-      "url": "https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/",
-      "permalink": "https://www.reddit.com/r/programming/comments/1sx074x/the_fastest_linux_timestamps/",
-      "author": "/u/Dear-Economics-315",
-      "subreddit": "programming",
-      "score": null,
-      "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/Dear-Economics-315 [link] &#32; [comments]",
-      "published": "2026-04-27T10:55:29+00:00"
-    },
-    {
-      "title": "Turing Award Winner: Data Abstraction, Dijkstra, Distributed Systems | Barbara Liskov",
-      "url": "https://www.developing.dev/p/turing-award-winner-data-abstraction",
-      "permalink": "https://www.reddit.com/r/programming/comments/1sx9v9e/turing_award_winner_data_abstraction_dijkstra/",
-      "author": "/u/mttd",
-      "subreddit": "programming",
-      "score": null,
-      "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/mttd [link] &#32; [comments]",
-      "published": "2026-04-27T17:06:42+00:00"
-    },
-    {
-      "title": "Message Brokers Are Modern Grids",
-      "url": "https://yusufaytas.com/message-brokers-are-modern-grids",
-      "permalink": "https://www.reddit.com/r/programming/comments/1sx032b/message_brokers_are_modern_grids/",
-      "author": "/u/Dear-Economics-315",
-      "subreddit": "programming",
-      "score": null,
-      "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/Dear-Economics-315 [link] &#32; [comments]",
-      "published": "2026-04-27T10:49:39+00:00"
-    },
-    {
-      "title": "Using Rust to Build a $1 Handheld Gaming Console",
-      "url": "https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/",
-      "permalink": "https://www.reddit.com/r/programming/comments/1sxsrrf/using_rust_to_build_a_1_handheld_gaming_console/",
-      "author": "/u/BlondieCoder",
-      "subreddit": "programming",
-      "score": null,
-      "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/BlondieCoder [link] &#32; [comments]",
-      "published": "2026-04-28T05:59:01+00:00"
-    },
-    {
-      "title": "The Friendly Rewrite · thehardparts.dev",
-      "url": "https://thehardparts.dev/failure-modes/friendly-rewrite",
-      "permalink": "https://www.reddit.com/r/programming/comments/1sx7da9/the_friendly_rewrite_thehardpartsdev/",
-      "author": "/u/ludovicianul",
-      "subreddit": "programming",
-      "score": null,
-      "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/ludovicianul [link] &#32; [comments]",
-      "published": "2026-04-27T15:39:20+00:00"
-    },
-    {
-      "title": "in which lisp generates music",
-      "url": "https://abhirag.com/fennel-pattrns-renoise",
-      "permalink": "https://www.reddit.com/r/programming/comments/1sx17v6/in_which_lisp_generates_music/",
-      "author": "/u/abhirag",
-      "subreddit": "programming",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Livecoding Music with Fennel and Renoise &#32; submitted by &#32; /u/abhirag [link] &#32; [comments]",
-      "published": "2026-04-27T11:45:12+00:00"
-    },
-    {
-      "title": "Crash Course on Notation in Programming Language Theory",
-      "url": "https://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html",
-      "permalink": "https://www.reddit.com/r/programming/comments/1sx4eb2/crash_course_on_notation_in_programming_language/",
-      "author": "/u/peripateticman2026",
-      "subreddit": "programming",
-      "score": null,
-      "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/peripateticman2026 [link] &#32; [comments]",
-      "published": "2026-04-27T13:54:28+00:00"
-    },
-    {
-      "title": "Solving Hidden Number Problems Without Lattices",
-      "url": "https://leetarxiv.substack.com/p/solving-hidden-number-problems-without",
-      "permalink": "https://www.reddit.com/r/programming/comments/1swzj9f/solving_hidden_number_problems_without_lattices/",
-      "author": "/u/DataBaeBee",
-      "subreddit": "programming",
-      "score": null,
-      "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/DataBaeBee [link] &#32; [comments]",
-      "published": "2026-04-27T10:19:38+00:00"
-    },
-    {
-      "title": "High Performance Git",
-      "url": "https://gitperf.com/",
-      "permalink": "https://www.reddit.com/r/programming/comments/1sxt6si/high_performance_git/",
-      "author": "/u/BlondieCoder",
-      "subreddit": "programming",
-      "score": null,
-      "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/BlondieCoder [link] &#32; [comments]",
-      "published": "2026-04-28T06:22:03+00:00"
-    },
-    {
-      "title": "We are our own worst enemies",
-      "url": "https://www.ufried.com/blog/worst_enemies/",
-      "permalink": "https://www.reddit.com/r/programming/comments/1sx9ocy/we_are_our_own_worst_enemies/",
-      "author": "/u/BinaryIgor",
-      "subreddit": "programming",
-      "score": null,
-      "num_comments": null,
-      "selftext": "A good read about perceived vs real progress acceleration and what to do about it. &#32; submitted by &#32; /u/BinaryIgor [link] &#32; [comments]",
-      "published": "2026-04-27T17:00:10+00:00"
-    },
-    {
-      "title": "Florent Castelli: Introduction to the Bazel build system",
-      "url": "https://youtu.be/GMx6YwdELl4",
-      "permalink": "https://www.reddit.com/r/programming/comments/1sx94m9/florent_castelli_introduction_to_the_bazel_build/",
-      "author": "/u/_a4z",
-      "subreddit": "programming",
-      "score": null,
-      "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/_a4z [link] &#32; [comments]",
-      "published": "2026-04-27T16:41:10+00:00"
-    },
-    {
-      "title": "Looking for feedback on a JSON formatter I built for my workflow",
-      "url": "https://json-formatter-five-tau.vercel.app/",
-      "permalink": "https://www.reddit.com/r/programming/comments/1sxt83k/looking_for_feedback_on_a_json_formatter_i_built/",
-      "author": "/u/Background_Leg_5125",
-      "subreddit": "programming",
-      "score": null,
-      "num_comments": null,
-      "selftext": "I&#39;ve been working with JSON a lot lately and got tired of existing tools being too cluttered or requiring signup. Features I focused on: • Clean UI (no ads) • Works offline • Mobile friendly What features would make this actually useful for your workflow? Any feedback appreciated! &#32; submitted by &#32; /u/Background_Leg_5125 [link] &#32; [comments]",
-      "published": "2026-04-28T06:24:01+00:00"
-    },
-    {
-      "title": "C++ & OpenGL Spacecraft Navigation: Earth to Moon Trajectory",
-      "url": "https://www.youtube.com/watch?v=qHCHyJkCEKs",
-      "permalink": "https://www.reddit.com/r/programming/comments/1sx8nap/c_opengl_spacecraft_navigation_earth_to_moon/",
-      "author": "/u/Any_Area_5977",
-      "subreddit": "programming",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Testing the navigation system for an Earth to Moon transfer trajectory in my custom C++ and OpenGL spacecraft simulation. &#32; submitted by &#32; /u/Any_Area_5977 [link] &#32; [comments]",
-      "published": "2026-04-27T16:24:21+00:00"
-    },
-    {
-      "title": "It's OK to abandon your side-project",
-      "url": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
-      "permalink": "https://www.reddit.com/r/programming/comments/1swztyv/its_ok_to_abandon_your_sideproject/",
-      "author": "/u/BlondieCoder",
-      "subreddit": "programming",
-      "score": null,
-      "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/BlondieCoder [link] &#32; [comments]",
-      "published": "2026-04-27T10:36:10+00:00"
-    },
-    {
-      "title": "Why is this README roasting me so much?!!!",
-      "url": "https://github.com/RoninAkagami/worst-password-manager/blob/main/README.md",
-      "permalink": "https://www.reddit.com/r/programming/comments/1sxsdd9/why_is_this_readme_roasting_me_so_much/",
-      "author": "/u/Fresh-Lie5160",
-      "subreddit": "programming",
-      "score": null,
-      "num_comments": null,
-      "selftext": "Ive never seen a bloody README so damn goofy... lol &#32; submitted by &#32; /u/Fresh-Lie5160 [link] &#32; [comments]",
-      "published": "2026-04-28T05:37:17+00:00"
-    },
-    {
-      "title": "The reason you aren’t making $300k as a developer",
-      "url": "https://javarevisited.substack.com/p/the-300k-skill-most-developers-ignore",
-      "permalink": "https://www.reddit.com/r/programming/comments/1sxqgas/the_reason_you_arent_making_300k_as_a_developer/",
-      "author": "/u/javinpaul",
-      "subreddit": "programming",
-      "score": null,
-      "num_comments": null,
-      "selftext": "&#32; submitted by &#32; /u/javinpaul [link] &#32; [comments]",
-      "published": "2026-04-28T03:59:08+00:00"
-    }
-  ]
-}
+Request error: Request failed with status code 429
+✖ Request failed. Check network/API settings and try again.
 - Fetching feeds...
 {
   "source": "devto",
@@ -3294,104 +2991,104 @@ node bin/main.js --json reddit -t programming -s top ; node bin/main.js --json d
   "sort": "top",
   "items": [
     {
-      "title": "What It Actually Feels Like to Build Something You're Proud Of",
-      "description": "Nobody talks about the emotional side of shipping. Let's fix that.     There's a specific kind of...",
-      "url": "https://dev.to/_boweii/what-it-actually-feels-like-to-build-something-youre-proud-of-35mi",
-      "tags": "career, webdev, beginners, productivity",
-      "reactions": 4,
-      "comments": 0,
-      "reading_time": 6,
-      "author": "_boweii"
-    },
-    {
-      "title": "From Data Entry at a CA Office to Senior WordPress Developer — My 9-Year Journey",
-      "description": "From Data Entry at a CA Office to Senior WordPress Developer — My 9-Year Journey   I didn't...",
-      "url": "https://dev.to/kushang_tailor/from-data-entry-at-a-ca-office-to-senior-wordpress-developer-my-9-year-journey-3f92",
-      "tags": "career, webdev, wordpress, beginners",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 6,
-      "author": "kushang_tailor"
-    },
-    {
-      "title": "I Applied to 200 Jobs and Got 3 Interviews — Here's What Finally Worked",
-      "description": "The first 100 applications taught me nothing. Same resume, same cover letter template, same job...",
-      "url": "https://dev.to/charliemorrison/i-applied-to-200-jobs-and-got-3-interviews-heres-what-finally-worked-4d0g",
-      "tags": "career, productivity, beginners, motivation",
-      "reactions": 0,
-      "comments": 0,
+      "title": "Four Applications and One Ask. Guess Which One Scared Me.",
+      "description": "Waitlisted once. Applied again anyway.   TL;DR: In one day I sent four applications: three AI...",
+      "url": "https://dev.to/earlgreyhot1701d/four-applications-and-one-ask-guess-which-one-scared-me-2ia3",
+      "tags": "ai, career, womenintech, discuss",
+      "reactions": 27,
+      "comments": 24,
       "reading_time": 4,
-      "author": "charliemorrison"
+      "author": "earlgreyhot1701d"
     },
     {
-      "title": "I Tried 10 ChatGPT Resume Prompts. Here's What Actually Got Me Interviews.",
-      "description": "I sent 47 applications with my old resume. 0 callbacks.  Then I tried 10 ChatGPT prompts I'd been...",
-      "url": "https://dev.to/ahnhyeongkyu/i-tried-10-chatgpt-resume-prompts-heres-what-actually-got-me-interviews-kjo",
-      "tags": "chatgpt, resume, ai, career",
+      "title": "Is WordPress Still a Good Choice for a New Client Site in 2026? Be Honest.",
+      "description": "Here's a number that surprised me. According to W3Techs, WordPress ran 43.0% of all websites on 1...",
+      "url": "https://dev.to/hannanshoukat/is-wordpress-still-a-good-choice-for-a-new-client-site-in-2026-be-honest-dhe",
+      "tags": "discuss, wordpress, webdev, career",
+      "reactions": 0,
+      "comments": 0,
+      "reading_time": 2,
+      "author": "hannanshoukat"
+    },
+    {
+      "title": "Auto-applying to jobs: the hard part wasn't CAPTCHAs, it was select fields",
+      "description": "I'm building G3 Apply, a copilot that finds jobs on official career pages and fills out the...",
+      "url": "https://dev.to/rodrigo_araujo_f7676e5ef0/auto-applying-to-jobs-the-hard-part-wasnt-captchas-it-was-select-fields-3o7a",
+      "tags": "webdev, typescript, automation, career",
       "reactions": 0,
       "comments": 0,
       "reading_time": 3,
-      "author": "ahnhyeongkyu"
+      "author": "rodrigo_araujo_f7676e5ef0"
     },
     {
-      "title": "I built a resume compiler in Go — write YAML, get every format",
-      "description": "I got tired of fighting Word docs and Canva templates every time I updated my resume.  Your resume is...",
-      "url": "https://dev.to/sahaabhishek/i-built-a-resume-compiler-in-go-write-yaml-get-every-format-elo",
-      "tags": "go, opensource, career, resume",
+      "title": "Your side project doesn’t have to make money",
+      "description": "Tell someone you’re building something in the evenings, and watch the question arrive almost...",
+      "url": "https://dev.to/she_builds_within/your-side-project-doesnt-have-to-make-money-5aaj",
+      "tags": "sideprojects, career, productivity, discuss",
+      "reactions": 2,
+      "comments": 12,
+      "reading_time": 5,
+      "author": "she_builds_within"
+    },
+    {
+      "title": "Python Day 7 – The / and * in Function Definitions",
+      "description": "First, positional vs keyword arguments   Positional arguments are matched by their position...",
+      "url": "https://dev.to/sridhar_n_96b25a5dbb1f468/python-day-7-the-and-in-function-definitions-plus-a-career-chat-32dk",
+      "tags": "python, career, function, arguments",
       "reactions": 0,
-      "comments": 1,
-      "reading_time": 3,
-      "author": "sahaabhishek"
+      "comments": 0,
+      "reading_time": 2,
+      "author": "sridhar_n_96b25a5dbb1f468"
     },
     {
-      "title": "How to track 30+ FAANG interviews without losing offers in 2026",
-      "description": "A battle-tested system for tracking multiple FAANG loops, follow-ups, and compensation negotiations without dropping the ball.",
-      "url": "https://dev.to/komugi_4236cc409d6f9157e7/how-to-track-30-faang-interviews-without-losing-offers-in-2026-261p",
-      "tags": "career, productivity, notion, interview",
+      "title": "Promotions at One Employer: How ATS Parses Stacked Roles",
+      "description": "List promotions at one company so ATS keeps every role: stacked layouts, Workday rows, parser output, weak vs optimized rewrites and a checklist.",
+      "url": "https://dev.to/muhammadalimughal/promotions-at-one-employer-how-ats-parses-stacked-roles-ha3",
+      "tags": "career, resume, jobs, productivity",
+      "reactions": 0,
+      "comments": 0,
+      "reading_time": 8,
+      "author": "muhammadalimughal"
+    },
+    {
+      "title": "Why You Blank on Easy Commands During an Outage (Your Brain Has a Stress Switch)",
+      "description": "Stress doesn't erase what you know. It locks the door to it.  You've probably felt this. Production...",
+      "url": "https://dev.to/spartanrich430/why-you-blank-on-easy-commands-during-an-outage-your-brain-has-a-stress-switch-3m73",
+      "tags": "productivity, learning, career, devops",
+      "reactions": 0,
+      "comments": 0,
+      "reading_time": 6,
+      "author": "spartanrich430"
+    },
+    {
+      "title": "The Diff I Will Stop Reading",
+      "description": "A compiler translates. An agent also fills the&nbsp;gaps.  This autumn I worked on a private project,...",
+      "url": "https://dev.to/remuslazar/the-diff-i-will-stop-reading-2ig3",
+      "tags": "ai, career, productivity, codereview",
       "reactions": 0,
       "comments": 0,
       "reading_time": 9,
-      "author": "komugi_4236cc409d6f9157e7"
+      "author": "remuslazar"
     },
     {
-      "title": "How to Beat the ATS: A 2026 Resume Guide That Actually Works",
-      "description": "If you've applied to 50+ jobs and heard nothing back, it's probably not your experience — it's your...",
-      "url": "https://dev.to/charliemorrison/how-to-beat-the-ats-a-2026-resume-guide-that-actually-works-1oa0",
-      "tags": "career, resume, jobsearch, beginners",
+      "title": "My Second Dance with Hacktoberfest (2026)",
+      "description": "It all started with a sticker.  Two years ago, I saw an MLH sticker on a friend's laptop 💻, looked up...",
+      "url": "https://dev.to/hotragn/my-second-dance-with-hacktoberfest-2026-1epp",
+      "tags": "hacktoberfest, opensource, ai, career",
       "reactions": 0,
       "comments": 0,
-      "reading_time": 3,
-      "author": "charliemorrison"
+      "reading_time": 5,
+      "author": "hotragn"
     },
     {
-      "title": "I was tired of copy-pasting between job tracker and CV tools, so I connected them",
-      "description": "Last year when I was applying for jobs, my setup was a mess.  I had 10 tabs open, a spreadsheet to...",
-      "url": "https://dev.to/sylumkdev/i-was-tired-of-copy-pasting-between-job-tracker-and-cv-tools-so-i-connected-them-2ai2",
-      "tags": "ai, programming, productivity, career",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 3,
-      "author": "sylumkdev"
-    },
-    {
-      "title": "How to Negotiate Your Salary Over Email (With Templates)",
-      "description": "Salary negotiation is awkward enough in person. Over email, it's somehow worse — you're staring at a...",
-      "url": "https://dev.to/charliemorrison/how-to-negotiate-your-salary-over-email-with-templates-5c14",
-      "tags": "career, salary, productivity, beginners",
+      "title": "New Hampshire's Mini-WARN Act — 60 Days' Notice, a Lower Layoff Trigger, and a Law With No Public Filings",
+      "description": "New Hampshire's Mini-WARN Act — 60 Days' Notice, a Lower Layoff Trigger, and a Law With No...",
+      "url": "https://dev.to/layoffatlas/new-hampshires-mini-warn-act-60-days-notice-a-lower-layoff-trigger-and-a-law-with-no-public-26fa",
+      "tags": "career, news, data, hiring",
       "reactions": 0,
       "comments": 0,
       "reading_time": 4,
-      "author": "charliemorrison"
-    },
-    {
-      "title": "I Reviewed 100 LinkedIn Headlines — Here's What Actually Gets Clicks",
-      "description": "Your LinkedIn headline is 220 characters. That's it. And most people waste every single one of...",
-      "url": "https://dev.to/charliemorrison/i-reviewed-100-linkedin-headlines-heres-what-actually-gets-clicks-3oln",
-      "tags": "career, linkedin, productivity, beginners",
-      "reactions": 0,
-      "comments": 0,
-      "reading_time": 4,
-      "author": "charliemorrison"
+      "author": "layoffatlas"
     }
   ]
 }
