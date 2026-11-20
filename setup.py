@@ -1,4 +1,4 @@
-from setuptools import setup, find_packages
+from setuptools import setup, find_namespace_packages
 
 setup(
     name="cli-anything-hacker-feeds-cli",
@@ -10,7 +10,10 @@ setup(
     author="Mayandev",
     author_url="https://github.com/Mayandev",
     url="https://github.com/collectivewinca/hacker-feeds-cli",
-    packages=find_packages(),
+    # cli_anything/ has no __init__.py (PEP 420 namespace shared with other
+    # CLI-Anything harnesses), so find_packages() returns nothing.
+    packages=find_namespace_packages(include=["cli_anything.*"]),
+    package_data={"cli_anything.hacker_feeds_cli": ["skills/*.md"]},
     python_requires=">=3.10",
     install_requires=["click"],
     entry_points={
